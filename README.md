@@ -27,12 +27,6 @@ Topics:
 - Dimensions
 - Data Types
 
-Functions Used:
-- np.array()
-- np.mean()
-- np.max()
-- np.min()
-- np.sum()
 
 Task:
 - Student Marks Analysis using NumPy
@@ -47,10 +41,6 @@ Topics:
 - Step Slicing
 - Array Operations
 
-Functions Used:
-- array[index]
-- array[start:end]
-- array[::step]
 
 Task:
 - Accessing and analyzing student marks
@@ -65,11 +55,6 @@ Topics:
 - np.linspace()
 - size
 
-Functions Used:
-- np.arange()
-- np.zeros()
-- np.ones()
-- np.linspace()
 
 Task:
 - Creating sequences and evenly spaced arrays
