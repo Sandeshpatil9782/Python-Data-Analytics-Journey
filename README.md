@@ -1,10 +1,28 @@
 
-# Python-Data-Analytics-Journey 🚀
 
-Daily learning and practice journey for Data Analytics, Machine Learning, and Data Science using Python.
+# Python Data Analytics Journey 🚀
 
-## 📚 Topics Covered
-- NumPy
+This repository contains my daily hands-on practice and learning journey in Data Analytics, Machine Learning, and Data Science using Python.
+
+I started this journey with NumPy and will continue learning advanced data analytics and machine learning concepts through practical coding and real-world tasks.
+
+---
+
+# 📚 Topics Covered
+
+## NumPy
+- Arrays
+- Indexing & Slicing
+- 2D & 3D Arrays
+- Arithmetic Operations
+- Logical Operations
+- Reshape & Transpose
+- Statistical Functions
+- Stacking & Splitting
+- Random Module
+- Advanced NumPy Concepts
+
+## Upcoming Topics
 - Pandas
 - Matplotlib
 - Seaborn
@@ -12,72 +30,30 @@ Daily learning and practice journey for Data Analytics, Machine Learning, and Da
 - Power BI
 - Machine Learning
 - Data Visualization
+- Problem Solving
 
 ---
 
-# 📝 Daily Progress
+# 🛠️ Tools & Technologies
 
-## ✅ Day 1 - NumPy Basics
-Topics:
-- Arrays
-- Mean
-- Max & Min
-- Sum
-- Shape
-- Dimensions
-- Data Types
-
-
-Task:
-- Student Marks Analysis using NumPy
-
----
-
-## ✅ Day 2 - Indexing and Slicing
-Topics:
-- Positive Indexing
-- Negative Indexing
-- Slicing
-- Step Slicing
-- Array Operations
-
-
-Task:
-- Accessing and analyzing student marks
-
----
-
-## ✅ Day 3 - Array Creation Methods
-Topics:
-- np.arange()
-- np.zeros()
-- np.ones()
-- np.linspace()
-- size
-
-
-Task:
-- Creating sequences and evenly spaced arrays
-
----
-
-# 🛠️ Tools Used
 - Python
-- Jupyter Notebook
-- GitHub
 - NumPy
+- Jupyter Notebook
+- VS Code
+- Git & GitHub
 
 ---
 
-# 🎯 Goal
-To become skilled in:
-- Data Analytics
-- Machine Learning
-- Data Science
+# 🎯 Goals
 
-through daily hands-on practice and real-world tasks.
+- Become skilled in Data Analytics
+- Build Machine Learning projects
+- Improve problem-solving skills
+- Practice coding consistently
+- Create real-world projects
 
 ---
 
 # 📌 Learning Strategy
+
 Learn → Practice → Build → Upload → Repeat
