@@ -22,8 +22,28 @@ I started this journey with NumPy and will continue learning advanced data analy
 - Random Module
 - Advanced NumPy Concepts
 
+## Pandas
+- Series
+- DataFrame
+- Rows & Columns
+- Indexing & Slicing
+- loc[] & iloc[]
+- String Functions
+- Missing Values Handling
+- Filtering Data
+- Sorting & Ranking
+- GroupBy Operations
+- Merge & Join
+- CSV & Excel Handling
+- Aggregation Functions
+- Apply & Map Functions
+- Pivot Table
+- Date & Time Functions
+- Data Cleaning
+- Data Visualization
+- Advanced Pandas Concepts
+
 ## Upcoming Topics
-- Pandas
 - Matplotlib
 - Seaborn
 - SQL
