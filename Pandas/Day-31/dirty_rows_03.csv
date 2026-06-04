@@ -1,0 +1,1001 @@
+Customer_ID,Customer_Name,City,Email,Phone,Purchase_Amount,Customer_Segment,Join_Date
+10000,Akshay Kumar,mumbai,user@gmail.com,,2500,retial,15/01/2024
+10001,Akshay Kumar,mumbai,user@gmail.com,98765-43210,1000,Retail,2024-01-15
+10002,rahul sharma,Pune,user@gmail.com,9123456780,five thousand,SMB,
+10003,rahul sharma,Belgaum, test@mail.com ,9876543210,2500,corporate,Jan 15 2024
+10004,Rahul  Sharma, MUMBAI ,USER@GMAIL.COM,,1000,Retail,
+10005,Rahul Sharma,Bangalore, test@mail.com ,,1000,corporate,2024-01-15
+10006,Pooja Patil,mumbai, test@mail.com ,,5000 ,retial,2024-01-15
+10007,Rahul Sharma,Pune, test@mail.com ,9876543210,2500,Retail,
+10008,Rahul  Sharma,Belgaum, test@mail.com ,9123456780,5000,Corporate,15/01/2024
+10009,Akshay Kumar,pune,user@gmail.com,9123456780,5000 ,retial,15/01/2024
+10010,Pooja Patil,Bengaluru, test@mail.com ,9123456780,five thousand,Corporate,2024-01-15
+10011,rahul sharma,Mumbai, test@mail.com ,98765-43210,5000,Retail,15/01/2024
+10012,pooja patil,Bangalore,USER@GMAIL.COM,98765-43210,,corporate,15/01/2024
+10013,Rahul  Sharma, MUMBAI ,USER@GMAIL.COM,,five thousand,SMB,
+10014,pooja patil,Bengaluru, test@mail.com ,9123456780,2500,SMB,
+10015,Rahul Sharma,Mumbai,user@gmail.com,9123456780,five thousand,retial,
+10016,pooja patil,mumbai,,98765-43210,5000 ,corporate,Jan 15 2024
+10017,pooja patil,Mumbai,user@gmail.com,,five thousand,Corporate,2024-01-15
+10018,Rahul  Sharma,Bengaluru,USER@GMAIL.COM,98765-43210,1000,Corporate,15/01/2024
+10019,pooja patil,mumbai, test@mail.com ,9123456780,2500,Corporate,15/01/2024
+10020,pooja patil,belgaum,user@gmail.com,,,Retail,2024-01-15
+10021,Rahul  Sharma,pune,USER@GMAIL.COM,9876543210,2500,SMB,2024-01-15
+10022,Rahul Sharma,Belgaum,user@gmail.com,9123456780,2500,corporate,15/01/2024
+10023,Rahul  Sharma,belgaum,,9123456780,5000 ,retial,Jan 15 2024
+10024,Pooja Patil,Bangalore,,98765-43210,1000,retial,15/01/2024
+10025,Rahul Sharma,Bangalore,user@gmail.com,9123456780,5000 ,retial,2024-01-15
+10026,Rahul Sharma,Mumbai,USER@GMAIL.COM,9876543210,1000,Corporate,2024-01-15
+10027,pooja patil,Pune, test@mail.com ,98765-43210,2500,SMB,15/01/2024
+10028,Akshay Kumar,Belgaum,USER@GMAIL.COM,98765-43210,,retial,2024-01-15
+10029,Rahul Sharma,Bengaluru, test@mail.com ,98765-43210,,corporate,2024-01-15
+10030,Akshay Kumar,mumbai,user@gmail.com,98765-43210,five thousand,Corporate,2024-01-15
+10031,rahul sharma,Pune,USER@GMAIL.COM,98765-43210,2500,corporate,15/01/2024
+10032,Rahul  Sharma,Belgaum,USER@GMAIL.COM,9876543210,,SMB,2024-01-15
+10033,Rahul Sharma,belgaum,user@gmail.com,9876543210,2500,retial,
+10034,Pooja Patil,Belgaum,USER@GMAIL.COM,98765-43210,1000,retial,
+10035,Rahul Sharma,Bengaluru, test@mail.com ,98765-43210,5000,corporate,
+10036,rahul sharma,Pune, test@mail.com ,9123456780,1000,SMB,2024-01-15
+10037,Akshay Kumar,Bangalore,user@gmail.com,9876543210,5000 ,corporate,15/01/2024
+10038,Rahul Sharma,belgaum,user@gmail.com,9123456780,1000,SMB,2024-01-15
+10039,Akshay Kumar,Pune,,9876543210,5000 ,retial,2024-01-15
+10040,pooja patil,mumbai,,,5000,retial,Jan 15 2024
+10041,rahul sharma,pune,,9123456780,five thousand,Corporate,
+10042,Rahul  Sharma,mumbai,user@gmail.com,98765-43210,5000 ,SMB,2024-01-15
+10043,Rahul Sharma,belgaum,USER@GMAIL.COM,,2500,Corporate,2024-01-15
+10044,rahul sharma,Bangalore, test@mail.com ,9123456780,,SMB,Jan 15 2024
+10045,pooja patil,belgaum,user@gmail.com,,five thousand,Retail,15/01/2024
+10046,Rahul  Sharma,mumbai,user@gmail.com,9123456780,5000,Corporate,15/01/2024
+10047,Akshay Kumar,Bangalore,USER@GMAIL.COM,,5000 ,corporate,Jan 15 2024
+10048,Rahul Sharma,mumbai,,,1000,Retail,Jan 15 2024
+10049,rahul sharma,pune,USER@GMAIL.COM,98765-43210,5000 ,corporate,2024-01-15
+10050,Rahul Sharma,mumbai,USER@GMAIL.COM,9876543210,5000,SMB,15/01/2024
+10051,Pooja Patil, MUMBAI ,user@gmail.com,,5000,Retail,Jan 15 2024
+10052,rahul sharma,Pune,user@gmail.com,,5000 ,corporate,15/01/2024
+10053,rahul sharma, MUMBAI ,USER@GMAIL.COM,98765-43210,1000,retial,Jan 15 2024
+10054,Pooja Patil,Pune, test@mail.com ,9123456780,five thousand,Retail,
+10055,Rahul Sharma,Belgaum,USER@GMAIL.COM,9123456780,,Corporate,Jan 15 2024
+10056,rahul sharma,Pune,user@gmail.com,9123456780,,Corporate,Jan 15 2024
+10057,Rahul Sharma,pune, test@mail.com ,98765-43210,five thousand,SMB,Jan 15 2024
+10058,Rahul Sharma,mumbai, test@mail.com ,9123456780,5000 ,Corporate,2024-01-15
+10059,Rahul Sharma,Bengaluru, test@mail.com ,,,SMB,2024-01-15
+10060,Pooja Patil,Pune, test@mail.com ,9876543210,five thousand,corporate,2024-01-15
+10061,pooja patil,belgaum,USER@GMAIL.COM,,,Retail,Jan 15 2024
+10062,pooja patil,Bangalore,user@gmail.com,,5000 ,Corporate,
+10063,Rahul  Sharma,Bengaluru, test@mail.com ,9123456780,2500,corporate,
+10064,Akshay Kumar, MUMBAI , test@mail.com ,98765-43210,5000 ,Retail,Jan 15 2024
+10065,Rahul  Sharma,Pune,,,,corporate,
+10066,Akshay Kumar,Pune,,9123456780,five thousand,Retail,Jan 15 2024
+10067,pooja patil,Bangalore,user@gmail.com,9123456780,five thousand,Corporate,15/01/2024
+10068,rahul sharma, MUMBAI ,user@gmail.com,9876543210,2500,corporate,2024-01-15
+10069,Pooja Patil,Bengaluru,USER@GMAIL.COM,98765-43210,,corporate,15/01/2024
+10070,rahul sharma,Mumbai,user@gmail.com,98765-43210,2500,retial,
+10071,Rahul Sharma,belgaum,USER@GMAIL.COM,9876543210,,retial,
+10072,Akshay Kumar,belgaum, test@mail.com ,98765-43210,5000 ,SMB,
+10073,pooja patil,Belgaum,USER@GMAIL.COM,98765-43210,,Corporate,15/01/2024
+10074,Akshay Kumar,pune,,9123456780,5000,corporate,2024-01-15
+10075,Akshay Kumar,pune,USER@GMAIL.COM,,5000,Corporate,2024-01-15
+10076,rahul sharma, MUMBAI ,USER@GMAIL.COM,98765-43210,five thousand,retial,15/01/2024
+10077,Rahul Sharma,Bengaluru,,,5000 ,corporate,
+10078,Rahul Sharma,Pune,,98765-43210,5000 ,Retail,
+10079,Pooja Patil,Mumbai, test@mail.com ,,,corporate,15/01/2024
+10080,Pooja Patil,Pune, test@mail.com ,98765-43210,,Retail,
+10081,Rahul  Sharma,Bengaluru,USER@GMAIL.COM,98765-43210,2500,SMB,2024-01-15
+10082,Pooja Patil,Mumbai,user@gmail.com,98765-43210,2500,corporate,15/01/2024
+10083,Rahul Sharma,pune,,,2500,corporate,Jan 15 2024
+10084,Rahul  Sharma,Bengaluru, test@mail.com ,98765-43210,5000,Retail,
+10085,Rahul Sharma,belgaum,user@gmail.com,,2500,Retail,2024-01-15
+10086,Rahul Sharma,Pune,USER@GMAIL.COM,9876543210,5000 ,retial,15/01/2024
+10087,rahul sharma,Belgaum,user@gmail.com,9123456780,,Corporate,Jan 15 2024
+10088,rahul sharma,mumbai,USER@GMAIL.COM,,1000,SMB,2024-01-15
+10089,Rahul  Sharma,Bengaluru,,9123456780,1000,SMB,15/01/2024
+10090,Rahul Sharma,pune,user@gmail.com,9876543210,5000,SMB,
+10091,Akshay Kumar,Bangalore,user@gmail.com,,1000,corporate,
+10092,Rahul Sharma,Bengaluru, test@mail.com ,98765-43210,five thousand,retial,
+10093,rahul sharma,belgaum, test@mail.com ,98765-43210,,corporate,Jan 15 2024
+10094,Rahul  Sharma,Pune,user@gmail.com,,,retial,
+10095,pooja patil,Bengaluru, test@mail.com ,9876543210,,Corporate,15/01/2024
+10096,Pooja Patil,Pune, test@mail.com ,,5000,Corporate,Jan 15 2024
+10097,pooja patil,Mumbai,USER@GMAIL.COM,9876543210,2500,corporate,
+10098,pooja patil,Pune,,98765-43210,,Retail,2024-01-15
+10099,Rahul  Sharma,Pune,,9123456780,5000,SMB,Jan 15 2024
+10100,Pooja Patil,belgaum, test@mail.com ,98765-43210,five thousand,SMB,Jan 15 2024
+10101,Rahul  Sharma,Belgaum, test@mail.com ,,5000,retial,2024-01-15
+10102,Akshay Kumar,Pune, test@mail.com ,9876543210,five thousand,SMB,15/01/2024
+10103,rahul sharma,Pune,,,five thousand,SMB,Jan 15 2024
+10104,Rahul Sharma,Pune, test@mail.com ,9123456780,5000,retial,Jan 15 2024
+10105,Rahul Sharma,belgaum,USER@GMAIL.COM,,1000,Retail,Jan 15 2024
+10106,Akshay Kumar, MUMBAI ,,9876543210,1000,SMB,Jan 15 2024
+10107,Pooja Patil,Belgaum,,,2500,Retail,Jan 15 2024
+10108,Pooja Patil,mumbai,user@gmail.com,98765-43210,,Retail,2024-01-15
+10109,rahul sharma, MUMBAI , test@mail.com ,9876543210,2500,Retail,
+10110,pooja patil,Pune,,98765-43210,,Corporate,
+10111,Rahul  Sharma,Mumbai,user@gmail.com,9123456780,five thousand,retial,Jan 15 2024
+10112,Akshay Kumar,mumbai,USER@GMAIL.COM,9123456780,2500,SMB,2024-01-15
+10113,rahul sharma,Mumbai,,98765-43210,five thousand,SMB,
+10114,Rahul  Sharma,Mumbai,USER@GMAIL.COM,,five thousand,Corporate,
+10115,Rahul Sharma,Pune, test@mail.com ,9123456780,,Retail,15/01/2024
+10116,Akshay Kumar, MUMBAI , test@mail.com ,9123456780,1000,Retail,15/01/2024
+10117,Rahul  Sharma,pune,,9876543210,,Corporate,
+10118,Rahul  Sharma,belgaum,,98765-43210,1000,SMB,2024-01-15
+10119,Pooja Patil,Bangalore, test@mail.com ,9876543210,1000,retial,2024-01-15
+10119,Akshay Kumar,pune,user@gmail.com,9123456780,,SMB,
+10121,Rahul  Sharma, MUMBAI ,,98765-43210,1000,corporate,Jan 15 2024
+10122,Pooja Patil,Bangalore, test@mail.com ,9876543210,2500,Corporate,
+10123,Akshay Kumar,Belgaum, test@mail.com ,98765-43210,5000 ,Retail,
+10124,Rahul Sharma,Bangalore, test@mail.com ,,1000,corporate,2024-01-15
+10125,Akshay Kumar,belgaum,,98765-43210,1000,retial,Jan 15 2024
+10126,pooja patil,Belgaum,,9876543210,2500,Corporate,15/01/2024
+10127,Rahul  Sharma,Belgaum,,9876543210,1000,SMB,15/01/2024
+10128,Akshay Kumar, MUMBAI , test@mail.com ,9876543210,5000 ,corporate,2024-01-15
+10129,rahul sharma,mumbai,,9876543210,five thousand,retial,
+10130,Akshay Kumar,pune, test@mail.com ,98765-43210,,corporate,15/01/2024
+10131,Pooja Patil,belgaum,USER@GMAIL.COM,98765-43210,2500,SMB,15/01/2024
+10132,Rahul Sharma,pune,,,5000 ,Corporate,2024-01-15
+10133,Rahul  Sharma,pune,,9123456780,,SMB,
+10134,Rahul  Sharma,Bangalore,,98765-43210,5000,retial,15/01/2024
+10135,pooja patil,Bengaluru,USER@GMAIL.COM,98765-43210,1000,Corporate,
+10136,Akshay Kumar,Bengaluru,,9123456780,,Retail,15/01/2024
+10137,pooja patil,Bangalore,user@gmail.com,98765-43210,1000,SMB,
+10138,Rahul Sharma, MUMBAI ,,9123456780,1000,corporate,Jan 15 2024
+10139,Rahul  Sharma,Bengaluru,user@gmail.com,,five thousand,SMB,
+10140,Rahul  Sharma,Belgaum,user@gmail.com,9876543210,2500,Corporate,15/01/2024
+10141,Akshay Kumar,mumbai,,9876543210,five thousand,Retail,
+10142,rahul sharma,pune,user@gmail.com,9876543210,5000,Retail,Jan 15 2024
+10143,Rahul  Sharma,Bangalore,,9123456780,2500,SMB,
+10144,pooja patil, MUMBAI ,USER@GMAIL.COM,9123456780,1000,SMB,
+10145,pooja patil,Pune,,9123456780,2500,corporate,Jan 15 2024
+10146,Pooja Patil,pune,user@gmail.com,98765-43210,5000,SMB,15/01/2024
+10147,Rahul Sharma,Belgaum, test@mail.com ,,five thousand,corporate,Jan 15 2024
+10148,Pooja Patil,pune,USER@GMAIL.COM,98765-43210,,Retail,15/01/2024
+10149,Pooja Patil,Bangalore, test@mail.com ,,1000,corporate,Jan 15 2024
+10150,Rahul Sharma,Mumbai,,,2500,SMB,Jan 15 2024
+10151,rahul sharma,Pune, test@mail.com ,9123456780,five thousand,Retail,2024-01-15
+10152,Rahul  Sharma,Belgaum,user@gmail.com,,five thousand,retial,2024-01-15
+10153,Rahul  Sharma,Bangalore,,9123456780,2500,retial,Jan 15 2024
+10154,pooja patil,belgaum, test@mail.com ,9123456780,5000,corporate,Jan 15 2024
+10155,Akshay Kumar,Bangalore,user@gmail.com,98765-43210,1000,retial,15/01/2024
+10156,Akshay Kumar,Bengaluru, test@mail.com ,9876543210,,Retail,Jan 15 2024
+10157,pooja patil,mumbai,,,five thousand,Corporate,
+10158,Akshay Kumar,Bangalore,user@gmail.com,9123456780,,Retail,Jan 15 2024
+10159,pooja patil,Pune,user@gmail.com,98765-43210,five thousand,Corporate,
+10160,Rahul Sharma, MUMBAI ,user@gmail.com,9876543210,5000,corporate,2024-01-15
+10161,Rahul Sharma,Pune,USER@GMAIL.COM,98765-43210,,Corporate,
+10162,pooja patil, MUMBAI ,,9876543210,,SMB,
+10163,Rahul  Sharma,Mumbai, test@mail.com ,9123456780,,corporate,15/01/2024
+10164,Rahul  Sharma,mumbai, test@mail.com ,,1000,corporate,Jan 15 2024
+10165,rahul sharma,mumbai,,9876543210,five thousand,retial,2024-01-15
+10166,Rahul Sharma,Bangalore,USER@GMAIL.COM,9123456780,5000 ,retial,2024-01-15
+10167,pooja patil,Pune,USER@GMAIL.COM,9123456780,5000,retial,2024-01-15
+10168,Rahul  Sharma, MUMBAI ,USER@GMAIL.COM,,2500,Retail,2024-01-15
+10169,rahul sharma,Mumbai, test@mail.com ,9123456780,5000 ,Corporate,2024-01-15
+10170,rahul sharma,pune,user@gmail.com,9123456780,five thousand,corporate,2024-01-15
+10171,Akshay Kumar,mumbai,,98765-43210,5000,SMB,2024-01-15
+10172,Pooja Patil,belgaum,USER@GMAIL.COM,9876543210,five thousand,SMB,Jan 15 2024
+10173,Pooja Patil,Mumbai,user@gmail.com,98765-43210,,corporate,2024-01-15
+10174,Pooja Patil,Belgaum,user@gmail.com,9876543210,5000,SMB,15/01/2024
+10175,Rahul Sharma, MUMBAI , test@mail.com ,,,SMB,Jan 15 2024
+10176,Pooja Patil,belgaum,,9876543210,five thousand,Retail,15/01/2024
+10177,Pooja Patil,Belgaum,USER@GMAIL.COM,98765-43210,5000,corporate,
+10178,Pooja Patil,mumbai, test@mail.com ,98765-43210,5000,Corporate,Jan 15 2024
+10179,rahul sharma,Belgaum,user@gmail.com,9876543210,1000,Retail,
+10180,Rahul Sharma,Bangalore,USER@GMAIL.COM,9876543210,5000 ,SMB,Jan 15 2024
+10181,Akshay Kumar,mumbai,,,five thousand,corporate,2024-01-15
+10182,Rahul  Sharma,pune, test@mail.com ,9876543210,5000 ,SMB,15/01/2024
+10183,rahul sharma,Belgaum,USER@GMAIL.COM,9876543210,5000,SMB,Jan 15 2024
+10184,Rahul Sharma,pune,USER@GMAIL.COM,98765-43210,5000 ,SMB,2024-01-15
+10185,pooja patil,pune,user@gmail.com,9123456780,5000,Corporate,Jan 15 2024
+10186,Rahul  Sharma,Mumbai,USER@GMAIL.COM,9123456780,5000 ,corporate,2024-01-15
+10187,rahul sharma,Mumbai,user@gmail.com,9123456780,,corporate,
+10188,Rahul  Sharma, MUMBAI , test@mail.com ,,five thousand,Corporate,2024-01-15
+10189,Rahul Sharma, MUMBAI ,USER@GMAIL.COM,9876543210,five thousand,Retail,Jan 15 2024
+10190,Pooja Patil,Bengaluru,,98765-43210,,Corporate,15/01/2024
+10191,pooja patil,mumbai, test@mail.com ,98765-43210,1000,Corporate,
+10192,pooja patil,pune,user@gmail.com,9123456780,,SMB,2024-01-15
+10193,Rahul Sharma,Pune, test@mail.com ,9123456780,2500,Corporate,Jan 15 2024
+10194,Rahul  Sharma,mumbai,user@gmail.com,98765-43210,five thousand,corporate,15/01/2024
+10195,rahul sharma,Bengaluru,USER@GMAIL.COM,,1000,corporate,2024-01-15
+10196,Pooja Patil,Mumbai,,9876543210,5000,SMB,
+10197,pooja patil,Bengaluru,,,1000,corporate,2024-01-15
+10198,Rahul  Sharma, MUMBAI ,,,1000,corporate,2024-01-15
+10199,rahul sharma,Bengaluru,,9876543210,,Corporate,Jan 15 2024
+10200,rahul sharma,Bangalore,USER@GMAIL.COM,9876543210,5000 ,Retail,15/01/2024
+10201,Rahul  Sharma,Bangalore,USER@GMAIL.COM,9123456780,1000,retial,Jan 15 2024
+10202,rahul sharma, MUMBAI ,USER@GMAIL.COM,9876543210,2500,corporate,
+10203,pooja patil,Belgaum, test@mail.com ,,2500,corporate,2024-01-15
+10204,Pooja Patil,Belgaum, test@mail.com ,,5000 ,Retail,Jan 15 2024
+10205,pooja patil,mumbai, test@mail.com ,98765-43210,,Retail,2024-01-15
+10206,Rahul  Sharma,pune,user@gmail.com,9876543210,5000 ,SMB,
+10207,Pooja Patil,belgaum,user@gmail.com,98765-43210,5000 ,retial,Jan 15 2024
+10208,pooja patil,Belgaum,USER@GMAIL.COM,9876543210,,Retail,Jan 15 2024
+10209,Akshay Kumar,mumbai,USER@GMAIL.COM,9876543210,2500,corporate,
+10210,pooja patil,belgaum,USER@GMAIL.COM,,5000,Corporate,
+10211,Pooja Patil,Bangalore,user@gmail.com,,1000,Corporate,2024-01-15
+10212,pooja patil,Bengaluru, test@mail.com ,,five thousand,SMB,15/01/2024
+10213,Rahul  Sharma,mumbai,USER@GMAIL.COM,,5000,corporate,15/01/2024
+10214,pooja patil,mumbai, test@mail.com ,98765-43210,five thousand,Corporate,15/01/2024
+10215,Akshay Kumar,belgaum,user@gmail.com,98765-43210,5000 ,Corporate,2024-01-15
+10216,Rahul  Sharma,pune,USER@GMAIL.COM,9123456780,5000,corporate,15/01/2024
+10217,rahul sharma, MUMBAI ,USER@GMAIL.COM,9876543210,5000,Retail,2024-01-15
+10218,Akshay Kumar,Bangalore,USER@GMAIL.COM,98765-43210,2500,retial,15/01/2024
+10219,Akshay Kumar, MUMBAI ,,9876543210,,Corporate,15/01/2024
+10220,Pooja Patil,pune,,9123456780,5000 ,retial,Jan 15 2024
+10221,Pooja Patil,Pune, test@mail.com ,98765-43210,,Corporate,
+10222,pooja patil,belgaum,,9123456780,2500,SMB,15/01/2024
+10223,Rahul  Sharma,Mumbai,,,5000 ,Retail,2024-01-15
+10224,Rahul  Sharma,mumbai,USER@GMAIL.COM,,,SMB,15/01/2024
+10225,Pooja Patil,mumbai,USER@GMAIL.COM,98765-43210,5000,Retail,
+10226,Rahul Sharma,Bengaluru, test@mail.com ,9123456780,,Retail,Jan 15 2024
+10227,rahul sharma,Mumbai, test@mail.com ,9876543210,five thousand,Corporate,15/01/2024
+10228,rahul sharma,Mumbai, test@mail.com ,98765-43210,five thousand,retial,
+10229,Pooja Patil,Mumbai,user@gmail.com,9876543210,5000,retial,15/01/2024
+10230,pooja patil,belgaum,,9876543210,5000,retial,Jan 15 2024
+10231,Rahul Sharma,Mumbai,USER@GMAIL.COM,98765-43210,five thousand,SMB,
+10232,Rahul Sharma,mumbai,,9876543210,five thousand,SMB,15/01/2024
+10233,Akshay Kumar, MUMBAI , test@mail.com ,98765-43210,1000,SMB,Jan 15 2024
+10234,rahul sharma,Bengaluru,USER@GMAIL.COM,9876543210,5000 ,Corporate,2024-01-15
+10235,pooja patil,belgaum,user@gmail.com,98765-43210,,Retail,
+10236,Rahul  Sharma,pune,user@gmail.com,,1000,Corporate,15/01/2024
+10237,Akshay Kumar,mumbai, test@mail.com ,9123456780,1000,Corporate,Jan 15 2024
+10238,Akshay Kumar, MUMBAI ,,98765-43210,five thousand,retial,15/01/2024
+10239,Rahul Sharma,Belgaum,user@gmail.com,,2500,Retail,15/01/2024
+10239,Rahul Sharma,Bangalore, test@mail.com ,98765-43210,5000 ,corporate,Jan 15 2024
+10241,Rahul Sharma,Pune, test@mail.com ,,1000,Corporate,Jan 15 2024
+10242,Rahul Sharma,Bangalore,,98765-43210,five thousand,corporate,
+10243,Rahul  Sharma, MUMBAI ,,98765-43210,5000,SMB,Jan 15 2024
+10244,Rahul Sharma,Bengaluru,user@gmail.com,98765-43210,5000 ,retial,Jan 15 2024
+10245,Rahul  Sharma,mumbai,user@gmail.com,,five thousand,Corporate,Jan 15 2024
+10246,Pooja Patil,Bengaluru,USER@GMAIL.COM,98765-43210,5000,corporate,2024-01-15
+10247,Akshay Kumar,Bangalore,,,five thousand,Retail,2024-01-15
+10248,Akshay Kumar,Bengaluru, test@mail.com ,9123456780,1000,retial,
+10249,Rahul Sharma, MUMBAI ,user@gmail.com,9123456780,five thousand,Corporate,Jan 15 2024
+10250,Pooja Patil,Mumbai,USER@GMAIL.COM,98765-43210,5000,Corporate,
+10251,Rahul Sharma, MUMBAI , test@mail.com ,98765-43210,5000,Corporate,15/01/2024
+10252,Rahul Sharma,Mumbai,USER@GMAIL.COM,98765-43210,5000 ,corporate,2024-01-15
+10253,Rahul  Sharma,pune,,9123456780,5000 ,Corporate,
+10254,rahul sharma,mumbai,USER@GMAIL.COM,9876543210,,retial,
+10255,Rahul Sharma,Bangalore, test@mail.com ,9876543210,5000 ,SMB,Jan 15 2024
+10256,Rahul  Sharma, MUMBAI ,USER@GMAIL.COM,,5000 ,retial,2024-01-15
+10257,rahul sharma, MUMBAI ,USER@GMAIL.COM,98765-43210,1000,Corporate,Jan 15 2024
+10258,Pooja Patil,belgaum,USER@GMAIL.COM,9876543210,1000,Corporate,
+10259,Akshay Kumar,Belgaum,,98765-43210,5000 ,Retail,15/01/2024
+10260,Rahul  Sharma,mumbai,,98765-43210,five thousand,SMB,Jan 15 2024
+10261,rahul sharma,belgaum,USER@GMAIL.COM,9123456780,,SMB,2024-01-15
+10262,Rahul Sharma,belgaum,USER@GMAIL.COM,,2500,retial,Jan 15 2024
+10263,Akshay Kumar,Pune, test@mail.com ,,1000,Corporate,15/01/2024
+10264,Akshay Kumar,belgaum, test@mail.com ,9123456780,five thousand,Corporate,2024-01-15
+10265,pooja patil, MUMBAI ,USER@GMAIL.COM,9123456780,five thousand,SMB,Jan 15 2024
+10266,pooja patil,Mumbai,user@gmail.com,9876543210,1000,SMB,Jan 15 2024
+10267,Akshay Kumar,Pune,,9876543210,,SMB,Jan 15 2024
+10268,Akshay Kumar,pune,,9123456780,five thousand,corporate,Jan 15 2024
+10269,Pooja Patil,mumbai,user@gmail.com,9123456780,,corporate,
+10270,Pooja Patil,Pune, test@mail.com ,9123456780,5000,Corporate,Jan 15 2024
+10271,Pooja Patil, MUMBAI , test@mail.com ,9876543210,5000,retial,
+10272,Rahul Sharma,pune,,9123456780,2500,Retail,2024-01-15
+10273,Rahul  Sharma,Bengaluru,,9123456780,2500,Corporate,Jan 15 2024
+10274,rahul sharma, MUMBAI ,,98765-43210,,Corporate,
+10275,Rahul Sharma,mumbai,,98765-43210,2500,retial,Jan 15 2024
+10276,Rahul Sharma,Mumbai, test@mail.com ,98765-43210,5000 ,corporate,Jan 15 2024
+10277,pooja patil,Mumbai,user@gmail.com,98765-43210,2500,Corporate,Jan 15 2024
+10278,Pooja Patil,Bangalore,user@gmail.com,98765-43210,1000,SMB,15/01/2024
+10279,Rahul  Sharma,belgaum, test@mail.com ,9876543210,,SMB,
+10280,pooja patil,pune,user@gmail.com,9123456780,1000,corporate,Jan 15 2024
+10281,Rahul  Sharma,belgaum, test@mail.com ,9123456780,2500,SMB,
+10282,pooja patil,Mumbai,user@gmail.com,9876543210,2500,Corporate,
+10283,pooja patil,Belgaum,USER@GMAIL.COM,9123456780,5000,SMB,Jan 15 2024
+10284,rahul sharma,Bengaluru, test@mail.com ,,5000 ,SMB,
+10285,Akshay Kumar,pune,,9876543210,5000,Corporate,2024-01-15
+10286,Pooja Patil,pune,user@gmail.com,98765-43210,5000,SMB,15/01/2024
+10287,Akshay Kumar,Mumbai,,9123456780,5000 ,SMB,
+10288,rahul sharma,Pune,user@gmail.com,9876543210,2500,Retail,
+10289,Rahul  Sharma,Bengaluru,USER@GMAIL.COM,98765-43210,five thousand,retial,
+10290,pooja patil,Belgaum,user@gmail.com,9123456780,5000 ,retial,Jan 15 2024
+10291,Akshay Kumar,Belgaum,,,2500,corporate,Jan 15 2024
+10292,pooja patil,Bangalore, test@mail.com ,98765-43210,2500,retial,Jan 15 2024
+10293,pooja patil,pune,USER@GMAIL.COM,,5000,retial,
+10294,Rahul  Sharma,Belgaum, test@mail.com ,,5000,Retail,
+10295,Pooja Patil,Bangalore,USER@GMAIL.COM,,1000,Corporate,2024-01-15
+10296,Rahul  Sharma,Belgaum, test@mail.com ,98765-43210,2500,retial,Jan 15 2024
+10297,pooja patil,pune,USER@GMAIL.COM,9876543210,5000 ,SMB,15/01/2024
+10298,rahul sharma,Mumbai,USER@GMAIL.COM,9123456780,1000,Retail,
+10299,Rahul  Sharma,Belgaum,user@gmail.com,9123456780,1000,SMB,15/01/2024
+10300,Pooja Patil,Belgaum,,9123456780,5000,Corporate,Jan 15 2024
+10301,Akshay Kumar,Mumbai,user@gmail.com,9123456780,5000 ,Retail,15/01/2024
+10302,Pooja Patil, MUMBAI ,user@gmail.com,98765-43210,,retial,Jan 15 2024
+10303,Rahul Sharma,Mumbai, test@mail.com ,9876543210,5000,Corporate,
+10304,Akshay Kumar,belgaum,,9123456780,5000 ,corporate,Jan 15 2024
+10305,rahul sharma,mumbai, test@mail.com ,9123456780,five thousand,corporate,Jan 15 2024
+10306,Akshay Kumar, MUMBAI ,user@gmail.com,,5000,SMB,15/01/2024
+10307,rahul sharma,Bengaluru,,,1000,corporate,2024-01-15
+10308,rahul sharma, MUMBAI ,,,2500,Retail,Jan 15 2024
+10309,Pooja Patil,Pune,,,5000,Corporate,2024-01-15
+10310,Rahul  Sharma,Bangalore,USER@GMAIL.COM,9876543210,five thousand,Retail,
+10311,Rahul  Sharma, MUMBAI ,,,five thousand,Retail,Jan 15 2024
+10312,Rahul  Sharma,Pune,USER@GMAIL.COM,9123456780,,retial,
+10313,Akshay Kumar,Bangalore,,98765-43210,5000 ,retial,15/01/2024
+10314,Akshay Kumar,mumbai,,,1000,SMB,2024-01-15
+10315,Rahul Sharma,belgaum,USER@GMAIL.COM,9123456780,2500,Corporate,
+10316,Rahul Sharma,Pune,,9876543210,5000 ,corporate,2024-01-15
+10317,Pooja Patil, MUMBAI ,,98765-43210,5000 ,Retail,
+10318,Akshay Kumar,pune,user@gmail.com,98765-43210,5000,Retail,15/01/2024
+10319,pooja patil,mumbai,user@gmail.com,98765-43210,5000,Retail,2024-01-15
+10320,Rahul Sharma,Belgaum,user@gmail.com,,,retial,15/01/2024
+10321,Akshay Kumar,Bengaluru, test@mail.com ,98765-43210,,corporate,
+10322,Rahul Sharma,belgaum,USER@GMAIL.COM,,1000,retial,
+10323,pooja patil, MUMBAI ,USER@GMAIL.COM,9876543210,1000,Corporate,
+10324,Akshay Kumar,belgaum,,98765-43210,2500,retial,
+10325,Rahul  Sharma, MUMBAI , test@mail.com ,9123456780,five thousand,Retail,2024-01-15
+10326,Akshay Kumar,Bengaluru,user@gmail.com,9123456780,2500,Retail,2024-01-15
+10327,pooja patil,Mumbai,,9876543210,2500,Retail,
+10328,Pooja Patil,Pune,USER@GMAIL.COM,9876543210,2500,SMB,Jan 15 2024
+10329,rahul sharma,Bangalore, test@mail.com ,9123456780,5000,retial,15/01/2024
+10330,Pooja Patil,pune, test@mail.com ,9876543210,5000 ,SMB,15/01/2024
+10331,Akshay Kumar,Bengaluru,,9876543210,5000,corporate,Jan 15 2024
+10332,Akshay Kumar,Bengaluru,,9123456780,5000,corporate,15/01/2024
+10333,pooja patil,Belgaum,USER@GMAIL.COM,9123456780,5000,retial,
+10334,Rahul Sharma,belgaum,,98765-43210,5000 ,SMB,15/01/2024
+10335,Pooja Patil,Pune, test@mail.com ,9123456780,5000,Retail,
+10336,Rahul  Sharma,mumbai,USER@GMAIL.COM,9876543210,5000,corporate,2024-01-15
+10337,Rahul Sharma,Pune,USER@GMAIL.COM,98765-43210,2500,Corporate,Jan 15 2024
+10338,Rahul Sharma,Pune,USER@GMAIL.COM,9876543210,five thousand,corporate,15/01/2024
+10339,Akshay Kumar,Pune,,9123456780,5000 ,Corporate,Jan 15 2024
+10340,Pooja Patil,Belgaum, test@mail.com ,,5000,Corporate,
+10341,Pooja Patil,mumbai,,,2500,Corporate,Jan 15 2024
+10342,Pooja Patil,Mumbai,USER@GMAIL.COM,9123456780,1000,Corporate,
+10343,Rahul  Sharma, MUMBAI ,USER@GMAIL.COM,,2500,corporate,15/01/2024
+10344,Pooja Patil,belgaum, test@mail.com ,,,corporate,
+10345,rahul sharma,Bangalore,USER@GMAIL.COM,9123456780,five thousand,SMB,
+10346,rahul sharma,belgaum,user@gmail.com,9876543210,1000,Retail,2024-01-15
+10347,Pooja Patil, MUMBAI ,USER@GMAIL.COM,9876543210,five thousand,retial,2024-01-15
+10348,rahul sharma,belgaum,,,1000,SMB,
+10349,Akshay Kumar,Belgaum,user@gmail.com,9876543210,5000 ,SMB,
+10350,Rahul Sharma,Mumbai, test@mail.com ,,1000,SMB,
+10351,rahul sharma,mumbai,user@gmail.com,9123456780,2500,retial,Jan 15 2024
+10352,Rahul  Sharma,pune,,9876543210,5000,corporate,
+10353,pooja patil,Pune,USER@GMAIL.COM,,five thousand,Retail,2024-01-15
+10354,Rahul Sharma,Bengaluru,,98765-43210,5000 ,corporate,2024-01-15
+10355,Akshay Kumar,Mumbai,USER@GMAIL.COM,9876543210,,corporate,Jan 15 2024
+10356,pooja patil,mumbai,user@gmail.com,9123456780,2500,SMB,
+10357,Rahul  Sharma,Mumbai,user@gmail.com,,5000 ,SMB,2024-01-15
+10358,rahul sharma,Bangalore,user@gmail.com,9123456780,5000 ,retial,
+10359,Rahul Sharma,pune,USER@GMAIL.COM,9123456780,5000 ,corporate,Jan 15 2024
+10359,Pooja Patil, MUMBAI ,user@gmail.com,,1000,Retail,
+10361,rahul sharma,mumbai, test@mail.com ,98765-43210,5000,Retail,Jan 15 2024
+10362,Pooja Patil,Belgaum,USER@GMAIL.COM,,5000 ,corporate,
+10363,rahul sharma,Bengaluru,user@gmail.com,,2500,Retail,2024-01-15
+10364,Rahul  Sharma, MUMBAI ,,9123456780,five thousand,corporate,Jan 15 2024
+10365,Rahul  Sharma,mumbai,user@gmail.com,9876543210,5000,corporate,Jan 15 2024
+10366,Rahul  Sharma,mumbai,USER@GMAIL.COM,9876543210,2500,corporate,
+10367,pooja patil,belgaum,,9876543210,1000,Retail,Jan 15 2024
+10368,pooja patil,mumbai, test@mail.com ,98765-43210,1000,Corporate,
+10369,Pooja Patil,mumbai,USER@GMAIL.COM,9123456780,five thousand,corporate,15/01/2024
+10370,rahul sharma,pune, test@mail.com ,,,retial,2024-01-15
+10371,rahul sharma,Bengaluru, test@mail.com ,98765-43210,5000,corporate,2024-01-15
+10372,Rahul  Sharma,pune,USER@GMAIL.COM,98765-43210,5000 ,SMB,15/01/2024
+10373,Pooja Patil,mumbai,USER@GMAIL.COM,,1000,corporate,Jan 15 2024
+10374,pooja patil,Bengaluru, test@mail.com ,98765-43210,5000,corporate,15/01/2024
+10375,Rahul  Sharma,Bangalore,USER@GMAIL.COM,98765-43210,5000,retial,
+10376,Rahul  Sharma,pune,,9123456780,5000,corporate,Jan 15 2024
+10377,Pooja Patil,Bangalore,user@gmail.com,9123456780,5000 ,SMB,15/01/2024
+10378,Akshay Kumar,belgaum,user@gmail.com,98765-43210,five thousand,retial,
+10379,Rahul  Sharma,mumbai,,98765-43210,2500,Corporate,15/01/2024
+10380,Rahul  Sharma, MUMBAI ,,98765-43210,1000,corporate,
+10381,pooja patil,Bengaluru,,9876543210,5000,SMB,2024-01-15
+10382,Rahul Sharma,Pune, test@mail.com ,9123456780,five thousand,SMB,2024-01-15
+10383,pooja patil,Bengaluru, test@mail.com ,98765-43210,1000,Retail,2024-01-15
+10384,Rahul  Sharma,Pune,USER@GMAIL.COM,98765-43210,5000,corporate,
+10385,Akshay Kumar,belgaum,USER@GMAIL.COM,,1000,corporate,2024-01-15
+10386,Rahul  Sharma,Bengaluru,user@gmail.com,9876543210,five thousand,retial,Jan 15 2024
+10387,Rahul  Sharma,Bangalore,,9123456780,5000 ,corporate,Jan 15 2024
+10388,Pooja Patil,mumbai,,98765-43210,5000,Retail,Jan 15 2024
+10389,Rahul Sharma,mumbai,user@gmail.com,,five thousand,Retail,15/01/2024
+10390,Akshay Kumar,Pune,USER@GMAIL.COM,9123456780,5000,SMB,
+10391,Pooja Patil,Pune,,9123456780,2500,corporate,
+10392,Rahul Sharma,Pune,,98765-43210,,Retail,15/01/2024
+10393,rahul sharma,pune,user@gmail.com,9876543210,5000 ,retial,Jan 15 2024
+10394,Rahul  Sharma,Pune,,9876543210,5000,corporate,Jan 15 2024
+10395,pooja patil,Bengaluru,,9876543210,5000,Corporate,
+10396,pooja patil, MUMBAI , test@mail.com ,9876543210,five thousand,retial,Jan 15 2024
+10397,Rahul Sharma,Pune, test@mail.com ,9876543210,2500,Corporate,15/01/2024
+10398,pooja patil,Bengaluru,,9123456780,5000 ,corporate,
+10399,rahul sharma,Belgaum,USER@GMAIL.COM,9123456780,,Corporate,15/01/2024
+10400,rahul sharma,Bangalore,,9876543210,5000,Retail,
+10401,rahul sharma,Pune,,98765-43210,,corporate,
+10402,Akshay Kumar,Belgaum,,9123456780,1000,SMB,2024-01-15
+10403,rahul sharma,pune,user@gmail.com,,2500,SMB,Jan 15 2024
+10404,rahul sharma,Belgaum,,9876543210,5000 ,Retail,Jan 15 2024
+10405,pooja patil,Bangalore,user@gmail.com,98765-43210,5000 ,retial,
+10406,Rahul Sharma,Pune, test@mail.com ,9876543210,,Corporate,Jan 15 2024
+10407,Rahul Sharma,Belgaum,user@gmail.com,9123456780,2500,SMB,Jan 15 2024
+10408,Akshay Kumar,Bengaluru,USER@GMAIL.COM,9123456780,2500,retial,2024-01-15
+10409,pooja patil,Bangalore, test@mail.com ,9123456780,5000,Corporate,Jan 15 2024
+10410,pooja patil,pune,user@gmail.com,9123456780,,Retail,Jan 15 2024
+10411,Akshay Kumar, MUMBAI ,USER@GMAIL.COM,9123456780,2500,Corporate,15/01/2024
+10412,Akshay Kumar,Bengaluru,,9123456780,5000 ,Corporate,
+10413,Pooja Patil,Belgaum,user@gmail.com,9876543210,,SMB,Jan 15 2024
+10414,Akshay Kumar,Bangalore,,98765-43210,5000,SMB,2024-01-15
+10415,Akshay Kumar,mumbai,,,1000,SMB,
+10416,rahul sharma,Bengaluru,USER@GMAIL.COM,98765-43210,5000,Corporate,Jan 15 2024
+10417,Rahul  Sharma,belgaum,USER@GMAIL.COM,98765-43210,5000,Retail,2024-01-15
+10418,Rahul Sharma,Belgaum,user@gmail.com,9876543210,2500,corporate,
+10419,Rahul Sharma,Bengaluru,USER@GMAIL.COM,9123456780,five thousand,Corporate,15/01/2024
+10420,Rahul  Sharma,mumbai, test@mail.com ,,1000,Corporate,15/01/2024
+10421,Rahul Sharma,Bengaluru, test@mail.com ,9123456780,,Retail,2024-01-15
+10422,Rahul Sharma,Pune,,9876543210,2500,SMB,15/01/2024
+10423,pooja patil,Belgaum,user@gmail.com,9876543210,five thousand,Corporate,2024-01-15
+10424,Pooja Patil, MUMBAI ,,9876543210,2500,corporate,2024-01-15
+10425,Akshay Kumar,mumbai,user@gmail.com,,5000,Corporate,15/01/2024
+10426,Pooja Patil, MUMBAI ,USER@GMAIL.COM,9876543210,5000 ,SMB,2024-01-15
+10427,pooja patil, MUMBAI ,,,five thousand,retial,15/01/2024
+10428,Pooja Patil,Belgaum,USER@GMAIL.COM,9876543210,1000,retial,2024-01-15
+10429,pooja patil,Bengaluru, test@mail.com ,98765-43210,5000,retial,15/01/2024
+10430,Rahul  Sharma,mumbai,USER@GMAIL.COM,,five thousand,Retail,Jan 15 2024
+10431,rahul sharma,belgaum,USER@GMAIL.COM,98765-43210,5000,Retail,15/01/2024
+10432,Pooja Patil,Bengaluru,user@gmail.com,9123456780,,SMB,2024-01-15
+10433,pooja patil,Mumbai, test@mail.com ,,2500,corporate,
+10434,Rahul  Sharma,belgaum,USER@GMAIL.COM,98765-43210,1000,Retail,2024-01-15
+10435,Rahul Sharma,pune,USER@GMAIL.COM,9876543210,1000,corporate,Jan 15 2024
+10436,Akshay Kumar,belgaum,,98765-43210,five thousand,corporate,2024-01-15
+10437,Akshay Kumar,belgaum,USER@GMAIL.COM,,1000,Corporate,2024-01-15
+10438,pooja patil,Pune,USER@GMAIL.COM,,,SMB,2024-01-15
+10439,Rahul  Sharma,Bengaluru,USER@GMAIL.COM,9876543210,2500,Retail,
+10440,Rahul Sharma,Belgaum,user@gmail.com,,five thousand,retial,2024-01-15
+10441,Rahul Sharma, MUMBAI ,user@gmail.com,9123456780,,Corporate,Jan 15 2024
+10442,rahul sharma,Bangalore,USER@GMAIL.COM,,five thousand,Retail,2024-01-15
+10443,Rahul  Sharma,Bengaluru, test@mail.com ,9876543210,5000,SMB,2024-01-15
+10444,Pooja Patil,Belgaum, test@mail.com ,9876543210,,SMB,15/01/2024
+10445,Rahul  Sharma, MUMBAI , test@mail.com ,9876543210,5000 ,Retail,15/01/2024
+10446,Akshay Kumar,belgaum,user@gmail.com,9876543210,1000,retial,2024-01-15
+10447,Pooja Patil,Bangalore,,9123456780,2500,Retail,
+10448,rahul sharma,Bangalore,USER@GMAIL.COM,98765-43210,five thousand,Corporate,Jan 15 2024
+10449,Rahul Sharma,Bangalore,user@gmail.com,9876543210,2500,retial,2024-01-15
+10450,Pooja Patil,mumbai,,,5000,Corporate,2024-01-15
+10451,pooja patil,Belgaum,user@gmail.com,,2500,Corporate,Jan 15 2024
+10452,Akshay Kumar,Pune,,,5000 ,corporate,15/01/2024
+10453,Akshay Kumar,belgaum,USER@GMAIL.COM,9123456780,1000,corporate,2024-01-15
+10454,rahul sharma,belgaum, test@mail.com ,9876543210,5000,Retail,
+10455,Akshay Kumar,pune,user@gmail.com,9123456780,5000 ,retial,
+10456,Pooja Patil,Mumbai,USER@GMAIL.COM,,1000,Retail,15/01/2024
+10457,pooja patil,Bengaluru, test@mail.com ,98765-43210,five thousand,Retail,2024-01-15
+10458,pooja patil, MUMBAI ,,9876543210,5000 ,SMB,2024-01-15
+10459,Pooja Patil, MUMBAI ,USER@GMAIL.COM,,5000,Corporate,
+10460,Akshay Kumar,Bangalore, test@mail.com ,98765-43210,5000,retial,2024-01-15
+10461,rahul sharma, MUMBAI ,user@gmail.com,9123456780,1000,retial,
+10462,Pooja Patil,Bangalore,,9876543210,5000 ,Corporate,15/01/2024
+10463,Pooja Patil,pune,,,1000,Retail,15/01/2024
+10464,Akshay Kumar,pune,user@gmail.com,9123456780,5000,retial,2024-01-15
+10465,Akshay Kumar,Pune, test@mail.com ,98765-43210,5000 ,Retail,Jan 15 2024
+10466,Rahul  Sharma, MUMBAI ,user@gmail.com,98765-43210,,SMB,15/01/2024
+10467,Rahul Sharma,Belgaum,user@gmail.com,9123456780,1000,Retail,2024-01-15
+10468,rahul sharma, MUMBAI ,USER@GMAIL.COM,98765-43210,5000,Retail,Jan 15 2024
+10469,Rahul Sharma,Mumbai,user@gmail.com,9123456780,five thousand,corporate,15/01/2024
+10470,Rahul Sharma,Bangalore,user@gmail.com,9876543210,,Retail,15/01/2024
+10471,pooja patil,Bengaluru,,98765-43210,1000,corporate,
+10472,rahul sharma,Bangalore,USER@GMAIL.COM,9123456780,5000,Corporate,
+10473,rahul sharma,Mumbai,USER@GMAIL.COM,,,corporate,
+10474,Rahul Sharma,mumbai, test@mail.com ,98765-43210,2500,corporate,15/01/2024
+10475,Akshay Kumar,belgaum,USER@GMAIL.COM,9876543210,,Corporate,
+10476,pooja patil,Belgaum, test@mail.com ,,,Corporate,15/01/2024
+10477,Rahul Sharma,Bangalore,USER@GMAIL.COM,9876543210,5000,Retail,
+10478,pooja patil,Bangalore,USER@GMAIL.COM,9123456780,1000,retial,15/01/2024
+10479,Rahul  Sharma,belgaum,user@gmail.com,9123456780,5000 ,corporate,Jan 15 2024
+10479,rahul sharma, MUMBAI ,USER@GMAIL.COM,,five thousand,Corporate,2024-01-15
+10481,Akshay Kumar,Bangalore,USER@GMAIL.COM,9123456780,,SMB,Jan 15 2024
+10482,rahul sharma,Belgaum,user@gmail.com,9876543210,1000,retial,15/01/2024
+10483,Rahul Sharma,belgaum,,9876543210,5000,SMB,15/01/2024
+10484,rahul sharma,Bangalore,USER@GMAIL.COM,,1000,Retail,15/01/2024
+10485,pooja patil, MUMBAI ,user@gmail.com,,1000,Corporate,
+10486,pooja patil,mumbai, test@mail.com ,,5000,retial,15/01/2024
+10487,Akshay Kumar,Bengaluru,,,2500,SMB,Jan 15 2024
+10488,rahul sharma, MUMBAI ,,,five thousand,Corporate,15/01/2024
+10489,rahul sharma,Mumbai,,9876543210,2500,SMB,Jan 15 2024
+10490,pooja patil,Pune,user@gmail.com,98765-43210,2500,Corporate,2024-01-15
+10491,rahul sharma,Bangalore, test@mail.com ,9123456780,five thousand,Retail,Jan 15 2024
+10492,Pooja Patil,Mumbai, test@mail.com ,9123456780,2500,Retail,Jan 15 2024
+10493,Rahul  Sharma,mumbai,user@gmail.com,9876543210,,corporate,
+10494,rahul sharma,Bengaluru,,98765-43210,5000,SMB,
+10495,Rahul Sharma,Belgaum,USER@GMAIL.COM,9123456780,,Retail,2024-01-15
+10496,Rahul  Sharma,Mumbai, test@mail.com ,,1000,Retail,Jan 15 2024
+10497,rahul sharma,Bengaluru,USER@GMAIL.COM,9876543210,5000 ,Retail,Jan 15 2024
+10498,pooja patil,Belgaum,user@gmail.com,98765-43210,five thousand,retial,
+10499,rahul sharma,Mumbai,user@gmail.com,,2500,retial,
+10500,Akshay Kumar,belgaum, test@mail.com ,,5000,retial,2024-01-15
+10501,Rahul Sharma,Bengaluru,,9123456780,1000,Corporate,2024-01-15
+10502,Pooja Patil,mumbai, test@mail.com ,98765-43210,2500,Retail,2024-01-15
+10503,rahul sharma, MUMBAI , test@mail.com ,9876543210,,Retail,Jan 15 2024
+10504,Pooja Patil,Belgaum,,,1000,SMB,
+10505,rahul sharma,Bangalore,,,2500,corporate,2024-01-15
+10506,Rahul  Sharma,Belgaum,,,2500,Corporate,2024-01-15
+10507,rahul sharma,mumbai,user@gmail.com,,5000 ,corporate,15/01/2024
+10508,pooja patil,Mumbai,,98765-43210,5000 ,corporate,15/01/2024
+10509,Pooja Patil,pune,user@gmail.com,98765-43210,five thousand,Retail,15/01/2024
+10510,Rahul Sharma,Belgaum,USER@GMAIL.COM,9123456780,2500,retial,15/01/2024
+10511,Rahul Sharma,Bengaluru,user@gmail.com,98765-43210,2500,retial,Jan 15 2024
+10512,Rahul  Sharma,mumbai,user@gmail.com,98765-43210,5000 ,corporate,Jan 15 2024
+10513,Rahul  Sharma,belgaum,,9876543210,five thousand,SMB,
+10514,Rahul Sharma,Bengaluru,USER@GMAIL.COM,9123456780,5000 ,SMB,2024-01-15
+10515,Rahul Sharma,mumbai, test@mail.com ,,,Corporate,
+10516,Akshay Kumar,Belgaum,,9876543210,2500,Corporate,
+10517,rahul sharma,Bengaluru,user@gmail.com,98765-43210,5000,retial,2024-01-15
+10518,Akshay Kumar,Belgaum, test@mail.com ,,1000,Corporate,Jan 15 2024
+10519,Rahul  Sharma,pune,,9876543210,2500,retial,Jan 15 2024
+10520,Akshay Kumar,Belgaum, test@mail.com ,,five thousand,corporate,2024-01-15
+10521,rahul sharma,Belgaum,USER@GMAIL.COM,98765-43210,five thousand,corporate,Jan 15 2024
+10522,Rahul Sharma,belgaum,USER@GMAIL.COM,9876543210,5000,SMB,
+10523,rahul sharma,belgaum,user@gmail.com,9123456780,2500,retial,2024-01-15
+10524,rahul sharma,Mumbai,,9876543210,5000,retial,Jan 15 2024
+10525,Rahul  Sharma,Belgaum,,9876543210,five thousand,Retail,15/01/2024
+10526,Rahul  Sharma,Belgaum,,9123456780,,SMB,Jan 15 2024
+10527,Rahul  Sharma, MUMBAI , test@mail.com ,9876543210,5000,Retail,
+10528,Rahul Sharma, MUMBAI ,USER@GMAIL.COM,9123456780,five thousand,retial,15/01/2024
+10529,Rahul  Sharma,Bengaluru,user@gmail.com,9876543210,,retial,15/01/2024
+10530,pooja patil,Mumbai,USER@GMAIL.COM,,5000 ,Corporate,Jan 15 2024
+10531,Pooja Patil,Bengaluru, test@mail.com ,98765-43210,5000,retial,
+10532,Rahul  Sharma,belgaum,,9876543210,1000,SMB,Jan 15 2024
+10533,pooja patil,pune, test@mail.com ,9876543210,,Retail,Jan 15 2024
+10534,Rahul  Sharma,Bangalore, test@mail.com ,,five thousand,Corporate,15/01/2024
+10535,rahul sharma,belgaum,USER@GMAIL.COM,9876543210,5000 ,corporate,Jan 15 2024
+10536,Akshay Kumar, MUMBAI ,user@gmail.com,98765-43210,5000,Corporate,
+10537,Pooja Patil,Bengaluru,user@gmail.com,9123456780,5000,retial,
+10538,Akshay Kumar,Bangalore, test@mail.com ,9123456780,five thousand,SMB,15/01/2024
+10539,Rahul  Sharma,mumbai,,9123456780,five thousand,Corporate,15/01/2024
+10540,Akshay Kumar,Bangalore,user@gmail.com,9123456780,5000,retial,Jan 15 2024
+10541,Pooja Patil,Bangalore, test@mail.com ,,5000 ,Corporate,
+10542,Rahul Sharma,Belgaum,user@gmail.com,9876543210,,retial,2024-01-15
+10543,Akshay Kumar,Bengaluru, test@mail.com ,98765-43210,1000,retial,15/01/2024
+10544,rahul sharma,Bangalore,,98765-43210,2500,Corporate,15/01/2024
+10545,Rahul Sharma,Belgaum, test@mail.com ,9123456780,5000,Retail,2024-01-15
+10546,Pooja Patil,pune,USER@GMAIL.COM,9123456780,5000 ,retial,
+10547,Rahul Sharma, MUMBAI ,,98765-43210,,corporate,
+10548,Pooja Patil,Mumbai,user@gmail.com,9123456780,five thousand,Corporate,2024-01-15
+10549,Rahul  Sharma,belgaum,USER@GMAIL.COM,9876543210,five thousand,Retail,15/01/2024
+10550,rahul sharma,Bangalore, test@mail.com ,9123456780,1000,corporate,Jan 15 2024
+10551,rahul sharma,mumbai,user@gmail.com,,5000,corporate,Jan 15 2024
+10552,Pooja Patil, MUMBAI , test@mail.com ,98765-43210,5000,retial,15/01/2024
+10553,Pooja Patil,Mumbai,USER@GMAIL.COM,9123456780,five thousand,retial,15/01/2024
+10554,Akshay Kumar,Mumbai,USER@GMAIL.COM,9876543210,5000,Retail,
+10555,Akshay Kumar,pune,user@gmail.com,9876543210,five thousand,Retail,2024-01-15
+10556,Rahul Sharma,mumbai,,98765-43210,,Retail,Jan 15 2024
+10557,Pooja Patil, MUMBAI ,USER@GMAIL.COM,9876543210,5000,corporate,2024-01-15
+10558,Akshay Kumar,belgaum, test@mail.com ,9123456780,,Retail,2024-01-15
+10559,Rahul  Sharma,mumbai,user@gmail.com,98765-43210,2500,SMB,15/01/2024
+10560,Rahul  Sharma,belgaum,USER@GMAIL.COM,,five thousand,corporate,Jan 15 2024
+10561,rahul sharma,Mumbai,,9123456780,five thousand,corporate,Jan 15 2024
+10562,rahul sharma,Mumbai,user@gmail.com,9876543210,1000,SMB,
+10563,rahul sharma,mumbai,user@gmail.com,9876543210,5000,retial,
+10564,Rahul  Sharma,pune,,9876543210,1000,retial,2024-01-15
+10565,Rahul  Sharma,Bangalore, test@mail.com ,98765-43210,five thousand,Retail,2024-01-15
+10566,Rahul Sharma,Mumbai,USER@GMAIL.COM,9123456780,5000,Corporate,
+10567,pooja patil,pune,user@gmail.com,,5000,retial,2024-01-15
+10568,Pooja Patil,Bengaluru,,,,corporate,
+10569,Akshay Kumar, MUMBAI ,user@gmail.com,9123456780,five thousand,Retail,15/01/2024
+10570,Rahul Sharma,Bengaluru,,98765-43210,2500,SMB,
+10571,Rahul  Sharma,Mumbai,USER@GMAIL.COM,98765-43210,,Retail,
+10572,Pooja Patil,Mumbai,user@gmail.com,,five thousand,Corporate,2024-01-15
+10573,Akshay Kumar,belgaum,USER@GMAIL.COM,,5000 ,SMB,2024-01-15
+10574,Pooja Patil,Pune,,,five thousand,corporate,15/01/2024
+10575,pooja patil,Mumbai,user@gmail.com,9123456780,5000 ,corporate,
+10576,rahul sharma,mumbai,,,2500,Corporate,Jan 15 2024
+10577,Rahul Sharma,belgaum,USER@GMAIL.COM,98765-43210,,retial,2024-01-15
+10578,Pooja Patil,Belgaum,,9876543210,,corporate,Jan 15 2024
+10579,Rahul Sharma,Belgaum,user@gmail.com,9876543210,,corporate,2024-01-15
+10580,pooja patil,belgaum,user@gmail.com,9876543210,5000 ,SMB,Jan 15 2024
+10581,pooja patil,belgaum,USER@GMAIL.COM,98765-43210,5000,Corporate,2024-01-15
+10582,rahul sharma,Belgaum, test@mail.com ,98765-43210,five thousand,Corporate,
+10583,Rahul Sharma,mumbai,USER@GMAIL.COM,9876543210,5000,Corporate,Jan 15 2024
+10584,pooja patil,belgaum, test@mail.com ,9876543210,1000,retial,
+10585,rahul sharma,Bengaluru,user@gmail.com,,5000 ,retial,15/01/2024
+10586,Rahul Sharma,Bengaluru,USER@GMAIL.COM,98765-43210,2500,Corporate,2024-01-15
+10587,Pooja Patil,Mumbai,user@gmail.com,98765-43210,,SMB,15/01/2024
+10588,Pooja Patil,Mumbai,user@gmail.com,98765-43210,5000 ,corporate,15/01/2024
+10589,Akshay Kumar, MUMBAI ,USER@GMAIL.COM,9876543210,,SMB,Jan 15 2024
+10590,pooja patil,Bengaluru,,9123456780,5000,corporate,Jan 15 2024
+10591,Rahul  Sharma,Belgaum,USER@GMAIL.COM,9123456780,,SMB,Jan 15 2024
+10592,Akshay Kumar,belgaum, test@mail.com ,9123456780,2500,retial,Jan 15 2024
+10593,Akshay Kumar,Bangalore,USER@GMAIL.COM,9123456780,5000 ,SMB,Jan 15 2024
+10594,Akshay Kumar,mumbai, test@mail.com ,98765-43210,5000 ,SMB,
+10595,Akshay Kumar,belgaum, test@mail.com ,98765-43210,1000,SMB,2024-01-15
+10596,Rahul Sharma,Bengaluru,USER@GMAIL.COM,9876543210,five thousand,Retail,15/01/2024
+10597,Rahul  Sharma, MUMBAI , test@mail.com ,,2500,Retail,Jan 15 2024
+10598,rahul sharma,belgaum,user@gmail.com,,,Retail,15/01/2024
+10599,Akshay Kumar,belgaum,,9123456780,5000 ,Corporate,2024-01-15
+10599,Pooja Patil,Bengaluru,,,5000 ,Retail,2024-01-15
+10601,Akshay Kumar,pune,USER@GMAIL.COM,98765-43210,2500,Corporate,15/01/2024
+10602,Akshay Kumar,Pune, test@mail.com ,98765-43210,2500,Retail,15/01/2024
+10603,rahul sharma,belgaum,user@gmail.com,98765-43210,1000,corporate,Jan 15 2024
+10604,pooja patil,pune,USER@GMAIL.COM,9123456780,5000 ,Corporate,2024-01-15
+10605,Rahul  Sharma,Belgaum,USER@GMAIL.COM,9876543210,2500,Corporate,2024-01-15
+10606,Akshay Kumar,pune,,,1000,Corporate,15/01/2024
+10607,rahul sharma,belgaum,user@gmail.com,9123456780,,SMB,
+10608,Rahul Sharma,Bangalore,USER@GMAIL.COM,9123456780,five thousand,Corporate,Jan 15 2024
+10609,Rahul  Sharma,pune,USER@GMAIL.COM,98765-43210,5000 ,Retail,2024-01-15
+10610,Akshay Kumar,Bangalore,,9123456780,five thousand,SMB,15/01/2024
+10611,Rahul Sharma,Bangalore,,9876543210,,Corporate,Jan 15 2024
+10612,Rahul Sharma,belgaum, test@mail.com ,98765-43210,,Retail,Jan 15 2024
+10613,Akshay Kumar,Pune, test@mail.com ,9876543210,1000,retial,2024-01-15
+10614,Akshay Kumar,mumbai,USER@GMAIL.COM,9123456780,five thousand,corporate,2024-01-15
+10615,rahul sharma,belgaum,,9876543210,five thousand,retial,2024-01-15
+10616,Pooja Patil,Bangalore,user@gmail.com,9876543210,1000,Retail,15/01/2024
+10617,Rahul  Sharma,belgaum,user@gmail.com,9123456780,5000,corporate,
+10618,Pooja Patil,Bengaluru,,,1000,corporate,2024-01-15
+10619,pooja patil,Mumbai,user@gmail.com,9876543210,five thousand,Retail,Jan 15 2024
+10620,pooja patil,mumbai, test@mail.com ,,5000 ,Retail,Jan 15 2024
+10621,Pooja Patil,Bengaluru,,9876543210,,retial,15/01/2024
+10622,rahul sharma,Bengaluru, test@mail.com ,9123456780,5000,Corporate,2024-01-15
+10623,pooja patil,belgaum,USER@GMAIL.COM,9876543210,1000,Retail,
+10624,pooja patil,belgaum,user@gmail.com,,2500,Corporate,15/01/2024
+10625,Pooja Patil,belgaum,USER@GMAIL.COM,9123456780,2500,retial,Jan 15 2024
+10626,rahul sharma,mumbai,USER@GMAIL.COM,9876543210,5000 ,corporate,2024-01-15
+10627,Rahul  Sharma,mumbai, test@mail.com ,9876543210,2500,SMB,
+10628,Rahul  Sharma,Bangalore,USER@GMAIL.COM,9123456780,1000,Corporate,2024-01-15
+10629,rahul sharma,Bangalore,,98765-43210,5000,SMB,Jan 15 2024
+10630,Akshay Kumar, MUMBAI , test@mail.com ,,,retial,2024-01-15
+10631,Rahul  Sharma,Pune,USER@GMAIL.COM,98765-43210,5000,Corporate,15/01/2024
+10632,Akshay Kumar,Bangalore,,98765-43210,,Corporate,Jan 15 2024
+10633,Pooja Patil,belgaum,user@gmail.com,9123456780,five thousand,SMB,2024-01-15
+10634,Rahul  Sharma, MUMBAI ,USER@GMAIL.COM,,five thousand,Retail,2024-01-15
+10635,Rahul Sharma,belgaum,user@gmail.com,98765-43210,5000 ,retial,2024-01-15
+10636,pooja patil,pune,,9123456780,5000,corporate,15/01/2024
+10637,pooja patil,pune,USER@GMAIL.COM,98765-43210,5000 ,SMB,2024-01-15
+10638,Pooja Patil,Bangalore,user@gmail.com,9123456780,5000 ,retial,15/01/2024
+10639,Pooja Patil, MUMBAI ,USER@GMAIL.COM,9123456780,five thousand,corporate,Jan 15 2024
+10640,Rahul Sharma,Pune,,9123456780,1000,Corporate,Jan 15 2024
+10641,rahul sharma,Mumbai,USER@GMAIL.COM,,,corporate,
+10642,Rahul Sharma,Mumbai, test@mail.com ,9876543210,five thousand,SMB,Jan 15 2024
+10643,Akshay Kumar,pune,USER@GMAIL.COM,98765-43210,five thousand,corporate,Jan 15 2024
+10644,pooja patil,mumbai, test@mail.com ,98765-43210,2500,SMB,
+10645,Rahul  Sharma,Bangalore,,98765-43210,5000 ,Retail,15/01/2024
+10646,Pooja Patil, MUMBAI ,USER@GMAIL.COM,9876543210,5000 ,Corporate,15/01/2024
+10647,rahul sharma, MUMBAI ,USER@GMAIL.COM,,5000 ,Retail,15/01/2024
+10648,Pooja Patil,Bangalore,user@gmail.com,98765-43210,five thousand,corporate,
+10649,rahul sharma, MUMBAI ,,9876543210,2500,Retail,15/01/2024
+10650,pooja patil, MUMBAI ,USER@GMAIL.COM,9876543210,5000 ,retial,2024-01-15
+10651,rahul sharma,pune,USER@GMAIL.COM,98765-43210,5000 ,SMB,2024-01-15
+10652,Akshay Kumar,pune,user@gmail.com,9123456780,,SMB,
+10653,Pooja Patil, MUMBAI ,USER@GMAIL.COM,98765-43210,5000 ,retial,15/01/2024
+10654,pooja patil,belgaum, test@mail.com ,9123456780,five thousand,Corporate,
+10655,pooja patil,mumbai,USER@GMAIL.COM,98765-43210,,retial,2024-01-15
+10656,Rahul Sharma,Pune,,9123456780,5000 ,Retail,15/01/2024
+10657,Pooja Patil,Mumbai,user@gmail.com,9876543210,,retial,2024-01-15
+10658,Akshay Kumar,Bengaluru,,,1000,SMB,
+10659,rahul sharma,Belgaum,,,5000 ,SMB,2024-01-15
+10660,Pooja Patil, MUMBAI , test@mail.com ,98765-43210,2500,Retail,Jan 15 2024
+10661,pooja patil,belgaum,,,2500,Retail,2024-01-15
+10662,pooja patil,belgaum,user@gmail.com,9876543210,,retial,Jan 15 2024
+10663,Pooja Patil,Bangalore,user@gmail.com,9123456780,,SMB,Jan 15 2024
+10664,Rahul  Sharma,belgaum,,,5000 ,Corporate,
+10665,rahul sharma,Bengaluru,,9123456780,5000,SMB,
+10666,Rahul  Sharma,pune, test@mail.com ,98765-43210,five thousand,retial,2024-01-15
+10667,Akshay Kumar,Pune,,9123456780,1000,retial,
+10668,Rahul  Sharma,belgaum,user@gmail.com,9123456780,,Retail,2024-01-15
+10669,rahul sharma,Belgaum,,9876543210,1000,Corporate,15/01/2024
+10670,Rahul  Sharma,mumbai,user@gmail.com,98765-43210,,SMB,Jan 15 2024
+10671,Akshay Kumar,Mumbai,USER@GMAIL.COM,98765-43210,,Retail,15/01/2024
+10672,Akshay Kumar,belgaum, test@mail.com ,9123456780,1000,SMB,15/01/2024
+10673,pooja patil, MUMBAI ,user@gmail.com,,2500,Retail,15/01/2024
+10674,Rahul Sharma,pune,,,five thousand,corporate,
+10675,pooja patil,Pune,user@gmail.com,9876543210,1000,SMB,Jan 15 2024
+10676,Akshay Kumar,belgaum, test@mail.com ,,5000,retial,15/01/2024
+10677,Pooja Patil,Bengaluru,user@gmail.com,,2500,corporate,2024-01-15
+10678,pooja patil,mumbai, test@mail.com ,,1000,SMB,Jan 15 2024
+10679,pooja patil,pune,,98765-43210,5000 ,corporate,15/01/2024
+10680,Rahul  Sharma,Belgaum,,9876543210,,Retail,Jan 15 2024
+10681,Rahul Sharma,Bengaluru,USER@GMAIL.COM,9123456780,5000,corporate,Jan 15 2024
+10682,pooja patil,belgaum,user@gmail.com,,2500,Corporate,2024-01-15
+10683,Pooja Patil,Bangalore,user@gmail.com,9123456780,,Corporate,Jan 15 2024
+10684,rahul sharma,pune,USER@GMAIL.COM,9123456780,,retial,15/01/2024
+10685,Akshay Kumar,Pune, test@mail.com ,9123456780,2500,retial,15/01/2024
+10686,pooja patil,Bangalore,USER@GMAIL.COM,9876543210,1000,Retail,
+10687,pooja patil,Mumbai,user@gmail.com,98765-43210,5000,SMB,Jan 15 2024
+10688,Pooja Patil,pune,,9123456780,5000 ,Corporate,
+10689,rahul sharma, MUMBAI ,user@gmail.com,98765-43210,,SMB,2024-01-15
+10690,pooja patil,Bangalore,,9123456780,,Retail,
+10691,Rahul  Sharma,Mumbai,user@gmail.com,9123456780,,SMB,2024-01-15
+10692,Rahul  Sharma,Bangalore, test@mail.com ,9123456780,5000 ,Corporate,15/01/2024
+10693,Rahul  Sharma,Belgaum, test@mail.com ,,2500,corporate,
+10694,rahul sharma,Bengaluru, test@mail.com ,,,Corporate,
+10695,rahul sharma, MUMBAI ,USER@GMAIL.COM,9876543210,five thousand,Corporate,15/01/2024
+10696,pooja patil,Bengaluru,,9123456780,2500,retial,
+10697,Rahul Sharma, MUMBAI ,,98765-43210,2500,SMB,Jan 15 2024
+10698,Pooja Patil,pune, test@mail.com ,9876543210,,Retail,15/01/2024
+10699,Rahul Sharma,Pune, test@mail.com ,98765-43210,five thousand,Retail,
+10700,Akshay Kumar,Bangalore, test@mail.com ,,5000,SMB,Jan 15 2024
+10701,Rahul  Sharma,Mumbai,,9876543210,5000,SMB,15/01/2024
+10702,pooja patil,belgaum,USER@GMAIL.COM,,5000,Corporate,
+10703,Akshay Kumar,Belgaum,user@gmail.com,98765-43210,5000 ,Corporate,
+10704,Akshay Kumar, MUMBAI ,USER@GMAIL.COM,,,SMB,
+10705,Rahul Sharma,mumbai,USER@GMAIL.COM,,2500,Corporate,Jan 15 2024
+10706,Akshay Kumar,pune, test@mail.com ,98765-43210,5000,corporate,Jan 15 2024
+10707,Akshay Kumar,belgaum,,98765-43210,2500,retial,2024-01-15
+10708,rahul sharma,Pune, test@mail.com ,9876543210,2500,retial,
+10709,Rahul Sharma,mumbai,user@gmail.com,98765-43210,5000 ,Retail,2024-01-15
+10710,Pooja Patil,belgaum,user@gmail.com,9876543210,5000,SMB,15/01/2024
+10711,Rahul Sharma,Bengaluru, test@mail.com ,9123456780,2500,Corporate,
+10712,Akshay Kumar, MUMBAI ,USER@GMAIL.COM,9123456780,1000,Retail,Jan 15 2024
+10713,Rahul  Sharma,Belgaum,,,5000 ,corporate,15/01/2024
+10714,Akshay Kumar,belgaum,USER@GMAIL.COM,98765-43210,five thousand,SMB,
+10715,pooja patil,belgaum, test@mail.com ,,,SMB,15/01/2024
+10716,Rahul Sharma,Belgaum, test@mail.com ,,,Corporate,15/01/2024
+10717,Rahul  Sharma,Mumbai,user@gmail.com,9123456780,5000,Corporate,
+10718,pooja patil,Mumbai,,98765-43210,5000,Retail,
+10719,Rahul  Sharma,Pune,user@gmail.com,,2500,corporate,
+10719,Pooja Patil,Pune,USER@GMAIL.COM,98765-43210,,retial,Jan 15 2024
+10721,Rahul Sharma,Bengaluru,USER@GMAIL.COM,,5000,SMB,Jan 15 2024
+10722,Pooja Patil,Pune,user@gmail.com,9123456780,2500,Corporate,2024-01-15
+10723,Akshay Kumar,Belgaum,,,five thousand,SMB,
+10724,rahul sharma,Bangalore,user@gmail.com,9123456780,1000,SMB,2024-01-15
+10725,rahul sharma,mumbai, test@mail.com ,,2500,corporate,2024-01-15
+10726,rahul sharma,mumbai,USER@GMAIL.COM,9876543210,,retial,Jan 15 2024
+10727,Pooja Patil,pune,,,,Retail,Jan 15 2024
+10728,Rahul Sharma, MUMBAI ,user@gmail.com,,,Retail,
+10729,rahul sharma,Pune, test@mail.com ,98765-43210,1000,Retail,15/01/2024
+10730,Pooja Patil,Belgaum,USER@GMAIL.COM,9876543210,2500,corporate,2024-01-15
+10731,pooja patil,Pune,,98765-43210,five thousand,Corporate,Jan 15 2024
+10732,rahul sharma,Mumbai,user@gmail.com,,,Corporate,15/01/2024
+10733,Rahul  Sharma,Mumbai,USER@GMAIL.COM,9876543210,2500,corporate,Jan 15 2024
+10734,Rahul Sharma, MUMBAI , test@mail.com ,9876543210,,retial,2024-01-15
+10735,Rahul Sharma,Belgaum,USER@GMAIL.COM,,1000,retial,15/01/2024
+10736,Pooja Patil,mumbai, test@mail.com ,9876543210,1000,Corporate,15/01/2024
+10737,Akshay Kumar,belgaum,user@gmail.com,9123456780,,retial,Jan 15 2024
+10738,pooja patil,Bangalore,,9123456780,1000,corporate,Jan 15 2024
+10739,Akshay Kumar, MUMBAI , test@mail.com ,9876543210,,corporate,Jan 15 2024
+10740,pooja patil,Belgaum,USER@GMAIL.COM,9123456780,5000 ,Corporate,Jan 15 2024
+10741,Akshay Kumar,Belgaum, test@mail.com ,9123456780,1000,SMB,15/01/2024
+10742,Pooja Patil,pune, test@mail.com ,,,Retail,
+10743,Akshay Kumar, MUMBAI ,user@gmail.com,,5000 ,retial,Jan 15 2024
+10744,Akshay Kumar,mumbai,,9123456780,5000 ,corporate,15/01/2024
+10745,pooja patil,pune, test@mail.com ,98765-43210,five thousand,Corporate,2024-01-15
+10746,Rahul Sharma,belgaum,user@gmail.com,9876543210,2500,retial,2024-01-15
+10747,rahul sharma,mumbai,,9123456780,1000,Retail,
+10748,Akshay Kumar,Belgaum, test@mail.com ,9876543210,5000,retial,2024-01-15
+10749,Rahul Sharma,Pune,,9876543210,,Retail,Jan 15 2024
+10750,pooja patil,Bengaluru, test@mail.com ,9876543210,5000 ,Corporate,2024-01-15
+10751,Akshay Kumar,mumbai, test@mail.com ,9876543210,2500,SMB,2024-01-15
+10752,Rahul Sharma,Pune,,9123456780,2500,SMB,15/01/2024
+10753,pooja patil, MUMBAI ,,9876543210,five thousand,SMB,Jan 15 2024
+10754,Akshay Kumar,Belgaum,,9876543210,2500,retial,
+10755,pooja patil,Bangalore,USER@GMAIL.COM,98765-43210,5000,Corporate,Jan 15 2024
+10756,Rahul  Sharma,Bengaluru,,,5000 ,retial,15/01/2024
+10757,Pooja Patil,belgaum, test@mail.com ,,,corporate,
+10758,Rahul Sharma,Mumbai, test@mail.com ,9876543210,5000 ,retial,Jan 15 2024
+10759,Rahul Sharma,pune,USER@GMAIL.COM,9123456780,5000,Retail,Jan 15 2024
+10760,pooja patil,belgaum,USER@GMAIL.COM,9876543210,1000,corporate,Jan 15 2024
+10761,rahul sharma, MUMBAI , test@mail.com ,,5000 ,retial,15/01/2024
+10762,Rahul  Sharma,pune,user@gmail.com,98765-43210,5000 ,retial,2024-01-15
+10763,Akshay Kumar,Bangalore,,9123456780,,SMB,2024-01-15
+10764,pooja patil,pune,user@gmail.com,98765-43210,1000,Retail,Jan 15 2024
+10765,Rahul  Sharma,Bengaluru,,9876543210,2500,SMB,2024-01-15
+10766,Akshay Kumar,Bengaluru,user@gmail.com,,5000 ,Retail,Jan 15 2024
+10767,pooja patil, MUMBAI , test@mail.com ,9123456780,2500,Retail,
+10768,Pooja Patil,belgaum,user@gmail.com,9123456780,,Corporate,
+10769,rahul sharma, MUMBAI , test@mail.com ,9876543210,,SMB,2024-01-15
+10770,pooja patil,Bengaluru, test@mail.com ,9876543210,,SMB,
+10771,Akshay Kumar, MUMBAI ,USER@GMAIL.COM,98765-43210,5000 ,retial,
+10772,Pooja Patil,Pune,USER@GMAIL.COM,9123456780,1000,Corporate,
+10773,Rahul  Sharma,mumbai,user@gmail.com,98765-43210,,Corporate,Jan 15 2024
+10774,rahul sharma,Bangalore, test@mail.com ,9876543210,5000,retial,Jan 15 2024
+10775,pooja patil,Belgaum,USER@GMAIL.COM,98765-43210,1000,retial,15/01/2024
+10776,Akshay Kumar,Bangalore,USER@GMAIL.COM,9876543210,1000,Retail,15/01/2024
+10777,pooja patil, MUMBAI , test@mail.com ,9876543210,5000,Retail,Jan 15 2024
+10778,Pooja Patil,Belgaum,user@gmail.com,,2500,SMB,15/01/2024
+10779,rahul sharma,belgaum, test@mail.com ,98765-43210,5000 ,retial,2024-01-15
+10780,Pooja Patil,belgaum,user@gmail.com,,2500,Retail,Jan 15 2024
+10781,rahul sharma,pune,user@gmail.com,98765-43210,five thousand,Retail,2024-01-15
+10782,Pooja Patil,pune, test@mail.com ,9876543210,1000,Corporate,
+10783,rahul sharma,Bengaluru,user@gmail.com,,,SMB,2024-01-15
+10784,rahul sharma,Pune,,9876543210,1000,retial,Jan 15 2024
+10785,Rahul  Sharma,Belgaum,,9123456780,1000,Corporate,Jan 15 2024
+10786,Rahul  Sharma,pune,USER@GMAIL.COM,,1000,Corporate,
+10787,Rahul Sharma,belgaum, test@mail.com ,9123456780,2500,Corporate,
+10788,Akshay Kumar, MUMBAI ,user@gmail.com,98765-43210,5000 ,SMB,15/01/2024
+10789,Pooja Patil,Pune,USER@GMAIL.COM,98765-43210,5000,SMB,Jan 15 2024
+10790,Pooja Patil,belgaum,USER@GMAIL.COM,9123456780,five thousand,retial,15/01/2024
+10791,rahul sharma,pune,USER@GMAIL.COM,98765-43210,2500,SMB,15/01/2024
+10792,Rahul  Sharma,mumbai,user@gmail.com,9123456780,5000,retial,2024-01-15
+10793,Rahul  Sharma,Bengaluru,,,,Corporate,15/01/2024
+10794,rahul sharma,mumbai,USER@GMAIL.COM,9123456780,1000,SMB,Jan 15 2024
+10795,pooja patil,Pune,USER@GMAIL.COM,9123456780,five thousand,Retail,Jan 15 2024
+10796,Rahul Sharma,Belgaum,USER@GMAIL.COM,98765-43210,five thousand,Corporate,15/01/2024
+10797,Pooja Patil,Belgaum,,9123456780,2500,retial,15/01/2024
+10798,Rahul Sharma,Bengaluru,user@gmail.com,,,retial,15/01/2024
+10799,rahul sharma,mumbai,USER@GMAIL.COM,98765-43210,5000 ,corporate,Jan 15 2024
+10800,Pooja Patil,Pune,,98765-43210,1000,SMB,
+10801,Akshay Kumar,Bangalore,,9876543210,5000 ,Retail,
+10802,Pooja Patil,Mumbai,USER@GMAIL.COM,98765-43210,five thousand,Retail,
+10803,pooja patil,Mumbai,USER@GMAIL.COM,,,corporate,Jan 15 2024
+10804,Rahul  Sharma,Belgaum,USER@GMAIL.COM,98765-43210,5000,SMB,2024-01-15
+10805,Akshay Kumar,belgaum,USER@GMAIL.COM,98765-43210,five thousand,corporate,2024-01-15
+10806,Akshay Kumar,belgaum,user@gmail.com,9123456780,5000 ,SMB,15/01/2024
+10807,Pooja Patil,Bengaluru, test@mail.com ,98765-43210,1000,retial,
+10808,pooja patil,Pune,,9876543210,5000,Corporate,15/01/2024
+10809,Akshay Kumar,mumbai,user@gmail.com,9876543210,five thousand,corporate,Jan 15 2024
+10810,Rahul Sharma,belgaum,,9123456780,,SMB,
+10811,Rahul Sharma, MUMBAI , test@mail.com ,9123456780,2500,retial,15/01/2024
+10812,Akshay Kumar,Mumbai,,,5000,corporate,Jan 15 2024
+10813,Akshay Kumar, MUMBAI ,user@gmail.com,9123456780,2500,Retail,Jan 15 2024
+10814,Rahul Sharma,Belgaum,,98765-43210,5000 ,Retail,
+10815,rahul sharma,Pune,,98765-43210,,corporate,2024-01-15
+10816,pooja patil,Mumbai,USER@GMAIL.COM,,5000 ,SMB,15/01/2024
+10817,Rahul Sharma, MUMBAI ,USER@GMAIL.COM,9876543210,five thousand,Corporate,2024-01-15
+10818,rahul sharma,Mumbai, test@mail.com ,,1000,Retail,2024-01-15
+10819,Pooja Patil, MUMBAI ,USER@GMAIL.COM,,5000 ,SMB,15/01/2024
+10820,Pooja Patil,Bangalore,user@gmail.com,9876543210,5000,Corporate,Jan 15 2024
+10821,Pooja Patil,mumbai,,9876543210,5000,corporate,15/01/2024
+10822,Rahul Sharma,pune, test@mail.com ,98765-43210,5000 ,retial,15/01/2024
+10823,pooja patil,Mumbai,user@gmail.com,9876543210,,SMB,Jan 15 2024
+10824,Pooja Patil,Bangalore, test@mail.com ,,2500,SMB,
+10825,pooja patil,Belgaum,,9123456780,5000 ,retial,Jan 15 2024
+10826,rahul sharma,Mumbai,user@gmail.com,9876543210,,Retail,15/01/2024
+10827,pooja patil,Bengaluru,,9876543210,5000,Corporate,15/01/2024
+10828,Rahul Sharma,Pune, test@mail.com ,,1000,Corporate,Jan 15 2024
+10829,pooja patil,belgaum, test@mail.com ,9876543210,1000,Corporate,Jan 15 2024
+10830,Pooja Patil,Mumbai,USER@GMAIL.COM,9123456780,5000,Corporate,
+10831,Pooja Patil,Mumbai,USER@GMAIL.COM,98765-43210,2500,corporate,Jan 15 2024
+10832,Pooja Patil,Bengaluru,user@gmail.com,,5000 ,Corporate,2024-01-15
+10833,rahul sharma,Bangalore, test@mail.com ,9876543210,2500,Corporate,2024-01-15
+10834,Rahul  Sharma,Bengaluru,USER@GMAIL.COM,98765-43210,2500,SMB,2024-01-15
+10835,Rahul  Sharma,Bangalore,user@gmail.com,,,Retail,
+10836,rahul sharma,Bangalore,,,2500,SMB,Jan 15 2024
+10837,rahul sharma,mumbai, test@mail.com ,9876543210,2500,Retail,
+10838,pooja patil,Mumbai,,9123456780,2500,Corporate,
+10839,Akshay Kumar,belgaum, test@mail.com ,,2500,Retail,15/01/2024
+10839,rahul sharma,Mumbai,,98765-43210,five thousand,SMB,2024-01-15
+10841,Rahul Sharma,pune,user@gmail.com,9876543210,5000,corporate,2024-01-15
+10842,Rahul Sharma,belgaum, test@mail.com ,9876543210,5000 ,Corporate,15/01/2024
+10843,Rahul  Sharma,Pune,USER@GMAIL.COM,,5000,SMB,Jan 15 2024
+10844,Pooja Patil,mumbai, test@mail.com ,9123456780,2500,Corporate,2024-01-15
+10845,Rahul Sharma,belgaum,user@gmail.com,9123456780,5000 ,Corporate,Jan 15 2024
+10846,Rahul  Sharma, MUMBAI , test@mail.com ,9123456780,2500,Retail,Jan 15 2024
+10847,pooja patil,Bangalore,,9876543210,2500,Retail,
+10848,Akshay Kumar,Mumbai,user@gmail.com,98765-43210,1000,Retail,
+10849,Pooja Patil, MUMBAI ,,,5000,Corporate,15/01/2024
+10850,Akshay Kumar,belgaum,user@gmail.com,98765-43210,5000 ,retial,2024-01-15
+10851,Akshay Kumar,Belgaum,user@gmail.com,98765-43210,5000,corporate,
+10852,rahul sharma,Pune,USER@GMAIL.COM,,5000,corporate,15/01/2024
+10853,Akshay Kumar,Bangalore, test@mail.com ,98765-43210,,Retail,2024-01-15
+10854,Pooja Patil,mumbai, test@mail.com ,98765-43210,,retial,Jan 15 2024
+10855,Rahul  Sharma, MUMBAI ,user@gmail.com,98765-43210,five thousand,Retail,Jan 15 2024
+10856,pooja patil,mumbai, test@mail.com ,98765-43210,,SMB,
+10857,rahul sharma,Pune,USER@GMAIL.COM,98765-43210,,Retail,Jan 15 2024
+10858,rahul sharma,Bengaluru,,,5000 ,retial,15/01/2024
+10859,Akshay Kumar,mumbai,,9876543210,5000 ,SMB,
+10860,Rahul  Sharma,belgaum,user@gmail.com,98765-43210,2500,Corporate,
+10861,Rahul Sharma,mumbai,,,,Retail,2024-01-15
+10862,rahul sharma, MUMBAI ,user@gmail.com,9123456780,five thousand,retial,
+10863,pooja patil,pune,,98765-43210,2500,retial,Jan 15 2024
+10864,Rahul  Sharma,pune,,,1000,SMB,2024-01-15
+10865,pooja patil,belgaum,,9123456780,5000,Retail,Jan 15 2024
+10866,pooja patil,Mumbai,user@gmail.com,,1000,Corporate,2024-01-15
+10867,rahul sharma,Bengaluru,,,five thousand,corporate,
+10868,Pooja Patil,Bengaluru,USER@GMAIL.COM,9123456780,,retial,15/01/2024
+10869,pooja patil,Bengaluru, test@mail.com ,98765-43210,2500,Corporate,15/01/2024
+10870,rahul sharma,Mumbai,user@gmail.com,9876543210,2500,corporate,
+10871,rahul sharma,mumbai,USER@GMAIL.COM,98765-43210,,SMB,
+10872,pooja patil, MUMBAI ,,98765-43210,5000 ,corporate,
+10873,Rahul  Sharma,Pune,USER@GMAIL.COM,98765-43210,5000 ,Retail,
+10874,Akshay Kumar,Pune, test@mail.com ,98765-43210,5000 ,SMB,Jan 15 2024
+10875,Rahul Sharma,Mumbai,,,1000,SMB,
+10876,Akshay Kumar,mumbai,USER@GMAIL.COM,,,SMB,2024-01-15
+10877,pooja patil,mumbai,USER@GMAIL.COM,98765-43210,five thousand,Retail,Jan 15 2024
+10878,pooja patil,Mumbai, test@mail.com ,9876543210,,corporate,
+10879,pooja patil,Bangalore,,,5000,Corporate,15/01/2024
+10880,Rahul Sharma,pune, test@mail.com ,9876543210,five thousand,corporate,15/01/2024
+10881,pooja patil,Mumbai, test@mail.com ,9876543210,5000,corporate,2024-01-15
+10882,rahul sharma,belgaum,user@gmail.com,,5000,retial,Jan 15 2024
+10883,Rahul  Sharma,pune,user@gmail.com,9876543210,5000 ,retial,15/01/2024
+10884,Akshay Kumar,Belgaum, test@mail.com ,9123456780,5000,retial,
+10885,rahul sharma,belgaum,user@gmail.com,,1000,retial,15/01/2024
+10886,Pooja Patil,Bengaluru,,9123456780,five thousand,corporate,15/01/2024
+10887,rahul sharma,Bangalore,user@gmail.com,,1000,Retail,15/01/2024
+10888,Pooja Patil,Bengaluru,,,,SMB,15/01/2024
+10889,Pooja Patil,Bengaluru,,,2500,SMB,
+10890,Rahul Sharma,pune,,98765-43210,five thousand,Corporate,2024-01-15
+10891,Rahul Sharma,belgaum, test@mail.com ,98765-43210,5000 ,Corporate,Jan 15 2024
+10892,Rahul  Sharma,pune,user@gmail.com,,five thousand,SMB,
+10893,Pooja Patil,Pune,USER@GMAIL.COM,,five thousand,retial,Jan 15 2024
+10894,pooja patil,Mumbai,user@gmail.com,9876543210,1000,corporate,2024-01-15
+10895,pooja patil,mumbai,,,2500,Corporate,Jan 15 2024
+10896,rahul sharma,Mumbai,user@gmail.com,9876543210,1000,SMB,15/01/2024
+10897,pooja patil,mumbai,user@gmail.com,9876543210,5000 ,retial,
+10898,Akshay Kumar, MUMBAI ,user@gmail.com,9123456780,5000,Corporate,
+10899,Akshay Kumar,mumbai,,,,Corporate,Jan 15 2024
+10900,rahul sharma,mumbai, test@mail.com ,9876543210,,corporate,Jan 15 2024
+10901,Rahul Sharma,pune, test@mail.com ,9123456780,,Retail,
+10902,rahul sharma,Bengaluru,USER@GMAIL.COM,98765-43210,1000,retial,
+10903,rahul sharma,mumbai,,,1000,Retail,2024-01-15
+10904,Rahul Sharma,pune,,9876543210,,retial,2024-01-15
+10905,Rahul Sharma,Bengaluru, test@mail.com ,9123456780,five thousand,Corporate,
+10906,pooja patil,Mumbai,,98765-43210,,corporate,2024-01-15
+10907,pooja patil,Pune,user@gmail.com,98765-43210,five thousand,corporate,2024-01-15
+10908,pooja patil,belgaum, test@mail.com ,,five thousand,Corporate,
+10909,Rahul Sharma,mumbai, test@mail.com ,,1000,corporate,Jan 15 2024
+10910,Akshay Kumar,Pune,USER@GMAIL.COM,9876543210,,retial,Jan 15 2024
+10911,Akshay Kumar,Bengaluru,user@gmail.com,,,Retail,
+10912,Akshay Kumar,Pune,USER@GMAIL.COM,9876543210,2500,Retail,15/01/2024
+10913,Pooja Patil,Bengaluru,user@gmail.com,,,SMB,
+10914,Rahul Sharma,Mumbai, test@mail.com ,9876543210,5000,Retail,
+10915,Rahul Sharma,Pune,,9123456780,five thousand,SMB,15/01/2024
+10916,Rahul Sharma,Mumbai,USER@GMAIL.COM,98765-43210,five thousand,Retail,
+10917,pooja patil,Mumbai,USER@GMAIL.COM,9123456780,1000,retial,2024-01-15
+10918,Rahul  Sharma,mumbai,,9123456780,5000 ,Retail,2024-01-15
+10919,Rahul Sharma,Belgaum,USER@GMAIL.COM,9876543210,2500,corporate,Jan 15 2024
+10920,Akshay Kumar,Bengaluru, test@mail.com ,9876543210,five thousand,SMB,15/01/2024
+10921,Rahul  Sharma,Pune,user@gmail.com,9123456780,5000,Retail,2024-01-15
+10922,Rahul  Sharma, MUMBAI ,,9123456780,five thousand,Corporate,15/01/2024
+10923,Pooja Patil,Pune,user@gmail.com,9123456780,1000,SMB,
+10924,rahul sharma,Mumbai,,9876543210,1000,Retail,15/01/2024
+10925,Rahul Sharma,pune,,98765-43210,five thousand,retial,15/01/2024
+10926,rahul sharma,pune,,98765-43210,2500,retial,2024-01-15
+10927,pooja patil, MUMBAI ,,9876543210,five thousand,Corporate,Jan 15 2024
+10928,Pooja Patil,Mumbai,USER@GMAIL.COM,9123456780,1000,SMB,2024-01-15
+10929,pooja patil,Bangalore,USER@GMAIL.COM,98765-43210,five thousand,retial,Jan 15 2024
+10930,Rahul Sharma,Pune,user@gmail.com,9123456780,five thousand,corporate,
+10931,rahul sharma, MUMBAI ,user@gmail.com,9876543210,five thousand,Corporate,Jan 15 2024
+10932,rahul sharma,Bengaluru, test@mail.com ,,5000 ,corporate,2024-01-15
+10933,Rahul Sharma,Mumbai,USER@GMAIL.COM,9123456780,1000,corporate,2024-01-15
+10934,Rahul Sharma,Pune,,,,retial,Jan 15 2024
+10935,rahul sharma,mumbai, test@mail.com ,9123456780,1000,retial,
+10936,rahul sharma,Bengaluru,USER@GMAIL.COM,9876543210,,SMB,
+10937,Rahul Sharma,Bengaluru,USER@GMAIL.COM,9123456780,5000 ,corporate,15/01/2024
+10938,Pooja Patil,Bangalore,USER@GMAIL.COM,98765-43210,five thousand,retial,Jan 15 2024
+10939,Rahul  Sharma,Pune, test@mail.com ,9123456780,1000,SMB,2024-01-15
+10940,Rahul  Sharma, MUMBAI ,user@gmail.com,98765-43210,,corporate,15/01/2024
+10941,Rahul  Sharma,Pune, test@mail.com ,9123456780,five thousand,SMB,15/01/2024
+10942,pooja patil,belgaum,USER@GMAIL.COM,9876543210,,SMB,
+10943,rahul sharma,Belgaum,,,1000,corporate,15/01/2024
+10944,rahul sharma,Bangalore,,9123456780,5000 ,retial,2024-01-15
+10945,Pooja Patil,Mumbai,user@gmail.com,98765-43210,five thousand,SMB,2024-01-15
+10946,Pooja Patil,belgaum,,98765-43210,five thousand,Retail,
+10947,Pooja Patil,Pune,user@gmail.com,9876543210,five thousand,corporate,15/01/2024
+10948,rahul sharma,Bangalore, test@mail.com ,9123456780,five thousand,Retail,2024-01-15
+10949,Pooja Patil,pune,USER@GMAIL.COM,98765-43210,5000 ,SMB,2024-01-15
+10950,Pooja Patil,Belgaum,USER@GMAIL.COM,98765-43210,2500,Corporate,
+10951,Akshay Kumar,Mumbai,user@gmail.com,98765-43210,five thousand,Corporate,2024-01-15
+10952,Rahul  Sharma,Bengaluru, test@mail.com ,9123456780,five thousand,Retail,Jan 15 2024
+10953,Akshay Kumar,Mumbai, test@mail.com ,9876543210,1000,corporate,Jan 15 2024
+10954,Pooja Patil,Mumbai, test@mail.com ,,2500,SMB,2024-01-15
+10955,pooja patil,Pune,USER@GMAIL.COM,,2500,SMB,2024-01-15
+10956,Akshay Kumar,Belgaum,USER@GMAIL.COM,9123456780,5000,Corporate,Jan 15 2024
+10957,pooja patil,Bengaluru, test@mail.com ,9876543210,1000,Corporate,Jan 15 2024
+10958,Pooja Patil,Belgaum,user@gmail.com,98765-43210,five thousand,SMB,Jan 15 2024
+10959,Pooja Patil,Bangalore,user@gmail.com,9123456780,,Retail,2024-01-15
+10959,Pooja Patil, MUMBAI , test@mail.com ,9876543210,1000,retial,Jan 15 2024
+10961,Rahul Sharma, MUMBAI ,,9123456780,2500,SMB,2024-01-15
+10962,Rahul  Sharma,Bengaluru,USER@GMAIL.COM,98765-43210,5000,corporate,
+10963,Akshay Kumar,Mumbai, test@mail.com ,9123456780,1000,Retail,15/01/2024
+10964,pooja patil,Bangalore,,,five thousand,Corporate,
+10965,pooja patil,belgaum,,98765-43210,5000,SMB,15/01/2024
+10966,Rahul  Sharma, MUMBAI , test@mail.com ,9123456780,,Corporate,Jan 15 2024
+10967,Rahul Sharma, MUMBAI , test@mail.com ,,,retial,15/01/2024
+10968,Akshay Kumar,belgaum, test@mail.com ,9123456780,2500,retial,15/01/2024
+10969,rahul sharma,mumbai,user@gmail.com,,5000 ,retial,
+10970,Rahul  Sharma,Bangalore,USER@GMAIL.COM,9123456780,5000 ,Retail,Jan 15 2024
+10971,Rahul  Sharma, MUMBAI , test@mail.com ,98765-43210,5000 ,retial,Jan 15 2024
+10972,Rahul Sharma,Mumbai,,98765-43210,2500,corporate,Jan 15 2024
+10973,rahul sharma,Mumbai, test@mail.com ,,,Corporate,15/01/2024
+10974,pooja patil,Belgaum, test@mail.com ,9876543210,five thousand,corporate,2024-01-15
+10975,rahul sharma,belgaum,user@gmail.com,,1000,corporate,15/01/2024
+10976,Pooja Patil,Bangalore,user@gmail.com,,1000,SMB,15/01/2024
+10977,pooja patil,belgaum,USER@GMAIL.COM,,2500,Retail,2024-01-15
+10978,pooja patil,Belgaum,user@gmail.com,98765-43210,2500,corporate,Jan 15 2024
+10979,pooja patil,belgaum,user@gmail.com,,,retial,
+10980,Rahul  Sharma,Bengaluru, test@mail.com ,9876543210,5000,Corporate,Jan 15 2024
+10981,Rahul  Sharma,Belgaum,user@gmail.com,9123456780,five thousand,corporate,
+10982,Pooja Patil,pune,USER@GMAIL.COM,98765-43210,five thousand,corporate,15/01/2024
+10983,pooja patil,mumbai,USER@GMAIL.COM,9123456780,5000,corporate,Jan 15 2024
+10984,Rahul Sharma,Bengaluru,user@gmail.com,9876543210,,Corporate,
+10985,rahul sharma,belgaum,,9123456780,2500,retial,
+10986,Rahul  Sharma,belgaum,,9876543210,5000,SMB,Jan 15 2024
+10987,Pooja Patil,belgaum,,9123456780,1000,Retail,15/01/2024
+10988,Rahul  Sharma,pune,,9876543210,five thousand,Corporate,
+10989,rahul sharma,Belgaum,USER@GMAIL.COM,9876543210,1000,Corporate,
+10990,Rahul Sharma,Bangalore,,98765-43210,5000,corporate,2024-01-15
+10991,Rahul  Sharma,belgaum,user@gmail.com,,2500,SMB,2024-01-15
+10992,rahul sharma,Bangalore,,9123456780,5000,retial,2024-01-15
+10993,Rahul  Sharma,Bangalore,,,1000,Corporate,Jan 15 2024
+10994,pooja patil,mumbai,USER@GMAIL.COM,9123456780,1000,SMB,15/01/2024
+10995,pooja patil,Bangalore, test@mail.com ,,5000,Corporate,2024-01-15
+10996,pooja patil,Bangalore,USER@GMAIL.COM,9876543210,2500,SMB,Jan 15 2024
+10997,Rahul  Sharma,Belgaum,,,2500,Retail,15/01/2024
+10998,rahul sharma,belgaum,USER@GMAIL.COM,9123456780,5000 ,SMB,2024-01-15
+10999,Pooja Patil,Belgaum,user@gmail.com,9876543210,2500,Retail,
