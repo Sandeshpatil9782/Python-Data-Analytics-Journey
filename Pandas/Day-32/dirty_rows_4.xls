@@ -1,0 +1,2001 @@
+Employee_ID,Name,Age,Gender,Department,City,Salary,Experience_Years,Email,Joining_Date
+10000,Sanjay Patil,25.0,M,,pune,30000.0,2.0, test@mail.com ,2024-01-15
+10001,Sanjay Patil,25.0,male,Busines Analyst,Mumbai,25000.0,1.0, test@mail.com ,15/01/2024
+10002,AKSHAY kumar,22.0,male,data analyst,belgaum,30000.0,8.0,,Jan 15 2024
+10003,rahul sharma,30.0,female,Busines Analyst,Bangalore,45000.0,2.0, test@mail.com ,Jan 15 2024
+10004,rahul sharma,25.0,Female,Data Analyst,Bangalore,45000.0,,employee@company.com,2024-01-15
+10005,Sanjay Patil,150.0,male,Data Analyst,belgaum,25000.0,,employee@company.com,Jan 15 2024
+10006,AKSHAY kumar,35.0,female,Data Analyst,Mumbai,5000000.0,2.0,employee@company.com,2024-01-15
+10007,RAHUL SHARMA,25.0,Female,DATA ANALYST,,5000000.0,40.0,employee@company.com,15/01/2024
+10008,Rahul  Sharma,,F,,pune,5000000.0,-3.0,USER@GMAIL.COM,15/01/2024
+10009,AKSHAY kumar,35.0,F,Busines Analyst,belgaum,45000.0,-3.0,,15/01/2024
+10010,Sanjay Patil,,,Data Analyst,Pune,25000.0,40.0,employee@company.com,
+10011,Rahul  Sharma,25.0,F,Business Analyst,Bangalore,30000.0,-3.0,invalid_email,
+10012,Sanjay Patil,150.0,F,DATA ANALYST, MUMBAI ,30000.0,-3.0,,Jan 15 2024
+10013,Sanjay Patil,-5.0,male,Busines Analyst,Bangalore,30000.0,2.0,,
+10014,rahul sharma,22.0,,Data Analyst, MUMBAI ,5000000.0,2.0,invalid_email,2024-01-15
+10015,pooja patil,-5.0,male,Busines Analyst,pune,,40.0,USER@GMAIL.COM,2024-01-15
+10016,Sanjay Patil,45.0,,,Bangalore,25000.0,5.0,invalid_email,15/01/2024
+10017,pooja patil,22.0,female,,pune,,40.0, test@mail.com ,2024-01-15
+10018,Sanjay Patil,45.0,,,Pune,30000.0,5.0, test@mail.com ,2024-01-15
+10019,AKSHAY kumar,,Female,Data Analyst,mumbai,45000.0,40.0,employee@company.com,15/01/2024
+10020,rahul sharma,35.0,male,Data Analyst,mumbai,5000000.0,8.0,USER@GMAIL.COM,15/01/2024
+10021,RAHUL SHARMA,150.0,male,data analyst,pune,,40.0,,
+10022,RAHUL SHARMA,35.0,female,DATA ANALYST,belgaum,5000000.0,-3.0,employee@company.com,
+10023,AKSHAY kumar,150.0,M,data analyst,Pune,25000.0,5.0,USER@GMAIL.COM,15/01/2024
+10024,AKSHAY kumar,35.0,M,Data Analyst,Mumbai,30000.0,1.0,USER@GMAIL.COM,Jan 15 2024
+10025,rahul sharma,35.0,Male,,,30000.0,, test@mail.com ,
+10026,RAHUL SHARMA,150.0,,Busines Analyst,Pune,25000.0,1.0,invalid_email,Jan 15 2024
+10027,pooja patil,-5.0,Female,,Mumbai,5000000.0,-3.0,USER@GMAIL.COM,2024-01-15
+10028,pooja patil,,,Data Analyst,Pune,30000.0,2.0,,
+10029,RAHUL SHARMA,-5.0,F,DATA ANALYST,,30000.0,40.0,USER@GMAIL.COM,
+10030,AKSHAY kumar,25.0,M,,Mumbai,25000.0,40.0, test@mail.com ,15/01/2024
+10031,pooja patil,150.0,Female,data analyst,belgaum,25000.0,2.0,invalid_email,2024-01-15
+10032,pooja patil,45.0,,Busines Analyst,pune,60000.0,-3.0,,
+10033,RAHUL SHARMA,35.0,Male,data analyst,Mumbai,,-3.0,,2024-01-15
+10034,Sanjay Patil,,M,Data Analyst,,,40.0,,15/01/2024
+10035,rahul sharma,25.0,,data analyst,mumbai,,1.0, test@mail.com ,
+10036,rahul sharma,35.0,male,Business Analyst,Mumbai,,1.0,invalid_email,Jan 15 2024
+10037,Rahul  Sharma,35.0,female,,Bangalore,30000.0,5.0,invalid_email,15/01/2024
+10038,Sanjay Patil,45.0,Female,DATA ANALYST,mumbai,25000.0,8.0,,2024-01-15
+10039,rahul sharma,35.0,male,DATA ANALYST, MUMBAI ,45000.0,1.0, test@mail.com ,Jan 15 2024
+10040,Rahul  Sharma,30.0,Female,Business Analyst,pune,,40.0,,2024-01-15
+10041,Sanjay Patil,45.0,female,Data Analyst, MUMBAI ,45000.0,1.0,USER@GMAIL.COM,15/01/2024
+10042,Rahul  Sharma,45.0,male,data analyst,Bangalore,30000.0,-3.0,employee@company.com,
+10043,Rahul  Sharma,22.0,M,,belgaum,45000.0,1.0,USER@GMAIL.COM,Jan 15 2024
+10044,RAHUL SHARMA,45.0,F,,,,-3.0,invalid_email,2024-01-15
+10045,rahul sharma,25.0,female,data analyst,Mumbai,45000.0,,,15/01/2024
+10046,pooja patil,30.0,M,DATA ANALYST,Bangalore,25000.0,5.0, test@mail.com ,15/01/2024
+10047,Sanjay Patil,25.0,Male,Business Analyst,belgaum,,-3.0, test@mail.com ,15/01/2024
+10048,RAHUL SHARMA,30.0,Female,Data Analyst, MUMBAI ,5000000.0,5.0,invalid_email,15/01/2024
+10049,Rahul  Sharma,30.0,,,mumbai,60000.0,40.0,USER@GMAIL.COM,
+10050,RAHUL SHARMA,35.0,,Busines Analyst,Bangalore,45000.0,40.0, test@mail.com ,15/01/2024
+10051,rahul sharma,35.0,Female,DATA ANALYST,pune,25000.0,40.0,employee@company.com,Jan 15 2024
+10052,Sanjay Patil,-5.0,female,Business Analyst,Bangalore,25000.0,1.0,employee@company.com,15/01/2024
+10053,AKSHAY kumar,45.0,M,Data Analyst,belgaum,45000.0,-3.0,employee@company.com,
+10054,AKSHAY kumar,25.0,Female,Business Analyst,Pune,45000.0,1.0,invalid_email,2024-01-15
+10055,AKSHAY kumar,35.0,Male,Busines Analyst,mumbai,5000000.0,5.0,,Jan 15 2024
+10056,Sanjay Patil,25.0,female,DATA ANALYST,pune,5000000.0,8.0,employee@company.com,
+10057,Sanjay Patil,45.0,male,data analyst,Pune,60000.0,-3.0,invalid_email,15/01/2024
+10058,AKSHAY kumar,45.0,Female,Business Analyst,Mumbai,45000.0,5.0, test@mail.com ,
+10059,AKSHAY kumar,,Female,Busines Analyst,,5000000.0,2.0,,
+10060,Sanjay Patil,30.0,female,Data Analyst,pune,,-3.0,,Jan 15 2024
+10061,rahul sharma,35.0,female,DATA ANALYST,Pune,30000.0,2.0,USER@GMAIL.COM,2024-01-15
+10062,RAHUL SHARMA,150.0,male,Data Analyst,,60000.0,-3.0,,15/01/2024
+10063,Sanjay Patil,-5.0,Female,Busines Analyst,Pune,30000.0,-3.0,USER@GMAIL.COM,2024-01-15
+10064,pooja patil,35.0,F,,,25000.0,, test@mail.com ,2024-01-15
+10065,pooja patil,30.0,,Busines Analyst,Bangalore,60000.0,,,
+10066,AKSHAY kumar,150.0,F,,,60000.0,5.0, test@mail.com ,Jan 15 2024
+10067,AKSHAY kumar,150.0,female,data analyst,pune,60000.0,1.0,employee@company.com,15/01/2024
+10068,Rahul  Sharma,,Male,Business Analyst,mumbai,30000.0,2.0, test@mail.com ,
+10069,Sanjay Patil,30.0,female,data analyst,mumbai,60000.0,8.0,employee@company.com,
+10070,pooja patil,22.0,F,Busines Analyst,belgaum,,-3.0,USER@GMAIL.COM,
+10071,pooja patil,22.0,Male,DATA ANALYST,belgaum,60000.0,,,15/01/2024
+10072,pooja patil,35.0,Male,Busines Analyst,,25000.0,8.0,employee@company.com,
+10073,Sanjay Patil,30.0,,Busines Analyst, MUMBAI ,,,USER@GMAIL.COM,
+10074,AKSHAY kumar,22.0,M,,belgaum,30000.0,40.0,invalid_email,15/01/2024
+10075,rahul sharma,45.0,Female,DATA ANALYST,Pune,60000.0,5.0,employee@company.com,
+10076,Rahul  Sharma,-5.0,Male,Data Analyst,,25000.0,-3.0,,2024-01-15
+10077,Rahul  Sharma,35.0,female,Data Analyst,Mumbai,25000.0,2.0, test@mail.com ,2024-01-15
+10078,AKSHAY kumar,30.0,F,data analyst,,5000000.0,1.0,,15/01/2024
+10079,pooja patil,45.0,,DATA ANALYST, MUMBAI ,,,USER@GMAIL.COM,15/01/2024
+10080,Rahul  Sharma,25.0,male,Data Analyst,pune,,-3.0,invalid_email,
+10081,Sanjay Patil,35.0,M,Business Analyst,Pune,25000.0,-3.0,employee@company.com,2024-01-15
+10082,AKSHAY kumar,22.0,Male,Business Analyst,belgaum,5000000.0,5.0,USER@GMAIL.COM,Jan 15 2024
+10083,rahul sharma,-5.0,,Busines Analyst,mumbai,60000.0,5.0,invalid_email,15/01/2024
+10084,pooja patil,30.0,female,Business Analyst,pune,,40.0,,
+10085,pooja patil,-5.0,,,pune,45000.0,40.0, test@mail.com ,2024-01-15
+10086,Rahul  Sharma,150.0,F,Busines Analyst,belgaum,45000.0,1.0,invalid_email,Jan 15 2024
+10087,RAHUL SHARMA,150.0,F,DATA ANALYST,pune,45000.0,5.0,,Jan 15 2024
+10088,AKSHAY kumar,22.0,male,data analyst,mumbai,30000.0,-3.0,invalid_email,
+10089,AKSHAY kumar,35.0,female,Busines Analyst,,60000.0,40.0,USER@GMAIL.COM,2024-01-15
+10090,Rahul  Sharma,35.0,Female,,Pune,45000.0,-3.0,,Jan 15 2024
+10091,pooja patil,,Female,,Bangalore,45000.0,-3.0,invalid_email,Jan 15 2024
+10092,Rahul  Sharma,45.0,F,Data Analyst,Pune,45000.0,1.0,,15/01/2024
+10093,RAHUL SHARMA,35.0,female,Busines Analyst,pune,5000000.0,,,Jan 15 2024
+10094,rahul sharma,35.0,Male,data analyst,Bangalore,30000.0,5.0,USER@GMAIL.COM,15/01/2024
+10095,Rahul  Sharma,22.0,M,Business Analyst,pune,5000000.0,2.0,invalid_email,2024-01-15
+10096,rahul sharma,45.0,Female,Busines Analyst,,45000.0,2.0,USER@GMAIL.COM,Jan 15 2024
+10097,pooja patil,25.0,,Data Analyst,belgaum,60000.0,1.0,,2024-01-15
+10098,RAHUL SHARMA,30.0,,Business Analyst,pune,25000.0,2.0,USER@GMAIL.COM,
+10099,AKSHAY kumar,35.0,,Business Analyst,belgaum,60000.0,8.0,employee@company.com,
+10100,Rahul  Sharma,22.0,male,,mumbai,30000.0,-3.0, test@mail.com ,Jan 15 2024
+10101,Sanjay Patil,25.0,F,data analyst, MUMBAI ,,1.0, test@mail.com ,2024-01-15
+10102,pooja patil,150.0,female,Business Analyst,,45000.0,1.0, test@mail.com ,Jan 15 2024
+10103,Sanjay Patil,45.0,female,Busines Analyst,mumbai,5000000.0,2.0,employee@company.com,15/01/2024
+10104,pooja patil,25.0,male,data analyst, MUMBAI ,45000.0,40.0, test@mail.com ,2024-01-15
+10105,rahul sharma,30.0,,DATA ANALYST,pune,60000.0,1.0,invalid_email,Jan 15 2024
+10106,Sanjay Patil,-5.0,Male,Business Analyst,,60000.0,1.0,,2024-01-15
+10107,pooja patil,,male,DATA ANALYST,Mumbai,25000.0,2.0,,2024-01-15
+10108,Sanjay Patil,45.0,male,Data Analyst, MUMBAI ,60000.0,,invalid_email,Jan 15 2024
+10109,RAHUL SHARMA,-5.0,female,Busines Analyst,mumbai,60000.0,5.0,invalid_email,Jan 15 2024
+10110,Rahul  Sharma,25.0,,data analyst,Bangalore,60000.0,-3.0,invalid_email,Jan 15 2024
+10111,Sanjay Patil,-5.0,,Business Analyst,Mumbai,60000.0,1.0,employee@company.com,Jan 15 2024
+10112,Rahul  Sharma,25.0,,Busines Analyst,Mumbai,5000000.0,40.0,,
+10113,pooja patil,22.0,F,Business Analyst,Bangalore,,40.0,invalid_email,
+10114,rahul sharma,35.0,Male,Business Analyst, MUMBAI ,45000.0,8.0,invalid_email,2024-01-15
+10115,rahul sharma,35.0,female,data analyst,pune,,1.0,,
+10116,rahul sharma,35.0,,Data Analyst,,25000.0,-3.0, test@mail.com ,
+10117,Sanjay Patil,45.0,male,,pune,60000.0,40.0,invalid_email,
+10118,RAHUL SHARMA,150.0,male,data analyst,belgaum,30000.0,,,15/01/2024
+10119,rahul sharma,45.0,,Busines Analyst,Bangalore,,5.0,USER@GMAIL.COM,Jan 15 2024
+10120,Sanjay Patil,45.0,,Business Analyst,,30000.0,8.0,,
+10121,Rahul  Sharma,,male,Business Analyst,belgaum,60000.0,5.0, test@mail.com ,15/01/2024
+10122,AKSHAY kumar,-5.0,F,Busines Analyst,Mumbai,45000.0,-3.0,invalid_email,
+10123,pooja patil,30.0,Female,Data Analyst, MUMBAI ,,,employee@company.com,2024-01-15
+10124,pooja patil,25.0,male,Busines Analyst,Mumbai,5000000.0,2.0,invalid_email,15/01/2024
+10125,rahul sharma,150.0,,DATA ANALYST,Bangalore,,-3.0,invalid_email,2024-01-15
+10126,Rahul  Sharma,-5.0,Male,,,,1.0,,2024-01-15
+10127,RAHUL SHARMA,45.0,F,,mumbai,60000.0,1.0,USER@GMAIL.COM,
+10128,RAHUL SHARMA,45.0,M,Data Analyst,Bangalore,25000.0,5.0,employee@company.com,Jan 15 2024
+10129,pooja patil,30.0,F,Business Analyst,belgaum,,-3.0, test@mail.com ,15/01/2024
+10130,RAHUL SHARMA,25.0,male,Busines Analyst,Pune,60000.0,, test@mail.com ,15/01/2024
+10131,pooja patil,45.0,Female,DATA ANALYST,Mumbai,60000.0,5.0,,15/01/2024
+10132,rahul sharma,150.0,Male,Business Analyst,pune,5000000.0,8.0,employee@company.com,
+10133,Rahul  Sharma,35.0,Female,Busines Analyst,mumbai,30000.0,8.0,,Jan 15 2024
+10134,AKSHAY kumar,45.0,female,DATA ANALYST,Mumbai,5000000.0,8.0,employee@company.com,2024-01-15
+10135,AKSHAY kumar,22.0,male,,,45000.0,40.0, test@mail.com ,Jan 15 2024
+10136,RAHUL SHARMA,35.0,male,DATA ANALYST, MUMBAI ,5000000.0,1.0,USER@GMAIL.COM,Jan 15 2024
+10137,pooja patil,22.0,male,DATA ANALYST, MUMBAI ,25000.0,5.0,employee@company.com,
+10138,RAHUL SHARMA,35.0,F,Business Analyst,Bangalore,,,employee@company.com,15/01/2024
+10139,Rahul  Sharma,150.0,,DATA ANALYST,Bangalore,25000.0,8.0,USER@GMAIL.COM,15/01/2024
+10140,RAHUL SHARMA,-5.0,,Business Analyst,Bangalore,25000.0,40.0,invalid_email,2024-01-15
+10141,Rahul  Sharma,25.0,Female,DATA ANALYST,pune,,8.0,employee@company.com,2024-01-15
+10142,Sanjay Patil,35.0,Female,Data Analyst,Bangalore,,2.0,USER@GMAIL.COM,
+10143,Sanjay Patil,45.0,female,Busines Analyst,mumbai,30000.0,1.0,USER@GMAIL.COM,Jan 15 2024
+10144,pooja patil,25.0,M,data analyst, MUMBAI ,60000.0,8.0,employee@company.com,
+10145,AKSHAY kumar,30.0,Female,,mumbai,60000.0,,invalid_email,Jan 15 2024
+10146,rahul sharma,,F,Busines Analyst,,30000.0,40.0,employee@company.com,2024-01-15
+10147,Sanjay Patil,,male,,Bangalore,25000.0,8.0,employee@company.com,15/01/2024
+10148,rahul sharma,150.0,M,,Pune,5000000.0,-3.0,,2024-01-15
+10149,rahul sharma,,F,data analyst,Pune,25000.0,40.0,,15/01/2024
+10149,AKSHAY kumar,35.0,,data analyst,Bangalore,30000.0,40.0,,2024-01-15
+10151,Rahul  Sharma,30.0,F,Business Analyst,pune,30000.0,1.0,USER@GMAIL.COM,15/01/2024
+10152,rahul sharma,,,data analyst,Bangalore,25000.0,2.0,employee@company.com,2024-01-15
+10153,RAHUL SHARMA,-5.0,male,Data Analyst,mumbai,60000.0,8.0,employee@company.com,2024-01-15
+10154,pooja patil,35.0,male,Data Analyst,pune,60000.0,-3.0,USER@GMAIL.COM,2024-01-15
+10155,pooja patil,-5.0,Female,,mumbai,60000.0,-3.0,invalid_email,2024-01-15
+10156,rahul sharma,,male,data analyst,mumbai,30000.0,5.0,,Jan 15 2024
+10157,pooja patil,45.0,Female,Business Analyst,belgaum,25000.0,40.0,USER@GMAIL.COM,15/01/2024
+10158,pooja patil,150.0,F,Busines Analyst,Bangalore,60000.0,8.0,invalid_email,2024-01-15
+10159,Rahul  Sharma,-5.0,Male,,pune,45000.0,2.0,invalid_email,2024-01-15
+10160,rahul sharma,25.0,M,Busines Analyst,mumbai,5000000.0,-3.0,employee@company.com,15/01/2024
+10161,AKSHAY kumar,22.0,male,Business Analyst,Bangalore,5000000.0,1.0,invalid_email,Jan 15 2024
+10162,Sanjay Patil,-5.0,,,Mumbai,45000.0,,employee@company.com,Jan 15 2024
+10163,rahul sharma,35.0,F,,,30000.0,40.0,USER@GMAIL.COM,Jan 15 2024
+10164,AKSHAY kumar,,M,DATA ANALYST,Pune,60000.0,40.0,,2024-01-15
+10165,AKSHAY kumar,45.0,M,data analyst,pune,5000000.0,40.0,employee@company.com,Jan 15 2024
+10166,Rahul  Sharma,22.0,F,data analyst,belgaum,25000.0,2.0,USER@GMAIL.COM,2024-01-15
+10167,Sanjay Patil,35.0,Female,Busines Analyst,,45000.0,2.0,employee@company.com,Jan 15 2024
+10168,Sanjay Patil,,,Business Analyst,mumbai,25000.0,2.0, test@mail.com ,2024-01-15
+10169,Sanjay Patil,25.0,Male,Busines Analyst,belgaum,60000.0,,invalid_email,
+10170,Rahul  Sharma,35.0,,Business Analyst,mumbai,45000.0,8.0,USER@GMAIL.COM,Jan 15 2024
+10171,Sanjay Patil,150.0,male,,pune,25000.0,2.0,invalid_email,2024-01-15
+10172,rahul sharma,35.0,Male,data analyst, MUMBAI ,45000.0,5.0,employee@company.com,2024-01-15
+10173,rahul sharma,150.0,female,Busines Analyst, MUMBAI ,30000.0,8.0,,15/01/2024
+10174,AKSHAY kumar,,M,Busines Analyst,Mumbai,60000.0,1.0,invalid_email,2024-01-15
+10175,Rahul  Sharma,-5.0,male,Busines Analyst,belgaum,45000.0,1.0,invalid_email,2024-01-15
+10176,Rahul  Sharma,30.0,,Business Analyst,,5000000.0,5.0,USER@GMAIL.COM,
+10177,rahul sharma,35.0,Female,Business Analyst,belgaum,,1.0,invalid_email,Jan 15 2024
+10178,Sanjay Patil,,F,DATA ANALYST, MUMBAI ,25000.0,,USER@GMAIL.COM,15/01/2024
+10179,Rahul  Sharma,,female,, MUMBAI ,30000.0,1.0, test@mail.com ,Jan 15 2024
+10180,RAHUL SHARMA,30.0,male,data analyst,mumbai,30000.0,40.0,invalid_email,
+10181,AKSHAY kumar,150.0,female,Business Analyst,Bangalore,5000000.0,5.0, test@mail.com ,
+10182,rahul sharma,150.0,Female,,pune,45000.0,,USER@GMAIL.COM,Jan 15 2024
+10183,AKSHAY kumar,25.0,Male,Busines Analyst,,25000.0,1.0,employee@company.com,Jan 15 2024
+10184,rahul sharma,25.0,male,Business Analyst,belgaum,60000.0,,,2024-01-15
+10185,pooja patil,35.0,Male,Business Analyst,,,2.0,USER@GMAIL.COM,
+10186,rahul sharma,,female,Data Analyst, MUMBAI ,25000.0,2.0,invalid_email,
+10187,AKSHAY kumar,30.0,Male,DATA ANALYST,pune,60000.0,8.0,employee@company.com,2024-01-15
+10188,Sanjay Patil,,M,DATA ANALYST,mumbai,,-3.0,invalid_email,Jan 15 2024
+10189,Rahul  Sharma,30.0,Male,Data Analyst, MUMBAI ,45000.0,5.0,invalid_email,15/01/2024
+10190,AKSHAY kumar,25.0,Male,Business Analyst,belgaum,5000000.0,40.0,employee@company.com,15/01/2024
+10191,Sanjay Patil,25.0,female,,belgaum,,5.0,USER@GMAIL.COM,Jan 15 2024
+10192,Rahul  Sharma,30.0,F,DATA ANALYST,,30000.0,2.0, test@mail.com ,15/01/2024
+10193,rahul sharma,45.0,,Data Analyst,Mumbai,5000000.0,5.0,,15/01/2024
+10194,AKSHAY kumar,-5.0,F,data analyst, MUMBAI ,5000000.0,40.0,,15/01/2024
+10195,Sanjay Patil,150.0,M,Busines Analyst,Bangalore,5000000.0,-3.0, test@mail.com ,
+10196,AKSHAY kumar,45.0,,,,30000.0,, test@mail.com ,Jan 15 2024
+10197,pooja patil,35.0,Male,,,60000.0,40.0,employee@company.com,
+10198,AKSHAY kumar,-5.0,F,data analyst, MUMBAI ,45000.0,1.0,invalid_email,Jan 15 2024
+10199,AKSHAY kumar,25.0,female,Business Analyst,mumbai,45000.0,1.0, test@mail.com ,Jan 15 2024
+10200,pooja patil,30.0,,Busines Analyst,mumbai,30000.0,40.0,invalid_email,Jan 15 2024
+10201,rahul sharma,-5.0,M,Busines Analyst,Bangalore,30000.0,8.0,USER@GMAIL.COM,Jan 15 2024
+10202,RAHUL SHARMA,22.0,Male,Data Analyst,Bangalore,30000.0,2.0,USER@GMAIL.COM,Jan 15 2024
+10203,pooja patil,30.0,,,,60000.0,,USER@GMAIL.COM,2024-01-15
+10204,rahul sharma,45.0,F,data analyst,belgaum,25000.0,40.0,employee@company.com,15/01/2024
+10205,Rahul  Sharma,25.0,M,data analyst,belgaum,5000000.0,40.0,,
+10206,rahul sharma,25.0,,Busines Analyst,Mumbai,5000000.0,,,15/01/2024
+10207,Sanjay Patil,30.0,Male,Busines Analyst,Mumbai,,5.0, test@mail.com ,
+10208,RAHUL SHARMA,25.0,male,DATA ANALYST,mumbai,,,,2024-01-15
+10209,pooja patil,150.0,M,,belgaum,45000.0,5.0,USER@GMAIL.COM,Jan 15 2024
+10210,rahul sharma,,F,,mumbai,,-3.0,employee@company.com,15/01/2024
+10211,rahul sharma,,male,DATA ANALYST, MUMBAI ,5000000.0,8.0,invalid_email,15/01/2024
+10212,RAHUL SHARMA,25.0,female,Busines Analyst,Mumbai,45000.0,2.0,USER@GMAIL.COM,15/01/2024
+10213,rahul sharma,,Male,Business Analyst,belgaum,,8.0,employee@company.com,2024-01-15
+10214,Sanjay Patil,35.0,Male,DATA ANALYST,Mumbai,5000000.0,5.0,employee@company.com,2024-01-15
+10215,Rahul  Sharma,-5.0,Female,,,60000.0,5.0, test@mail.com ,
+10216,Sanjay Patil,150.0,Male,Business Analyst,pune,25000.0,-3.0,invalid_email,2024-01-15
+10217,pooja patil,30.0,male,DATA ANALYST,Bangalore,25000.0,1.0,employee@company.com,Jan 15 2024
+10218,Rahul  Sharma,150.0,male,,belgaum,30000.0,-3.0,invalid_email,Jan 15 2024
+10219,pooja patil,22.0,female,DATA ANALYST,belgaum,45000.0,-3.0,USER@GMAIL.COM,2024-01-15
+10220,Sanjay Patil,-5.0,Male,Business Analyst, MUMBAI ,25000.0,2.0,,
+10221,rahul sharma,30.0,M,data analyst,Bangalore,45000.0,8.0,,2024-01-15
+10222,AKSHAY kumar,30.0,female,Busines Analyst,Bangalore,45000.0,8.0,USER@GMAIL.COM,15/01/2024
+10223,AKSHAY kumar,,Female,DATA ANALYST,pune,30000.0,1.0,USER@GMAIL.COM,15/01/2024
+10224,pooja patil,-5.0,male,Data Analyst,pune,45000.0,-3.0,invalid_email,15/01/2024
+10225,AKSHAY kumar,45.0,female,Busines Analyst,Pune,25000.0,2.0,USER@GMAIL.COM,
+10226,RAHUL SHARMA,150.0,M,,Bangalore,5000000.0,5.0,USER@GMAIL.COM,Jan 15 2024
+10227,Rahul  Sharma,30.0,female,, MUMBAI ,45000.0,, test@mail.com ,2024-01-15
+10228,RAHUL SHARMA,30.0,F,Busines Analyst,Mumbai,45000.0,,,Jan 15 2024
+10229,pooja patil,30.0,male,Data Analyst,mumbai,45000.0,8.0,invalid_email,
+10230,pooja patil,25.0,F,DATA ANALYST,mumbai,60000.0,8.0,,Jan 15 2024
+10231,RAHUL SHARMA,30.0,,data analyst,belgaum,,40.0,USER@GMAIL.COM,2024-01-15
+10232,AKSHAY kumar,30.0,Male,data analyst, MUMBAI ,45000.0,-3.0, test@mail.com ,Jan 15 2024
+10233,AKSHAY kumar,45.0,,Data Analyst,pune,30000.0,-3.0,,Jan 15 2024
+10234,RAHUL SHARMA,45.0,male,Business Analyst,mumbai,,-3.0, test@mail.com ,15/01/2024
+10235,RAHUL SHARMA,,,Business Analyst,Mumbai,25000.0,1.0,USER@GMAIL.COM,Jan 15 2024
+10236,Sanjay Patil,35.0,,Business Analyst,belgaum,,-3.0,USER@GMAIL.COM,
+10237,Sanjay Patil,45.0,female,DATA ANALYST,,30000.0,40.0,invalid_email,Jan 15 2024
+10238,pooja patil,25.0,female,Data Analyst, MUMBAI ,60000.0,8.0,invalid_email,
+10239,RAHUL SHARMA,,male,data analyst,Bangalore,5000000.0,5.0,employee@company.com,
+10240,RAHUL SHARMA,,male,Business Analyst,mumbai,45000.0,2.0,invalid_email,2024-01-15
+10241,Rahul  Sharma,150.0,F,data analyst,mumbai,25000.0,5.0,invalid_email,
+10242,RAHUL SHARMA,30.0,,DATA ANALYST,Bangalore,30000.0,40.0, test@mail.com ,
+10243,AKSHAY kumar,150.0,Female,DATA ANALYST,,25000.0,1.0,invalid_email,
+10244,RAHUL SHARMA,35.0,male,DATA ANALYST,Mumbai,25000.0,5.0,invalid_email,
+10245,Rahul  Sharma,22.0,,Data Analyst,belgaum,30000.0,5.0,employee@company.com,
+10246,Rahul  Sharma,22.0,Female,Data Analyst,Pune,45000.0,,employee@company.com,2024-01-15
+10247,pooja patil,150.0,,Business Analyst,pune,,-3.0,,2024-01-15
+10248,RAHUL SHARMA,25.0,Female,DATA ANALYST,Bangalore,,5.0, test@mail.com ,15/01/2024
+10249,AKSHAY kumar,-5.0,male,Data Analyst,Mumbai,25000.0,2.0,employee@company.com,
+10250,AKSHAY kumar,150.0,F,Business Analyst, MUMBAI ,45000.0,,employee@company.com,15/01/2024
+10251,pooja patil,45.0,male,DATA ANALYST,,5000000.0,,employee@company.com,
+10252,rahul sharma,,Male,,mumbai,60000.0,,employee@company.com,2024-01-15
+10253,AKSHAY kumar,150.0,Male,,Pune,5000000.0,1.0,,
+10254,RAHUL SHARMA,-5.0,F,,Pune,25000.0,,USER@GMAIL.COM,15/01/2024
+10255,rahul sharma,150.0,Male,Busines Analyst, MUMBAI ,60000.0,-3.0, test@mail.com ,
+10256,AKSHAY kumar,150.0,,,Mumbai,5000000.0,2.0,,15/01/2024
+10257,AKSHAY kumar,,female,Busines Analyst,belgaum,45000.0,2.0,invalid_email,Jan 15 2024
+10258,AKSHAY kumar,,female,,pune,,8.0, test@mail.com ,15/01/2024
+10259,Rahul  Sharma,45.0,F,DATA ANALYST,pune,5000000.0,2.0,invalid_email,Jan 15 2024
+10260,pooja patil,,male,,pune,45000.0,1.0,,
+10261,pooja patil,,,data analyst,pune,25000.0,5.0,USER@GMAIL.COM,Jan 15 2024
+10262,pooja patil,45.0,female,Busines Analyst,Pune,30000.0,40.0,,Jan 15 2024
+10263,AKSHAY kumar,45.0,F,Data Analyst,Pune,30000.0,1.0,,15/01/2024
+10264,Sanjay Patil,35.0,M,Data Analyst,belgaum,45000.0,-3.0,invalid_email,2024-01-15
+10265,Sanjay Patil,30.0,M,Business Analyst, MUMBAI ,60000.0,-3.0,invalid_email,
+10266,Sanjay Patil,35.0,,DATA ANALYST,Bangalore,45000.0,-3.0,USER@GMAIL.COM,2024-01-15
+10267,Sanjay Patil,35.0,male,,Mumbai,30000.0,8.0, test@mail.com ,2024-01-15
+10268,pooja patil,150.0,F,,pune,25000.0,1.0,employee@company.com,2024-01-15
+10269,Rahul  Sharma,45.0,Female,,,30000.0,40.0,,
+10270,Rahul  Sharma,35.0,,Data Analyst,Bangalore,30000.0,-3.0,invalid_email,Jan 15 2024
+10271,Sanjay Patil,30.0,M,,Bangalore,45000.0,, test@mail.com ,15/01/2024
+10272,AKSHAY kumar,-5.0,,Busines Analyst,Bangalore,25000.0,8.0,USER@GMAIL.COM,15/01/2024
+10273,RAHUL SHARMA,150.0,Male,data analyst,Mumbai,45000.0,8.0, test@mail.com ,
+10274,Rahul  Sharma,,Male,Business Analyst,Mumbai,45000.0,-3.0,employee@company.com,15/01/2024
+10275,rahul sharma,25.0,Female,DATA ANALYST, MUMBAI ,60000.0,-3.0,,Jan 15 2024
+10276,Sanjay Patil,25.0,female,DATA ANALYST,Bangalore,,2.0, test@mail.com ,15/01/2024
+10277,pooja patil,30.0,Female,,Bangalore,60000.0,-3.0,,
+10278,AKSHAY kumar,35.0,,data analyst,mumbai,,8.0,,Jan 15 2024
+10279,rahul sharma,25.0,M,Business Analyst,Pune,,, test@mail.com ,15/01/2024
+10280,Rahul  Sharma,150.0,M,,Pune,5000000.0,,invalid_email,2024-01-15
+10281,AKSHAY kumar,150.0,,Data Analyst,,30000.0,,invalid_email,
+10282,AKSHAY kumar,22.0,male,Busines Analyst,pune,5000000.0,1.0,invalid_email,Jan 15 2024
+10283,rahul sharma,35.0,male,Data Analyst,Mumbai,60000.0,5.0,USER@GMAIL.COM,2024-01-15
+10284,rahul sharma,150.0,M,DATA ANALYST,belgaum,30000.0,40.0, test@mail.com ,
+10285,Rahul  Sharma,-5.0,Female,Busines Analyst,belgaum,25000.0,-3.0,,15/01/2024
+10286,Sanjay Patil,,M,data analyst,belgaum,,2.0, test@mail.com ,2024-01-15
+10287,rahul sharma,45.0,Female,,belgaum,,8.0, test@mail.com ,15/01/2024
+10288,pooja patil,,F,DATA ANALYST,Pune,5000000.0,40.0,USER@GMAIL.COM,2024-01-15
+10289,Sanjay Patil,-5.0,male,Data Analyst,Pune,30000.0,1.0,USER@GMAIL.COM,2024-01-15
+10290,pooja patil,22.0,F,,Mumbai,60000.0,8.0, test@mail.com ,15/01/2024
+10291,rahul sharma,30.0,male,DATA ANALYST,Pune,5000000.0,,employee@company.com,Jan 15 2024
+10292,RAHUL SHARMA,45.0,F,,Pune,60000.0,5.0,employee@company.com,2024-01-15
+10293,AKSHAY kumar,30.0,female,,belgaum,,8.0,USER@GMAIL.COM,Jan 15 2024
+10294,Sanjay Patil,-5.0,,Business Analyst,Bangalore,5000000.0,8.0,invalid_email,15/01/2024
+10295,Rahul  Sharma,-5.0,F,Business Analyst,,30000.0,40.0, test@mail.com ,Jan 15 2024
+10296,Sanjay Patil,30.0,,Busines Analyst,Mumbai,,8.0,invalid_email,15/01/2024
+10297,pooja patil,35.0,Male,data analyst,Bangalore,5000000.0,1.0,invalid_email,Jan 15 2024
+10298,rahul sharma,35.0,M,DATA ANALYST,belgaum,5000000.0,,,2024-01-15
+10299,rahul sharma,35.0,,Business Analyst,Pune,60000.0,2.0,employee@company.com,Jan 15 2024
+10299,rahul sharma,35.0,F,,mumbai,5000000.0,40.0,invalid_email,15/01/2024
+10301,Sanjay Patil,35.0,Female,data analyst,Bangalore,45000.0,8.0,invalid_email,Jan 15 2024
+10302,Rahul  Sharma,45.0,Male,Business Analyst,,60000.0,1.0,invalid_email,Jan 15 2024
+10303,RAHUL SHARMA,,Male,Busines Analyst,Mumbai,,40.0, test@mail.com ,15/01/2024
+10304,rahul sharma,45.0,male,Business Analyst,belgaum,45000.0,2.0, test@mail.com ,Jan 15 2024
+10305,RAHUL SHARMA,-5.0,male,data analyst,,,-3.0,employee@company.com,Jan 15 2024
+10306,pooja patil,150.0,Female,data analyst,Bangalore,30000.0,2.0,,
+10307,RAHUL SHARMA,22.0,male,Data Analyst,mumbai,5000000.0,1.0,USER@GMAIL.COM,
+10308,RAHUL SHARMA,35.0,M,, MUMBAI ,25000.0,2.0,,
+10309,Rahul  Sharma,22.0,male,,,5000000.0,8.0,USER@GMAIL.COM,2024-01-15
+10310,AKSHAY kumar,-5.0,M,Data Analyst,pune,,5.0,USER@GMAIL.COM,
+10311,RAHUL SHARMA,25.0,M,Business Analyst, MUMBAI ,30000.0,2.0,,Jan 15 2024
+10312,Rahul  Sharma,45.0,,Busines Analyst,mumbai,45000.0,8.0,invalid_email,15/01/2024
+10313,Sanjay Patil,35.0,Male,,mumbai,5000000.0,40.0,USER@GMAIL.COM,2024-01-15
+10314,pooja patil,-5.0,Female,Business Analyst,,25000.0,-3.0,USER@GMAIL.COM,15/01/2024
+10315,rahul sharma,150.0,,Busines Analyst,Bangalore,,40.0,USER@GMAIL.COM,2024-01-15
+10316,RAHUL SHARMA,35.0,,,,45000.0,1.0,USER@GMAIL.COM,Jan 15 2024
+10317,AKSHAY kumar,22.0,F,DATA ANALYST,Mumbai,30000.0,, test@mail.com ,
+10318,rahul sharma,45.0,F,Business Analyst,Pune,,40.0,invalid_email,Jan 15 2024
+10319,pooja patil,30.0,,,mumbai,,-3.0,employee@company.com,2024-01-15
+10320,rahul sharma,-5.0,F,Data Analyst,Bangalore,,40.0,,
+10321,Rahul  Sharma,22.0,female,DATA ANALYST,,60000.0,2.0,employee@company.com,
+10322,pooja patil,30.0,female,Business Analyst,belgaum,25000.0,40.0,,Jan 15 2024
+10323,RAHUL SHARMA,25.0,M,DATA ANALYST, MUMBAI ,60000.0,-3.0, test@mail.com ,
+10324,Rahul  Sharma,,M,Data Analyst,Mumbai,45000.0,8.0,employee@company.com,Jan 15 2024
+10325,rahul sharma,30.0,M,data analyst,belgaum,60000.0,,,
+10326,rahul sharma,22.0,M,DATA ANALYST,mumbai,,,employee@company.com,
+10327,rahul sharma,45.0,Female,Busines Analyst,mumbai,5000000.0,, test@mail.com ,15/01/2024
+10328,Sanjay Patil,-5.0,F,data analyst,pune,45000.0,5.0,invalid_email,15/01/2024
+10329,rahul sharma,30.0,Female,DATA ANALYST,belgaum,45000.0,8.0,USER@GMAIL.COM,Jan 15 2024
+10330,Rahul  Sharma,35.0,female,,,,, test@mail.com ,
+10331,rahul sharma,30.0,Male,Data Analyst,belgaum,45000.0,40.0,,
+10332,Rahul  Sharma,150.0,Male,Busines Analyst, MUMBAI ,45000.0,5.0,,15/01/2024
+10333,pooja patil,,F,Busines Analyst,Bangalore,45000.0,-3.0,invalid_email,15/01/2024
+10334,Rahul  Sharma,-5.0,Male,Busines Analyst,Bangalore,25000.0,, test@mail.com ,15/01/2024
+10335,Sanjay Patil,22.0,female,Busines Analyst,Pune,60000.0,40.0,employee@company.com,2024-01-15
+10336,pooja patil,150.0,F,,pune,30000.0,5.0, test@mail.com ,
+10337,pooja patil,25.0,Female,Business Analyst,,,8.0,,
+10338,AKSHAY kumar,22.0,,DATA ANALYST,mumbai,25000.0,40.0, test@mail.com ,Jan 15 2024
+10339,RAHUL SHARMA,22.0,male,,belgaum,45000.0,40.0,invalid_email,2024-01-15
+10340,rahul sharma,25.0,Male,data analyst,Pune,60000.0,5.0,invalid_email,
+10341,Sanjay Patil,30.0,Male,Data Analyst,,25000.0,5.0,invalid_email,2024-01-15
+10342,rahul sharma,30.0,Male,DATA ANALYST,Bangalore,60000.0,40.0, test@mail.com ,
+10343,Rahul  Sharma,150.0,M,Busines Analyst,,45000.0,1.0,employee@company.com,2024-01-15
+10344,Sanjay Patil,25.0,M,DATA ANALYST,mumbai,5000000.0,40.0, test@mail.com ,15/01/2024
+10345,AKSHAY kumar,30.0,male,data analyst,Bangalore,,8.0,invalid_email,15/01/2024
+10346,pooja patil,30.0,F,,belgaum,60000.0,1.0,,15/01/2024
+10347,pooja patil,-5.0,Female,Data Analyst,Pune,30000.0,5.0,USER@GMAIL.COM,2024-01-15
+10348,AKSHAY kumar,30.0,Male,DATA ANALYST,Pune,60000.0,1.0,employee@company.com,
+10349,AKSHAY kumar,,male,Busines Analyst,belgaum,,1.0,employee@company.com,Jan 15 2024
+10350,pooja patil,30.0,,,pune,,,USER@GMAIL.COM,15/01/2024
+10351,Rahul  Sharma,25.0,F,DATA ANALYST,mumbai,30000.0,5.0, test@mail.com ,
+10352,pooja patil,30.0,male,Busines Analyst,belgaum,30000.0,8.0,,15/01/2024
+10353,AKSHAY kumar,30.0,Female,DATA ANALYST, MUMBAI ,30000.0,5.0,invalid_email,2024-01-15
+10354,Rahul  Sharma,22.0,Female,data analyst,Pune,60000.0,,,
+10355,pooja patil,150.0,Female,,,60000.0,2.0,USER@GMAIL.COM,2024-01-15
+10356,RAHUL SHARMA,45.0,M,DATA ANALYST,Pune,,5.0, test@mail.com ,
+10357,AKSHAY kumar,150.0,male,Business Analyst,mumbai,,1.0,employee@company.com,Jan 15 2024
+10358,AKSHAY kumar,22.0,,,,,2.0,invalid_email,2024-01-15
+10359,Sanjay Patil,35.0,Male,Data Analyst,,45000.0,5.0,USER@GMAIL.COM,
+10360,rahul sharma,35.0,F,,Bangalore,5000000.0,,invalid_email,15/01/2024
+10361,AKSHAY kumar,30.0,,data analyst,Pune,25000.0,,employee@company.com,Jan 15 2024
+10362,AKSHAY kumar,30.0,Male,,pune,45000.0,,employee@company.com,2024-01-15
+10363,RAHUL SHARMA,-5.0,M,DATA ANALYST, MUMBAI ,5000000.0,40.0, test@mail.com ,15/01/2024
+10364,RAHUL SHARMA,,,data analyst,belgaum,60000.0,2.0,,Jan 15 2024
+10365,Sanjay Patil,-5.0,Female,Busines Analyst,mumbai,5000000.0,40.0,USER@GMAIL.COM,
+10366,AKSHAY kumar,45.0,female,DATA ANALYST,,60000.0,5.0,,2024-01-15
+10367,Sanjay Patil,25.0,female,Busines Analyst,Bangalore,25000.0,40.0,,
+10368,RAHUL SHARMA,-5.0,,data analyst,,45000.0,5.0,employee@company.com,Jan 15 2024
+10369,AKSHAY kumar,30.0,male,Busines Analyst,Bangalore,5000000.0,40.0,USER@GMAIL.COM,2024-01-15
+10370,rahul sharma,150.0,M,Data Analyst, MUMBAI ,60000.0,8.0,USER@GMAIL.COM,
+10371,RAHUL SHARMA,30.0,female,DATA ANALYST, MUMBAI ,45000.0,1.0,employee@company.com,Jan 15 2024
+10372,rahul sharma,,female,, MUMBAI ,25000.0,8.0,employee@company.com,15/01/2024
+10373,pooja patil,25.0,female,Data Analyst,Mumbai,30000.0,8.0,USER@GMAIL.COM,15/01/2024
+10374,AKSHAY kumar,35.0,male,,,25000.0,1.0,employee@company.com,2024-01-15
+10375,pooja patil,30.0,Female,Data Analyst,Pune,60000.0,1.0,USER@GMAIL.COM,2024-01-15
+10376,Rahul  Sharma,,Male,data analyst,belgaum,30000.0,-3.0, test@mail.com ,2024-01-15
+10377,AKSHAY kumar,22.0,male,, MUMBAI ,60000.0,5.0, test@mail.com ,15/01/2024
+10378,pooja patil,150.0,,data analyst,mumbai,25000.0,2.0,USER@GMAIL.COM,
+10379,Rahul  Sharma,-5.0,Male,data analyst,Pune,45000.0,-3.0,USER@GMAIL.COM,15/01/2024
+10380,AKSHAY kumar,45.0,,,Mumbai,5000000.0,5.0, test@mail.com ,15/01/2024
+10381,Sanjay Patil,-5.0,Male,,Mumbai,30000.0,8.0,invalid_email,2024-01-15
+10382,RAHUL SHARMA,150.0,female,Business Analyst,mumbai,,1.0,employee@company.com,Jan 15 2024
+10383,RAHUL SHARMA,-5.0,,Business Analyst,belgaum,45000.0,, test@mail.com ,
+10384,rahul sharma,22.0,male,Data Analyst,Mumbai,45000.0,2.0,USER@GMAIL.COM,2024-01-15
+10385,pooja patil,45.0,female,,belgaum,60000.0,-3.0,invalid_email,2024-01-15
+10386,Sanjay Patil,30.0,Male,Data Analyst,pune,25000.0,, test@mail.com ,15/01/2024
+10387,AKSHAY kumar,,Female,Business Analyst,mumbai,45000.0,-3.0,invalid_email,15/01/2024
+10388,rahul sharma,35.0,M,Busines Analyst,mumbai,60000.0,,,2024-01-15
+10389,Rahul  Sharma,30.0,M,Data Analyst, MUMBAI ,5000000.0,1.0, test@mail.com ,
+10390,Rahul  Sharma,45.0,F,DATA ANALYST, MUMBAI ,5000000.0,40.0,employee@company.com,2024-01-15
+10391,rahul sharma,,,Busines Analyst,pune,,1.0,employee@company.com,2024-01-15
+10392,pooja patil,150.0,male,DATA ANALYST,Mumbai,60000.0,40.0,,15/01/2024
+10393,Rahul  Sharma,30.0,Male,Data Analyst,mumbai,30000.0,-3.0,,2024-01-15
+10394,rahul sharma,22.0,F,Data Analyst,,45000.0,8.0, test@mail.com ,15/01/2024
+10395,rahul sharma,-5.0,F,DATA ANALYST,Pune,60000.0,-3.0,employee@company.com,Jan 15 2024
+10396,rahul sharma,,M,Business Analyst,Mumbai,30000.0,2.0,,2024-01-15
+10397,pooja patil,25.0,Female,DATA ANALYST,pune,45000.0,1.0,,
+10398,rahul sharma,,F,DATA ANALYST,pune,5000000.0,, test@mail.com ,
+10399,Rahul  Sharma,150.0,,data analyst,Pune,30000.0,1.0,invalid_email,2024-01-15
+10400,RAHUL SHARMA,,female,,Mumbai,45000.0,1.0,invalid_email,Jan 15 2024
+10401,rahul sharma,35.0,male,data analyst,belgaum,60000.0,1.0, test@mail.com ,Jan 15 2024
+10402,rahul sharma,22.0,F,Business Analyst,belgaum,5000000.0,5.0,invalid_email,2024-01-15
+10403,AKSHAY kumar,25.0,male,data analyst,belgaum,25000.0,,,2024-01-15
+10404,pooja patil,30.0,F,DATA ANALYST,pune,45000.0,40.0,invalid_email,Jan 15 2024
+10405,Rahul  Sharma,150.0,Male,data analyst,mumbai,30000.0,2.0,,2024-01-15
+10406,RAHUL SHARMA,25.0,F,Busines Analyst,,45000.0,8.0,USER@GMAIL.COM,Jan 15 2024
+10407,RAHUL SHARMA,150.0,Male,Busines Analyst,pune,25000.0,1.0, test@mail.com ,Jan 15 2024
+10408,Sanjay Patil,22.0,F,DATA ANALYST, MUMBAI ,25000.0,-3.0, test@mail.com ,Jan 15 2024
+10409,pooja patil,22.0,female,DATA ANALYST,pune,30000.0,1.0,invalid_email,
+10410,AKSHAY kumar,35.0,M,Busines Analyst,mumbai,30000.0,1.0,USER@GMAIL.COM,2024-01-15
+10411,RAHUL SHARMA,30.0,F,Busines Analyst,Bangalore,5000000.0,-3.0,USER@GMAIL.COM,Jan 15 2024
+10412,rahul sharma,22.0,M,data analyst,,30000.0,1.0,employee@company.com,2024-01-15
+10413,rahul sharma,150.0,M,data analyst,belgaum,5000000.0,8.0,invalid_email,2024-01-15
+10414,pooja patil,-5.0,F,DATA ANALYST,Pune,30000.0,5.0,employee@company.com,
+10415,RAHUL SHARMA,22.0,male,Business Analyst,Pune,5000000.0,5.0,invalid_email,
+10416,AKSHAY kumar,150.0,M,Data Analyst,pune,60000.0,2.0,invalid_email,15/01/2024
+10417,Sanjay Patil,35.0,female,Business Analyst,Mumbai,60000.0,40.0,employee@company.com,
+10418,AKSHAY kumar,150.0,Male,Business Analyst,Bangalore,60000.0,5.0, test@mail.com ,2024-01-15
+10419,Rahul  Sharma,35.0,M,DATA ANALYST,Mumbai,60000.0,,employee@company.com,15/01/2024
+10420,RAHUL SHARMA,25.0,F,,Pune,45000.0,,USER@GMAIL.COM,15/01/2024
+10421,AKSHAY kumar,-5.0,Male,data analyst, MUMBAI ,30000.0,,employee@company.com,Jan 15 2024
+10422,AKSHAY kumar,22.0,female,,Bangalore,,, test@mail.com ,15/01/2024
+10423,pooja patil,45.0,F,Busines Analyst,Mumbai,25000.0,1.0, test@mail.com ,15/01/2024
+10424,rahul sharma,150.0,M,DATA ANALYST,Pune,30000.0,5.0, test@mail.com ,Jan 15 2024
+10425,rahul sharma,22.0,F,Business Analyst, MUMBAI ,25000.0,40.0,,Jan 15 2024
+10426,rahul sharma,,female,,belgaum,,1.0,employee@company.com,Jan 15 2024
+10427,Rahul  Sharma,30.0,F,,belgaum,5000000.0,8.0,employee@company.com,15/01/2024
+10428,Sanjay Patil,,F,, MUMBAI ,60000.0,5.0,employee@company.com,15/01/2024
+10429,RAHUL SHARMA,22.0,female,Business Analyst,belgaum,,1.0, test@mail.com ,Jan 15 2024
+10430,AKSHAY kumar,35.0,female,Business Analyst,mumbai,60000.0,2.0,employee@company.com,2024-01-15
+10431,RAHUL SHARMA,,Male,data analyst,mumbai,5000000.0,-3.0,employee@company.com,
+10432,rahul sharma,45.0,F,data analyst,mumbai,45000.0,5.0,USER@GMAIL.COM,2024-01-15
+10433,rahul sharma,-5.0,Female,,belgaum,30000.0,8.0,invalid_email,
+10434,Rahul  Sharma,-5.0,M,Busines Analyst,Pune,30000.0,8.0,USER@GMAIL.COM,2024-01-15
+10435,Rahul  Sharma,22.0,Male,DATA ANALYST,mumbai,25000.0,5.0, test@mail.com ,
+10436,RAHUL SHARMA,25.0,male,Data Analyst,Bangalore,,,invalid_email,2024-01-15
+10437,pooja patil,30.0,male,Busines Analyst, MUMBAI ,25000.0,1.0,employee@company.com,15/01/2024
+10438,RAHUL SHARMA,-5.0,female,Business Analyst,pune,5000000.0,5.0,employee@company.com,15/01/2024
+10439,rahul sharma,22.0,Female,Business Analyst,,30000.0,1.0,employee@company.com,2024-01-15
+10440,pooja patil,25.0,Male,,,30000.0,1.0,USER@GMAIL.COM,15/01/2024
+10441,RAHUL SHARMA,45.0,M,Busines Analyst,mumbai,45000.0,40.0,invalid_email,
+10442,pooja patil,45.0,M,,belgaum,30000.0,5.0,invalid_email,Jan 15 2024
+10443,RAHUL SHARMA,150.0,M,DATA ANALYST,,60000.0,5.0, test@mail.com ,Jan 15 2024
+10444,AKSHAY kumar,22.0,F,,mumbai,25000.0,-3.0,employee@company.com,
+10445,AKSHAY kumar,35.0,male,Data Analyst,belgaum,,8.0,,
+10446,AKSHAY kumar,35.0,Female,DATA ANALYST,mumbai,60000.0,40.0,USER@GMAIL.COM,15/01/2024
+10447,rahul sharma,150.0,F,data analyst,Pune,30000.0,2.0,USER@GMAIL.COM,
+10448,rahul sharma,-5.0,F,, MUMBAI ,,5.0,employee@company.com,2024-01-15
+10449,rahul sharma,-5.0,male,Busines Analyst,Bangalore,45000.0,,invalid_email,2024-01-15
+10449,Sanjay Patil,-5.0,M,Busines Analyst, MUMBAI ,30000.0,,,2024-01-15
+10451,rahul sharma,25.0,,DATA ANALYST,Bangalore,60000.0,5.0,invalid_email,
+10452,AKSHAY kumar,150.0,M,data analyst,pune,60000.0,2.0,,
+10453,rahul sharma,-5.0,Male,,Pune,25000.0,-3.0,invalid_email,Jan 15 2024
+10454,Rahul  Sharma,22.0,Male,DATA ANALYST,pune,45000.0,40.0,invalid_email,2024-01-15
+10455,RAHUL SHARMA,30.0,Male,,,45000.0,5.0,invalid_email,2024-01-15
+10456,RAHUL SHARMA,150.0,F,Busines Analyst,,,40.0,employee@company.com,2024-01-15
+10457,AKSHAY kumar,30.0,M,DATA ANALYST,belgaum,30000.0,40.0,,2024-01-15
+10458,RAHUL SHARMA,35.0,,data analyst,Mumbai,30000.0,1.0,invalid_email,2024-01-15
+10459,Rahul  Sharma,35.0,Male,DATA ANALYST,,,8.0,USER@GMAIL.COM,2024-01-15
+10460,RAHUL SHARMA,,Female,Business Analyst,,30000.0,40.0,invalid_email,Jan 15 2024
+10461,Rahul  Sharma,30.0,,DATA ANALYST,mumbai,45000.0,1.0,invalid_email,2024-01-15
+10462,RAHUL SHARMA,35.0,,data analyst,Pune,5000000.0,2.0,employee@company.com,
+10463,AKSHAY kumar,22.0,,,Mumbai,60000.0,2.0, test@mail.com ,2024-01-15
+10464,RAHUL SHARMA,45.0,male,DATA ANALYST,pune,60000.0,8.0,employee@company.com,
+10465,Rahul  Sharma,35.0,Female,DATA ANALYST,belgaum,,1.0,USER@GMAIL.COM,Jan 15 2024
+10466,AKSHAY kumar,45.0,Male,,mumbai,60000.0,1.0,employee@company.com,Jan 15 2024
+10467,Sanjay Patil,,,DATA ANALYST,pune,5000000.0,-3.0,employee@company.com,15/01/2024
+10468,RAHUL SHARMA,35.0,M,Business Analyst,belgaum,5000000.0,5.0, test@mail.com ,2024-01-15
+10469,Sanjay Patil,150.0,Male,DATA ANALYST,belgaum,60000.0,8.0,USER@GMAIL.COM,15/01/2024
+10470,Rahul  Sharma,35.0,female,Business Analyst,,5000000.0,5.0,,Jan 15 2024
+10471,RAHUL SHARMA,30.0,Male,Data Analyst,,30000.0,-3.0,employee@company.com,15/01/2024
+10472,Sanjay Patil,,female,Data Analyst,Pune,45000.0,2.0,employee@company.com,
+10473,Rahul  Sharma,,Male,Business Analyst,pune,60000.0,40.0,USER@GMAIL.COM,
+10474,rahul sharma,25.0,Female,data analyst,mumbai,5000000.0,8.0,,Jan 15 2024
+10475,pooja patil,22.0,,data analyst, MUMBAI ,30000.0,5.0,invalid_email,
+10476,RAHUL SHARMA,,,, MUMBAI ,25000.0,8.0,employee@company.com,15/01/2024
+10477,Rahul  Sharma,22.0,M,Busines Analyst,pune,30000.0,40.0, test@mail.com ,15/01/2024
+10478,pooja patil,25.0,F,Business Analyst,belgaum,5000000.0,8.0,invalid_email,
+10479,pooja patil,-5.0,M,Data Analyst,Pune,5000000.0,5.0,USER@GMAIL.COM,Jan 15 2024
+10480,AKSHAY kumar,35.0,M,,Mumbai,5000000.0,-3.0, test@mail.com ,15/01/2024
+10481,Sanjay Patil,,Male,data analyst,mumbai,60000.0,,,Jan 15 2024
+10482,RAHUL SHARMA,25.0,,Data Analyst,pune,45000.0,8.0,,Jan 15 2024
+10483,pooja patil,30.0,Male,Busines Analyst,Bangalore,30000.0,2.0,invalid_email,2024-01-15
+10484,RAHUL SHARMA,35.0,female,data analyst,Pune,5000000.0,1.0,,15/01/2024
+10485,rahul sharma,,female,,Mumbai,60000.0,-3.0,employee@company.com,2024-01-15
+10486,AKSHAY kumar,22.0,female,Data Analyst,Mumbai,25000.0,-3.0,USER@GMAIL.COM,
+10487,pooja patil,-5.0,M,Business Analyst,pune,60000.0,-3.0, test@mail.com ,15/01/2024
+10488,Sanjay Patil,22.0,Male,Busines Analyst,mumbai,5000000.0,,employee@company.com,15/01/2024
+10489,pooja patil,25.0,male,,mumbai,45000.0,1.0,USER@GMAIL.COM,
+10490,RAHUL SHARMA,35.0,,DATA ANALYST,Pune,45000.0,-3.0,invalid_email,Jan 15 2024
+10491,RAHUL SHARMA,22.0,male,Busines Analyst,Pune,5000000.0,8.0,employee@company.com,15/01/2024
+10492,rahul sharma,22.0,female,Data Analyst,mumbai,,-3.0,invalid_email,15/01/2024
+10493,rahul sharma,25.0,female,,mumbai,45000.0,-3.0, test@mail.com ,
+10494,Rahul  Sharma,45.0,Female,Data Analyst,mumbai,30000.0,40.0,USER@GMAIL.COM,Jan 15 2024
+10495,Rahul  Sharma,,Female,,mumbai,25000.0,40.0,USER@GMAIL.COM,2024-01-15
+10496,RAHUL SHARMA,30.0,Male,DATA ANALYST,,,5.0,USER@GMAIL.COM,Jan 15 2024
+10497,Rahul  Sharma,30.0,M,Busines Analyst,belgaum,60000.0,5.0,invalid_email,
+10498,pooja patil,30.0,M,data analyst,Mumbai,30000.0,1.0,invalid_email,
+10499,AKSHAY kumar,150.0,F,Business Analyst,belgaum,45000.0,,USER@GMAIL.COM,15/01/2024
+10500,pooja patil,150.0,M,Busines Analyst,,25000.0,1.0,employee@company.com,Jan 15 2024
+10501,rahul sharma,35.0,female,DATA ANALYST,mumbai,60000.0,-3.0, test@mail.com ,
+10502,Rahul  Sharma,-5.0,F,Business Analyst,Mumbai,25000.0,-3.0, test@mail.com ,
+10503,pooja patil,30.0,M,Busines Analyst,Bangalore,30000.0,5.0,employee@company.com,2024-01-15
+10504,AKSHAY kumar,35.0,male,,belgaum,60000.0,40.0, test@mail.com ,2024-01-15
+10505,pooja patil,150.0,,Business Analyst,,25000.0,40.0,invalid_email,
+10506,Rahul  Sharma,25.0,Female,,Mumbai,25000.0,8.0,invalid_email,2024-01-15
+10507,AKSHAY kumar,22.0,,Data Analyst,pune,,, test@mail.com ,
+10508,Rahul  Sharma,,,Data Analyst,Pune,60000.0,5.0,,
+10509,Sanjay Patil,,female,Busines Analyst,mumbai,25000.0,40.0, test@mail.com ,2024-01-15
+10510,Rahul  Sharma,,,,pune,,,employee@company.com,2024-01-15
+10511,rahul sharma,30.0,Female,data analyst,belgaum,25000.0,5.0,,15/01/2024
+10512,RAHUL SHARMA,25.0,,Busines Analyst,Pune,60000.0,40.0, test@mail.com ,Jan 15 2024
+10513,rahul sharma,-5.0,M,,mumbai,60000.0,8.0,,15/01/2024
+10514,pooja patil,22.0,male,,Mumbai,,8.0,,
+10515,AKSHAY kumar,30.0,female,Business Analyst, MUMBAI ,5000000.0,40.0, test@mail.com ,2024-01-15
+10516,pooja patil,,male,Busines Analyst,belgaum,,-3.0, test@mail.com ,Jan 15 2024
+10517,pooja patil,,Male,Busines Analyst, MUMBAI ,30000.0,8.0,,Jan 15 2024
+10518,Sanjay Patil,,female,,Pune,30000.0,2.0,,Jan 15 2024
+10519,Sanjay Patil,,female,data analyst, MUMBAI ,,,employee@company.com,2024-01-15
+10520,Rahul  Sharma,150.0,male,Business Analyst,belgaum,5000000.0,-3.0,,Jan 15 2024
+10521,pooja patil,22.0,male,Data Analyst,Mumbai,60000.0,2.0,USER@GMAIL.COM,2024-01-15
+10522,RAHUL SHARMA,45.0,,data analyst,pune,5000000.0,5.0, test@mail.com ,2024-01-15
+10523,Sanjay Patil,45.0,F,Business Analyst,Mumbai,45000.0,40.0,invalid_email,2024-01-15
+10524,AKSHAY kumar,35.0,female,,belgaum,30000.0,,employee@company.com,2024-01-15
+10525,pooja patil,-5.0,Female,,Bangalore,,1.0,USER@GMAIL.COM,Jan 15 2024
+10526,RAHUL SHARMA,150.0,,data analyst,Bangalore,,,,15/01/2024
+10527,Sanjay Patil,35.0,Male,Busines Analyst, MUMBAI ,5000000.0,1.0, test@mail.com ,15/01/2024
+10528,Sanjay Patil,25.0,Female,Data Analyst,belgaum,45000.0,,employee@company.com,15/01/2024
+10529,RAHUL SHARMA,45.0,M,DATA ANALYST,,5000000.0,2.0,USER@GMAIL.COM,15/01/2024
+10530,Rahul  Sharma,22.0,,,pune,60000.0,40.0,,Jan 15 2024
+10531,rahul sharma,,male,data analyst, MUMBAI ,,1.0,,15/01/2024
+10532,pooja patil,-5.0,M,DATA ANALYST,Pune,30000.0,-3.0,employee@company.com,Jan 15 2024
+10533,Rahul  Sharma,45.0,F,Business Analyst,,,40.0,USER@GMAIL.COM,2024-01-15
+10534,Sanjay Patil,,Female,data analyst,Pune,25000.0,-3.0,employee@company.com,
+10535,rahul sharma,-5.0,Male,Business Analyst,pune,25000.0,,employee@company.com,
+10536,pooja patil,22.0,Male,,Pune,45000.0,,USER@GMAIL.COM,2024-01-15
+10537,RAHUL SHARMA,22.0,female,Data Analyst,Pune,5000000.0,-3.0, test@mail.com ,
+10538,rahul sharma,35.0,male,,belgaum,5000000.0,40.0,USER@GMAIL.COM,15/01/2024
+10539,rahul sharma,150.0,female,DATA ANALYST,Mumbai,25000.0,1.0,USER@GMAIL.COM,15/01/2024
+10540,Rahul  Sharma,25.0,male,data analyst,pune,60000.0,8.0,invalid_email,
+10541,pooja patil,,M,Busines Analyst,mumbai,,1.0,,2024-01-15
+10542,Sanjay Patil,22.0,female,Data Analyst,Bangalore,,1.0,employee@company.com,Jan 15 2024
+10543,AKSHAY kumar,25.0,Male,Busines Analyst,belgaum,60000.0,40.0,USER@GMAIL.COM,
+10544,RAHUL SHARMA,35.0,F,,belgaum,,5.0, test@mail.com ,Jan 15 2024
+10545,Sanjay Patil,,M,Business Analyst, MUMBAI ,25000.0,1.0,USER@GMAIL.COM,
+10546,AKSHAY kumar,25.0,Male,data analyst,Bangalore,30000.0,8.0,,15/01/2024
+10547,RAHUL SHARMA,30.0,F,Business Analyst,pune,30000.0,1.0, test@mail.com ,2024-01-15
+10548,AKSHAY kumar,150.0,female,Business Analyst,mumbai,45000.0,-3.0,USER@GMAIL.COM,Jan 15 2024
+10549,rahul sharma,35.0,female,Business Analyst,,45000.0,5.0, test@mail.com ,15/01/2024
+10550,rahul sharma,45.0,male,Data Analyst,Pune,45000.0,8.0,invalid_email,Jan 15 2024
+10551,AKSHAY kumar,45.0,female,Business Analyst, MUMBAI ,,,employee@company.com,Jan 15 2024
+10552,pooja patil,30.0,M,DATA ANALYST,Pune,30000.0,-3.0,invalid_email,Jan 15 2024
+10553,Rahul  Sharma,30.0,female,,Bangalore,60000.0,8.0,invalid_email,Jan 15 2024
+10554,Rahul  Sharma,150.0,male,Data Analyst, MUMBAI ,5000000.0,,USER@GMAIL.COM,Jan 15 2024
+10555,RAHUL SHARMA,35.0,Male,,mumbai,5000000.0,1.0,USER@GMAIL.COM,2024-01-15
+10556,AKSHAY kumar,-5.0,,Business Analyst,Pune,25000.0,,employee@company.com,
+10557,Sanjay Patil,30.0,Male,Busines Analyst,Pune,,-3.0,employee@company.com,15/01/2024
+10558,pooja patil,25.0,Female,DATA ANALYST,Mumbai,5000000.0,2.0,,15/01/2024
+10559,AKSHAY kumar,30.0,Female,data analyst, MUMBAI ,,, test@mail.com ,
+10560,Rahul  Sharma,22.0,F,Busines Analyst,Pune,25000.0,5.0,employee@company.com,15/01/2024
+10561,rahul sharma,35.0,male,DATA ANALYST,belgaum,60000.0,8.0,USER@GMAIL.COM,2024-01-15
+10562,Sanjay Patil,,M,,pune,5000000.0,5.0,,15/01/2024
+10563,pooja patil,-5.0,Male,Business Analyst,mumbai,,5.0,invalid_email,15/01/2024
+10564,AKSHAY kumar,-5.0,Male,DATA ANALYST,,60000.0,,USER@GMAIL.COM,15/01/2024
+10565,pooja patil,30.0,F,Data Analyst,pune,30000.0,2.0, test@mail.com ,15/01/2024
+10566,Rahul  Sharma,25.0,female,data analyst,belgaum,45000.0,-3.0,USER@GMAIL.COM,
+10567,Sanjay Patil,150.0,Female,data analyst, MUMBAI ,5000000.0,40.0,invalid_email,2024-01-15
+10568,RAHUL SHARMA,22.0,F,Business Analyst, MUMBAI ,30000.0,-3.0,,2024-01-15
+10569,AKSHAY kumar,30.0,M,data analyst,pune,30000.0,,invalid_email,2024-01-15
+10570,Sanjay Patil,45.0,M,data analyst,,,8.0,invalid_email,15/01/2024
+10571,RAHUL SHARMA,-5.0,male,data analyst, MUMBAI ,,-3.0,,Jan 15 2024
+10572,RAHUL SHARMA,,Female,Business Analyst,mumbai,30000.0,8.0,invalid_email,15/01/2024
+10573,rahul sharma,22.0,F,Business Analyst,belgaum,30000.0,,USER@GMAIL.COM,15/01/2024
+10574,pooja patil,22.0,,Business Analyst,mumbai,25000.0,8.0, test@mail.com ,2024-01-15
+10575,Sanjay Patil,-5.0,male,Busines Analyst,Bangalore,25000.0,-3.0,,
+10576,RAHUL SHARMA,150.0,,Busines Analyst,Bangalore,,40.0,,2024-01-15
+10577,pooja patil,30.0,Male,Busines Analyst,Pune,25000.0,5.0,,
+10578,Rahul  Sharma,35.0,M,,Mumbai,,,USER@GMAIL.COM,2024-01-15
+10579,pooja patil,35.0,female,DATA ANALYST,belgaum,45000.0,1.0, test@mail.com ,
+10580,Sanjay Patil,45.0,Male,Business Analyst,belgaum,,5.0,,Jan 15 2024
+10581,Sanjay Patil,-5.0,,data analyst,belgaum,,40.0,,
+10582,RAHUL SHARMA,,male,Business Analyst,,45000.0,5.0,,Jan 15 2024
+10583,Sanjay Patil,-5.0,female,data analyst,mumbai,5000000.0,2.0,invalid_email,15/01/2024
+10584,rahul sharma,35.0,male,Busines Analyst,Bangalore,,,USER@GMAIL.COM,15/01/2024
+10585,pooja patil,22.0,,Data Analyst, MUMBAI ,60000.0,,invalid_email,2024-01-15
+10586,rahul sharma,45.0,F,DATA ANALYST,mumbai,,1.0,invalid_email,
+10587,AKSHAY kumar,45.0,female,Business Analyst,Mumbai,30000.0,-3.0,invalid_email,
+10588,rahul sharma,35.0,,,pune,30000.0,1.0,,15/01/2024
+10589,AKSHAY kumar,30.0,female,Data Analyst,Bangalore,30000.0,-3.0,USER@GMAIL.COM,15/01/2024
+10590,rahul sharma,45.0,,Busines Analyst,Bangalore,5000000.0,8.0,invalid_email,15/01/2024
+10591,AKSHAY kumar,22.0,female,,mumbai,25000.0,,employee@company.com,Jan 15 2024
+10592,Rahul  Sharma,45.0,F,Business Analyst,Pune,60000.0,8.0,,2024-01-15
+10593,Rahul  Sharma,30.0,Female,Business Analyst,mumbai,,1.0,,Jan 15 2024
+10594,Rahul  Sharma,25.0,,Business Analyst,pune,,40.0,,Jan 15 2024
+10595,Sanjay Patil,150.0,Female,Business Analyst,,30000.0,40.0,employee@company.com,
+10596,Sanjay Patil,150.0,male,Data Analyst,,25000.0,5.0,USER@GMAIL.COM,
+10597,Sanjay Patil,35.0,female,,Pune,45000.0,8.0,employee@company.com,2024-01-15
+10598,Sanjay Patil,45.0,F,DATA ANALYST,mumbai,60000.0,-3.0,employee@company.com,2024-01-15
+10599,AKSHAY kumar,30.0,Female,DATA ANALYST,Bangalore,30000.0,,employee@company.com,15/01/2024
+10599,Sanjay Patil,35.0,Female,,Pune,30000.0,-3.0, test@mail.com ,Jan 15 2024
+10601,RAHUL SHARMA,35.0,F,data analyst,Bangalore,30000.0,40.0,USER@GMAIL.COM,2024-01-15
+10602,rahul sharma,150.0,male,Data Analyst,Mumbai,60000.0,5.0,,Jan 15 2024
+10603,pooja patil,45.0,Female,data analyst,pune,60000.0,2.0,,15/01/2024
+10604,rahul sharma,-5.0,Female,Business Analyst,Mumbai,,5.0,invalid_email,15/01/2024
+10605,pooja patil,25.0,female,Business Analyst,,45000.0,-3.0,USER@GMAIL.COM,2024-01-15
+10606,Sanjay Patil,35.0,Female,Business Analyst,mumbai,45000.0,5.0,,Jan 15 2024
+10607,RAHUL SHARMA,45.0,F,DATA ANALYST,,,5.0,employee@company.com,15/01/2024
+10608,pooja patil,-5.0,F,Busines Analyst,Bangalore,45000.0,40.0,invalid_email,Jan 15 2024
+10609,pooja patil,30.0,male,data analyst,Pune,25000.0,-3.0,employee@company.com,15/01/2024
+10610,AKSHAY kumar,-5.0,,Busines Analyst,Pune,30000.0,40.0, test@mail.com ,
+10611,rahul sharma,30.0,Female,Busines Analyst, MUMBAI ,5000000.0,,,Jan 15 2024
+10612,pooja patil,45.0,Male,Business Analyst,Mumbai,60000.0,1.0, test@mail.com ,2024-01-15
+10613,RAHUL SHARMA,45.0,Female,,mumbai,60000.0,-3.0,employee@company.com,Jan 15 2024
+10614,Rahul  Sharma,,male,Business Analyst,pune,45000.0,1.0,invalid_email,2024-01-15
+10615,Rahul  Sharma,35.0,male,Business Analyst, MUMBAI ,45000.0,5.0,employee@company.com,
+10616,Sanjay Patil,150.0,M,Busines Analyst,pune,60000.0,-3.0, test@mail.com ,15/01/2024
+10617,Sanjay Patil,,Female,,belgaum,25000.0,1.0, test@mail.com ,Jan 15 2024
+10618,RAHUL SHARMA,,Male,,pune,5000000.0,5.0,,
+10619,Rahul  Sharma,150.0,,DATA ANALYST,,60000.0,2.0, test@mail.com ,2024-01-15
+10620,RAHUL SHARMA,35.0,female,DATA ANALYST,mumbai,30000.0,2.0,invalid_email,2024-01-15
+10621,rahul sharma,25.0,Female,Business Analyst,Mumbai,25000.0,40.0,invalid_email,2024-01-15
+10622,rahul sharma,45.0,male,data analyst,mumbai,5000000.0,8.0,employee@company.com,15/01/2024
+10623,RAHUL SHARMA,45.0,Female,, MUMBAI ,30000.0,, test@mail.com ,2024-01-15
+10624,rahul sharma,,,DATA ANALYST,,60000.0,40.0,,Jan 15 2024
+10625,AKSHAY kumar,150.0,F,, MUMBAI ,,,invalid_email,
+10626,AKSHAY kumar,45.0,Male,Busines Analyst,Pune,25000.0,8.0,employee@company.com,Jan 15 2024
+10627,pooja patil,45.0,F,DATA ANALYST,Mumbai,25000.0,, test@mail.com ,Jan 15 2024
+10628,Rahul  Sharma,150.0,male,Data Analyst,,60000.0,5.0,USER@GMAIL.COM,
+10629,Rahul  Sharma,35.0,,Data Analyst,Bangalore,30000.0,8.0,,
+10630,pooja patil,35.0,F,,belgaum,60000.0,2.0,employee@company.com,2024-01-15
+10631,pooja patil,35.0,male,Business Analyst,pune,45000.0,-3.0,,Jan 15 2024
+10632,pooja patil,35.0,,Data Analyst, MUMBAI ,30000.0,5.0,USER@GMAIL.COM,
+10633,AKSHAY kumar,150.0,Male,,,30000.0,5.0,USER@GMAIL.COM,15/01/2024
+10634,rahul sharma,22.0,F,Data Analyst,pune,45000.0,2.0,invalid_email,2024-01-15
+10635,RAHUL SHARMA,25.0,F,Data Analyst,,30000.0,5.0,invalid_email,Jan 15 2024
+10636,pooja patil,,Female,,Mumbai,45000.0,1.0, test@mail.com ,2024-01-15
+10637,Rahul  Sharma,-5.0,M,Business Analyst,,30000.0,2.0,employee@company.com,
+10638,rahul sharma,25.0,,,Pune,60000.0,40.0,invalid_email,15/01/2024
+10639,Sanjay Patil,22.0,F,Busines Analyst,mumbai,,-3.0, test@mail.com ,
+10640,pooja patil,45.0,Male,data analyst,Mumbai,5000000.0,,,2024-01-15
+10641,Rahul  Sharma,150.0,female,DATA ANALYST,Pune,45000.0,1.0, test@mail.com ,2024-01-15
+10642,RAHUL SHARMA,-5.0,Male,Data Analyst, MUMBAI ,45000.0,,USER@GMAIL.COM,
+10643,RAHUL SHARMA,22.0,M,Business Analyst,,5000000.0,, test@mail.com ,Jan 15 2024
+10644,rahul sharma,35.0,F,Busines Analyst,mumbai,5000000.0,,employee@company.com,2024-01-15
+10645,rahul sharma,,female,data analyst,mumbai,30000.0,8.0, test@mail.com ,Jan 15 2024
+10646,AKSHAY kumar,,,Busines Analyst,Pune,25000.0,-3.0,invalid_email,Jan 15 2024
+10647,Sanjay Patil,30.0,Male,Data Analyst,,5000000.0,8.0,,Jan 15 2024
+10648,AKSHAY kumar,150.0,F,Business Analyst, MUMBAI ,,5.0,employee@company.com,
+10649,Rahul  Sharma,30.0,M,Business Analyst, MUMBAI ,60000.0,5.0,employee@company.com,Jan 15 2024
+10650,pooja patil,22.0,,,belgaum,5000000.0,2.0,USER@GMAIL.COM,Jan 15 2024
+10651,AKSHAY kumar,35.0,Male,,mumbai,5000000.0,,invalid_email,15/01/2024
+10652,AKSHAY kumar,150.0,,Business Analyst, MUMBAI ,,5.0,employee@company.com,
+10653,Sanjay Patil,,M,Data Analyst,mumbai,25000.0,40.0, test@mail.com ,15/01/2024
+10654,rahul sharma,35.0,M,Busines Analyst,Pune,25000.0,1.0,,
+10655,Sanjay Patil,150.0,male,Business Analyst,pune,25000.0,5.0, test@mail.com ,2024-01-15
+10656,rahul sharma,35.0,female,Busines Analyst,mumbai,60000.0,40.0,USER@GMAIL.COM,Jan 15 2024
+10657,AKSHAY kumar,-5.0,,DATA ANALYST,Mumbai,,5.0,,2024-01-15
+10658,Sanjay Patil,25.0,,DATA ANALYST,mumbai,30000.0,,USER@GMAIL.COM,2024-01-15
+10659,Sanjay Patil,35.0,male,Busines Analyst,Pune,30000.0,, test@mail.com ,15/01/2024
+10660,AKSHAY kumar,-5.0,female,Data Analyst,Bangalore,5000000.0,8.0,invalid_email,2024-01-15
+10661,RAHUL SHARMA,30.0,male,Busines Analyst,Bangalore,5000000.0,2.0,,
+10662,Rahul  Sharma,,male,DATA ANALYST,Bangalore,60000.0,40.0,invalid_email,Jan 15 2024
+10663,AKSHAY kumar,35.0,male,Business Analyst,Pune,60000.0,40.0,,Jan 15 2024
+10664,Rahul  Sharma,150.0,Female,Busines Analyst,Mumbai,5000000.0,1.0,employee@company.com,2024-01-15
+10665,AKSHAY kumar,30.0,Male,Data Analyst,pune,30000.0,2.0,employee@company.com,2024-01-15
+10666,Sanjay Patil,45.0,male,Business Analyst, MUMBAI ,25000.0,1.0,invalid_email,Jan 15 2024
+10667,RAHUL SHARMA,30.0,Male,DATA ANALYST,Pune,30000.0,5.0,employee@company.com,2024-01-15
+10668,AKSHAY kumar,-5.0,male,data analyst,mumbai,5000000.0,5.0,invalid_email,15/01/2024
+10669,pooja patil,25.0,male,,pune,25000.0,-3.0,,
+10670,rahul sharma,22.0,,DATA ANALYST,Bangalore,60000.0,8.0,USER@GMAIL.COM,15/01/2024
+10671,Sanjay Patil,22.0,female,,belgaum,25000.0,5.0,,2024-01-15
+10672,Rahul  Sharma,30.0,Male,Business Analyst,Pune,30000.0,1.0,invalid_email,
+10673,AKSHAY kumar,25.0,F,Busines Analyst,pune,60000.0,2.0, test@mail.com ,Jan 15 2024
+10674,rahul sharma,150.0,male,,Mumbai,,8.0,employee@company.com,2024-01-15
+10675,pooja patil,-5.0,,, MUMBAI ,30000.0,8.0,,15/01/2024
+10676,pooja patil,-5.0,female,Business Analyst,Pune,,,,15/01/2024
+10677,RAHUL SHARMA,25.0,Male,Busines Analyst,Bangalore,5000000.0,,USER@GMAIL.COM,2024-01-15
+10678,Sanjay Patil,-5.0,Female,DATA ANALYST,Bangalore,30000.0,5.0,employee@company.com,2024-01-15
+10679,Rahul  Sharma,30.0,Male,Business Analyst,,,2.0,invalid_email,2024-01-15
+10680,RAHUL SHARMA,35.0,female,DATA ANALYST, MUMBAI ,5000000.0,40.0,USER@GMAIL.COM,2024-01-15
+10681,Sanjay Patil,22.0,F,Business Analyst, MUMBAI ,45000.0,1.0,employee@company.com,2024-01-15
+10682,Rahul  Sharma,150.0,Female,Data Analyst,Bangalore,30000.0,-3.0,,15/01/2024
+10683,RAHUL SHARMA,45.0,male,Busines Analyst, MUMBAI ,5000000.0,-3.0,USER@GMAIL.COM,
+10684,AKSHAY kumar,22.0,Male,data analyst,Mumbai,45000.0,2.0,,Jan 15 2024
+10685,rahul sharma,150.0,female,Data Analyst,mumbai,60000.0,-3.0,employee@company.com,Jan 15 2024
+10686,rahul sharma,22.0,Male,,belgaum,30000.0,8.0,,2024-01-15
+10687,Rahul  Sharma,150.0,,Business Analyst,mumbai,30000.0,2.0,,
+10688,AKSHAY kumar,22.0,M,data analyst,pune,45000.0,8.0,invalid_email,15/01/2024
+10689,rahul sharma,,female,DATA ANALYST,Bangalore,5000000.0,5.0, test@mail.com ,Jan 15 2024
+10690,rahul sharma,45.0,Female,Data Analyst,pune,30000.0,2.0,employee@company.com,
+10691,Sanjay Patil,30.0,M,,belgaum,,-3.0,,15/01/2024
+10692,pooja patil,35.0,male,data analyst,belgaum,45000.0,,employee@company.com,
+10693,AKSHAY kumar,30.0,F,, MUMBAI ,,, test@mail.com ,15/01/2024
+10694,Rahul  Sharma,30.0,Female,data analyst, MUMBAI ,45000.0,1.0,,2024-01-15
+10695,RAHUL SHARMA,,,data analyst,Mumbai,45000.0,8.0,invalid_email,Jan 15 2024
+10696,pooja patil,45.0,F,data analyst,mumbai,30000.0,2.0,USER@GMAIL.COM,Jan 15 2024
+10697,AKSHAY kumar,35.0,male,data analyst,Pune,5000000.0,1.0,employee@company.com,2024-01-15
+10698,Sanjay Patil,150.0,F,Business Analyst,,5000000.0,-3.0,employee@company.com,15/01/2024
+10699,pooja patil,150.0,Female,data analyst, MUMBAI ,30000.0,2.0,USER@GMAIL.COM,
+10700,rahul sharma,45.0,Female,data analyst,Pune,30000.0,1.0, test@mail.com ,
+10701,AKSHAY kumar,150.0,female,DATA ANALYST,,30000.0,8.0,invalid_email,2024-01-15
+10702,AKSHAY kumar,-5.0,female,DATA ANALYST,belgaum,,-3.0,,2024-01-15
+10703,AKSHAY kumar,25.0,Female,Busines Analyst,Mumbai,30000.0,,,
+10704,Sanjay Patil,22.0,male,Busines Analyst,Mumbai,30000.0,5.0,invalid_email,
+10705,Rahul  Sharma,45.0,Female,data analyst,belgaum,45000.0,,USER@GMAIL.COM,15/01/2024
+10706,pooja patil,150.0,M,,mumbai,30000.0,40.0,,15/01/2024
+10707,pooja patil,-5.0,Male,Busines Analyst,Mumbai,30000.0,8.0,,15/01/2024
+10708,pooja patil,25.0,Male,DATA ANALYST, MUMBAI ,5000000.0,-3.0,USER@GMAIL.COM,2024-01-15
+10709,rahul sharma,150.0,female,DATA ANALYST,mumbai,,-3.0,invalid_email,15/01/2024
+10710,pooja patil,-5.0,M,data analyst,Bangalore,,40.0, test@mail.com ,15/01/2024
+10711,RAHUL SHARMA,30.0,,,Mumbai,60000.0,5.0,employee@company.com,
+10712,Rahul  Sharma,30.0,M,data analyst,Pune,25000.0,,employee@company.com,2024-01-15
+10713,pooja patil,150.0,,Busines Analyst,Mumbai,,8.0, test@mail.com ,15/01/2024
+10714,AKSHAY kumar,150.0,Female,Busines Analyst,,25000.0,,,2024-01-15
+10715,RAHUL SHARMA,45.0,male,,Pune,25000.0,2.0, test@mail.com ,2024-01-15
+10716,Sanjay Patil,,M,data analyst,Mumbai,5000000.0,,,Jan 15 2024
+10717,Rahul  Sharma,25.0,M,Data Analyst,belgaum,30000.0,2.0,employee@company.com,15/01/2024
+10718,pooja patil,,M,Data Analyst,pune,45000.0,5.0,invalid_email,2024-01-15
+10719,pooja patil,25.0,Male,Busines Analyst, MUMBAI ,25000.0,-3.0,employee@company.com,Jan 15 2024
+10720,AKSHAY kumar,-5.0,male,data analyst,Pune,,1.0,USER@GMAIL.COM,2024-01-15
+10721,pooja patil,45.0,Female,Business Analyst,Bangalore,45000.0,,,Jan 15 2024
+10722,RAHUL SHARMA,150.0,male,,,60000.0,40.0, test@mail.com ,15/01/2024
+10723,Sanjay Patil,45.0,F,Data Analyst,mumbai,25000.0,8.0,USER@GMAIL.COM,15/01/2024
+10724,AKSHAY kumar,-5.0,Female,Data Analyst,Bangalore,45000.0,, test@mail.com ,2024-01-15
+10725,Sanjay Patil,35.0,female,DATA ANALYST,pune,25000.0,5.0,employee@company.com,Jan 15 2024
+10726,rahul sharma,25.0,female,DATA ANALYST,Bangalore,60000.0,-3.0,,2024-01-15
+10727,RAHUL SHARMA,35.0,Male,DATA ANALYST,,60000.0,40.0,USER@GMAIL.COM,15/01/2024
+10728,pooja patil,30.0,female,Busines Analyst,Bangalore,60000.0,40.0,invalid_email,2024-01-15
+10729,AKSHAY kumar,45.0,male,,Bangalore,,,USER@GMAIL.COM,15/01/2024
+10730,AKSHAY kumar,,,DATA ANALYST,mumbai,30000.0,5.0,USER@GMAIL.COM,Jan 15 2024
+10731,pooja patil,30.0,male,Business Analyst,belgaum,30000.0,,USER@GMAIL.COM,Jan 15 2024
+10732,Sanjay Patil,,female,Data Analyst,pune,60000.0,1.0,invalid_email,15/01/2024
+10733,Rahul  Sharma,150.0,,DATA ANALYST,Pune,,5.0, test@mail.com ,2024-01-15
+10734,Rahul  Sharma,22.0,,data analyst,mumbai,60000.0,,USER@GMAIL.COM,
+10735,AKSHAY kumar,30.0,F,DATA ANALYST,,5000000.0,40.0,,Jan 15 2024
+10736,Rahul  Sharma,30.0,,Data Analyst, MUMBAI ,30000.0,-3.0,USER@GMAIL.COM,
+10737,pooja patil,25.0,M,DATA ANALYST,Mumbai,5000000.0,40.0,,2024-01-15
+10738,Rahul  Sharma,150.0,M,Data Analyst,pune,25000.0,,employee@company.com,15/01/2024
+10739,Rahul  Sharma,35.0,F,DATA ANALYST,pune,,5.0,invalid_email,2024-01-15
+10740,Rahul  Sharma,30.0,F,DATA ANALYST,mumbai,25000.0,,,2024-01-15
+10741,RAHUL SHARMA,,male,DATA ANALYST,pune,30000.0,-3.0,employee@company.com,15/01/2024
+10742,RAHUL SHARMA,25.0,Male,Business Analyst,Bangalore,,8.0,USER@GMAIL.COM,15/01/2024
+10743,rahul sharma,150.0,female,Data Analyst,mumbai,60000.0,1.0,USER@GMAIL.COM,
+10744,pooja patil,30.0,female,Business Analyst,,,5.0,employee@company.com,Jan 15 2024
+10745,RAHUL SHARMA,25.0,,Busines Analyst, MUMBAI ,25000.0,40.0,invalid_email,2024-01-15
+10746,pooja patil,45.0,female,,,60000.0,2.0, test@mail.com ,15/01/2024
+10747,AKSHAY kumar,45.0,Male,Busines Analyst, MUMBAI ,5000000.0,-3.0,employee@company.com,Jan 15 2024
+10748,pooja patil,150.0,M,Data Analyst,,25000.0,5.0,invalid_email,
+10749,RAHUL SHARMA,45.0,,DATA ANALYST, MUMBAI ,,1.0,invalid_email,2024-01-15
+10749,Rahul  Sharma,25.0,,DATA ANALYST,,60000.0,,invalid_email,15/01/2024
+10751,AKSHAY kumar,35.0,male,data analyst,,60000.0,1.0,employee@company.com,15/01/2024
+10752,Sanjay Patil,-5.0,,Busines Analyst,Bangalore,,-3.0, test@mail.com ,15/01/2024
+10753,Sanjay Patil,25.0,female,,,25000.0,,,
+10754,Rahul  Sharma,25.0,,Busines Analyst, MUMBAI ,45000.0,8.0,USER@GMAIL.COM,2024-01-15
+10755,Sanjay Patil,-5.0,Male,Busines Analyst,Mumbai,25000.0,2.0, test@mail.com ,2024-01-15
+10756,RAHUL SHARMA,30.0,Female,Business Analyst,pune,60000.0,,,
+10757,RAHUL SHARMA,35.0,female,DATA ANALYST,pune,,40.0,employee@company.com,
+10758,Sanjay Patil,,M,Business Analyst,Mumbai,,,invalid_email,15/01/2024
+10759,Rahul  Sharma,22.0,Male,Business Analyst,Mumbai,25000.0,-3.0,,Jan 15 2024
+10760,rahul sharma,45.0,,Data Analyst,Pune,60000.0,-3.0,,
+10761,Sanjay Patil,,female,Busines Analyst,belgaum,60000.0,8.0,,15/01/2024
+10762,Sanjay Patil,30.0,Female,data analyst,Pune,,8.0,employee@company.com,
+10763,RAHUL SHARMA,45.0,,, MUMBAI ,30000.0,1.0,USER@GMAIL.COM,2024-01-15
+10764,RAHUL SHARMA,150.0,female,Busines Analyst, MUMBAI ,25000.0,2.0,invalid_email,
+10765,Sanjay Patil,-5.0,male,data analyst,,,8.0,,
+10766,pooja patil,,F,data analyst,belgaum,,1.0,,
+10767,Sanjay Patil,35.0,female,Business Analyst,pune,60000.0,,,Jan 15 2024
+10768,rahul sharma,22.0,male,Busines Analyst,Bangalore,25000.0,,invalid_email,2024-01-15
+10769,RAHUL SHARMA,45.0,Female,Business Analyst,mumbai,,,USER@GMAIL.COM,15/01/2024
+10770,pooja patil,25.0,female,,pune,,1.0,employee@company.com,2024-01-15
+10771,pooja patil,150.0,male,Busines Analyst,Bangalore,60000.0,5.0,employee@company.com,Jan 15 2024
+10772,RAHUL SHARMA,22.0,female,Business Analyst,pune,5000000.0,40.0,,Jan 15 2024
+10773,rahul sharma,150.0,male,data analyst,Mumbai,5000000.0,5.0,,2024-01-15
+10774,Rahul  Sharma,150.0,M,data analyst,mumbai,45000.0,5.0, test@mail.com ,Jan 15 2024
+10775,Rahul  Sharma,45.0,M,,mumbai,,2.0,,15/01/2024
+10776,Sanjay Patil,150.0,Male,data analyst,pune,5000000.0,2.0,invalid_email,15/01/2024
+10777,AKSHAY kumar,22.0,Male,Data Analyst, MUMBAI ,,40.0, test@mail.com ,
+10778,pooja patil,-5.0,F,,,5000000.0,-3.0, test@mail.com ,15/01/2024
+10779,AKSHAY kumar,,M,,pune,25000.0,1.0, test@mail.com ,
+10780,pooja patil,150.0,Male,Busines Analyst,Pune,60000.0,-3.0,invalid_email,
+10781,Rahul  Sharma,30.0,male,Busines Analyst,Mumbai,45000.0,40.0,invalid_email,
+10782,Sanjay Patil,,male,,Mumbai,25000.0,,employee@company.com,
+10783,AKSHAY kumar,45.0,Male,DATA ANALYST,pune,25000.0,5.0,,
+10784,pooja patil,35.0,female,,Pune,,5.0, test@mail.com ,Jan 15 2024
+10785,AKSHAY kumar,22.0,female,Data Analyst,mumbai,25000.0,8.0,USER@GMAIL.COM,2024-01-15
+10786,Sanjay Patil,150.0,Male,data analyst,pune,45000.0,2.0,USER@GMAIL.COM,2024-01-15
+10787,AKSHAY kumar,25.0,M,Business Analyst,Pune,,-3.0,USER@GMAIL.COM,2024-01-15
+10788,rahul sharma,30.0,Female,, MUMBAI ,25000.0,-3.0, test@mail.com ,Jan 15 2024
+10789,Rahul  Sharma,150.0,female,Data Analyst,,45000.0,40.0,invalid_email,Jan 15 2024
+10790,Rahul  Sharma,30.0,,Data Analyst,pune,25000.0,8.0,invalid_email,Jan 15 2024
+10791,rahul sharma,45.0,,DATA ANALYST, MUMBAI ,60000.0,1.0,invalid_email,15/01/2024
+10792,AKSHAY kumar,-5.0,F,,,25000.0,2.0,,
+10793,RAHUL SHARMA,25.0,Female,,pune,25000.0,1.0,USER@GMAIL.COM,2024-01-15
+10794,AKSHAY kumar,45.0,,Busines Analyst,Mumbai,60000.0,2.0,USER@GMAIL.COM,2024-01-15
+10795,Sanjay Patil,-5.0,Male,data analyst,Bangalore,60000.0,,USER@GMAIL.COM,
+10796,pooja patil,-5.0,Female,,mumbai,,2.0,USER@GMAIL.COM,
+10797,Sanjay Patil,150.0,M,Business Analyst,Bangalore,45000.0,-3.0,employee@company.com,
+10798,rahul sharma,25.0,Male,Business Analyst,Bangalore,25000.0,40.0,invalid_email,Jan 15 2024
+10799,Sanjay Patil,35.0,F,Business Analyst,Mumbai,60000.0,-3.0, test@mail.com ,Jan 15 2024
+10800,Sanjay Patil,-5.0,M,,Bangalore,60000.0,1.0,invalid_email,15/01/2024
+10801,RAHUL SHARMA,22.0,F,Data Analyst,Pune,60000.0,8.0,USER@GMAIL.COM,Jan 15 2024
+10802,pooja patil,150.0,M,Data Analyst,Bangalore,25000.0,5.0,USER@GMAIL.COM,
+10803,rahul sharma,35.0,,,,5000000.0,40.0,,15/01/2024
+10804,Sanjay Patil,35.0,M,Data Analyst, MUMBAI ,60000.0,-3.0,USER@GMAIL.COM,
+10805,AKSHAY kumar,22.0,F,, MUMBAI ,25000.0,2.0,USER@GMAIL.COM,Jan 15 2024
+10806,rahul sharma,150.0,male,data analyst,mumbai,25000.0,1.0,invalid_email,15/01/2024
+10807,rahul sharma,35.0,Female,DATA ANALYST,belgaum,45000.0,1.0,,15/01/2024
+10808,Rahul  Sharma,35.0,,Data Analyst, MUMBAI ,45000.0,1.0,USER@GMAIL.COM,Jan 15 2024
+10809,RAHUL SHARMA,-5.0,F,,Bangalore,,2.0,invalid_email,15/01/2024
+10810,AKSHAY kumar,22.0,F,Data Analyst,belgaum,30000.0,1.0,invalid_email,2024-01-15
+10811,rahul sharma,22.0,F,Data Analyst,pune,60000.0,-3.0,invalid_email,15/01/2024
+10812,RAHUL SHARMA,30.0,female,DATA ANALYST,,60000.0,2.0, test@mail.com ,2024-01-15
+10813,AKSHAY kumar,30.0,female,Busines Analyst,mumbai,5000000.0,40.0,employee@company.com,Jan 15 2024
+10814,pooja patil,22.0,male,data analyst,Pune,25000.0,,USER@GMAIL.COM,Jan 15 2024
+10815,AKSHAY kumar,35.0,Female,,Pune,45000.0,1.0, test@mail.com ,2024-01-15
+10816,RAHUL SHARMA,150.0,Female,data analyst, MUMBAI ,5000000.0,1.0,USER@GMAIL.COM,Jan 15 2024
+10817,Rahul  Sharma,35.0,Female,DATA ANALYST,Bangalore,,40.0,invalid_email,2024-01-15
+10818,rahul sharma,22.0,male,data analyst, MUMBAI ,25000.0,8.0,,2024-01-15
+10819,rahul sharma,35.0,female,Busines Analyst,Bangalore,60000.0,2.0,employee@company.com,15/01/2024
+10820,rahul sharma,,F,Data Analyst,Pune,5000000.0,8.0, test@mail.com ,
+10821,RAHUL SHARMA,25.0,Female,Business Analyst,,25000.0,8.0, test@mail.com ,15/01/2024
+10822,AKSHAY kumar,150.0,F,Busines Analyst,Bangalore,30000.0,8.0, test@mail.com ,Jan 15 2024
+10823,Rahul  Sharma,35.0,Male,data analyst,Mumbai,5000000.0,,USER@GMAIL.COM,Jan 15 2024
+10824,RAHUL SHARMA,25.0,,Busines Analyst,,60000.0,2.0,employee@company.com,15/01/2024
+10825,Rahul  Sharma,30.0,,, MUMBAI ,,, test@mail.com ,2024-01-15
+10826,pooja patil,150.0,,data analyst,,60000.0,5.0,USER@GMAIL.COM,
+10827,Sanjay Patil,35.0,F,DATA ANALYST,belgaum,,2.0,,15/01/2024
+10828,AKSHAY kumar,22.0,Female,Data Analyst,Mumbai,60000.0,-3.0,,2024-01-15
+10829,pooja patil,-5.0,Female,,mumbai,60000.0,8.0, test@mail.com ,2024-01-15
+10830,AKSHAY kumar,22.0,female,,belgaum,30000.0,2.0,employee@company.com,Jan 15 2024
+10831,RAHUL SHARMA,25.0,M,Busines Analyst,pune,30000.0,-3.0,invalid_email,2024-01-15
+10832,pooja patil,150.0,,data analyst,belgaum,30000.0,40.0,employee@company.com,
+10833,Sanjay Patil,22.0,,,mumbai,60000.0,-3.0,employee@company.com,2024-01-15
+10834,Rahul  Sharma,-5.0,,DATA ANALYST,Pune,5000000.0,1.0,,Jan 15 2024
+10835,Sanjay Patil,22.0,male,,Bangalore,25000.0,1.0,invalid_email,Jan 15 2024
+10836,pooja patil,22.0,Male,DATA ANALYST, MUMBAI ,5000000.0,,USER@GMAIL.COM,15/01/2024
+10837,RAHUL SHARMA,,F,Business Analyst,mumbai,5000000.0,8.0,,15/01/2024
+10838,Sanjay Patil,35.0,Male,DATA ANALYST,pune,,-3.0,invalid_email,Jan 15 2024
+10839,rahul sharma,25.0,Male,DATA ANALYST,,60000.0,,,2024-01-15
+10840,pooja patil,45.0,Female,Business Analyst,Bangalore,5000000.0,-3.0,USER@GMAIL.COM,15/01/2024
+10841,pooja patil,25.0,M,Busines Analyst, MUMBAI ,45000.0,1.0,USER@GMAIL.COM,15/01/2024
+10842,Rahul  Sharma,25.0,female,data analyst,,30000.0,40.0, test@mail.com ,2024-01-15
+10843,Rahul  Sharma,-5.0,female,Business Analyst, MUMBAI ,60000.0,5.0,invalid_email,
+10844,Sanjay Patil,22.0,Male,data analyst,mumbai,25000.0,40.0, test@mail.com ,Jan 15 2024
+10845,pooja patil,,female,,Bangalore,60000.0,,,
+10846,pooja patil,45.0,male,data analyst,pune,30000.0,40.0,employee@company.com,15/01/2024
+10847,pooja patil,,Male,Data Analyst, MUMBAI ,45000.0,5.0,invalid_email,15/01/2024
+10848,AKSHAY kumar,30.0,female,Business Analyst,pune,30000.0,2.0, test@mail.com ,15/01/2024
+10849,RAHUL SHARMA,25.0,M,DATA ANALYST, MUMBAI ,60000.0,5.0,employee@company.com,15/01/2024
+10850,RAHUL SHARMA,22.0,female,DATA ANALYST,Bangalore,30000.0,5.0,invalid_email,15/01/2024
+10851,AKSHAY kumar,45.0,M,Data Analyst,belgaum,60000.0,40.0, test@mail.com ,
+10852,Rahul  Sharma,30.0,M,,Bangalore,5000000.0,-3.0,employee@company.com,
+10853,Rahul  Sharma,30.0,,Business Analyst,,45000.0,-3.0,USER@GMAIL.COM,
+10854,rahul sharma,30.0,female,Business Analyst,mumbai,45000.0,1.0,invalid_email,15/01/2024
+10855,pooja patil,,M,DATA ANALYST,Mumbai,,-3.0, test@mail.com ,15/01/2024
+10856,Rahul  Sharma,35.0,M,Data Analyst,,5000000.0,-3.0,USER@GMAIL.COM,
+10857,RAHUL SHARMA,150.0,Male,Business Analyst,Mumbai,5000000.0,5.0,invalid_email,15/01/2024
+10858,Sanjay Patil,-5.0,Male,Busines Analyst,Bangalore,25000.0,5.0,employee@company.com,Jan 15 2024
+10859,Rahul  Sharma,150.0,,Business Analyst,mumbai,30000.0,-3.0,invalid_email,
+10860,pooja patil,45.0,F,,belgaum,5000000.0,8.0, test@mail.com ,2024-01-15
+10861,RAHUL SHARMA,35.0,Male,Busines Analyst,Bangalore,25000.0,,invalid_email,2024-01-15
+10862,rahul sharma,-5.0,female,DATA ANALYST,belgaum,30000.0,,invalid_email,15/01/2024
+10863,RAHUL SHARMA,30.0,,Busines Analyst,pune,,8.0,USER@GMAIL.COM,Jan 15 2024
+10864,AKSHAY kumar,45.0,Female,Business Analyst,,30000.0,1.0,USER@GMAIL.COM,15/01/2024
+10865,Rahul  Sharma,45.0,female,,,25000.0,-3.0,employee@company.com,
+10866,RAHUL SHARMA,150.0,female,,Pune,25000.0,1.0,employee@company.com,
+10867,rahul sharma,,male,Busines Analyst,belgaum,45000.0,-3.0,invalid_email,2024-01-15
+10868,Rahul  Sharma,22.0,,DATA ANALYST, MUMBAI ,,1.0, test@mail.com ,Jan 15 2024
+10869,pooja patil,30.0,Male,data analyst,Mumbai,45000.0,5.0,invalid_email,Jan 15 2024
+10870,rahul sharma,45.0,Male,Business Analyst,mumbai,,2.0, test@mail.com ,2024-01-15
+10871,AKSHAY kumar,30.0,male,DATA ANALYST,Bangalore,5000000.0,40.0,employee@company.com,Jan 15 2024
+10872,Sanjay Patil,,M,Business Analyst,Bangalore,30000.0,1.0, test@mail.com ,Jan 15 2024
+10873,Rahul  Sharma,150.0,Female,DATA ANALYST, MUMBAI ,25000.0,2.0, test@mail.com ,15/01/2024
+10874,RAHUL SHARMA,25.0,Female,Busines Analyst,mumbai,25000.0,40.0, test@mail.com ,2024-01-15
+10875,pooja patil,,Male,,Bangalore,30000.0,40.0,invalid_email,Jan 15 2024
+10876,RAHUL SHARMA,45.0,M,,mumbai,30000.0,2.0, test@mail.com ,15/01/2024
+10877,Rahul  Sharma,30.0,F,data analyst,mumbai,60000.0,-3.0,USER@GMAIL.COM,2024-01-15
+10878,rahul sharma,150.0,,Busines Analyst,Mumbai,30000.0,1.0,USER@GMAIL.COM,2024-01-15
+10879,pooja patil,25.0,Male,Data Analyst,mumbai,45000.0,-3.0,USER@GMAIL.COM,2024-01-15
+10880,rahul sharma,35.0,male,data analyst, MUMBAI ,5000000.0,5.0,USER@GMAIL.COM,2024-01-15
+10881,RAHUL SHARMA,45.0,male,DATA ANALYST,Bangalore,30000.0,40.0,,15/01/2024
+10882,AKSHAY kumar,25.0,M,Business Analyst,Mumbai,,2.0, test@mail.com ,Jan 15 2024
+10883,RAHUL SHARMA,22.0,female,Data Analyst,Pune,,40.0,invalid_email,Jan 15 2024
+10884,Sanjay Patil,30.0,Female,,mumbai,30000.0,40.0,employee@company.com,
+10885,pooja patil,35.0,male,data analyst,belgaum,25000.0,40.0,employee@company.com,2024-01-15
+10886,pooja patil,25.0,male,data analyst,,45000.0,-3.0,employee@company.com,2024-01-15
+10887,rahul sharma,,Female,Data Analyst,belgaum,45000.0,8.0,,Jan 15 2024
+10888,Sanjay Patil,150.0,F,Business Analyst,belgaum,45000.0,40.0,invalid_email,15/01/2024
+10889,rahul sharma,150.0,female,DATA ANALYST, MUMBAI ,25000.0,-3.0,invalid_email,2024-01-15
+10890,pooja patil,150.0,male,,mumbai,25000.0,2.0,invalid_email,
+10891,Sanjay Patil,25.0,female,data analyst,mumbai,45000.0,2.0,employee@company.com,15/01/2024
+10892,AKSHAY kumar,-5.0,M,data analyst,belgaum,5000000.0,8.0,employee@company.com,Jan 15 2024
+10893,Sanjay Patil,-5.0,Male,Busines Analyst,belgaum,60000.0,,employee@company.com,15/01/2024
+10894,pooja patil,25.0,M,DATA ANALYST,,60000.0,2.0, test@mail.com ,2024-01-15
+10895,rahul sharma,22.0,,Data Analyst,,5000000.0,1.0, test@mail.com ,
+10896,AKSHAY kumar,,F,DATA ANALYST,mumbai,25000.0,-3.0,,
+10897,pooja patil,35.0,Male,,,60000.0,,employee@company.com,Jan 15 2024
+10898,AKSHAY kumar,22.0,,Data Analyst,belgaum,25000.0,8.0,invalid_email,Jan 15 2024
+10899,pooja patil,150.0,Female,Data Analyst,Mumbai,30000.0,,employee@company.com,15/01/2024
+10899,pooja patil,-5.0,F,DATA ANALYST,belgaum,60000.0,40.0,USER@GMAIL.COM,
+10901,Sanjay Patil,150.0,Female,Business Analyst, MUMBAI ,,1.0,invalid_email,Jan 15 2024
+10902,pooja patil,-5.0,male,,Bangalore,45000.0,5.0,USER@GMAIL.COM,2024-01-15
+10903,AKSHAY kumar,22.0,F,DATA ANALYST,Bangalore,5000000.0,,USER@GMAIL.COM,Jan 15 2024
+10904,pooja patil,25.0,Female,DATA ANALYST,Bangalore,60000.0,5.0,USER@GMAIL.COM,15/01/2024
+10905,RAHUL SHARMA,35.0,female,DATA ANALYST,mumbai,5000000.0,1.0,employee@company.com,2024-01-15
+10906,Rahul  Sharma,30.0,M,Business Analyst,Bangalore,25000.0,8.0,invalid_email,
+10907,Rahul  Sharma,22.0,female,Busines Analyst,Mumbai,45000.0,8.0,,
+10908,Rahul  Sharma,25.0,,Busines Analyst,mumbai,5000000.0,-3.0, test@mail.com ,Jan 15 2024
+10909,pooja patil,,F,Business Analyst,pune,45000.0,8.0, test@mail.com ,
+10910,Sanjay Patil,25.0,,Business Analyst,Pune,45000.0,5.0,USER@GMAIL.COM,Jan 15 2024
+10911,AKSHAY kumar,-5.0,,data analyst,mumbai,5000000.0,40.0,,2024-01-15
+10912,AKSHAY kumar,,Male,Data Analyst,,60000.0,2.0,employee@company.com,2024-01-15
+10913,Sanjay Patil,45.0,male,DATA ANALYST,belgaum,5000000.0,,employee@company.com,15/01/2024
+10914,pooja patil,-5.0,Male,Business Analyst,,5000000.0,40.0,,15/01/2024
+10915,rahul sharma,30.0,male,Busines Analyst,Pune,5000000.0,40.0,invalid_email,Jan 15 2024
+10916,Sanjay Patil,-5.0,male,,Mumbai,,2.0,employee@company.com,
+10917,RAHUL SHARMA,35.0,F,,pune,60000.0,8.0,employee@company.com,2024-01-15
+10918,Sanjay Patil,35.0,,Busines Analyst,pune,45000.0,-3.0, test@mail.com ,Jan 15 2024
+10919,Sanjay Patil,35.0,Female,data analyst,mumbai,30000.0,2.0,USER@GMAIL.COM,15/01/2024
+10920,Rahul  Sharma,150.0,Female,Business Analyst,belgaum,60000.0,-3.0,USER@GMAIL.COM,15/01/2024
+10921,RAHUL SHARMA,45.0,F,Data Analyst,pune,45000.0,-3.0,,15/01/2024
+10922,Sanjay Patil,22.0,female,Busines Analyst,Mumbai,25000.0,40.0,USER@GMAIL.COM,Jan 15 2024
+10923,AKSHAY kumar,45.0,,Data Analyst,belgaum,45000.0,-3.0,USER@GMAIL.COM,
+10924,Sanjay Patil,30.0,F,Data Analyst,mumbai,,-3.0,,Jan 15 2024
+10925,pooja patil,25.0,F,Business Analyst,mumbai,45000.0,5.0,,
+10926,Sanjay Patil,35.0,Female,data analyst, MUMBAI ,25000.0,2.0, test@mail.com ,Jan 15 2024
+10927,pooja patil,-5.0,Male,Business Analyst,Mumbai,60000.0,,employee@company.com,2024-01-15
+10928,Rahul  Sharma,-5.0,Female,,Pune,45000.0,40.0, test@mail.com ,Jan 15 2024
+10929,pooja patil,,,DATA ANALYST,Mumbai,5000000.0,,USER@GMAIL.COM,2024-01-15
+10930,Sanjay Patil,35.0,Male,Business Analyst,belgaum,45000.0,-3.0,employee@company.com,2024-01-15
+10931,AKSHAY kumar,35.0,,Busines Analyst,belgaum,25000.0,8.0,employee@company.com,Jan 15 2024
+10932,rahul sharma,35.0,Male,data analyst, MUMBAI ,60000.0,-3.0,employee@company.com,
+10933,rahul sharma,45.0,,Data Analyst,,60000.0,-3.0,invalid_email,Jan 15 2024
+10934,Sanjay Patil,-5.0,,Data Analyst, MUMBAI ,5000000.0,5.0,,2024-01-15
+10935,Rahul  Sharma,-5.0,male,,Bangalore,60000.0,-3.0,USER@GMAIL.COM,2024-01-15
+10936,Sanjay Patil,30.0,female,Busines Analyst, MUMBAI ,25000.0,8.0, test@mail.com ,Jan 15 2024
+10937,Rahul  Sharma,25.0,M,data analyst,Pune,,-3.0, test@mail.com ,
+10938,Rahul  Sharma,150.0,Female,, MUMBAI ,45000.0,2.0,,Jan 15 2024
+10939,Rahul  Sharma,35.0,M,Busines Analyst,Bangalore,30000.0,8.0,invalid_email,15/01/2024
+10940,rahul sharma,22.0,male,,Pune,25000.0,8.0, test@mail.com ,Jan 15 2024
+10941,Sanjay Patil,30.0,M,Busines Analyst,belgaum,,5.0, test@mail.com ,2024-01-15
+10942,Rahul  Sharma,30.0,male,Data Analyst,Mumbai,5000000.0,,invalid_email,
+10943,Sanjay Patil,150.0,M,data analyst,Pune,30000.0,40.0,employee@company.com,Jan 15 2024
+10944,Sanjay Patil,150.0,Female,data analyst,belgaum,30000.0,, test@mail.com ,Jan 15 2024
+10945,Sanjay Patil,35.0,Female,data analyst,belgaum,30000.0,1.0,employee@company.com,Jan 15 2024
+10946,RAHUL SHARMA,150.0,F,DATA ANALYST,,25000.0,1.0,invalid_email,15/01/2024
+10947,Rahul  Sharma,-5.0,female,data analyst,belgaum,5000000.0,8.0,,Jan 15 2024
+10948,rahul sharma,25.0,male,Data Analyst,Mumbai,45000.0,2.0,invalid_email,Jan 15 2024
+10949,AKSHAY kumar,22.0,M,DATA ANALYST,belgaum,45000.0,8.0,employee@company.com,15/01/2024
+10950,AKSHAY kumar,22.0,male,data analyst,pune,30000.0,,invalid_email,Jan 15 2024
+10951,pooja patil,30.0,M,DATA ANALYST,belgaum,30000.0,5.0,USER@GMAIL.COM,Jan 15 2024
+10952,rahul sharma,30.0,Female,DATA ANALYST,Bangalore,60000.0,5.0,employee@company.com,Jan 15 2024
+10953,AKSHAY kumar,,Female,data analyst,Bangalore,5000000.0,8.0, test@mail.com ,
+10954,rahul sharma,35.0,F,Data Analyst,Pune,30000.0,1.0,invalid_email,Jan 15 2024
+10955,RAHUL SHARMA,150.0,Female,Data Analyst,,25000.0,8.0,employee@company.com,
+10956,pooja patil,150.0,M,, MUMBAI ,25000.0,5.0,USER@GMAIL.COM,15/01/2024
+10957,Rahul  Sharma,30.0,,data analyst,pune,,-3.0,,15/01/2024
+10958,AKSHAY kumar,22.0,male,Business Analyst, MUMBAI ,60000.0,1.0, test@mail.com ,
+10959,Sanjay Patil,25.0,Male,Data Analyst,pune,5000000.0,-3.0,USER@GMAIL.COM,
+10960,Rahul  Sharma,25.0,,DATA ANALYST, MUMBAI ,25000.0,1.0,invalid_email,
+10961,pooja patil,45.0,male,,Mumbai,45000.0,1.0,,
+10962,Rahul  Sharma,30.0,F,Data Analyst,pune,45000.0,40.0,USER@GMAIL.COM,2024-01-15
+10963,AKSHAY kumar,-5.0,M,Busines Analyst,pune,30000.0,2.0,invalid_email,2024-01-15
+10964,rahul sharma,35.0,F,Busines Analyst,belgaum,45000.0,-3.0, test@mail.com ,2024-01-15
+10965,Rahul  Sharma,150.0,,Busines Analyst,pune,5000000.0,, test@mail.com ,Jan 15 2024
+10966,Sanjay Patil,25.0,,DATA ANALYST,Pune,60000.0,8.0,invalid_email,
+10967,Rahul  Sharma,-5.0,M,Busines Analyst,Bangalore,,2.0,invalid_email,
+10968,rahul sharma,22.0,male,DATA ANALYST,,5000000.0,2.0, test@mail.com ,
+10969,AKSHAY kumar,25.0,Male,Busines Analyst,belgaum,25000.0,40.0,invalid_email,Jan 15 2024
+10970,RAHUL SHARMA,30.0,female,DATA ANALYST,Pune,,8.0,employee@company.com,2024-01-15
+10971,AKSHAY kumar,25.0,M,Business Analyst,mumbai,,8.0,invalid_email,2024-01-15
+10972,pooja patil,45.0,Male,DATA ANALYST,mumbai,,1.0,USER@GMAIL.COM,
+10973,RAHUL SHARMA,30.0,,Busines Analyst,Mumbai,25000.0,8.0,employee@company.com,Jan 15 2024
+10974,AKSHAY kumar,150.0,,,,,40.0,employee@company.com,Jan 15 2024
+10975,RAHUL SHARMA,35.0,F,Data Analyst,pune,5000000.0,1.0,invalid_email,2024-01-15
+10976,rahul sharma,-5.0,M,Data Analyst, MUMBAI ,5000000.0,8.0,invalid_email,
+10977,Sanjay Patil,150.0,Male,Business Analyst,Bangalore,5000000.0,-3.0,invalid_email,Jan 15 2024
+10978,rahul sharma,30.0,F,Data Analyst,Pune,25000.0,40.0,USER@GMAIL.COM,15/01/2024
+10979,rahul sharma,35.0,Female,, MUMBAI ,5000000.0,2.0,invalid_email,15/01/2024
+10980,rahul sharma,45.0,,Busines Analyst, MUMBAI ,60000.0,8.0,USER@GMAIL.COM,2024-01-15
+10981,RAHUL SHARMA,30.0,female,,,60000.0,8.0,USER@GMAIL.COM,
+10982,AKSHAY kumar,35.0,F,DATA ANALYST,belgaum,25000.0,5.0,USER@GMAIL.COM,2024-01-15
+10983,Sanjay Patil,-5.0,Female,Busines Analyst,pune,25000.0,8.0,invalid_email,
+10984,AKSHAY kumar,150.0,F,,Mumbai,,1.0,invalid_email,Jan 15 2024
+10985,AKSHAY kumar,25.0,Male,,belgaum,60000.0,1.0,invalid_email,Jan 15 2024
+10986,pooja patil,-5.0,M,data analyst,pune,5000000.0,2.0,invalid_email,Jan 15 2024
+10987,pooja patil,35.0,male,data analyst,Bangalore,,40.0,invalid_email,15/01/2024
+10988,Rahul  Sharma,-5.0,Female,,Bangalore,60000.0,40.0, test@mail.com ,15/01/2024
+10989,Rahul  Sharma,25.0,female,Busines Analyst, MUMBAI ,30000.0,2.0, test@mail.com ,
+10990,rahul sharma,-5.0,Female,DATA ANALYST,Pune,30000.0,,USER@GMAIL.COM,2024-01-15
+10991,Rahul  Sharma,45.0,Male,, MUMBAI ,30000.0,40.0,,2024-01-15
+10992,rahul sharma,,Female,Data Analyst,Pune,25000.0,, test@mail.com ,
+10993,Rahul  Sharma,,,DATA ANALYST,Mumbai,,5.0, test@mail.com ,2024-01-15
+10994,Sanjay Patil,22.0,Female,Busines Analyst,mumbai,25000.0,40.0,,2024-01-15
+10995,AKSHAY kumar,22.0,male,Data Analyst, MUMBAI ,5000000.0,1.0, test@mail.com ,Jan 15 2024
+10996,RAHUL SHARMA,45.0,female,Busines Analyst,,5000000.0,40.0,USER@GMAIL.COM,15/01/2024
+10997,Sanjay Patil,,Male,data analyst,mumbai,30000.0,8.0,invalid_email,2024-01-15
+10998,RAHUL SHARMA,150.0,Male,DATA ANALYST, MUMBAI ,25000.0,5.0,employee@company.com,
+10999,Rahul  Sharma,35.0,F,Business Analyst,belgaum,30000.0,2.0,invalid_email,
+11000,pooja patil,150.0,,Business Analyst,Bangalore,25000.0,8.0, test@mail.com ,2024-01-15
+11001,Sanjay Patil,25.0,M,DATA ANALYST,Bangalore,60000.0,40.0, test@mail.com ,
+11002,rahul sharma,-5.0,,Data Analyst, MUMBAI ,,1.0,,Jan 15 2024
+11003,pooja patil,-5.0,female,,pune,5000000.0,-3.0,employee@company.com,Jan 15 2024
+11004,rahul sharma,45.0,male,Business Analyst, MUMBAI ,5000000.0,8.0,invalid_email,15/01/2024
+11005,AKSHAY kumar,150.0,female,DATA ANALYST,belgaum,30000.0,5.0,USER@GMAIL.COM,2024-01-15
+11006,AKSHAY kumar,,Female,, MUMBAI ,,,employee@company.com,15/01/2024
+11007,rahul sharma,45.0,male,DATA ANALYST, MUMBAI ,25000.0,1.0,,Jan 15 2024
+11008,RAHUL SHARMA,45.0,female,Busines Analyst,mumbai,5000000.0,1.0,employee@company.com,Jan 15 2024
+11009,Sanjay Patil,,M,Data Analyst,mumbai,60000.0,5.0,,2024-01-15
+11010,pooja patil,,F,,Pune,45000.0,5.0,employee@company.com,15/01/2024
+11011,Sanjay Patil,-5.0,male,,Pune,25000.0,5.0,,15/01/2024
+11012,Rahul  Sharma,150.0,M,data analyst,belgaum,60000.0,1.0,USER@GMAIL.COM,2024-01-15
+11013,pooja patil,30.0,Female,data analyst,,25000.0,5.0,,
+11014,AKSHAY kumar,-5.0,,DATA ANALYST,,5000000.0,8.0,invalid_email,
+11015,Sanjay Patil,-5.0,,data analyst, MUMBAI ,,2.0,invalid_email,
+11016,RAHUL SHARMA,25.0,female,data analyst,,60000.0,1.0, test@mail.com ,Jan 15 2024
+11017,rahul sharma,-5.0,M,Data Analyst,Bangalore,,5.0,USER@GMAIL.COM,15/01/2024
+11018,rahul sharma,,Male,DATA ANALYST,pune,45000.0,8.0,USER@GMAIL.COM,15/01/2024
+11019,RAHUL SHARMA,-5.0,M,DATA ANALYST,pune,30000.0,2.0,invalid_email,2024-01-15
+11020,rahul sharma,,M,Data Analyst,belgaum,60000.0,,employee@company.com,
+11021,Rahul  Sharma,-5.0,Female,, MUMBAI ,30000.0,,invalid_email,
+11022,Sanjay Patil,150.0,F,,Bangalore,25000.0,40.0,,
+11023,pooja patil,35.0,Female,DATA ANALYST,Mumbai,5000000.0,8.0,employee@company.com,2024-01-15
+11024,RAHUL SHARMA,22.0,male,,pune,,-3.0,USER@GMAIL.COM,2024-01-15
+11025,RAHUL SHARMA,22.0,male,Business Analyst,Pune,60000.0,,USER@GMAIL.COM,2024-01-15
+11026,Sanjay Patil,30.0,M,DATA ANALYST,Pune,30000.0,40.0,,
+11027,rahul sharma,,Female,Business Analyst,Mumbai,60000.0,40.0,USER@GMAIL.COM,Jan 15 2024
+11028,pooja patil,30.0,Female,Data Analyst,Bangalore,60000.0,5.0,USER@GMAIL.COM,2024-01-15
+11029,rahul sharma,30.0,Male,data analyst, MUMBAI ,45000.0,40.0,USER@GMAIL.COM,15/01/2024
+11030,Rahul  Sharma,-5.0,female,data analyst,Mumbai,,5.0, test@mail.com ,2024-01-15
+11031,Sanjay Patil,22.0,Male,Busines Analyst,mumbai,45000.0,2.0,invalid_email,Jan 15 2024
+11032,Rahul  Sharma,-5.0,,Data Analyst,Mumbai,30000.0,2.0,,15/01/2024
+11033,pooja patil,-5.0,M,DATA ANALYST,Mumbai,45000.0,8.0,,
+11034,rahul sharma,150.0,M,Busines Analyst,Pune,25000.0,5.0,,2024-01-15
+11035,RAHUL SHARMA,30.0,Male,Business Analyst,belgaum,60000.0,1.0,,15/01/2024
+11036,RAHUL SHARMA,,male,data analyst,Pune,,8.0,,
+11037,rahul sharma,22.0,,Busines Analyst,pune,5000000.0,2.0,USER@GMAIL.COM,2024-01-15
+11038,pooja patil,45.0,male,DATA ANALYST,belgaum,45000.0,40.0, test@mail.com ,Jan 15 2024
+11039,rahul sharma,30.0,female,Business Analyst,mumbai,45000.0,1.0,invalid_email,2024-01-15
+11040,RAHUL SHARMA,45.0,Female,data analyst,Bangalore,5000000.0,5.0,employee@company.com,
+11041,Rahul  Sharma,35.0,female,DATA ANALYST,Bangalore,30000.0,8.0,,Jan 15 2024
+11042,rahul sharma,30.0,female,Data Analyst,,25000.0,1.0, test@mail.com ,
+11043,AKSHAY kumar,150.0,,Busines Analyst,mumbai,5000000.0,-3.0,USER@GMAIL.COM,2024-01-15
+11044,Sanjay Patil,150.0,female,Data Analyst,Bangalore,60000.0,40.0,,Jan 15 2024
+11045,pooja patil,30.0,,,Mumbai,25000.0,8.0,employee@company.com,15/01/2024
+11046,pooja patil,22.0,F,,Mumbai,45000.0,-3.0,employee@company.com,15/01/2024
+11047,rahul sharma,45.0,,,Pune,30000.0,8.0,employee@company.com,2024-01-15
+11048,Rahul  Sharma,150.0,female,,Pune,25000.0,2.0,invalid_email,2024-01-15
+11049,Rahul  Sharma,150.0,F,Business Analyst,Pune,5000000.0,-3.0,,15/01/2024
+11049,rahul sharma,30.0,female,Data Analyst, MUMBAI ,45000.0,, test@mail.com ,Jan 15 2024
+11051,RAHUL SHARMA,22.0,female,,pune,5000000.0,,invalid_email,2024-01-15
+11052,pooja patil,22.0,,DATA ANALYST,belgaum,60000.0,5.0,USER@GMAIL.COM,
+11053,pooja patil,,male,Data Analyst,Pune,25000.0,5.0,invalid_email,
+11054,Rahul  Sharma,22.0,Female,data analyst,Bangalore,25000.0,,USER@GMAIL.COM,15/01/2024
+11055,Sanjay Patil,-5.0,M,data analyst,Pune,30000.0,5.0,employee@company.com,2024-01-15
+11056,Sanjay Patil,25.0,M,Busines Analyst,belgaum,25000.0,,employee@company.com,Jan 15 2024
+11057,RAHUL SHARMA,25.0,Female,data analyst,Bangalore,25000.0,40.0,employee@company.com,15/01/2024
+11058,rahul sharma,150.0,,Data Analyst,,,1.0,USER@GMAIL.COM,2024-01-15
+11059,rahul sharma,-5.0,Male,,mumbai,30000.0,1.0,invalid_email,2024-01-15
+11060,Rahul  Sharma,-5.0,M,Data Analyst,Mumbai,,1.0,employee@company.com,
+11061,pooja patil,25.0,male,Busines Analyst,Pune,,40.0,,2024-01-15
+11062,pooja patil,-5.0,Female,Busines Analyst,mumbai,45000.0,-3.0,USER@GMAIL.COM,
+11063,AKSHAY kumar,,male,data analyst,mumbai,25000.0,1.0,,2024-01-15
+11064,AKSHAY kumar,35.0,male,data analyst,pune,45000.0,8.0,invalid_email,
+11065,RAHUL SHARMA,35.0,F,Data Analyst,Mumbai,30000.0,5.0,,
+11066,AKSHAY kumar,,Male,Business Analyst, MUMBAI ,30000.0,8.0,employee@company.com,Jan 15 2024
+11067,Rahul  Sharma,,M,Business Analyst, MUMBAI ,25000.0,2.0,,2024-01-15
+11068,pooja patil,,F,data analyst,Pune,25000.0,5.0, test@mail.com ,
+11069,Sanjay Patil,150.0,male,,Bangalore,,,employee@company.com,Jan 15 2024
+11070,pooja patil,,F,Data Analyst,,25000.0,8.0, test@mail.com ,2024-01-15
+11071,Sanjay Patil,35.0,female,data analyst,,,2.0, test@mail.com ,
+11072,Sanjay Patil,,,,belgaum,30000.0,8.0, test@mail.com ,2024-01-15
+11073,Rahul  Sharma,22.0,M,DATA ANALYST,Mumbai,,1.0, test@mail.com ,Jan 15 2024
+11074,pooja patil,35.0,female,Business Analyst,Bangalore,25000.0,1.0, test@mail.com ,15/01/2024
+11075,Rahul  Sharma,30.0,F,DATA ANALYST, MUMBAI ,45000.0,40.0,,15/01/2024
+11076,RAHUL SHARMA,35.0,M,data analyst,pune,25000.0,1.0, test@mail.com ,
+11077,Sanjay Patil,25.0,Male,data analyst,pune,60000.0,2.0,employee@company.com,Jan 15 2024
+11078,Sanjay Patil,30.0,male,Business Analyst,belgaum,5000000.0,1.0,USER@GMAIL.COM,15/01/2024
+11079,RAHUL SHARMA,35.0,F,Business Analyst,belgaum,5000000.0,5.0,employee@company.com,
+11080,Sanjay Patil,35.0,M,Business Analyst,Pune,,5.0, test@mail.com ,Jan 15 2024
+11081,RAHUL SHARMA,22.0,female,DATA ANALYST, MUMBAI ,,,invalid_email,15/01/2024
+11082,Sanjay Patil,25.0,,Busines Analyst,mumbai,30000.0,,invalid_email,Jan 15 2024
+11083,pooja patil,150.0,F,DATA ANALYST,Bangalore,,-3.0,invalid_email,
+11084,pooja patil,45.0,male,Busines Analyst,Mumbai,30000.0,2.0, test@mail.com ,
+11085,RAHUL SHARMA,-5.0,F,DATA ANALYST,belgaum,60000.0,, test@mail.com ,Jan 15 2024
+11086,Rahul  Sharma,25.0,F,Data Analyst,pune,60000.0,,employee@company.com,15/01/2024
+11087,AKSHAY kumar,22.0,Female,Business Analyst,Bangalore,60000.0,8.0,invalid_email,
+11088,pooja patil,,,Busines Analyst,Bangalore,45000.0,8.0,USER@GMAIL.COM,15/01/2024
+11089,pooja patil,35.0,Male,,mumbai,45000.0,1.0,employee@company.com,2024-01-15
+11090,Rahul  Sharma,35.0,M,Data Analyst,mumbai,45000.0,1.0,,15/01/2024
+11091,Rahul  Sharma,35.0,female,DATA ANALYST,pune,45000.0,-3.0,employee@company.com,15/01/2024
+11092,Sanjay Patil,30.0,,,pune,25000.0,40.0,employee@company.com,Jan 15 2024
+11093,Rahul  Sharma,-5.0,Female,Business Analyst,Mumbai,60000.0,-3.0,,15/01/2024
+11094,pooja patil,35.0,F,,Pune,60000.0,2.0,,
+11095,Sanjay Patil,150.0,Male,Data Analyst,Bangalore,30000.0,8.0,invalid_email,15/01/2024
+11096,pooja patil,150.0,,Business Analyst,Mumbai,45000.0,2.0,,15/01/2024
+11097,Rahul  Sharma,22.0,Female,,Bangalore,45000.0,2.0,invalid_email,
+11098,Sanjay Patil,-5.0,,,pune,45000.0,,USER@GMAIL.COM,2024-01-15
+11099,RAHUL SHARMA,30.0,Male,Business Analyst,belgaum,60000.0,2.0,invalid_email,2024-01-15
+11100,AKSHAY kumar,-5.0,F,Busines Analyst,mumbai,45000.0,,invalid_email,Jan 15 2024
+11101,rahul sharma,30.0,M,, MUMBAI ,25000.0,40.0,,
+11102,rahul sharma,30.0,F,Data Analyst,belgaum,45000.0,2.0, test@mail.com ,Jan 15 2024
+11103,Sanjay Patil,25.0,Female,Data Analyst,Bangalore,,1.0, test@mail.com ,Jan 15 2024
+11104,pooja patil,-5.0,F,Data Analyst, MUMBAI ,,8.0,invalid_email,2024-01-15
+11105,pooja patil,35.0,F,data analyst,pune,60000.0,40.0,invalid_email,15/01/2024
+11106,AKSHAY kumar,45.0,male,data analyst,,45000.0,2.0,USER@GMAIL.COM,15/01/2024
+11107,pooja patil,25.0,,Busines Analyst,Pune,,5.0,,
+11108,pooja patil,150.0,male,Data Analyst,mumbai,45000.0,-3.0,invalid_email,Jan 15 2024
+11109,Sanjay Patil,45.0,Female,Business Analyst, MUMBAI ,60000.0,2.0, test@mail.com ,
+11110,pooja patil,-5.0,female,data analyst,mumbai,60000.0,-3.0,USER@GMAIL.COM,15/01/2024
+11111,RAHUL SHARMA,45.0,female,Business Analyst,pune,5000000.0,1.0, test@mail.com ,
+11112,pooja patil,25.0,Male,Data Analyst,mumbai,,40.0,employee@company.com,
+11113,pooja patil,30.0,Male,data analyst,Mumbai,60000.0,1.0,USER@GMAIL.COM,
+11114,pooja patil,,female,Busines Analyst,Pune,60000.0,1.0,USER@GMAIL.COM,Jan 15 2024
+11115,rahul sharma,30.0,Male,,,60000.0,8.0,USER@GMAIL.COM,2024-01-15
+11116,AKSHAY kumar,35.0,female,Busines Analyst, MUMBAI ,60000.0,40.0,employee@company.com,15/01/2024
+11117,RAHUL SHARMA,22.0,male,Data Analyst, MUMBAI ,45000.0,1.0,,
+11118,RAHUL SHARMA,25.0,female,Data Analyst,pune,30000.0,8.0,employee@company.com,15/01/2024
+11119,RAHUL SHARMA,22.0,female,Business Analyst,Pune,60000.0,-3.0,USER@GMAIL.COM,2024-01-15
+11120,pooja patil,45.0,Female,Data Analyst,Mumbai,25000.0,40.0,invalid_email,15/01/2024
+11121,RAHUL SHARMA,,F,data analyst,mumbai,25000.0,8.0,USER@GMAIL.COM,2024-01-15
+11122,Rahul  Sharma,35.0,female,,mumbai,30000.0,1.0, test@mail.com ,15/01/2024
+11123,rahul sharma,-5.0,male,Data Analyst,Bangalore,45000.0,, test@mail.com ,15/01/2024
+11124,AKSHAY kumar,-5.0,Female,Data Analyst,Pune,30000.0,1.0,employee@company.com,Jan 15 2024
+11125,RAHUL SHARMA,22.0,Female,,Bangalore,25000.0,8.0, test@mail.com ,
+11126,RAHUL SHARMA,25.0,female,DATA ANALYST,Bangalore,25000.0,1.0, test@mail.com ,
+11127,Rahul  Sharma,150.0,M,, MUMBAI ,45000.0,1.0,,Jan 15 2024
+11128,Sanjay Patil,-5.0,female,, MUMBAI ,45000.0,2.0,employee@company.com,
+11129,rahul sharma,,M,Business Analyst,,60000.0,, test@mail.com ,2024-01-15
+11130,RAHUL SHARMA,22.0,male,Data Analyst,pune,30000.0,-3.0,invalid_email,15/01/2024
+11131,AKSHAY kumar,25.0,M,data analyst,Bangalore,60000.0,5.0, test@mail.com ,15/01/2024
+11132,pooja patil,35.0,female,Data Analyst,Pune,5000000.0,,invalid_email,Jan 15 2024
+11133,RAHUL SHARMA,45.0,Male,,Mumbai,,40.0,invalid_email,Jan 15 2024
+11134,rahul sharma,35.0,,,Bangalore,45000.0,2.0, test@mail.com ,2024-01-15
+11135,Sanjay Patil,35.0,,,Pune,,40.0,invalid_email,Jan 15 2024
+11136,RAHUL SHARMA,150.0,female,Data Analyst,mumbai,60000.0,1.0, test@mail.com ,2024-01-15
+11137,Sanjay Patil,30.0,F,data analyst,mumbai,30000.0,,,15/01/2024
+11138,RAHUL SHARMA,25.0,Female,,,45000.0,2.0, test@mail.com ,15/01/2024
+11139,pooja patil,30.0,male,data analyst,pune,45000.0,,invalid_email,15/01/2024
+11140,Rahul  Sharma,150.0,M,DATA ANALYST,belgaum,60000.0,2.0,invalid_email,
+11141,pooja patil,-5.0,,data analyst,,25000.0,40.0,invalid_email,
+11142,rahul sharma,45.0,male,Business Analyst, MUMBAI ,,-3.0, test@mail.com ,Jan 15 2024
+11143,pooja patil,150.0,Male,Busines Analyst,pune,60000.0,,,
+11144,rahul sharma,,F,,,30000.0,2.0, test@mail.com ,2024-01-15
+11145,rahul sharma,,Female,Busines Analyst,belgaum,60000.0,-3.0,employee@company.com,
+11146,pooja patil,45.0,female,Business Analyst,mumbai,60000.0,1.0,USER@GMAIL.COM,
+11147,AKSHAY kumar,30.0,F,Busines Analyst,pune,5000000.0,5.0,,
+11148,Sanjay Patil,,female,Data Analyst,belgaum,60000.0,-3.0, test@mail.com ,15/01/2024
+11149,pooja patil,22.0,,DATA ANALYST,Mumbai,5000000.0,-3.0, test@mail.com ,Jan 15 2024
+11150,AKSHAY kumar,150.0,female,data analyst,pune,30000.0,,,15/01/2024
+11151,rahul sharma,25.0,,Data Analyst,belgaum,60000.0,-3.0,,2024-01-15
+11152,AKSHAY kumar,35.0,Female,data analyst,belgaum,45000.0,-3.0,employee@company.com,
+11153,AKSHAY kumar,45.0,female,Busines Analyst,mumbai,25000.0,-3.0,,Jan 15 2024
+11154,RAHUL SHARMA,45.0,female,data analyst,belgaum,5000000.0,5.0,USER@GMAIL.COM,15/01/2024
+11155,pooja patil,22.0,M,Data Analyst,belgaum,,8.0,employee@company.com,
+11156,RAHUL SHARMA,30.0,Male,data analyst, MUMBAI ,30000.0,8.0, test@mail.com ,2024-01-15
+11157,pooja patil,35.0,F,data analyst,Mumbai,5000000.0,2.0, test@mail.com ,Jan 15 2024
+11158,pooja patil,150.0,female,Business Analyst,mumbai,5000000.0,2.0,USER@GMAIL.COM,Jan 15 2024
+11159,rahul sharma,-5.0,M,DATA ANALYST,mumbai,45000.0,1.0,,15/01/2024
+11160,pooja patil,150.0,female,Data Analyst,Mumbai,25000.0,5.0,USER@GMAIL.COM,2024-01-15
+11161,rahul sharma,35.0,male,Data Analyst,belgaum,,,employee@company.com,
+11162,pooja patil,,male,Busines Analyst,Bangalore,45000.0,-3.0,employee@company.com,Jan 15 2024
+11163,RAHUL SHARMA,,female,Busines Analyst,belgaum,,1.0,employee@company.com,Jan 15 2024
+11164,rahul sharma,22.0,Female,,belgaum,5000000.0,40.0, test@mail.com ,2024-01-15
+11165,AKSHAY kumar,25.0,,Business Analyst,pune,5000000.0,40.0, test@mail.com ,Jan 15 2024
+11166,pooja patil,150.0,male,Busines Analyst,Pune,25000.0,-3.0,employee@company.com,2024-01-15
+11167,Sanjay Patil,,,Data Analyst,Bangalore,5000000.0,8.0, test@mail.com ,
+11168,pooja patil,25.0,Male,Busines Analyst,,5000000.0,40.0,USER@GMAIL.COM,
+11169,Rahul  Sharma,35.0,female,data analyst,Mumbai,30000.0,8.0,USER@GMAIL.COM,Jan 15 2024
+11170,Sanjay Patil,150.0,F,Busines Analyst,mumbai,60000.0,-3.0,,15/01/2024
+11171,RAHUL SHARMA,35.0,F,,mumbai,25000.0,8.0,USER@GMAIL.COM,15/01/2024
+11172,Rahul  Sharma,-5.0,,DATA ANALYST,Pune,5000000.0,5.0,invalid_email,2024-01-15
+11173,Sanjay Patil,30.0,male,,,25000.0,40.0,employee@company.com,15/01/2024
+11174,AKSHAY kumar,25.0,female,DATA ANALYST,belgaum,5000000.0,-3.0,invalid_email,
+11175,RAHUL SHARMA,35.0,Male,Data Analyst,pune,25000.0,1.0,USER@GMAIL.COM,Jan 15 2024
+11176,Sanjay Patil,35.0,female,Data Analyst,Bangalore,30000.0,40.0,employee@company.com,
+11177,AKSHAY kumar,22.0,Male,Data Analyst,Pune,60000.0,8.0,employee@company.com,Jan 15 2024
+11178,Sanjay Patil,30.0,male,,Pune,25000.0,8.0,USER@GMAIL.COM,
+11179,Rahul  Sharma,30.0,,DATA ANALYST,Pune,60000.0,-3.0,invalid_email,15/01/2024
+11180,AKSHAY kumar,45.0,F,,Mumbai,,5.0,employee@company.com,2024-01-15
+11181,Rahul  Sharma,150.0,female,data analyst,,45000.0,-3.0,invalid_email,2024-01-15
+11182,Rahul  Sharma,30.0,,,Pune,5000000.0,40.0, test@mail.com ,2024-01-15
+11183,RAHUL SHARMA,150.0,female,Busines Analyst,pune,5000000.0,40.0, test@mail.com ,2024-01-15
+11184,AKSHAY kumar,-5.0,Male,Busines Analyst,,45000.0,40.0,invalid_email,
+11185,rahul sharma,45.0,Male,,Pune,5000000.0,40.0,,
+11186,rahul sharma,30.0,Male,Business Analyst,Mumbai,5000000.0,5.0,invalid_email,15/01/2024
+11187,AKSHAY kumar,30.0,Female,,,45000.0,2.0, test@mail.com ,15/01/2024
+11188,Sanjay Patil,35.0,female,,Mumbai,45000.0,-3.0,,2024-01-15
+11189,Sanjay Patil,30.0,Female,Busines Analyst, MUMBAI ,25000.0,1.0,employee@company.com,
+11190,RAHUL SHARMA,22.0,M,Business Analyst,Bangalore,,8.0, test@mail.com ,
+11191,RAHUL SHARMA,22.0,M,data analyst,belgaum,60000.0,5.0,,15/01/2024
+11192,Sanjay Patil,-5.0,,,mumbai,60000.0,40.0,invalid_email,Jan 15 2024
+11193,Sanjay Patil,150.0,Male,Data Analyst,mumbai,25000.0,1.0,USER@GMAIL.COM,
+11194,Sanjay Patil,35.0,M,Business Analyst,,45000.0,-3.0,USER@GMAIL.COM,15/01/2024
+11195,pooja patil,150.0,female,,belgaum,45000.0,, test@mail.com ,2024-01-15
+11196,Rahul  Sharma,25.0,female,Business Analyst, MUMBAI ,60000.0,40.0,USER@GMAIL.COM,
+11197,AKSHAY kumar,150.0,M,Business Analyst,mumbai,30000.0,-3.0,USER@GMAIL.COM,15/01/2024
+11198,AKSHAY kumar,30.0,M,Business Analyst,,45000.0,1.0,USER@GMAIL.COM,15/01/2024
+11199,AKSHAY kumar,35.0,female,data analyst,mumbai,,5.0,USER@GMAIL.COM,2024-01-15
+11199,rahul sharma,45.0,Male,Business Analyst, MUMBAI ,60000.0,-3.0,USER@GMAIL.COM,15/01/2024
+11201,Rahul  Sharma,22.0,male,DATA ANALYST,,30000.0,,invalid_email,Jan 15 2024
+11202,AKSHAY kumar,,male,Business Analyst,Pune,5000000.0,1.0,USER@GMAIL.COM,15/01/2024
+11203,rahul sharma,35.0,F,DATA ANALYST,Pune,30000.0,,,15/01/2024
+11204,AKSHAY kumar,,Male,data analyst,belgaum,25000.0,,employee@company.com,Jan 15 2024
+11205,pooja patil,30.0,Female,Busines Analyst,mumbai,45000.0,-3.0,invalid_email,15/01/2024
+11206,AKSHAY kumar,35.0,M,,pune,5000000.0,-3.0, test@mail.com ,Jan 15 2024
+11207,AKSHAY kumar,30.0,Female,data analyst,Bangalore,60000.0,8.0,USER@GMAIL.COM,15/01/2024
+11208,rahul sharma,45.0,M,Business Analyst,mumbai,5000000.0,,invalid_email,2024-01-15
+11209,Rahul  Sharma,25.0,Male,DATA ANALYST,pune,30000.0,40.0, test@mail.com ,Jan 15 2024
+11210,rahul sharma,25.0,Female,data analyst,belgaum,25000.0,40.0,USER@GMAIL.COM,15/01/2024
+11211,AKSHAY kumar,45.0,male,Busines Analyst,mumbai,,5.0,,Jan 15 2024
+11212,AKSHAY kumar,45.0,male,Data Analyst,Mumbai,30000.0,5.0,invalid_email,15/01/2024
+11213,Rahul  Sharma,-5.0,Female,Business Analyst, MUMBAI ,45000.0,1.0,,15/01/2024
+11214,Sanjay Patil,30.0,F,Busines Analyst,pune,25000.0,-3.0,employee@company.com,15/01/2024
+11215,Sanjay Patil,-5.0,female,Busines Analyst, MUMBAI ,60000.0,5.0,invalid_email,Jan 15 2024
+11216,Rahul  Sharma,-5.0,male,,Pune,45000.0,-3.0,USER@GMAIL.COM,Jan 15 2024
+11217,pooja patil,,,Data Analyst,mumbai,25000.0,-3.0, test@mail.com ,2024-01-15
+11218,RAHUL SHARMA,22.0,M,,pune,,8.0,USER@GMAIL.COM,
+11219,Sanjay Patil,30.0,Female,Busines Analyst,mumbai,60000.0,1.0,,15/01/2024
+11220,Sanjay Patil,22.0,female,Busines Analyst,Bangalore,30000.0,-3.0,,2024-01-15
+11221,AKSHAY kumar,150.0,F,,Pune,30000.0,1.0,employee@company.com,15/01/2024
+11222,AKSHAY kumar,,M,Busines Analyst,,60000.0,2.0,employee@company.com,2024-01-15
+11223,Rahul  Sharma,35.0,,Business Analyst,mumbai,45000.0,5.0,invalid_email,Jan 15 2024
+11224,Rahul  Sharma,35.0,M,,belgaum,30000.0,5.0,,2024-01-15
+11225,pooja patil,150.0,M,DATA ANALYST,Mumbai,,8.0,employee@company.com,Jan 15 2024
+11226,Rahul  Sharma,25.0,M,DATA ANALYST, MUMBAI ,60000.0,5.0,USER@GMAIL.COM,2024-01-15
+11227,pooja patil,150.0,F,Data Analyst, MUMBAI ,60000.0,1.0,invalid_email,2024-01-15
+11228,RAHUL SHARMA,45.0,F,Busines Analyst,belgaum,45000.0,5.0,employee@company.com,
+11229,RAHUL SHARMA,45.0,M,Busines Analyst,,30000.0,2.0,employee@company.com,
+11230,rahul sharma,,,,Pune,25000.0,2.0,employee@company.com,2024-01-15
+11231,RAHUL SHARMA,-5.0,Female,,Bangalore,25000.0,2.0, test@mail.com ,
+11232,Sanjay Patil,45.0,M,Busines Analyst,,,8.0, test@mail.com ,Jan 15 2024
+11233,pooja patil,-5.0,F,Data Analyst,mumbai,25000.0,2.0, test@mail.com ,Jan 15 2024
+11234,AKSHAY kumar,22.0,,,Pune,25000.0,-3.0,employee@company.com,
+11235,AKSHAY kumar,22.0,Female,Busines Analyst,pune,45000.0,8.0,USER@GMAIL.COM,
+11236,RAHUL SHARMA,30.0,female,Business Analyst, MUMBAI ,30000.0,5.0,USER@GMAIL.COM,Jan 15 2024
+11237,Sanjay Patil,35.0,female,Busines Analyst,Pune,60000.0,-3.0,USER@GMAIL.COM,15/01/2024
+11238,RAHUL SHARMA,30.0,F,Data Analyst, MUMBAI ,60000.0,1.0,employee@company.com,15/01/2024
+11239,RAHUL SHARMA,-5.0,M,Business Analyst,Pune,25000.0,40.0,USER@GMAIL.COM,
+11240,pooja patil,45.0,female,,Pune,30000.0,5.0,invalid_email,
+11241,rahul sharma,-5.0,female,Data Analyst,pune,25000.0,5.0,employee@company.com,Jan 15 2024
+11242,Rahul  Sharma,-5.0,F,DATA ANALYST,Mumbai,30000.0,1.0,USER@GMAIL.COM,2024-01-15
+11243,Sanjay Patil,,F,DATA ANALYST,,45000.0,,USER@GMAIL.COM,
+11244,RAHUL SHARMA,45.0,Female,DATA ANALYST,Bangalore,45000.0,1.0,USER@GMAIL.COM,2024-01-15
+11245,Sanjay Patil,30.0,Male,DATA ANALYST,Bangalore,5000000.0,40.0,,Jan 15 2024
+11246,RAHUL SHARMA,45.0,F,Business Analyst,belgaum,25000.0,1.0, test@mail.com ,2024-01-15
+11247,rahul sharma,35.0,F,,,25000.0,1.0,,Jan 15 2024
+11248,Rahul  Sharma,150.0,,data analyst, MUMBAI ,25000.0,2.0, test@mail.com ,
+11249,AKSHAY kumar,45.0,,Business Analyst,Bangalore,45000.0,8.0,USER@GMAIL.COM,
+11250,rahul sharma,150.0,Female,Business Analyst,Mumbai,30000.0,,employee@company.com,15/01/2024
+11251,Rahul  Sharma,22.0,male,Data Analyst,Pune,5000000.0,40.0,invalid_email,
+11252,Sanjay Patil,25.0,F,Busines Analyst,belgaum,,40.0,invalid_email,
+11253,AKSHAY kumar,45.0,F,data analyst,Mumbai,30000.0,, test@mail.com ,2024-01-15
+11254,AKSHAY kumar,150.0,male,,pune,45000.0,40.0, test@mail.com ,Jan 15 2024
+11255,Sanjay Patil,45.0,male,Data Analyst, MUMBAI ,30000.0,1.0,,15/01/2024
+11256,Rahul  Sharma,22.0,female,data analyst,pune,30000.0,5.0,USER@GMAIL.COM,15/01/2024
+11257,RAHUL SHARMA,25.0,M,,Bangalore,5000000.0,,employee@company.com,Jan 15 2024
+11258,rahul sharma,45.0,female,data analyst,belgaum,,5.0,employee@company.com,2024-01-15
+11259,Sanjay Patil,22.0,,DATA ANALYST,Pune,5000000.0,5.0, test@mail.com ,Jan 15 2024
+11260,rahul sharma,25.0,female,,belgaum,5000000.0,5.0,,15/01/2024
+11261,pooja patil,35.0,Male,DATA ANALYST,Pune,,-3.0,invalid_email,15/01/2024
+11262,pooja patil,35.0,female,,belgaum,45000.0,2.0,invalid_email,2024-01-15
+11263,pooja patil,30.0,Female,data analyst, MUMBAI ,30000.0,,invalid_email,15/01/2024
+11264,Sanjay Patil,45.0,M,DATA ANALYST, MUMBAI ,30000.0,40.0,invalid_email,15/01/2024
+11265,rahul sharma,30.0,M,Busines Analyst,Pune,60000.0,-3.0,invalid_email,2024-01-15
+11266,Sanjay Patil,30.0,female,Data Analyst,mumbai,60000.0,8.0,USER@GMAIL.COM,2024-01-15
+11267,rahul sharma,22.0,F,data analyst,mumbai,45000.0,2.0,,2024-01-15
+11268,rahul sharma,25.0,male,,Bangalore,5000000.0,1.0, test@mail.com ,15/01/2024
+11269,pooja patil,150.0,,data analyst,pune,45000.0,8.0, test@mail.com ,15/01/2024
+11270,rahul sharma,45.0,female,Business Analyst,mumbai,25000.0,40.0,USER@GMAIL.COM,2024-01-15
+11271,AKSHAY kumar,45.0,M,Business Analyst,belgaum,30000.0,1.0, test@mail.com ,2024-01-15
+11272,RAHUL SHARMA,-5.0,Female,data analyst,Bangalore,5000000.0,5.0, test@mail.com ,
+11273,Sanjay Patil,25.0,Female,data analyst,mumbai,30000.0,1.0,employee@company.com,Jan 15 2024
+11274,rahul sharma,,M,DATA ANALYST,mumbai,25000.0,, test@mail.com ,15/01/2024
+11275,pooja patil,,male,data analyst,belgaum,30000.0,-3.0,employee@company.com,Jan 15 2024
+11276,Rahul  Sharma,25.0,Male,Busines Analyst,Bangalore,45000.0,40.0,USER@GMAIL.COM,2024-01-15
+11277,RAHUL SHARMA,30.0,Male,data analyst,belgaum,60000.0,-3.0,invalid_email,2024-01-15
+11278,rahul sharma,-5.0,female,DATA ANALYST, MUMBAI ,25000.0,5.0, test@mail.com ,15/01/2024
+11279,pooja patil,,Male,Busines Analyst,belgaum,60000.0,-3.0,invalid_email,Jan 15 2024
+11280,RAHUL SHARMA,35.0,Female,Busines Analyst,,,,invalid_email,15/01/2024
+11281,pooja patil,25.0,male,,belgaum,,, test@mail.com ,2024-01-15
+11282,RAHUL SHARMA,,M,data analyst,Mumbai,45000.0,,invalid_email,15/01/2024
+11283,rahul sharma,22.0,Male,DATA ANALYST, MUMBAI ,45000.0,8.0, test@mail.com ,
+11284,RAHUL SHARMA,35.0,,data analyst,Mumbai,5000000.0,2.0,USER@GMAIL.COM,15/01/2024
+11285,pooja patil,22.0,female,Busines Analyst,Bangalore,25000.0,-3.0,USER@GMAIL.COM,2024-01-15
+11286,pooja patil,30.0,M,data analyst,Bangalore,30000.0,1.0, test@mail.com ,2024-01-15
+11287,rahul sharma,-5.0,F,data analyst,,5000000.0,2.0,,Jan 15 2024
+11288,pooja patil,-5.0,female,DATA ANALYST,,5000000.0,-3.0,USER@GMAIL.COM,Jan 15 2024
+11289,rahul sharma,30.0,M,,Mumbai,,40.0, test@mail.com ,15/01/2024
+11290,rahul sharma,-5.0,,Busines Analyst,,,-3.0,employee@company.com,Jan 15 2024
+11291,Sanjay Patil,35.0,Female,data analyst,pune,25000.0,,invalid_email,15/01/2024
+11292,Sanjay Patil,35.0,Female,Business Analyst,Mumbai,30000.0,8.0, test@mail.com ,2024-01-15
+11293,Sanjay Patil,150.0,Female,DATA ANALYST,belgaum,60000.0,2.0,USER@GMAIL.COM,Jan 15 2024
+11294,Sanjay Patil,-5.0,F,DATA ANALYST,mumbai,25000.0,1.0,employee@company.com,Jan 15 2024
+11295,rahul sharma,35.0,Male,data analyst,mumbai,25000.0,2.0,,2024-01-15
+11296,Rahul  Sharma,35.0,male,data analyst,Mumbai,30000.0,5.0,USER@GMAIL.COM,2024-01-15
+11297,AKSHAY kumar,150.0,M,Data Analyst,Bangalore,25000.0,5.0,USER@GMAIL.COM,Jan 15 2024
+11298,Rahul  Sharma,-5.0,male,data analyst,Bangalore,60000.0,-3.0,employee@company.com,15/01/2024
+11299,Sanjay Patil,25.0,Male,Busines Analyst,mumbai,,40.0, test@mail.com ,2024-01-15
+11300,AKSHAY kumar,-5.0,Female,Business Analyst,Mumbai,45000.0,2.0, test@mail.com ,
+11301,rahul sharma,25.0,female,data analyst,Pune,5000000.0,-3.0, test@mail.com ,15/01/2024
+11302,AKSHAY kumar,,Female,data analyst,Bangalore,45000.0,5.0,,
+11303,rahul sharma,-5.0,F,data analyst,mumbai,30000.0,,invalid_email,2024-01-15
+11304,rahul sharma,30.0,,DATA ANALYST,mumbai,60000.0,1.0,invalid_email,Jan 15 2024
+11305,RAHUL SHARMA,45.0,F,Data Analyst,pune,,5.0,employee@company.com,2024-01-15
+11306,rahul sharma,30.0,female,Busines Analyst,pune,60000.0,5.0,invalid_email,15/01/2024
+11307,rahul sharma,150.0,M,DATA ANALYST,pune,60000.0,8.0,,15/01/2024
+11308,pooja patil,,male,Business Analyst,Bangalore,45000.0,1.0,invalid_email,
+11309,Rahul  Sharma,22.0,male,,Mumbai,5000000.0,40.0, test@mail.com ,2024-01-15
+11310,RAHUL SHARMA,25.0,Male,Busines Analyst, MUMBAI ,,8.0,USER@GMAIL.COM,15/01/2024
+11311,pooja patil,150.0,female,Data Analyst,Bangalore,60000.0,8.0,,
+11312,rahul sharma,25.0,F,,mumbai,60000.0,40.0,invalid_email,15/01/2024
+11313,pooja patil,,M,DATA ANALYST,Bangalore,,8.0, test@mail.com ,
+11314,rahul sharma,45.0,Female,Data Analyst, MUMBAI ,60000.0,2.0, test@mail.com ,Jan 15 2024
+11315,AKSHAY kumar,22.0,male,Busines Analyst,Mumbai,45000.0,40.0,invalid_email,
+11316,RAHUL SHARMA,22.0,F,Data Analyst,belgaum,45000.0,5.0, test@mail.com ,2024-01-15
+11317,RAHUL SHARMA,25.0,Male,Busines Analyst,mumbai,45000.0,40.0,invalid_email,
+11318,AKSHAY kumar,35.0,female,DATA ANALYST, MUMBAI ,25000.0,1.0,invalid_email,Jan 15 2024
+11319,Rahul  Sharma,30.0,F,DATA ANALYST,belgaum,60000.0,8.0,,15/01/2024
+11320,Sanjay Patil,-5.0,Male,,belgaum,25000.0,,,15/01/2024
+11321,rahul sharma,30.0,Male,,Bangalore,25000.0,2.0,invalid_email,15/01/2024
+11322,pooja patil,,M,,belgaum,45000.0,,USER@GMAIL.COM,
+11323,RAHUL SHARMA,150.0,female,Business Analyst,mumbai,25000.0,2.0, test@mail.com ,
+11324,Sanjay Patil,30.0,male,Busines Analyst,Pune,45000.0,2.0, test@mail.com ,2024-01-15
+11325,Rahul  Sharma,,M,DATA ANALYST,pune,,40.0,USER@GMAIL.COM,
+11326,Sanjay Patil,150.0,Female,Busines Analyst,Bangalore,45000.0,40.0,,
+11327,AKSHAY kumar,,M,data analyst,,60000.0,5.0, test@mail.com ,15/01/2024
+11328,AKSHAY kumar,-5.0,Female,DATA ANALYST,belgaum,5000000.0,5.0,,2024-01-15
+11329,rahul sharma,25.0,M,,Mumbai,,8.0,USER@GMAIL.COM,
+11330,Sanjay Patil,25.0,female,Busines Analyst,Mumbai,5000000.0,5.0,invalid_email,15/01/2024
+11331,RAHUL SHARMA,150.0,male,Busines Analyst,mumbai,30000.0,40.0,invalid_email,2024-01-15
+11332,Rahul  Sharma,150.0,Female,,belgaum,25000.0,5.0, test@mail.com ,Jan 15 2024
+11333,Rahul  Sharma,45.0,Male,Busines Analyst,Pune,25000.0,8.0,USER@GMAIL.COM,2024-01-15
+11334,rahul sharma,30.0,,DATA ANALYST,Bangalore,45000.0,2.0,,
+11335,RAHUL SHARMA,-5.0,F,Business Analyst,belgaum,25000.0,40.0,,
+11336,RAHUL SHARMA,-5.0,female,data analyst,belgaum,45000.0,, test@mail.com ,
+11337,RAHUL SHARMA,25.0,female,data analyst,mumbai,5000000.0,,invalid_email,Jan 15 2024
+11338,AKSHAY kumar,30.0,Male,data analyst,mumbai,25000.0,1.0,invalid_email,2024-01-15
+11339,Sanjay Patil,30.0,M,Business Analyst,mumbai,,8.0,USER@GMAIL.COM,15/01/2024
+11340,pooja patil,,F,data analyst,Pune,45000.0,2.0,,15/01/2024
+11341,Sanjay Patil,-5.0,,DATA ANALYST,Mumbai,45000.0,1.0, test@mail.com ,2024-01-15
+11342,Sanjay Patil,25.0,M,Busines Analyst,mumbai,25000.0,2.0,employee@company.com,Jan 15 2024
+11343,RAHUL SHARMA,25.0,M,Busines Analyst,Bangalore,30000.0,8.0,USER@GMAIL.COM,
+11344,rahul sharma,-5.0,M,Busines Analyst,mumbai,30000.0,-3.0,invalid_email,
+11345,Rahul  Sharma,150.0,,data analyst, MUMBAI ,45000.0,1.0, test@mail.com ,2024-01-15
+11346,rahul sharma,,Male,Busines Analyst,Mumbai,30000.0,,employee@company.com,2024-01-15
+11347,RAHUL SHARMA,22.0,male,Data Analyst, MUMBAI ,30000.0,40.0,employee@company.com,2024-01-15
+11348,RAHUL SHARMA,22.0,Male,data analyst,Pune,25000.0,-3.0, test@mail.com ,Jan 15 2024
+11349,Rahul  Sharma,150.0,F,Data Analyst,Bangalore,5000000.0,,employee@company.com,
+11349,Sanjay Patil,150.0,Female,Business Analyst,belgaum,30000.0,5.0, test@mail.com ,15/01/2024
+11351,Sanjay Patil,45.0,Female,Data Analyst,pune,30000.0,40.0, test@mail.com ,
+11352,pooja patil,150.0,Female,Business Analyst,pune,45000.0,,USER@GMAIL.COM,
+11353,pooja patil,35.0,male,DATA ANALYST,Bangalore,5000000.0,40.0,USER@GMAIL.COM,
+11354,RAHUL SHARMA,22.0,male,DATA ANALYST,belgaum,45000.0,,,Jan 15 2024
+11355,pooja patil,22.0,M,data analyst,Bangalore,60000.0,40.0, test@mail.com ,Jan 15 2024
+11356,RAHUL SHARMA,25.0,F,,Bangalore,45000.0,2.0,employee@company.com,2024-01-15
+11357,rahul sharma,,female,Data Analyst,Bangalore,30000.0,8.0,,Jan 15 2024
+11358,RAHUL SHARMA,25.0,Female,DATA ANALYST,Pune,,2.0,USER@GMAIL.COM,Jan 15 2024
+11359,Sanjay Patil,25.0,male,,belgaum,5000000.0,40.0,invalid_email,Jan 15 2024
+11360,Rahul  Sharma,35.0,F,Data Analyst,,60000.0,1.0,employee@company.com,
+11361,rahul sharma,25.0,Female,data analyst,Bangalore,,8.0, test@mail.com ,2024-01-15
+11362,Rahul  Sharma,22.0,female,Business Analyst,Mumbai,60000.0,5.0, test@mail.com ,
+11363,rahul sharma,22.0,Male,,Mumbai,25000.0,8.0,USER@GMAIL.COM,
+11364,Sanjay Patil,45.0,Male,DATA ANALYST,Bangalore,60000.0,1.0,,Jan 15 2024
+11365,pooja patil,22.0,Female,DATA ANALYST,,60000.0,40.0,USER@GMAIL.COM,Jan 15 2024
+11366,AKSHAY kumar,25.0,M,data analyst,Mumbai,25000.0,2.0,USER@GMAIL.COM,Jan 15 2024
+11367,Sanjay Patil,-5.0,F,data analyst,mumbai,30000.0,-3.0,employee@company.com,2024-01-15
+11368,Sanjay Patil,22.0,Male,Data Analyst,mumbai,25000.0,5.0,USER@GMAIL.COM,Jan 15 2024
+11369,Rahul  Sharma,-5.0,Male,, MUMBAI ,30000.0,,invalid_email,2024-01-15
+11370,RAHUL SHARMA,,,data analyst,belgaum,5000000.0,8.0,USER@GMAIL.COM,15/01/2024
+11371,AKSHAY kumar,150.0,female,Busines Analyst,pune,45000.0,40.0,invalid_email,15/01/2024
+11372,rahul sharma,45.0,,DATA ANALYST,mumbai,45000.0,, test@mail.com ,15/01/2024
+11373,Sanjay Patil,25.0,M,Busines Analyst,Mumbai,30000.0,1.0, test@mail.com ,
+11374,pooja patil,35.0,Female,Data Analyst,Bangalore,30000.0,40.0,,Jan 15 2024
+11375,Rahul  Sharma,150.0,female,data analyst,mumbai,30000.0,2.0,employee@company.com,
+11376,pooja patil,35.0,,Busines Analyst,Pune,25000.0,5.0,invalid_email,15/01/2024
+11377,Sanjay Patil,45.0,,Business Analyst,mumbai,30000.0,8.0,USER@GMAIL.COM,2024-01-15
+11378,RAHUL SHARMA,22.0,Female,data analyst,pune,25000.0,8.0,,
+11379,Rahul  Sharma,45.0,M,Business Analyst,mumbai,45000.0,8.0, test@mail.com ,15/01/2024
+11380,pooja patil,-5.0,male,DATA ANALYST,Mumbai,60000.0,5.0,employee@company.com,2024-01-15
+11381,rahul sharma,-5.0,female,Busines Analyst,Pune,45000.0,2.0,invalid_email,15/01/2024
+11382,AKSHAY kumar,45.0,male,Business Analyst,,,8.0,USER@GMAIL.COM,2024-01-15
+11383,Sanjay Patil,35.0,M,data analyst,mumbai,25000.0,1.0,,Jan 15 2024
+11384,RAHUL SHARMA,25.0,male,Data Analyst,pune,30000.0,,invalid_email,
+11385,pooja patil,25.0,F,,pune,60000.0,2.0, test@mail.com ,15/01/2024
+11386,Rahul  Sharma,45.0,female,Business Analyst,pune,5000000.0,1.0,USER@GMAIL.COM,15/01/2024
+11387,AKSHAY kumar,150.0,female,DATA ANALYST,Pune,30000.0,5.0,USER@GMAIL.COM,15/01/2024
+11388,RAHUL SHARMA,,Female,data analyst,Mumbai,5000000.0,8.0,invalid_email,Jan 15 2024
+11389,rahul sharma,30.0,Male,Data Analyst, MUMBAI ,5000000.0,40.0,USER@GMAIL.COM,Jan 15 2024
+11390,pooja patil,22.0,Female,data analyst,,25000.0,1.0,USER@GMAIL.COM,Jan 15 2024
+11391,RAHUL SHARMA,30.0,,data analyst,mumbai,25000.0,5.0,employee@company.com,
+11392,pooja patil,,male,DATA ANALYST,,45000.0,5.0,invalid_email,2024-01-15
+11393,Rahul  Sharma,45.0,female,DATA ANALYST,,25000.0,5.0,,2024-01-15
+11394,RAHUL SHARMA,-5.0,,data analyst, MUMBAI ,45000.0,8.0,USER@GMAIL.COM,15/01/2024
+11395,AKSHAY kumar,-5.0,Male,data analyst,mumbai,30000.0,8.0,USER@GMAIL.COM,Jan 15 2024
+11396,Sanjay Patil,150.0,male,data analyst,pune,5000000.0,5.0,employee@company.com,
+11397,AKSHAY kumar,-5.0,Male,DATA ANALYST,Pune,25000.0,,,Jan 15 2024
+11398,AKSHAY kumar,25.0,Female,Busines Analyst,Bangalore,45000.0,1.0,USER@GMAIL.COM,
+11399,Sanjay Patil,30.0,Female,, MUMBAI ,,5.0,,15/01/2024
+11400,Rahul  Sharma,150.0,Male,Data Analyst,pune,25000.0,8.0,USER@GMAIL.COM,15/01/2024
+11401,Rahul  Sharma,25.0,M,Busines Analyst,pune,25000.0,8.0,employee@company.com,2024-01-15
+11402,rahul sharma,45.0,F,DATA ANALYST,pune,,-3.0,,15/01/2024
+11403,rahul sharma,45.0,F,,Pune,60000.0,,USER@GMAIL.COM,Jan 15 2024
+11404,RAHUL SHARMA,22.0,Female,DATA ANALYST,Pune,5000000.0,-3.0,invalid_email,
+11405,pooja patil,25.0,Male,DATA ANALYST,pune,30000.0,,invalid_email,Jan 15 2024
+11406,AKSHAY kumar,30.0,female,data analyst,pune,30000.0,8.0,,15/01/2024
+11407,Rahul  Sharma,45.0,M,DATA ANALYST,,,2.0,invalid_email,
+11408,rahul sharma,30.0,male,Busines Analyst,Bangalore,,-3.0,employee@company.com,
+11409,Rahul  Sharma,-5.0,Female,Busines Analyst,belgaum,60000.0,1.0,,2024-01-15
+11410,pooja patil,25.0,,data analyst,pune,30000.0,,,Jan 15 2024
+11411,RAHUL SHARMA,45.0,M,Busines Analyst, MUMBAI ,60000.0,-3.0,USER@GMAIL.COM,
+11412,AKSHAY kumar,150.0,,Data Analyst,mumbai,25000.0,5.0,USER@GMAIL.COM,Jan 15 2024
+11413,AKSHAY kumar,25.0,,DATA ANALYST,,5000000.0,5.0,USER@GMAIL.COM,2024-01-15
+11414,Sanjay Patil,22.0,female,data analyst, MUMBAI ,,-3.0,invalid_email,15/01/2024
+11415,RAHUL SHARMA,30.0,Male,,pune,5000000.0,1.0,invalid_email,15/01/2024
+11416,rahul sharma,25.0,M,data analyst,mumbai,,1.0, test@mail.com ,15/01/2024
+11417,rahul sharma,150.0,M,Business Analyst,,60000.0,1.0,USER@GMAIL.COM,Jan 15 2024
+11418,pooja patil,150.0,F,data analyst,pune,,-3.0,invalid_email,2024-01-15
+11419,pooja patil,30.0,female,Data Analyst, MUMBAI ,30000.0,40.0, test@mail.com ,15/01/2024
+11420,AKSHAY kumar,35.0,Female,Busines Analyst,pune,45000.0,-3.0,USER@GMAIL.COM,
+11421,Rahul  Sharma,45.0,Female,Busines Analyst,mumbai,60000.0,8.0,invalid_email,15/01/2024
+11422,rahul sharma,45.0,Female,Data Analyst,belgaum,25000.0,,employee@company.com,2024-01-15
+11423,Sanjay Patil,150.0,M,DATA ANALYST, MUMBAI ,60000.0,-3.0,invalid_email,Jan 15 2024
+11424,rahul sharma,30.0,Male,Business Analyst,Pune,45000.0,-3.0,,
+11425,AKSHAY kumar,25.0,F,, MUMBAI ,45000.0,-3.0,,Jan 15 2024
+11426,pooja patil,30.0,Male,,pune,60000.0,1.0,invalid_email,
+11427,pooja patil,30.0,male,,pune,30000.0,-3.0,employee@company.com,Jan 15 2024
+11428,AKSHAY kumar,-5.0,M,Data Analyst,Mumbai,5000000.0,2.0, test@mail.com ,2024-01-15
+11429,Sanjay Patil,25.0,Female,,,45000.0,40.0, test@mail.com ,15/01/2024
+11430,rahul sharma,30.0,female,Busines Analyst,belgaum,25000.0,1.0,,Jan 15 2024
+11431,rahul sharma,22.0,,,mumbai,60000.0,40.0,employee@company.com,2024-01-15
+11432,RAHUL SHARMA,,M,,,60000.0,2.0,,15/01/2024
+11433,RAHUL SHARMA,45.0,Female,Busines Analyst,pune,30000.0,2.0, test@mail.com ,
+11434,AKSHAY kumar,35.0,M,Business Analyst,Mumbai,5000000.0,-3.0,USER@GMAIL.COM,15/01/2024
+11435,rahul sharma,30.0,M,DATA ANALYST,belgaum,,,USER@GMAIL.COM,Jan 15 2024
+11436,RAHUL SHARMA,150.0,F,data analyst,,,5.0,employee@company.com,15/01/2024
+11437,rahul sharma,150.0,Female,,belgaum,25000.0,,USER@GMAIL.COM,15/01/2024
+11438,AKSHAY kumar,45.0,M,Data Analyst,,30000.0,1.0,,Jan 15 2024
+11439,rahul sharma,35.0,,DATA ANALYST,pune,60000.0,-3.0,employee@company.com,2024-01-15
+11440,RAHUL SHARMA,45.0,M,Business Analyst,Pune,,,,Jan 15 2024
+11441,pooja patil,22.0,male,,mumbai,,8.0,employee@company.com,2024-01-15
+11442,rahul sharma,,Female,DATA ANALYST,Pune,45000.0,40.0,USER@GMAIL.COM,15/01/2024
+11443,RAHUL SHARMA,,,,Mumbai,30000.0,8.0,USER@GMAIL.COM,2024-01-15
+11444,Rahul  Sharma,25.0,Female,Business Analyst,mumbai,,8.0, test@mail.com ,Jan 15 2024
+11445,Sanjay Patil,22.0,M,Data Analyst,,,2.0,employee@company.com,
+11446,pooja patil,45.0,,data analyst,Mumbai,25000.0,1.0, test@mail.com ,
+11447,Sanjay Patil,22.0,male,Busines Analyst,Mumbai,60000.0,40.0,invalid_email,15/01/2024
+11448,pooja patil,-5.0,male,data analyst,mumbai,60000.0,1.0,,Jan 15 2024
+11449,Rahul  Sharma,35.0,Male,Busines Analyst,Mumbai,30000.0,2.0,USER@GMAIL.COM,2024-01-15
+11450,RAHUL SHARMA,-5.0,female,Business Analyst,Mumbai,25000.0,40.0, test@mail.com ,2024-01-15
+11451,rahul sharma,22.0,F,Busines Analyst, MUMBAI ,45000.0,1.0,employee@company.com,Jan 15 2024
+11452,AKSHAY kumar,35.0,Male,data analyst,belgaum,60000.0,-3.0,USER@GMAIL.COM,2024-01-15
+11453,rahul sharma,45.0,male,data analyst,,5000000.0,-3.0,employee@company.com,15/01/2024
+11454,pooja patil,45.0,Male,Business Analyst,pune,5000000.0,2.0,,Jan 15 2024
+11455,Rahul  Sharma,25.0,M,DATA ANALYST,belgaum,5000000.0,,invalid_email,Jan 15 2024
+11456,rahul sharma,35.0,F,Business Analyst,Pune,45000.0,-3.0,,15/01/2024
+11457,rahul sharma,,female,data analyst,Mumbai,30000.0,-3.0,invalid_email,
+11458,rahul sharma,22.0,Female,Data Analyst,pune,45000.0,,invalid_email,Jan 15 2024
+11459,rahul sharma,22.0,Male,Business Analyst,belgaum,60000.0,1.0,invalid_email,
+11460,pooja patil,22.0,F,data analyst,belgaum,30000.0,-3.0,invalid_email,2024-01-15
+11461,Sanjay Patil,45.0,M,Business Analyst,Bangalore,25000.0,,employee@company.com,Jan 15 2024
+11462,AKSHAY kumar,35.0,,Data Analyst,Bangalore,5000000.0,40.0,,
+11463,pooja patil,22.0,,Data Analyst,belgaum,5000000.0,-3.0,employee@company.com,
+11464,pooja patil,45.0,F,Busines Analyst,,5000000.0,2.0, test@mail.com ,2024-01-15
+11465,Rahul  Sharma,45.0,M,data analyst,pune,45000.0,,invalid_email,2024-01-15
+11466,AKSHAY kumar,45.0,Male,DATA ANALYST,pune,5000000.0,40.0,,2024-01-15
+11467,rahul sharma,45.0,male,,Bangalore,45000.0,40.0, test@mail.com ,
+11468,pooja patil,22.0,Female,Data Analyst,,25000.0,5.0,invalid_email,15/01/2024
+11469,pooja patil,22.0,male,Data Analyst,pune,,,employee@company.com,2024-01-15
+11470,pooja patil,30.0,Male,DATA ANALYST,pune,60000.0,2.0, test@mail.com ,15/01/2024
+11471,RAHUL SHARMA,22.0,F,Data Analyst,Mumbai,30000.0,-3.0,,
+11472,AKSHAY kumar,,M,Business Analyst,Pune,25000.0,-3.0,employee@company.com,Jan 15 2024
+11473,rahul sharma,,male,,Mumbai,,2.0,employee@company.com,2024-01-15
+11474,rahul sharma,150.0,M,Business Analyst,mumbai,30000.0,2.0,employee@company.com,Jan 15 2024
+11475,Sanjay Patil,-5.0,M,,belgaum,45000.0,2.0,USER@GMAIL.COM,Jan 15 2024
+11476,AKSHAY kumar,,Male,Busines Analyst,Bangalore,60000.0,5.0,,2024-01-15
+11477,RAHUL SHARMA,,M,DATA ANALYST, MUMBAI ,,1.0,USER@GMAIL.COM,15/01/2024
+11478,Rahul  Sharma,,F,Busines Analyst,Mumbai,5000000.0,-3.0, test@mail.com ,
+11479,Sanjay Patil,25.0,M,data analyst,belgaum,,-3.0,USER@GMAIL.COM,2024-01-15
+11480,AKSHAY kumar,150.0,female,Business Analyst,,45000.0,5.0, test@mail.com ,Jan 15 2024
+11481,RAHUL SHARMA,,F,DATA ANALYST,Pune,60000.0,5.0,USER@GMAIL.COM,15/01/2024
+11482,pooja patil,-5.0,Male,Data Analyst,Bangalore,,,USER@GMAIL.COM,Jan 15 2024
+11483,Sanjay Patil,150.0,male,data analyst,,60000.0,2.0,,15/01/2024
+11484,AKSHAY kumar,35.0,,Busines Analyst, MUMBAI ,,5.0,employee@company.com,Jan 15 2024
+11485,Rahul  Sharma,25.0,M,Busines Analyst,belgaum,,2.0,,
+11486,Sanjay Patil,35.0,F,Busines Analyst,Mumbai,30000.0,1.0,invalid_email,Jan 15 2024
+11487,AKSHAY kumar,150.0,female,Data Analyst, MUMBAI ,25000.0,40.0,invalid_email,2024-01-15
+11488,Sanjay Patil,30.0,M,data analyst,belgaum,60000.0,5.0, test@mail.com ,
+11489,Sanjay Patil,35.0,female,DATA ANALYST,mumbai,45000.0,40.0,employee@company.com,2024-01-15
+11490,Sanjay Patil,22.0,M,,Bangalore,60000.0,8.0,invalid_email,
+11491,Rahul  Sharma,150.0,female,data analyst, MUMBAI ,5000000.0,40.0,,2024-01-15
+11492,RAHUL SHARMA,22.0,male,Business Analyst,Bangalore,5000000.0,-3.0,invalid_email,
+11493,Rahul  Sharma,150.0,F,Business Analyst,pune,25000.0,2.0,employee@company.com,
+11494,Rahul  Sharma,22.0,male,Business Analyst,belgaum,45000.0,5.0,invalid_email,Jan 15 2024
+11495,RAHUL SHARMA,30.0,M,,Pune,60000.0,,employee@company.com,Jan 15 2024
+11496,rahul sharma,,Male,data analyst,mumbai,45000.0,5.0,invalid_email,
+11497,RAHUL SHARMA,30.0,Male,DATA ANALYST,mumbai,30000.0,-3.0,employee@company.com,15/01/2024
+11498,rahul sharma,35.0,male,Business Analyst, MUMBAI ,25000.0,,USER@GMAIL.COM,15/01/2024
+11499,rahul sharma,150.0,,Data Analyst,Bangalore,30000.0,5.0,,
+11499,Sanjay Patil,150.0,male,data analyst,,45000.0,1.0,USER@GMAIL.COM,
+11501,pooja patil,150.0,Male,Data Analyst, MUMBAI ,45000.0,-3.0,USER@GMAIL.COM,Jan 15 2024
+11502,rahul sharma,35.0,female,Data Analyst,Bangalore,30000.0,,employee@company.com,Jan 15 2024
+11503,pooja patil,25.0,female,,Bangalore,25000.0,8.0,USER@GMAIL.COM,Jan 15 2024
+11504,RAHUL SHARMA,22.0,female,,Mumbai,30000.0,2.0,,
+11505,RAHUL SHARMA,35.0,Male,Busines Analyst, MUMBAI ,60000.0,40.0, test@mail.com ,
+11506,Rahul  Sharma,30.0,F,,mumbai,,40.0, test@mail.com ,2024-01-15
+11507,pooja patil,25.0,Female,Business Analyst,Pune,5000000.0,2.0,USER@GMAIL.COM,
+11508,Sanjay Patil,45.0,male,Busines Analyst,Pune,5000000.0,5.0,invalid_email,15/01/2024
+11509,Rahul  Sharma,35.0,Male,,,60000.0,40.0,invalid_email,Jan 15 2024
+11510,AKSHAY kumar,150.0,Male,Data Analyst,Pune,25000.0,40.0,employee@company.com,
+11511,pooja patil,,F,,belgaum,25000.0,2.0,invalid_email,Jan 15 2024
+11512,Sanjay Patil,25.0,Male,,belgaum,5000000.0,2.0,invalid_email,
+11513,AKSHAY kumar,-5.0,female,data analyst,Mumbai,45000.0,5.0,,15/01/2024
+11514,pooja patil,22.0,male,DATA ANALYST,pune,5000000.0,5.0,invalid_email,
+11515,pooja patil,-5.0,Female,DATA ANALYST,Mumbai,45000.0,8.0, test@mail.com ,Jan 15 2024
+11516,Sanjay Patil,22.0,Male,Busines Analyst,belgaum,30000.0,, test@mail.com ,15/01/2024
+11517,Sanjay Patil,25.0,male,Business Analyst,Bangalore,30000.0,,,2024-01-15
+11518,Sanjay Patil,22.0,,Busines Analyst,mumbai,5000000.0,5.0,employee@company.com,2024-01-15
+11519,Sanjay Patil,22.0,male,data analyst,Bangalore,,2.0, test@mail.com ,
+11520,Sanjay Patil,35.0,Male,data analyst,Bangalore,45000.0,8.0, test@mail.com ,15/01/2024
+11521,rahul sharma,22.0,,Data Analyst,mumbai,,8.0,invalid_email,2024-01-15
+11522,RAHUL SHARMA,45.0,Male,Data Analyst,Pune,5000000.0,40.0, test@mail.com ,2024-01-15
+11523,Rahul  Sharma,25.0,,Busines Analyst,belgaum,30000.0,40.0,employee@company.com,2024-01-15
+11524,rahul sharma,25.0,male,,belgaum,25000.0,1.0,,15/01/2024
+11525,rahul sharma,-5.0,F,Business Analyst,pune,45000.0,8.0,,2024-01-15
+11526,Rahul  Sharma,45.0,Female,data analyst,mumbai,45000.0,-3.0,,
+11527,pooja patil,45.0,Female,Data Analyst,Pune,60000.0,,employee@company.com,
+11528,Rahul  Sharma,35.0,Female,Data Analyst,,5000000.0,8.0,employee@company.com,2024-01-15
+11529,pooja patil,35.0,male,Data Analyst,belgaum,30000.0,8.0,employee@company.com,
+11530,AKSHAY kumar,25.0,female,DATA ANALYST,Bangalore,30000.0,40.0,USER@GMAIL.COM,2024-01-15
+11531,AKSHAY kumar,30.0,F,Busines Analyst,Pune,25000.0,2.0,invalid_email,
+11532,AKSHAY kumar,35.0,M,Busines Analyst,pune,60000.0,5.0,employee@company.com,15/01/2024
+11533,rahul sharma,,female,Business Analyst,belgaum,25000.0,5.0, test@mail.com ,
+11534,AKSHAY kumar,150.0,Male,,Pune,45000.0,8.0,invalid_email,2024-01-15
+11535,rahul sharma,-5.0,female,Data Analyst,belgaum,30000.0,40.0,USER@GMAIL.COM,15/01/2024
+11536,AKSHAY kumar,25.0,F,data analyst,,25000.0,1.0,invalid_email,
+11537,RAHUL SHARMA,150.0,F,,belgaum,60000.0,1.0,employee@company.com,2024-01-15
+11538,pooja patil,45.0,female,,pune,,5.0,,Jan 15 2024
+11539,AKSHAY kumar,30.0,F,DATA ANALYST,Pune,,-3.0,employee@company.com,Jan 15 2024
+11540,pooja patil,150.0,F,DATA ANALYST, MUMBAI ,30000.0,,invalid_email,2024-01-15
+11541,Rahul  Sharma,-5.0,F,data analyst,,25000.0,1.0,employee@company.com,15/01/2024
+11542,RAHUL SHARMA,25.0,male,Busines Analyst,Bangalore,25000.0,1.0,,
+11543,AKSHAY kumar,30.0,M,DATA ANALYST,Pune,45000.0,-3.0,USER@GMAIL.COM,15/01/2024
+11544,Rahul  Sharma,45.0,,Busines Analyst,pune,45000.0,,invalid_email,Jan 15 2024
+11545,AKSHAY kumar,35.0,M,Business Analyst, MUMBAI ,25000.0,-3.0, test@mail.com ,Jan 15 2024
+11546,RAHUL SHARMA,45.0,male,Data Analyst, MUMBAI ,,,invalid_email,Jan 15 2024
+11547,AKSHAY kumar,45.0,,,,30000.0,2.0,USER@GMAIL.COM,15/01/2024
+11548,RAHUL SHARMA,25.0,,Business Analyst, MUMBAI ,30000.0,2.0,invalid_email,2024-01-15
+11549,Rahul  Sharma,25.0,M,data analyst,,60000.0,-3.0,invalid_email,Jan 15 2024
+11550,Rahul  Sharma,25.0,F,Business Analyst,belgaum,60000.0,40.0,invalid_email,
+11551,Rahul  Sharma,45.0,,Business Analyst,Bangalore,,1.0,,15/01/2024
+11552,RAHUL SHARMA,45.0,female,data analyst,belgaum,,8.0,invalid_email,Jan 15 2024
+11553,Sanjay Patil,25.0,male,Busines Analyst,Bangalore,30000.0,1.0,employee@company.com,
+11554,Sanjay Patil,,female,Busines Analyst,Pune,,, test@mail.com ,
+11555,Rahul  Sharma,30.0,female,Data Analyst,Pune,60000.0,5.0,,15/01/2024
+11556,rahul sharma,45.0,Male,Data Analyst,Bangalore,45000.0,,USER@GMAIL.COM,Jan 15 2024
+11557,rahul sharma,45.0,female,Busines Analyst,belgaum,25000.0,-3.0,employee@company.com,Jan 15 2024
+11558,Sanjay Patil,22.0,male,Data Analyst,,,-3.0,invalid_email,
+11559,RAHUL SHARMA,150.0,female,,mumbai,25000.0,5.0,USER@GMAIL.COM,15/01/2024
+11560,Sanjay Patil,30.0,,data analyst,mumbai,60000.0,40.0,USER@GMAIL.COM,2024-01-15
+11561,pooja patil,22.0,Male,Data Analyst,pune,30000.0,-3.0,,2024-01-15
+11562,Rahul  Sharma,,female,data analyst,Bangalore,,1.0,invalid_email,
+11563,Sanjay Patil,22.0,M,data analyst, MUMBAI ,5000000.0,5.0,USER@GMAIL.COM,15/01/2024
+11564,pooja patil,22.0,Male,Business Analyst,Pune,5000000.0,,invalid_email,15/01/2024
+11565,Sanjay Patil,22.0,Male,DATA ANALYST,Bangalore,25000.0,5.0,invalid_email,2024-01-15
+11566,AKSHAY kumar,150.0,M,Data Analyst,mumbai,30000.0,-3.0,USER@GMAIL.COM,15/01/2024
+11567,Rahul  Sharma,22.0,,data analyst,Mumbai,30000.0,-3.0,employee@company.com,
+11568,rahul sharma,35.0,Male,,Pune,5000000.0,40.0, test@mail.com ,Jan 15 2024
+11569,rahul sharma,-5.0,female,DATA ANALYST, MUMBAI ,45000.0,2.0,,Jan 15 2024
+11570,pooja patil,35.0,,data analyst,pune,30000.0,2.0,employee@company.com,Jan 15 2024
+11571,Sanjay Patil,150.0,Male,Data Analyst,,45000.0,,employee@company.com,Jan 15 2024
+11572,Sanjay Patil,150.0,,, MUMBAI ,25000.0,40.0,,
+11573,RAHUL SHARMA,35.0,female,Busines Analyst,Bangalore,5000000.0,40.0,employee@company.com,15/01/2024
+11574,Rahul  Sharma,45.0,M,Business Analyst,Pune,45000.0,2.0,invalid_email,Jan 15 2024
+11575,rahul sharma,25.0,male,, MUMBAI ,60000.0,2.0,invalid_email,Jan 15 2024
+11576,Rahul  Sharma,-5.0,female,Business Analyst,Mumbai,45000.0,-3.0,USER@GMAIL.COM,Jan 15 2024
+11577,rahul sharma,30.0,Female,Busines Analyst,Bangalore,45000.0,-3.0,USER@GMAIL.COM,15/01/2024
+11578,Rahul  Sharma,45.0,F,Busines Analyst, MUMBAI ,25000.0,8.0,,
+11579,AKSHAY kumar,-5.0,female,Busines Analyst,,30000.0,5.0,employee@company.com,Jan 15 2024
+11580,pooja patil,-5.0,Male,Data Analyst,Pune,,1.0,invalid_email,
+11581,Rahul  Sharma,-5.0,male,Data Analyst, MUMBAI ,,2.0,employee@company.com,15/01/2024
+11582,AKSHAY kumar,30.0,F,,Bangalore,25000.0,1.0,employee@company.com,15/01/2024
+11583,Rahul  Sharma,150.0,Female,data analyst,,25000.0,-3.0, test@mail.com ,15/01/2024
+11584,RAHUL SHARMA,45.0,Male,Data Analyst, MUMBAI ,30000.0,40.0, test@mail.com ,
+11585,rahul sharma,35.0,F,,Bangalore,25000.0,8.0, test@mail.com ,Jan 15 2024
+11586,rahul sharma,150.0,male,,belgaum,5000000.0,2.0,invalid_email,
+11587,pooja patil,35.0,,Data Analyst,belgaum,30000.0,5.0, test@mail.com ,
+11588,Rahul  Sharma,45.0,,,belgaum,,8.0,,2024-01-15
+11589,Rahul  Sharma,150.0,female,,Mumbai,30000.0,, test@mail.com ,15/01/2024
+11590,Rahul  Sharma,,Male,Business Analyst,Mumbai,,,invalid_email,2024-01-15
+11591,Sanjay Patil,35.0,F,Busines Analyst,Pune,25000.0,2.0,employee@company.com,
+11592,rahul sharma,,Female,, MUMBAI ,60000.0,2.0,employee@company.com,Jan 15 2024
+11593,pooja patil,150.0,M,DATA ANALYST,belgaum,30000.0,2.0,invalid_email,2024-01-15
+11594,pooja patil,25.0,Male,,mumbai,5000000.0,40.0,invalid_email,2024-01-15
+11595,RAHUL SHARMA,,F,Business Analyst,belgaum,5000000.0,8.0,USER@GMAIL.COM,
+11596,Sanjay Patil,-5.0,Female,Data Analyst,pune,60000.0,5.0,USER@GMAIL.COM,
+11597,AKSHAY kumar,,,Busines Analyst,Bangalore,,5.0,USER@GMAIL.COM,15/01/2024
+11598,pooja patil,-5.0,,,mumbai,30000.0,1.0,employee@company.com,Jan 15 2024
+11599,RAHUL SHARMA,150.0,Female,Data Analyst,,45000.0,1.0,USER@GMAIL.COM,
+11600,pooja patil,,M,Business Analyst,Bangalore,45000.0,8.0,employee@company.com,Jan 15 2024
+11601,rahul sharma,45.0,F,DATA ANALYST,Bangalore,60000.0,1.0,invalid_email,Jan 15 2024
+11602,Rahul  Sharma,22.0,male,Data Analyst,Bangalore,5000000.0,1.0,,
+11603,RAHUL SHARMA,30.0,M,Business Analyst,mumbai,30000.0,-3.0, test@mail.com ,
+11604,pooja patil,45.0,Male,Busines Analyst,Pune,5000000.0,40.0,,
+11605,rahul sharma,25.0,Male,DATA ANALYST,Mumbai,30000.0,,USER@GMAIL.COM,
+11606,AKSHAY kumar,25.0,Male,,pune,60000.0,8.0,USER@GMAIL.COM,15/01/2024
+11607,Sanjay Patil,45.0,female,,mumbai,60000.0,1.0, test@mail.com ,Jan 15 2024
+11608,Rahul  Sharma,35.0,female,Data Analyst,Bangalore,,8.0, test@mail.com ,
+11609,Rahul  Sharma,30.0,Male,Business Analyst,Mumbai,,8.0, test@mail.com ,Jan 15 2024
+11610,Rahul  Sharma,22.0,Female,data analyst,Mumbai,60000.0,-3.0, test@mail.com ,Jan 15 2024
+11611,Rahul  Sharma,150.0,male,,Bangalore,25000.0,2.0, test@mail.com ,2024-01-15
+11612,Sanjay Patil,,F,Data Analyst,pune,5000000.0,-3.0,,
+11613,AKSHAY kumar,-5.0,female,Business Analyst,Bangalore,,8.0,invalid_email,2024-01-15
+11614,Rahul  Sharma,,Male,DATA ANALYST,,30000.0,8.0,invalid_email,15/01/2024
+11615,AKSHAY kumar,30.0,female,Busines Analyst,pune,60000.0,1.0,,2024-01-15
+11616,Sanjay Patil,150.0,male,DATA ANALYST,mumbai,30000.0,-3.0,,Jan 15 2024
+11617,Rahul  Sharma,45.0,,DATA ANALYST,,5000000.0,8.0,USER@GMAIL.COM,15/01/2024
+11618,AKSHAY kumar,30.0,male,DATA ANALYST,belgaum,60000.0,40.0,USER@GMAIL.COM,Jan 15 2024
+11619,AKSHAY kumar,150.0,F,Busines Analyst, MUMBAI ,60000.0,,USER@GMAIL.COM,2024-01-15
+11620,pooja patil,35.0,F,Data Analyst,pune,30000.0,40.0, test@mail.com ,
+11621,AKSHAY kumar,-5.0,Male,data analyst,belgaum,,5.0,employee@company.com,Jan 15 2024
+11622,Sanjay Patil,25.0,female,,Bangalore,,,,
+11623,RAHUL SHARMA,-5.0,Female,Busines Analyst,pune,60000.0,2.0, test@mail.com ,
+11624,Rahul  Sharma,22.0,male,DATA ANALYST,,5000000.0,2.0,USER@GMAIL.COM,
+11625,AKSHAY kumar,-5.0,Female,Busines Analyst,Pune,5000000.0,1.0,,15/01/2024
+11626,RAHUL SHARMA,25.0,male,Business Analyst,belgaum,25000.0,5.0,,15/01/2024
+11627,RAHUL SHARMA,150.0,female,Data Analyst,Bangalore,25000.0,-3.0,,
+11628,AKSHAY kumar,35.0,,data analyst,,45000.0,-3.0, test@mail.com ,15/01/2024
+11629,pooja patil,35.0,Male,data analyst,pune,25000.0,1.0, test@mail.com ,
+11630,pooja patil,35.0,female,Business Analyst,,30000.0,40.0, test@mail.com ,
+11631,AKSHAY kumar,25.0,,Business Analyst,Bangalore,30000.0,2.0,invalid_email,2024-01-15
+11632,rahul sharma,22.0,female,,belgaum,,8.0,invalid_email,2024-01-15
+11633,pooja patil,45.0,female,Business Analyst,mumbai,5000000.0,40.0,,2024-01-15
+11634,pooja patil,150.0,,,Mumbai,45000.0,40.0,invalid_email,2024-01-15
+11635,Rahul  Sharma,-5.0,female,Business Analyst,,60000.0,40.0,USER@GMAIL.COM,2024-01-15
+11636,RAHUL SHARMA,45.0,,Business Analyst,mumbai,5000000.0,2.0,employee@company.com,
+11637,Sanjay Patil,,F,data analyst,,30000.0,5.0,USER@GMAIL.COM,Jan 15 2024
+11638,Sanjay Patil,25.0,Female,,,30000.0,40.0,employee@company.com,Jan 15 2024
+11639,Rahul  Sharma,150.0,Male,Busines Analyst,pune,,5.0,,2024-01-15
+11640,RAHUL SHARMA,30.0,male,DATA ANALYST,Mumbai,30000.0,5.0,,Jan 15 2024
+11641,Sanjay Patil,45.0,Male,, MUMBAI ,,-3.0,employee@company.com,
+11642,Sanjay Patil,150.0,female,DATA ANALYST, MUMBAI ,5000000.0,40.0, test@mail.com ,15/01/2024
+11643,AKSHAY kumar,45.0,,Busines Analyst,pune,5000000.0,2.0,USER@GMAIL.COM,15/01/2024
+11644,AKSHAY kumar,45.0,F,Business Analyst,Mumbai,45000.0,5.0,,
+11645,pooja patil,30.0,Male,, MUMBAI ,,40.0,,Jan 15 2024
+11646,AKSHAY kumar,,Female,Busines Analyst, MUMBAI ,,8.0, test@mail.com ,
+11647,pooja patil,22.0,female,Data Analyst,Bangalore,30000.0,5.0, test@mail.com ,15/01/2024
+11648,RAHUL SHARMA,45.0,male,,mumbai,5000000.0,2.0,employee@company.com,
+11649,pooja patil,22.0,,,Pune,5000000.0,2.0,employee@company.com,2024-01-15
+11649,pooja patil,25.0,Male,Business Analyst,mumbai,45000.0,,,2024-01-15
+11651,rahul sharma,150.0,male,Business Analyst,Pune,30000.0,5.0, test@mail.com ,15/01/2024
+11652,RAHUL SHARMA,150.0,F,Data Analyst,pune,,5.0,USER@GMAIL.COM,15/01/2024
+11653,Sanjay Patil,25.0,F,Business Analyst,pune,25000.0,2.0, test@mail.com ,15/01/2024
+11654,AKSHAY kumar,150.0,Female,Data Analyst,Mumbai,45000.0,40.0,USER@GMAIL.COM,15/01/2024
+11655,pooja patil,25.0,Female,Data Analyst,,30000.0,1.0,,15/01/2024
+11656,AKSHAY kumar,150.0,Male,Business Analyst,Mumbai,,8.0,USER@GMAIL.COM,
+11657,Sanjay Patil,35.0,male,,,25000.0,5.0,invalid_email,Jan 15 2024
+11658,pooja patil,30.0,Male,Business Analyst,,,5.0,employee@company.com,Jan 15 2024
+11659,AKSHAY kumar,35.0,Male,DATA ANALYST,pune,5000000.0,8.0,USER@GMAIL.COM,15/01/2024
+11660,pooja patil,22.0,Male,Business Analyst,,60000.0,2.0, test@mail.com ,2024-01-15
+11661,pooja patil,45.0,M,Busines Analyst,Bangalore,5000000.0,-3.0,,15/01/2024
+11662,RAHUL SHARMA,25.0,,data analyst,Pune,45000.0,,employee@company.com,Jan 15 2024
+11663,AKSHAY kumar,150.0,M,,pune,,2.0,,15/01/2024
+11664,Rahul  Sharma,30.0,F,Busines Analyst, MUMBAI ,30000.0,, test@mail.com ,Jan 15 2024
+11665,AKSHAY kumar,150.0,female,Business Analyst,belgaum,5000000.0,5.0, test@mail.com ,Jan 15 2024
+11666,pooja patil,45.0,Male,data analyst,pune,45000.0,-3.0,employee@company.com,Jan 15 2024
+11667,pooja patil,45.0,Female,Business Analyst,belgaum,60000.0,1.0,invalid_email,2024-01-15
+11668,pooja patil,,female,data analyst,,45000.0,1.0, test@mail.com ,15/01/2024
+11669,Sanjay Patil,45.0,Male,DATA ANALYST,Mumbai,45000.0,8.0,invalid_email,Jan 15 2024
+11670,AKSHAY kumar,35.0,,data analyst,,45000.0,1.0,USER@GMAIL.COM,15/01/2024
+11671,RAHUL SHARMA,,female,Busines Analyst,,25000.0,40.0,invalid_email,
+11672,RAHUL SHARMA,45.0,male,Business Analyst,belgaum,25000.0,1.0,USER@GMAIL.COM,Jan 15 2024
+11673,Rahul  Sharma,,Female,DATA ANALYST,mumbai,60000.0,2.0,USER@GMAIL.COM,Jan 15 2024
+11674,Sanjay Patil,-5.0,,data analyst, MUMBAI ,,5.0,,15/01/2024
+11675,AKSHAY kumar,25.0,Female,data analyst,Bangalore,,,employee@company.com,Jan 15 2024
+11676,Sanjay Patil,22.0,F,Data Analyst,Bangalore,45000.0,40.0,invalid_email,15/01/2024
+11677,RAHUL SHARMA,,Female,data analyst,,45000.0,5.0, test@mail.com ,Jan 15 2024
+11678,Rahul  Sharma,22.0,F,Data Analyst,belgaum,60000.0,8.0,invalid_email,2024-01-15
+11679,AKSHAY kumar,22.0,male,DATA ANALYST,Mumbai,,8.0,USER@GMAIL.COM,Jan 15 2024
+11680,AKSHAY kumar,150.0,Male,Business Analyst,Bangalore,5000000.0,1.0,USER@GMAIL.COM,2024-01-15
+11681,AKSHAY kumar,25.0,male,data analyst,mumbai,,8.0,,15/01/2024
+11682,rahul sharma,-5.0,,DATA ANALYST,,60000.0,-3.0, test@mail.com ,Jan 15 2024
+11683,rahul sharma,30.0,female,Business Analyst,Bangalore,60000.0,,invalid_email,2024-01-15
+11684,pooja patil,45.0,M,Business Analyst,belgaum,25000.0,1.0, test@mail.com ,Jan 15 2024
+11685,pooja patil,30.0,Male,data analyst,Bangalore,,8.0, test@mail.com ,Jan 15 2024
+11686,Sanjay Patil,30.0,F,data analyst,Pune,45000.0,2.0,USER@GMAIL.COM,2024-01-15
+11687,AKSHAY kumar,22.0,,data analyst,Bangalore,25000.0,5.0,employee@company.com,15/01/2024
+11688,Sanjay Patil,35.0,F,DATA ANALYST, MUMBAI ,60000.0,5.0, test@mail.com ,15/01/2024
+11689,Rahul  Sharma,22.0,F,Busines Analyst,mumbai,60000.0,1.0,invalid_email,15/01/2024
+11690,pooja patil,22.0,Female,Busines Analyst,belgaum,30000.0,2.0,invalid_email,2024-01-15
+11691,rahul sharma,30.0,male,Business Analyst,mumbai,30000.0,40.0, test@mail.com ,2024-01-15
+11692,pooja patil,,female,DATA ANALYST,belgaum,30000.0,2.0,USER@GMAIL.COM,Jan 15 2024
+11693,pooja patil,45.0,male,Data Analyst,,25000.0,1.0,invalid_email,
+11694,pooja patil,25.0,Male,DATA ANALYST,pune,25000.0,8.0,employee@company.com,15/01/2024
+11695,Sanjay Patil,25.0,female,,belgaum,60000.0,1.0,employee@company.com,Jan 15 2024
+11696,rahul sharma,30.0,,data analyst, MUMBAI ,,1.0, test@mail.com ,15/01/2024
+11697,RAHUL SHARMA,150.0,,Data Analyst,Mumbai,,40.0, test@mail.com ,Jan 15 2024
+11698,Rahul  Sharma,-5.0,,data analyst,belgaum,30000.0,2.0,,15/01/2024
+11699,Sanjay Patil,30.0,Male,Data Analyst, MUMBAI ,25000.0,8.0, test@mail.com ,Jan 15 2024
+11700,pooja patil,,,DATA ANALYST,Bangalore,25000.0,40.0,USER@GMAIL.COM,Jan 15 2024
+11701,rahul sharma,150.0,M,, MUMBAI ,60000.0,1.0,,
+11702,AKSHAY kumar,30.0,F,Data Analyst,Mumbai,45000.0,2.0,USER@GMAIL.COM,
+11703,rahul sharma,25.0,Female,Busines Analyst,belgaum,,8.0, test@mail.com ,2024-01-15
+11704,Rahul  Sharma,150.0,Female,DATA ANALYST, MUMBAI ,45000.0,-3.0,,Jan 15 2024
+11705,AKSHAY kumar,25.0,Female,Busines Analyst,Pune,30000.0,2.0,,15/01/2024
+11706,RAHUL SHARMA,35.0,female,Data Analyst,mumbai,5000000.0,8.0,employee@company.com,2024-01-15
+11707,RAHUL SHARMA,35.0,Male,data analyst,pune,45000.0,-3.0,invalid_email,Jan 15 2024
+11708,RAHUL SHARMA,,Female,DATA ANALYST, MUMBAI ,,-3.0,USER@GMAIL.COM,
+11709,Sanjay Patil,22.0,,data analyst, MUMBAI ,25000.0,2.0,USER@GMAIL.COM,15/01/2024
+11710,RAHUL SHARMA,-5.0,Male,Data Analyst,,60000.0,40.0,employee@company.com,15/01/2024
+11711,Sanjay Patil,-5.0,Female,data analyst,,,5.0,,
+11712,rahul sharma,45.0,female,Business Analyst,Bangalore,45000.0,2.0,employee@company.com,Jan 15 2024
+11713,pooja patil,150.0,female,Data Analyst,Bangalore,,5.0,USER@GMAIL.COM,Jan 15 2024
+11714,pooja patil,22.0,male,data analyst,mumbai,30000.0,8.0,USER@GMAIL.COM,2024-01-15
+11715,AKSHAY kumar,45.0,F,DATA ANALYST,pune,60000.0,8.0,,2024-01-15
+11716,AKSHAY kumar,30.0,Female,Business Analyst,Pune,30000.0,40.0, test@mail.com ,2024-01-15
+11717,RAHUL SHARMA,,male,Business Analyst, MUMBAI ,,40.0,,2024-01-15
+11718,AKSHAY kumar,,male,data analyst, MUMBAI ,45000.0,2.0,USER@GMAIL.COM,15/01/2024
+11719,Sanjay Patil,35.0,,, MUMBAI ,,,invalid_email,15/01/2024
+11720,Rahul  Sharma,22.0,Female,DATA ANALYST,belgaum,,8.0,invalid_email,
+11721,Rahul  Sharma,30.0,female,DATA ANALYST,Mumbai,25000.0,5.0,,Jan 15 2024
+11722,RAHUL SHARMA,25.0,M,Busines Analyst, MUMBAI ,30000.0,8.0, test@mail.com ,15/01/2024
+11723,pooja patil,30.0,female,Busines Analyst,belgaum,,2.0, test@mail.com ,Jan 15 2024
+11724,rahul sharma,35.0,Male,data analyst,belgaum,25000.0,-3.0,,15/01/2024
+11725,RAHUL SHARMA,150.0,F,,pune,45000.0,1.0,USER@GMAIL.COM,Jan 15 2024
+11726,AKSHAY kumar,25.0,,,,30000.0,-3.0,invalid_email,Jan 15 2024
+11727,rahul sharma,150.0,F,Data Analyst,Bangalore,45000.0,1.0,invalid_email,Jan 15 2024
+11728,rahul sharma,150.0,Female,Business Analyst, MUMBAI ,5000000.0,-3.0,invalid_email,Jan 15 2024
+11729,RAHUL SHARMA,25.0,M,,Bangalore,30000.0,40.0,invalid_email,
+11730,pooja patil,22.0,female,Data Analyst,pune,5000000.0,-3.0,employee@company.com,Jan 15 2024
+11731,Sanjay Patil,,Female,,pune,45000.0,1.0,USER@GMAIL.COM,2024-01-15
+11732,Sanjay Patil,150.0,F,Business Analyst,,30000.0,,invalid_email,Jan 15 2024
+11733,rahul sharma,150.0,male,Business Analyst,belgaum,,,invalid_email,2024-01-15
+11734,AKSHAY kumar,25.0,male,,mumbai,,1.0,USER@GMAIL.COM,15/01/2024
+11735,Rahul  Sharma,-5.0,,Busines Analyst,Mumbai,45000.0,-3.0,invalid_email,
+11736,AKSHAY kumar,22.0,Female,,belgaum,5000000.0,1.0, test@mail.com ,15/01/2024
+11737,rahul sharma,,M,DATA ANALYST,belgaum,25000.0,-3.0,invalid_email,Jan 15 2024
+11738,Rahul  Sharma,,Male,data analyst,pune,60000.0,40.0,USER@GMAIL.COM,Jan 15 2024
+11739,pooja patil,45.0,,data analyst,Pune,,40.0,,Jan 15 2024
+11740,Sanjay Patil,-5.0,,DATA ANALYST, MUMBAI ,60000.0,40.0,USER@GMAIL.COM,Jan 15 2024
+11741,Rahul  Sharma,35.0,Male,DATA ANALYST,mumbai,5000000.0,1.0,invalid_email,Jan 15 2024
+11742,AKSHAY kumar,150.0,female,data analyst,belgaum,30000.0,5.0,invalid_email,Jan 15 2024
+11743,Rahul  Sharma,150.0,Male,data analyst, MUMBAI ,45000.0,1.0,USER@GMAIL.COM,15/01/2024
+11744,AKSHAY kumar,45.0,male,,pune,,, test@mail.com ,
+11745,AKSHAY kumar,25.0,F,Data Analyst,mumbai,5000000.0,,invalid_email,Jan 15 2024
+11746,RAHUL SHARMA,,male,DATA ANALYST,belgaum,30000.0,8.0,USER@GMAIL.COM,Jan 15 2024
+11747,AKSHAY kumar,25.0,Male,data analyst,,25000.0,2.0,,15/01/2024
+11748,Sanjay Patil,45.0,M,Busines Analyst,Pune,5000000.0,2.0, test@mail.com ,15/01/2024
+11749,pooja patil,35.0,F,Data Analyst,pune,30000.0,1.0,,
+11750,pooja patil,-5.0,male,Business Analyst,Pune,60000.0,2.0,,
+11751,Sanjay Patil,-5.0,female,DATA ANALYST,Bangalore,45000.0,8.0,employee@company.com,Jan 15 2024
+11752,RAHUL SHARMA,,male,DATA ANALYST,mumbai,5000000.0,2.0,employee@company.com,15/01/2024
+11753,AKSHAY kumar,30.0,M,Business Analyst,,,5.0,USER@GMAIL.COM,15/01/2024
+11754,Sanjay Patil,,female,,Pune,60000.0,5.0,,2024-01-15
+11755,pooja patil,150.0,Female,Business Analyst,belgaum,25000.0,2.0,USER@GMAIL.COM,
+11756,AKSHAY kumar,22.0,Male,Busines Analyst, MUMBAI ,25000.0,-3.0,employee@company.com,2024-01-15
+11757,Sanjay Patil,45.0,male,DATA ANALYST,Mumbai,5000000.0,,invalid_email,
+11758,Sanjay Patil,30.0,Female,data analyst,,45000.0,,employee@company.com,Jan 15 2024
+11759,RAHUL SHARMA,-5.0,F,Business Analyst,Bangalore,25000.0,,USER@GMAIL.COM,Jan 15 2024
+11760,AKSHAY kumar,25.0,,Data Analyst,mumbai,,8.0, test@mail.com ,15/01/2024
+11761,RAHUL SHARMA,30.0,,data analyst,Mumbai,5000000.0,8.0,USER@GMAIL.COM,Jan 15 2024
+11762,rahul sharma,25.0,Female,Business Analyst,belgaum,60000.0,8.0,invalid_email,15/01/2024
+11763,Rahul  Sharma,30.0,M,DATA ANALYST,Bangalore,30000.0,-3.0,invalid_email,Jan 15 2024
+11764,pooja patil,25.0,F,DATA ANALYST,belgaum,30000.0,2.0,employee@company.com,2024-01-15
+11765,Rahul  Sharma,150.0,,Data Analyst,pune,25000.0,,USER@GMAIL.COM,2024-01-15
+11766,Sanjay Patil,,M,data analyst,Mumbai,,1.0,USER@GMAIL.COM,Jan 15 2024
+11767,pooja patil,45.0,M,Business Analyst,Bangalore,25000.0,2.0, test@mail.com ,
+11768,RAHUL SHARMA,35.0,Male,Data Analyst, MUMBAI ,,5.0,,15/01/2024
+11769,pooja patil,30.0,male,data analyst,,25000.0,,USER@GMAIL.COM,2024-01-15
+11770,Rahul  Sharma,45.0,M,DATA ANALYST, MUMBAI ,,, test@mail.com ,2024-01-15
+11771,pooja patil,35.0,male,data analyst,Bangalore,60000.0,-3.0,,
+11772,pooja patil,25.0,female,Business Analyst,mumbai,45000.0,2.0,employee@company.com,15/01/2024
+11773,RAHUL SHARMA,150.0,F,Busines Analyst,Mumbai,45000.0,1.0,invalid_email,2024-01-15
+11774,AKSHAY kumar,25.0,female,,Bangalore,,,,
+11775,AKSHAY kumar,35.0,Male,DATA ANALYST, MUMBAI ,60000.0,40.0, test@mail.com ,Jan 15 2024
+11776,Sanjay Patil,-5.0,Female,Busines Analyst,belgaum,25000.0,8.0,USER@GMAIL.COM,
+11777,rahul sharma,,male,Busines Analyst,belgaum,45000.0,8.0,employee@company.com,2024-01-15
+11778,AKSHAY kumar,22.0,F,Data Analyst,pune,,-3.0,,15/01/2024
+11779,Sanjay Patil,,female,Data Analyst,Mumbai,25000.0,5.0,invalid_email,15/01/2024
+11780,Rahul  Sharma,22.0,,,belgaum,5000000.0,,,15/01/2024
+11781,AKSHAY kumar,,female,,Mumbai,30000.0,1.0,invalid_email,15/01/2024
+11782,RAHUL SHARMA,,M,,Pune,60000.0,2.0,,2024-01-15
+11783,rahul sharma,-5.0,F,,mumbai,45000.0,1.0, test@mail.com ,Jan 15 2024
+11784,RAHUL SHARMA,-5.0,,data analyst,Bangalore,60000.0,1.0, test@mail.com ,15/01/2024
+11785,AKSHAY kumar,35.0,male,,pune,60000.0,-3.0,,Jan 15 2024
+11786,RAHUL SHARMA,45.0,Female,,Mumbai,60000.0,40.0,invalid_email,
+11787,Rahul  Sharma,35.0,,Busines Analyst,pune,,1.0,invalid_email,2024-01-15
+11788,Sanjay Patil,150.0,F,,Pune,25000.0,-3.0,USER@GMAIL.COM,2024-01-15
+11789,RAHUL SHARMA,150.0,M,data analyst,Bangalore,30000.0,-3.0,employee@company.com,
+11790,Rahul  Sharma,45.0,Male,Business Analyst,pune,25000.0,40.0,USER@GMAIL.COM,
+11791,RAHUL SHARMA,25.0,male,Busines Analyst,Pune,30000.0,,USER@GMAIL.COM,
+11792,pooja patil,25.0,M,data analyst,Mumbai,60000.0,2.0,USER@GMAIL.COM,2024-01-15
+11793,RAHUL SHARMA,-5.0,male,DATA ANALYST,,5000000.0,2.0,invalid_email,2024-01-15
+11794,Sanjay Patil,35.0,,data analyst,Bangalore,25000.0,,USER@GMAIL.COM,15/01/2024
+11795,Rahul  Sharma,45.0,F,DATA ANALYST,,30000.0,-3.0,USER@GMAIL.COM,
+11796,pooja patil,30.0,Male,Business Analyst,mumbai,30000.0,2.0, test@mail.com ,Jan 15 2024
+11797,Sanjay Patil,150.0,M,Busines Analyst,mumbai,30000.0,,,Jan 15 2024
+11798,AKSHAY kumar,30.0,F,Business Analyst,Bangalore,25000.0,1.0,USER@GMAIL.COM,
+11799,AKSHAY kumar,22.0,male,, MUMBAI ,5000000.0,5.0,employee@company.com,2024-01-15
+11799,RAHUL SHARMA,25.0,female,data analyst,Mumbai,60000.0,1.0,,2024-01-15
+11801,pooja patil,25.0,,data analyst,Mumbai,,,USER@GMAIL.COM,2024-01-15
+11802,Sanjay Patil,150.0,male,,belgaum,45000.0,-3.0,,
+11803,pooja patil,35.0,female,Busines Analyst,pune,45000.0,-3.0,invalid_email,
+11804,RAHUL SHARMA,150.0,male,DATA ANALYST,Pune,30000.0,5.0, test@mail.com ,
+11805,Rahul  Sharma,30.0,Male,,Mumbai,60000.0,40.0,employee@company.com,15/01/2024
+11806,rahul sharma,150.0,Female,,Pune,60000.0,2.0,employee@company.com,15/01/2024
+11807,pooja patil,-5.0,Female,Busines Analyst,,60000.0,8.0,invalid_email,Jan 15 2024
+11808,Rahul  Sharma,,female,Busines Analyst, MUMBAI ,5000000.0,, test@mail.com ,15/01/2024
+11809,RAHUL SHARMA,35.0,male,data analyst,Bangalore,60000.0,,invalid_email,Jan 15 2024
+11810,Sanjay Patil,45.0,F,Busines Analyst, MUMBAI ,60000.0,1.0,,
+11811,Rahul  Sharma,-5.0,M,data analyst,Pune,45000.0,, test@mail.com ,
+11812,AKSHAY kumar,-5.0,F,Busines Analyst,Mumbai,5000000.0,2.0,invalid_email,15/01/2024
+11813,Rahul  Sharma,30.0,female,Busines Analyst,Pune,30000.0,8.0,employee@company.com,
+11814,RAHUL SHARMA,30.0,,Busines Analyst,Bangalore,,40.0,,2024-01-15
+11815,Sanjay Patil,25.0,,Data Analyst,mumbai,25000.0,1.0,USER@GMAIL.COM,Jan 15 2024
+11816,rahul sharma,,Male,data analyst, MUMBAI ,30000.0,5.0,USER@GMAIL.COM,Jan 15 2024
+11817,AKSHAY kumar,,male,Busines Analyst,,45000.0,-3.0, test@mail.com ,Jan 15 2024
+11818,Rahul  Sharma,25.0,,Business Analyst, MUMBAI ,30000.0,2.0,invalid_email,2024-01-15
+11819,AKSHAY kumar,-5.0,F,Business Analyst,,5000000.0,5.0, test@mail.com ,2024-01-15
+11820,Sanjay Patil,30.0,Female,Data Analyst,Mumbai,30000.0,8.0,invalid_email,
+11821,pooja patil,30.0,,Data Analyst,Bangalore,60000.0,,,15/01/2024
+11822,pooja patil,22.0,Female,,Bangalore,45000.0,1.0,employee@company.com,2024-01-15
+11823,RAHUL SHARMA,30.0,male,DATA ANALYST,belgaum,30000.0,1.0, test@mail.com ,Jan 15 2024
+11824,Rahul  Sharma,25.0,Male,Business Analyst,,25000.0,,,
+11825,RAHUL SHARMA,,,DATA ANALYST,Pune,,5.0,,2024-01-15
+11826,pooja patil,,F,Data Analyst,Pune,5000000.0,5.0,employee@company.com,
+11827,pooja patil,,M,DATA ANALYST,,5000000.0,1.0,employee@company.com,2024-01-15
+11828,RAHUL SHARMA,22.0,female,Business Analyst,Mumbai,45000.0,8.0, test@mail.com ,
+11829,pooja patil,-5.0,M,,pune,5000000.0,8.0,employee@company.com,Jan 15 2024
+11830,AKSHAY kumar,-5.0,Female,,Bangalore,30000.0,5.0,employee@company.com,15/01/2024
+11831,pooja patil,45.0,Male,Data Analyst,,5000000.0,1.0,employee@company.com,2024-01-15
+11832,rahul sharma,30.0,,Data Analyst,Pune,25000.0,2.0,employee@company.com,2024-01-15
+11833,RAHUL SHARMA,35.0,,Data Analyst,mumbai,25000.0,-3.0,USER@GMAIL.COM,Jan 15 2024
+11834,AKSHAY kumar,25.0,F,Business Analyst,,5000000.0,40.0,employee@company.com,2024-01-15
+11835,AKSHAY kumar,25.0,M,, MUMBAI ,30000.0,-3.0,USER@GMAIL.COM,15/01/2024
+11836,rahul sharma,25.0,M,Busines Analyst,Pune,30000.0,1.0,USER@GMAIL.COM,
+11837,Rahul  Sharma,35.0,Female,data analyst,,,-3.0, test@mail.com ,
+11838,Rahul  Sharma,22.0,Female,data analyst,Mumbai,25000.0,2.0, test@mail.com ,Jan 15 2024
+11839,RAHUL SHARMA,35.0,female,Data Analyst,mumbai,30000.0,2.0,employee@company.com,15/01/2024
+11840,RAHUL SHARMA,-5.0,female,Business Analyst,pune,,8.0,,Jan 15 2024
+11841,RAHUL SHARMA,-5.0,Male,DATA ANALYST,Pune,,1.0,employee@company.com,Jan 15 2024
+11842,RAHUL SHARMA,25.0,M,Data Analyst,,45000.0,-3.0,USER@GMAIL.COM,
+11843,rahul sharma,150.0,M,,mumbai,45000.0,,employee@company.com,2024-01-15
+11844,AKSHAY kumar,45.0,female,DATA ANALYST,,45000.0,-3.0,invalid_email,Jan 15 2024
+11845,pooja patil,45.0,,Busines Analyst,Bangalore,,-3.0, test@mail.com ,15/01/2024
+11846,AKSHAY kumar,30.0,M,,Bangalore,60000.0,8.0,invalid_email,Jan 15 2024
+11847,pooja patil,150.0,,Busines Analyst,,30000.0,2.0,invalid_email,
+11848,rahul sharma,30.0,,DATA ANALYST,belgaum,5000000.0,2.0,invalid_email,Jan 15 2024
+11849,rahul sharma,-5.0,,, MUMBAI ,30000.0,, test@mail.com ,15/01/2024
+11850,rahul sharma,22.0,Female,Busines Analyst, MUMBAI ,45000.0,5.0, test@mail.com ,2024-01-15
+11851,pooja patil,-5.0,F,DATA ANALYST,pune,30000.0,2.0,invalid_email,
+11852,pooja patil,-5.0,,data analyst,,5000000.0,1.0,employee@company.com,2024-01-15
+11853,rahul sharma,,female,Busines Analyst,pune,30000.0,2.0,,
+11854,RAHUL SHARMA,-5.0,Female,Data Analyst,pune,5000000.0,2.0,employee@company.com,Jan 15 2024
+11855,Sanjay Patil,-5.0,male,Data Analyst, MUMBAI ,,5.0,employee@company.com,Jan 15 2024
+11856,Sanjay Patil,30.0,Male,Business Analyst,,25000.0,1.0,invalid_email,Jan 15 2024
+11857,pooja patil,35.0,F,DATA ANALYST,Pune,45000.0,-3.0,invalid_email,Jan 15 2024
+11858,AKSHAY kumar,,male,DATA ANALYST,Pune,30000.0,5.0,,15/01/2024
+11859,Sanjay Patil,35.0,,data analyst,,,8.0,USER@GMAIL.COM,Jan 15 2024
+11860,AKSHAY kumar,25.0,Female,data analyst,Bangalore,25000.0,,invalid_email,
+11861,AKSHAY kumar,45.0,M,Busines Analyst,belgaum,30000.0,40.0,employee@company.com,15/01/2024
+11862,Rahul  Sharma,22.0,Female,data analyst,Pune,5000000.0,1.0,employee@company.com,Jan 15 2024
+11863,AKSHAY kumar,150.0,male,data analyst,pune,45000.0,8.0,employee@company.com,15/01/2024
+11864,Sanjay Patil,35.0,male,Business Analyst,mumbai,45000.0,-3.0,USER@GMAIL.COM,15/01/2024
+11865,AKSHAY kumar,45.0,F,Busines Analyst,belgaum,5000000.0,40.0,USER@GMAIL.COM,Jan 15 2024
+11866,Rahul  Sharma,35.0,F,DATA ANALYST,Mumbai,25000.0,-3.0,invalid_email,2024-01-15
+11867,Rahul  Sharma,150.0,,data analyst,,5000000.0,8.0,,15/01/2024
+11868,AKSHAY kumar,150.0,,DATA ANALYST,mumbai,45000.0,8.0,employee@company.com,15/01/2024
+11869,Sanjay Patil,150.0,Male,data analyst, MUMBAI ,45000.0,1.0,USER@GMAIL.COM,2024-01-15
+11870,Rahul  Sharma,150.0,Male,data analyst,Bangalore,5000000.0,8.0,,2024-01-15
+11871,Sanjay Patil,-5.0,female,DATA ANALYST,belgaum,30000.0,5.0,,2024-01-15
+11872,Sanjay Patil,45.0,Male,Business Analyst,Mumbai,,1.0, test@mail.com ,
+11873,rahul sharma,25.0,F,data analyst,mumbai,,2.0, test@mail.com ,2024-01-15
+11874,Rahul  Sharma,,Male,Data Analyst,belgaum,45000.0,40.0,USER@GMAIL.COM,
+11875,pooja patil,22.0,male,Busines Analyst,belgaum,5000000.0,2.0,,2024-01-15
+11876,RAHUL SHARMA,150.0,F,Data Analyst,pune,30000.0,2.0,USER@GMAIL.COM,2024-01-15
+11877,rahul sharma,35.0,Female,Data Analyst,Mumbai,30000.0,40.0, test@mail.com ,15/01/2024
+11878,RAHUL SHARMA,,Male,Busines Analyst,belgaum,25000.0,,employee@company.com,
+11879,rahul sharma,-5.0,male,Data Analyst,Mumbai,30000.0,,USER@GMAIL.COM,15/01/2024
+11880,RAHUL SHARMA,150.0,M,DATA ANALYST,mumbai,,5.0,,15/01/2024
+11881,pooja patil,35.0,F,Business Analyst,Mumbai,5000000.0,-3.0,,Jan 15 2024
+11882,Rahul  Sharma,,male,Busines Analyst, MUMBAI ,30000.0,40.0,,Jan 15 2024
+11883,Rahul  Sharma,35.0,Male,DATA ANALYST,belgaum,25000.0,-3.0,employee@company.com,
+11884,rahul sharma,150.0,male,,belgaum,30000.0,2.0,USER@GMAIL.COM,2024-01-15
+11885,pooja patil,25.0,female,data analyst,Pune,,-3.0,employee@company.com,15/01/2024
+11886,AKSHAY kumar,45.0,Male,Busines Analyst,Mumbai,5000000.0,-3.0, test@mail.com ,Jan 15 2024
+11887,RAHUL SHARMA,22.0,Male,Data Analyst,Pune,30000.0,40.0,employee@company.com,15/01/2024
+11888,pooja patil,-5.0,female,DATA ANALYST,,60000.0,, test@mail.com ,
+11889,pooja patil,45.0,,,Pune,25000.0,,USER@GMAIL.COM,2024-01-15
+11890,rahul sharma,22.0,,Data Analyst,pune,25000.0,5.0,invalid_email,
+11891,Sanjay Patil,30.0,M,Data Analyst,Bangalore,30000.0,-3.0, test@mail.com ,
+11892,Sanjay Patil,,M,DATA ANALYST,belgaum,5000000.0,1.0,employee@company.com,2024-01-15
+11893,rahul sharma,45.0,F,DATA ANALYST,,30000.0,1.0,USER@GMAIL.COM,
+11894,RAHUL SHARMA,22.0,M,Data Analyst,Pune,60000.0,40.0,,Jan 15 2024
+11895,Rahul  Sharma,22.0,female,Business Analyst,,25000.0,-3.0, test@mail.com ,15/01/2024
+11896,rahul sharma,-5.0,female,Busines Analyst,Mumbai,25000.0,8.0,invalid_email,
+11897,pooja patil,30.0,M,Business Analyst,Mumbai,5000000.0,1.0,employee@company.com,Jan 15 2024
+11898,Sanjay Patil,150.0,F,DATA ANALYST,Mumbai,5000000.0,5.0, test@mail.com ,15/01/2024
+11899,Sanjay Patil,150.0,,Data Analyst,Mumbai,,40.0,invalid_email,
+11900,RAHUL SHARMA,22.0,Male,DATA ANALYST,mumbai,,5.0,invalid_email,
+11901,AKSHAY kumar,30.0,Male,,Bangalore,5000000.0,,,15/01/2024
+11902,Rahul  Sharma,,Female,data analyst,belgaum,45000.0,8.0,employee@company.com,Jan 15 2024
+11903,RAHUL SHARMA,150.0,female,Business Analyst,belgaum,45000.0,8.0,USER@GMAIL.COM,Jan 15 2024
+11904,RAHUL SHARMA,,Male,,,60000.0,40.0,,15/01/2024
+11905,rahul sharma,,male,, MUMBAI ,,5.0,,15/01/2024
+11906,AKSHAY kumar,30.0,,data analyst,belgaum,25000.0,40.0,invalid_email,2024-01-15
+11907,AKSHAY kumar,22.0,male,Data Analyst,Mumbai,45000.0,, test@mail.com ,15/01/2024
+11908,Sanjay Patil,,Female,Data Analyst,Bangalore,5000000.0,40.0,employee@company.com,
+11909,AKSHAY kumar,-5.0,F,Business Analyst,Bangalore,5000000.0,8.0,USER@GMAIL.COM,15/01/2024
+11910,Sanjay Patil,150.0,F,,Pune,5000000.0,1.0,,2024-01-15
+11911,pooja patil,30.0,M,,pune,30000.0,40.0,invalid_email,Jan 15 2024
+11912,RAHUL SHARMA,25.0,,data analyst,Mumbai,25000.0,1.0,employee@company.com,2024-01-15
+11913,RAHUL SHARMA,30.0,,,mumbai,25000.0,5.0,invalid_email,2024-01-15
+11914,pooja patil,,female,Busines Analyst,Mumbai,5000000.0,,employee@company.com,Jan 15 2024
+11915,pooja patil,,F,DATA ANALYST,belgaum,,,invalid_email,2024-01-15
+11916,Sanjay Patil,150.0,M,Busines Analyst,Bangalore,45000.0,1.0,employee@company.com,
+11917,pooja patil,25.0,Female,,Bangalore,5000000.0,8.0,USER@GMAIL.COM,
+11918,rahul sharma,150.0,,Data Analyst,,45000.0,,USER@GMAIL.COM,2024-01-15
+11919,RAHUL SHARMA,25.0,Female,Busines Analyst,Bangalore,30000.0,,invalid_email,2024-01-15
+11920,Rahul  Sharma,45.0,male,,,30000.0,,invalid_email,2024-01-15
+11921,rahul sharma,30.0,male,,Mumbai,,8.0,USER@GMAIL.COM,15/01/2024
+11922,pooja patil,45.0,female,Business Analyst,belgaum,,-3.0,USER@GMAIL.COM,Jan 15 2024
+11923,AKSHAY kumar,25.0,female,Business Analyst,,30000.0,8.0,employee@company.com,15/01/2024
+11924,rahul sharma,45.0,male,DATA ANALYST,belgaum,25000.0,-3.0, test@mail.com ,2024-01-15
+11925,RAHUL SHARMA,150.0,Female,data analyst,Mumbai,60000.0,40.0, test@mail.com ,
+11926,rahul sharma,45.0,F,data analyst,Bangalore,5000000.0,,invalid_email,15/01/2024
+11927,Sanjay Patil,150.0,,,mumbai,25000.0,2.0, test@mail.com ,15/01/2024
+11928,Sanjay Patil,22.0,Female,Busines Analyst,Bangalore,5000000.0,8.0,USER@GMAIL.COM,Jan 15 2024
+11929,Sanjay Patil,25.0,Female,Busines Analyst,Mumbai,45000.0,8.0,,
+11930,rahul sharma,25.0,M,DATA ANALYST,Bangalore,60000.0,8.0,,15/01/2024
+11931,RAHUL SHARMA,25.0,M,data analyst,mumbai,,2.0, test@mail.com ,
+11932,Sanjay Patil,,male,DATA ANALYST,,25000.0,40.0, test@mail.com ,
+11933,rahul sharma,22.0,F,data analyst, MUMBAI ,45000.0,2.0,invalid_email,2024-01-15
+11934,Rahul  Sharma,22.0,male,Data Analyst,mumbai,,-3.0,employee@company.com,2024-01-15
+11935,Rahul  Sharma,30.0,Male,data analyst,,30000.0,2.0,invalid_email,
+11936,pooja patil,35.0,M,data analyst,belgaum,,-3.0,,2024-01-15
+11937,RAHUL SHARMA,30.0,,Business Analyst, MUMBAI ,25000.0,8.0,,2024-01-15
+11938,AKSHAY kumar,30.0,F,,belgaum,5000000.0,5.0, test@mail.com ,Jan 15 2024
+11939,pooja patil,22.0,,Busines Analyst,Mumbai,45000.0,40.0,invalid_email,2024-01-15
+11940,RAHUL SHARMA,,Female,Busines Analyst,Pune,5000000.0,2.0,invalid_email,
+11941,Sanjay Patil,30.0,F,Business Analyst,pune,60000.0,40.0,USER@GMAIL.COM,
+11942,AKSHAY kumar,22.0,Female,Data Analyst,mumbai,5000000.0,40.0, test@mail.com ,2024-01-15
+11943,Rahul  Sharma,45.0,Female,DATA ANALYST,,5000000.0,40.0,employee@company.com,Jan 15 2024
+11944,AKSHAY kumar,,Male,Busines Analyst,,60000.0,40.0,,15/01/2024
+11945,pooja patil,,M,,,45000.0,,,2024-01-15
+11946,Rahul  Sharma,45.0,Male,DATA ANALYST,Pune,45000.0,5.0, test@mail.com ,15/01/2024
+11947,Rahul  Sharma,45.0,F,DATA ANALYST,belgaum,45000.0,5.0,,
+11948,Sanjay Patil,35.0,,Business Analyst, MUMBAI ,5000000.0,5.0, test@mail.com ,Jan 15 2024
+11949,Sanjay Patil,,F,Busines Analyst, MUMBAI ,25000.0,-3.0,employee@company.com,15/01/2024
+11949,RAHUL SHARMA,,F,,,45000.0,2.0,invalid_email,
+11951,Sanjay Patil,45.0,male,Busines Analyst,Bangalore,30000.0,5.0,,2024-01-15
+11952,Rahul  Sharma,25.0,Female,Business Analyst,belgaum,25000.0,1.0, test@mail.com ,Jan 15 2024
+11953,pooja patil,150.0,male,Business Analyst,pune,,,invalid_email,15/01/2024
+11954,Rahul  Sharma,22.0,Female,,,,1.0,invalid_email,
+11955,pooja patil,,M,data analyst, MUMBAI ,25000.0,5.0,USER@GMAIL.COM,2024-01-15
+11956,rahul sharma,45.0,M,Business Analyst,pune,30000.0,40.0,USER@GMAIL.COM,
+11957,RAHUL SHARMA,22.0,female,Business Analyst,Mumbai,25000.0,1.0,employee@company.com,Jan 15 2024
+11958,Rahul  Sharma,-5.0,F,data analyst,Pune,,,,Jan 15 2024
+11959,AKSHAY kumar,,,data analyst, MUMBAI ,25000.0,,,Jan 15 2024
+11960,RAHUL SHARMA,30.0,,Busines Analyst,Pune,,,USER@GMAIL.COM,15/01/2024
+11961,rahul sharma,45.0,,Busines Analyst,mumbai,25000.0,2.0,invalid_email,15/01/2024
+11962,RAHUL SHARMA,150.0,male,data analyst, MUMBAI ,30000.0,5.0,USER@GMAIL.COM,2024-01-15
+11963,RAHUL SHARMA,45.0,Female,Business Analyst,belgaum,60000.0,2.0, test@mail.com ,2024-01-15
+11964,rahul sharma,-5.0,female,Busines Analyst,,30000.0,-3.0,invalid_email,
+11965,rahul sharma,45.0,F,,,60000.0,40.0,,Jan 15 2024
+11966,Rahul  Sharma,22.0,Female,Business Analyst,belgaum,60000.0,, test@mail.com ,Jan 15 2024
+11967,RAHUL SHARMA,25.0,male,,belgaum,30000.0,40.0,invalid_email,15/01/2024
+11968,RAHUL SHARMA,,Male,Busines Analyst,pune,30000.0,-3.0,employee@company.com,15/01/2024
+11969,pooja patil,150.0,M,,Pune,5000000.0,-3.0,USER@GMAIL.COM,
+11970,Sanjay Patil,22.0,Female,Business Analyst,Bangalore,45000.0,8.0,USER@GMAIL.COM,
+11971,pooja patil,150.0,Female,Data Analyst,belgaum,45000.0,5.0, test@mail.com ,Jan 15 2024
+11972,Rahul  Sharma,45.0,Female,data analyst, MUMBAI ,30000.0,40.0,,15/01/2024
+11973,rahul sharma,-5.0,Male,Data Analyst,Pune,25000.0,-3.0, test@mail.com ,2024-01-15
+11974,AKSHAY kumar,22.0,Male,Data Analyst,pune,60000.0,2.0,employee@company.com,15/01/2024
+11975,pooja patil,45.0,,data analyst,Pune,60000.0,5.0, test@mail.com ,2024-01-15
+11976,RAHUL SHARMA,25.0,male,Data Analyst, MUMBAI ,45000.0,,invalid_email,
+11977,RAHUL SHARMA,35.0,M,data analyst,mumbai,25000.0,40.0,USER@GMAIL.COM,Jan 15 2024
+11978,RAHUL SHARMA,25.0,,Busines Analyst,Bangalore,5000000.0,2.0, test@mail.com ,15/01/2024
+11979,RAHUL SHARMA,22.0,Male,data analyst,pune,,40.0,USER@GMAIL.COM,2024-01-15
+11980,pooja patil,30.0,F,Data Analyst,,30000.0,40.0, test@mail.com ,15/01/2024
+11981,AKSHAY kumar,,male,DATA ANALYST,,30000.0,8.0, test@mail.com ,2024-01-15
+11982,Sanjay Patil,35.0,F,,Mumbai,25000.0,8.0, test@mail.com ,2024-01-15
+11983,Rahul  Sharma,150.0,male,Busines Analyst,belgaum,,,invalid_email,
+11984,Sanjay Patil,,,Business Analyst,belgaum,45000.0,,invalid_email,15/01/2024
+11985,AKSHAY kumar,150.0,F,Data Analyst,Pune,25000.0,,employee@company.com,Jan 15 2024
+11986,rahul sharma,-5.0,Female,Busines Analyst,pune,45000.0,1.0,employee@company.com,
+11987,RAHUL SHARMA,22.0,F,Busines Analyst, MUMBAI ,60000.0,40.0,,15/01/2024
+11988,Sanjay Patil,45.0,Female,data analyst, MUMBAI ,25000.0,2.0,invalid_email,Jan 15 2024
+11989,pooja patil,-5.0,Female,,,45000.0,2.0,invalid_email,15/01/2024
+11990,pooja patil,22.0,F,data analyst,mumbai,45000.0,5.0,USER@GMAIL.COM,Jan 15 2024
+11991,pooja patil,-5.0,female,Busines Analyst,mumbai,,5.0,employee@company.com,
+11992,rahul sharma,150.0,M,DATA ANALYST,Bangalore,30000.0,5.0,,15/01/2024
+11993,rahul sharma,25.0,F,,pune,25000.0,1.0,,15/01/2024
+11994,Sanjay Patil,,M,Busines Analyst,belgaum,45000.0,40.0,,
+11995,Rahul  Sharma,,Male,DATA ANALYST,Mumbai,,,USER@GMAIL.COM,
+11996,pooja patil,-5.0,,Business Analyst,Mumbai,5000000.0,40.0,,2024-01-15
+11997,RAHUL SHARMA,-5.0,Male,,,5000000.0,-3.0,employee@company.com,15/01/2024
+11998,RAHUL SHARMA,35.0,M,Business Analyst,belgaum,45000.0,8.0, test@mail.com ,2024-01-15
+11999,rahul sharma,45.0,M,data analyst,Pune,60000.0,, test@mail.com ,
