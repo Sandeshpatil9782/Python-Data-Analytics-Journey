@@ -1,0 +1,1274 @@
+Company,TypeName,Inches,Ram,Weight,Cpu_Brand,Cpu_Speed,Cpu_Type,Display_Type,Resolution,X_res,Y_res,PPI,Storage_Type,Storage_Size,Gpu_Brand,Gpu_Model,OS,Price
+Apple,Ultrabook,13.3,8 GB,1.37 KG,Intel,2.3 GHz,Core i5,Retina,2560x1600,2560,1600,226.983,SSD,128 GB,Intel,Iris Plus Graphics 640,Mac,71378.68
+Apple,Ultrabook,13.3,8 GB,1.34 KG,Intel,1.8 GHz,Core i5,Standard,1440x900,1440,900,127.678,Flash Storage,128 GB,Intel,HD Graphics 6000,Mac,47895.52
+HP,Notebook,15.6,8 GB,1.86 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 620,Other,30636.0
+Apple,Ultrabook,15.4,16 GB,1.83 KG,Intel,2.7 GHz,Core i7,Retina,2880x1800,2880,1800,220.535,SSD,512 GB,AMD,Radeon Pro 455,Mac,135195.34
+Apple,Ultrabook,13.3,8 GB,1.37 KG,Intel,3.1 GHz,Core i5,Retina,2560x1600,2560,1600,226.983,SSD,256 GB,Intel,Iris Plus Graphics 650,Mac,96095.81
+Acer,Notebook,15.6,4 GB,2.1 KG,AMD,0,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,AMD,Radeon R5,Windows,21312.0
+Apple,Ultrabook,15.4,16 GB,2.04 KG,Intel,2.2 GHz,Core i7,Retina,2880x1800,2880,1800,220.535,Flash Storage,256 GB,Intel,Iris Pro Graphics,Mac,114017.6
+Apple,Ultrabook,13.3,8 GB,1.34 KG,Intel,1.8 GHz,Core i5,Standard,1440x900,1440,900,127.678,Flash Storage,256 GB,Intel,HD Graphics 6000,Mac,61735.54
+Asus,Ultrabook,14.0,16 GB,1.3 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,512 GB,Nvidia,GeForce MX150,Windows,79653.6
+Acer,Ultrabook,14.0,8 GB,1.6 KG,Intel,1.6 GHz,Core i5,IPS,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,UHD Graphics 620,Windows,41025.6
+HP,Notebook,15.6,4 GB,1.86 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 620,Other,20986.99
+HP,Notebook,15.6,4 GB,1.86 KG,Intel,0,Core i3,Full HD,1920x1080,1920,1080,141.212,HDD,500 GB,Intel,HD Graphics 520,Other,18381.07
+Apple,Ultrabook,15.4,16 GB,1.83 KG,Intel,2.8 GHz,Core i7,Retina,2880x1800,2880,1800,220.535,SSD,256 GB,AMD,Radeon Pro 555,Mac,130001.6
+Dell,Notebook,15.6,4 GB,2.2 KG,Intel,0,Core i3,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon R5 M430,Windows,26581.39
+Apple,Ultrabook,12.0,8 GB,0.92 KG,Intel,1.2 GHz,Core i7,Retina,2304x1440,2304,1440,226.416,SSD,256 GB,Intel,HD Graphics 615,Mac,67260.67
+Apple,Ultrabook,13.3,8 GB,1.37 KG,Intel,2.3 GHz,Core i5,Retina,2560x1600,2560,1600,226.983,SSD,256 GB,Intel,Iris Plus Graphics 640,Mac,80908.34
+Dell,Notebook,15.6,8 GB,2.2 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon R5 M430,Windows,39693.6
+Apple,Ultrabook,15.4,16 GB,1.83 KG,Intel,2.9 GHz,Core i7,Retina,2880x1800,2880,1800,220.535,SSD,512 GB,AMD,Radeon Pro 560,Mac,152274.24
+Lenovo,Notebook,15.6,8 GB,2.2 KG,Intel,2.4 GHz,Core i3,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce 940MX,Other,26586.72
+Dell,Ultrabook,13.3,8 GB,1.22 KG,Intel,1.6 GHz,Core i5,IPS,1920x1080,1920,1080,165.632,SSD,128 GB,Intel,UHD Graphics 620,Windows,52161.12
+Lenovo,Gaming,15.6,8 GB,2.5 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1050,Windows,53226.72
+HP,Notebook,15.6,4 GB,1.86 KG,AMD,1.5 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,AMD,Radeon R2,Other,13746.24
+Dell,2 in 1 Convertible,13.3,8 GB,1.62 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,UHD Graphics 620,Windows,43636.32
+HP,Ultrabook,15.6,8 GB,1.91 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 620,Windows,35111.52
+Dell,Notebook,15.6,4 GB,2.3 KG,Intel,0,Core i3,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 520,Windows,22305.14
+Apple,Ultrabook,13.3,8 GB,1.35 KG,Intel,1.6 GHz,Core i5,Standard,1440x900,1440,900,127.678,Flash Storage,128 GB,Intel,HD Graphics 6000,Mac,58554.72
+Dell,Notebook,15.6,8 GB,2.2 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon 530,Windows,42624.0
+Dell,Ultrabook,15.6,8 GB,1.88 KG,Intel,1.9 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,UHD Graphics 620,Windows,69157.44
+HP,Notebook,17.3,8 GB,2.5 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,127.336,HDD,1 TB,Nvidia,GeForce 930MX,Windows,47738.88
+Chuwi,Notebook,15.6,4 GB,1.89 KG,Intel,1.4 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,Flash Storage,64 GB,Intel,HD Graphics,Windows,13053.07
+Asus,Notebook,14.0,2 GB,1.65 KG,AMD,1.5 GHz,Core i7,Standard,1366x768,1366,768,111.935,Flash Storage,32 GB,AMD,Radeon R2,Windows,10602.72
+HP,Notebook,17.3,4 GB,2.71 KG,AMD,2.5 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,HDD,500 GB,AMD,Radeon 530,Windows,23389.92
+Dell,Ultrabook,13.3,16 GB,1.2 KG,Intel,1.8 GHz,Core i7,Quad HD+,3200x1800,3200,1800,276.054,SSD,512 GB,Intel,UHD Graphics 620,Windows,99580.32
+Apple,Ultrabook,13.3,8 GB,1.35 KG,Intel,1.6 GHz,Core i5,Standard,1440x900,1440,900,127.678,Flash Storage,256 GB,Intel,HD Graphics 6000,Mac,53173.44
+Lenovo,Notebook,14.0,4 GB,1.44 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,111.935,Flash Storage,64 GB,Intel,HD Graphics 500,Windows,13266.72
+Acer,Notebook,15.6,4 GB,2.1 KG,Intel,2.7 GHz,Core i3,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 620,Linux,19553.76
+Dell,Notebook,17.3,8 GB,2.8 KG,Intel,1.6 GHz,Core i5,IPS,1920x1080,1920,1080,127.336,SSD,128 GB,AMD,Radeon 530,Windows,52161.12
+HP,Notebook,15.6,4 GB,1.86 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 620,Windows,26037.4
+HP,Notebook,15.6,8 GB,2.1 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce 930MX ,Windows,46833.12
+Asus,Notebook,15.6,4 GB,2 KG,Intel,0,Core i3,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Intel,HD Graphics 620,Linux,20725.92
+Dell,Gaming,15.6,16 GB,2.65 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1060,Windows,79866.72
+Asus,Notebook,15.6,8 GB,2.3 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,1 TB,Nvidia,GeForce 940MX,Linux,27864.91
+Acer,Notebook,15.6,4 GB,2.2 KG,Intel,1.6 GHz,Core i5,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,UHD Graphics 620,Windows,36336.96
+Dell,2 in 1 Convertible,17.3,12 GB,2.77 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,127.336,HDD,1 TB,Nvidia,GeForce 150MX,Windows,53226.72
+Apple,Ultrabook,13.3,8 GB,1.37 KG,Intel,2.0 GHz,Core i5,Retina,2560x1600,2560,1600,226.983,SSD,256 GB,Intel,Iris Graphics 540,Mac,75604.32
+Asus,Gaming,17.3,8 GB,3.2 KG,AMD,0,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,AMD,Radeon RX 580,Windows,69210.72
+Dell,Notebook,15.6,4 GB,2.3 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon R5 M430,Windows,34045.92
+Asus,Notebook,17.3,4 GB,2.8 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,90.583,HDD,1 TB,Nvidia,GeForce 920MX,Windows,24828.48
+Acer,Notebook,15.6,8 GB,2.2 KG,Intel,1.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce MX150,Windows,44808.48
+HP,Notebook,15.6,4 GB,1.86 KG,AMD,2.5 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon R4 Graphics,Windows,21231.55
+HP,Notebook,13.3,8 GB,1.49 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,165.632,SSD,512 GB,Intel,UHD Graphics 620,Windows,58767.84
+Acer,Notebook,15.6,4 GB,2.4 KG,Intel,2.4 GHz,Core i3,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 620,Windows,20459.52
+Dell,Notebook,15.6,8 GB,2.13 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon 520,Windows,40908.38
+HP,Notebook,15.6,4 GB,1.91 KG,Intel,0,Core i3,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Intel,HD Graphics 520,Windows,23389.92
+Asus,Notebook,15.6,4 GB,2 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,SSD,256 GB,Intel,HD Graphics 620,Windows,31232.2
+MSI,Gaming,17.3,16 GB,2.43 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 1070,Windows,130482.72
+Asus,Notebook,15.6,4 GB,2 KG,Intel,0,Core i3,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 520,Linux,22111.2
+Dell,Notebook,17.3,16 GB,2.8 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,AMD,Radeon 530,Windows,69210.72
+Dell,Ultrabook,14.0,8 GB,1.7 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,UHD Graphics 620,Windows,46833.12
+Lenovo,Notebook,14.0,8 GB,1.7 KG,Intel,2.7 GHz,Core i3,IPS,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Other,31914.72
+Asus,Notebook,14.0,8 GB,1.4 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,UHD Graphics 620,Windows,50136.48
+HP,Notebook,15.6,8 GB,1.86 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 620,Windows,36763.2
+Asus,Ultrabook,15.6,16 GB,1.8 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,512 GB,Nvidia,GeForce GTX 1050 Ti,Windows,105654.24
+HP,Notebook,15.6,4 GB,1.86 KG,Intel,0,Core i3,Standard,1366x768,1366,768,100.455,HDD,500 GB,AMD,Radeon 520,Windows,23373.4
+HP,Notebook,14.0,4 GB,1.44 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,111.935,SSD,32 GB,Intel,HD Graphics 400,Windows,12201.12
+Lenovo,Notebook,15.6,4 GB,1.9 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Intel,HD Graphics 620,Windows,29250.72
+Asus,Gaming,17.3,12 GB,3 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,HDD,1 TB,Nvidia,GeForce GTX 1050 Ti,Linux,50562.72
+Microsoft,Ultrabook,13.5,4 GB,1.252 KG,Intel,2.5 GHz,Core i5,Standard,2256x1504,2256,1504,200.843,SSD,128 GB,Intel,HD Graphics 620,Windows,58021.92
+Dell,Ultrabook,13.3,64 GB,1.4 KG,Intel,1.8 GHz,Core i7,IPS,1920x1080,1920,1080,165.632,SSD,256 GB,AMD,Radeon 530,Windows,50882.4
+Dell,Notebook,15.6,8 GB,2.2 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon 530,Windows,46353.6
+MSI,Gaming,17.3,8 GB,2.7 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,127.336,SSD,128 GB,Nvidia,GeForce GTX 1050,Windows,58341.6
+Acer,Notebook,14.0,8 GB,2.1 KG,Intel,0,Core i3,Standard,1366x768,1366,768,111.935,HDD,1 TB,Intel,HD Graphics 520,Windows,20725.92
+Asus,Gaming,15.6,8 GB,2.2 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce GTX 1050,Windows,50562.72
+Lenovo,Notebook,15.6,8 GB,2.2 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,2 TB,Intel,HD Graphics 620,Other,27652.32
+Dell,Notebook,15.6,8 GB,2.02 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Intel,UHD Graphics 620,Windows,45554.4
+Acer,Notebook,15.6,4 GB,2.2 KG,Intel,2.7 GHz,Core i3,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce MX130,Windows,28238.4
+HP,Notebook,17.3,8 GB,2.5 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,127.336,SSD,128 GB,Nvidia,GeForce 930MX,Windows,52054.56
+Dell,Ultrabook,15.6,8 GB,1.88 KG,Intel,1.6 GHz,Core i5,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,UHD Graphics 620,Windows,58403.4
+Apple,Ultrabook,12.0,8 GB,0.92 KG,Intel,1.3 GHz,Core i5,Retina,2304x1440,2304,1440,226.416,SSD,512 GB,Intel,HD Graphics 615,Mac,80452.8
+HP,Notebook,14.0,8 GB,1.63 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Windows,45820.8
+Lenovo,Notebook,15.6,4 GB,2.2 KG,AMD,2.5 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,AMD,R4 Graphics,Windows,21258.72
+Acer,Notebook,15.6,4 GB,2.1 KG,AMD,0,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,AMD,Radeon R5,Windows,21045.6
+Dell,Gaming,15.6,16 GB,2.65 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1050 Ti,Windows,71874.72
+HP,Ultrabook,15.6,8 GB,1.83 KG,Intel,1.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 940MX,Windows,37242.72
+HP,Notebook,15.6,8 GB,1.96 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 620,Windows,31914.19
+Asus,Gaming,15.6,16 GB,2.2 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1060,Windows,77202.72
+Dell,Ultrabook,13.3,8 GB,1.21 KG,Intel,1.8 GHz,Core i7,IPS,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,UHD Graphics 620,Windows,87858.72
+Asus,Gaming,15.6,8 GB,2.45 KG,AMD,0,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,AMD,Radeon RX 560,Windows,37242.72
+Acer,Notebook,15.6,2 GB,2.2 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce MX150,Windows,36709.92
+HP,Notebook,13.3,16 GB,1.49 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,165.632,SSD,512 GB,Intel,UHD Graphics 620,Windows,63776.16
+Dell,Gaming,15.6,8 GB,2.65 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1060,Windows,63669.6
+Asus,Ultrabook,14.0,8 GB,1.25 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Windows,55890.72
+Acer,2 in 1 Convertible,13.3,8 GB,1.5 KG,Intel,1.6 GHz,Core i5,IPS,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,UHD Graphics 620,Windows,45128.16
+Dell,Notebook,15.6,8 GB,2.2 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,AMD,Radeon R5 M430,Linux,31962.67
+Dell,Notebook,15.6,4 GB,2.2 KG,Intel,0,Core i3,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon R5 M430,Linux,25840.8
+Asus,Notebook,15.6,6 GB,2 KG,Intel,2.4 GHz,Core i3,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce 920M,Windows,30742.56
+HP,Gaming,15.6,12 GB,2.62 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1050,Windows,66546.72
+HP,Notebook,15.6,8 GB,1.91 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon 530,Windows,38308.32
+HP,Notebook,15.6,4 GB,2.1 KG,AMD,1.5 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,500 GB,AMD,Radeon R2,Windows,18594.72
+Dell,Notebook,15.6,8 GB,2.2 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,AMD,Radeon 520,Linux,34472.16
+HP,Ultrabook,13.3,8 GB,1.38 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,165.632,SSD,256 GB,Nvidia,GeForce MX150,Windows,59620.32
+Microsoft,Ultrabook,13.5,8 GB,1.252 KG,Intel,2.5 GHz,Core i5,Standard,2256x1504,2256,1504,200.843,SSD,256 GB,Intel,HD Graphics 620,Windows,71395.2
+HP,Notebook,14.0,6 GB,1.58 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,157.351,SSD,256 GB,Nvidia,GeForce 940MX,Windows,35111.52
+Lenovo,Notebook,15.6,4 GB,1.85 KG,Intel,0,Core i3,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Intel,HD Graphics 520,Windows,22105.87
+Asus,Ultrabook,14.0,8 GB,1.3 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,157.351,SSD,256 GB,Nvidia,GeForce 940MX,Windows,63563.04
+MSI,Gaming,15.6,16 GB,2.2 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1050 Ti,Windows,69210.72
+Lenovo,Notebook,14.0,8 GB,1.58 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Windows,78854.4
+Asus,Ultrabook,15.6,16 GB,1.5 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce MX150,Windows,67239.36
+Dell,Ultrabook,13.3,8 GB,1.23 KG,Intel,2.4 GHz,Core i7,Quad HD+,3200x1800,3200,1800,276.054,SSD,256 GB,Intel,Iris Plus Graphics 640,Windows,73473.12
+Lenovo,2 in 1 Convertible,13.3,8 GB,1.37 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,74538.72
+HP,Notebook,14.0,4 GB,1.63 KG,Intel,1.6 GHz,Core i5,IPS,1366x768,1366,768,111.935,HDD,500 GB,Intel,UHD Graphics 620,Windows,38468.16
+Dell,Ultrabook,13.3,8 GB,1.21 KG,Intel,1.6 GHz,Core i5,IPS,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,UHD Graphics 620,Windows,86793.12
+HP,Notebook,14.0,8 GB,1.63 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,512 GB,Intel,UHD Graphics 620,Windows,57755.52
+Dell,Notebook,15.6,8 GB,2.16 KG,Intel,1.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce 940MX,Windows,60223.98
+Asus,Notebook,17.3,4 GB,2 KG,Intel,0,Core i3,Full HD,1920x1080,1920,1080,127.336,HDD,1 TB,Nvidia,GeForce 920MX,Windows,30049.92
+Asus,Notebook,15.6,8 GB,1.7 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce 940MX,Windows,59567.04
+Acer,Notebook,15.6,6 GB,2.1 KG,Intel,2.4 GHz,Core i3,IPS,1920x1080,1920,1080,141.212,HDD,1 TB,Intel,HD Graphics 620,Windows,25521.12
+MSI,Gaming,15.6,16 GB,1.8 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1070,Windows,119427.12
+Lenovo,Notebook,15.6,8 GB,2.2 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce 940MX,Other,33513.12
+HP,Notebook,17.3,16 GB,2.5 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,512 GB,Nvidia,GeForce 930MX ,Windows,67718.88
+Acer,Notebook,15.6,4 GB,2.1 KG,AMD,0,Core i7,Standard,1366x768,1366,768,100.455,SSD,256 GB,AMD,Radeon R5,Windows,24029.28
+HP,Notebook,14.0,8 GB,1.63 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,HDD,1 TB,Intel,UHD Graphics 620,Windows,43263.36
+Asus,Notebook,14.0,4 GB,1.65 KG,AMD,1.5 GHz,Core i7,Standard,1366x768,1366,768,111.935,SSD,64 GB,AMD,Radeon R2,Windows,14811.31
+Dell,Notebook,17.3,16 GB,2.8 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,AMD,Radeon 530,Windows,74378.88
+HP,Notebook,17.3,8 GB,2.5 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,Intel,UHD Graphics 620,Windows,49443.84
+Dell,Notebook,15.6,8 GB,2.36 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,1 TB,AMD,Radeon R7 M445,Windows,34045.39
+Dell,Notebook,15.6,4 GB,2.2 KG,Intel,0,Core i3,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,AMD,Radeon R5 M430,Windows,23922.72
+Acer,Ultrabook,14.0,8 GB,1.6 KG,Intel,1.8 GHz,Core i7,IPS,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,UHD Graphics 620,Windows,47099.52
+Acer,Notebook,15.6,4 GB,7.2 KG,Intel,2.7 GHz,Core i3,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce MX130,Windows,30476.16
+HP,Notebook,15.6,8 GB,2.05 KG,Intel,2.7 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 620,Windows,31861.44
+HP,Notebook,14.0,8 GB,1.63 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,UHD Graphics 620,Windows,52640.64
+Lenovo,Notebook,15.6,4 GB,1.9 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 500,Other,13445.74
+Asus,Gaming,17.3,8 GB,3 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,127.336,SSD,128 GB,Nvidia,GeForce GTX 1050,Windows,49976.64
+Lenovo,Notebook,15.6,4 GB,2.2 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce 920MX,Other,26586.72
+HP,Notebook,13.3,4 GB,1.32 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,37242.72
+Acer,Notebook,17.3,4 GB,3 KG,Intel,2.7 GHz,Core i3,IPS,1920x1080,1920,1080,127.336,HDD,1 TB,Nvidia,GeForce MX130,Windows,34898.4
+Lenovo,Notebook,14.0,8 GB,1.75 KG,Intel,1.6 GHz,Core i5,IPS,1920x1080,1920,1080,157.351,SSD,256 GB,AMD,Radeon RX 550,Windows,59461.55
+Lenovo,Gaming,15.6,8 GB,2.4 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1050M,Other,46300.32
+Toshiba,Notebook,15.6,4 GB,2.1 KG,Intel,2.3 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 520,Windows,32074.56
+HP,Notebook,15.6,4 GB,1.86 KG,AMD,2.5 GHz,Core i7,Standard,1366x768,1366,768,100.455,SSD,256 GB,AMD,Radeon R4 Graphics,Windows,19660.32
+Asus,Ultrabook,14.0,8 GB,1.25 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,UHD Graphics 620,Windows,58554.72
+HP,Ultrabook,12.5,8 GB,0.97 KG,Intel,1.2 GHz,Core i7,IPS,3840x2160,3840,2160,352.465,SSD,512 GB,Intel,HD Graphics 515,Windows,107305.92
+Asus,Notebook,15.6,4 GB,2 KG,Intel,1.1 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Intel,HD Graphics 500,Windows,18328.32
+Acer,Notebook,15.6,4 GB,2.1 KG,Intel,0,Core i3,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 520,Windows,23816.16
+Dell,Gaming,15.6,16 GB,2.56 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,512 GB,Nvidia,GeForce GTX 1050,Windows,66560.57
+Dell,Gaming,15.6,8 GB,2.62 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,Hybrid,0 TB,Nvidia,GeForce GTX 1050,Windows,47898.72
+Lenovo,Notebook,15.6,4 GB,1.9 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,SSD,128 GB,Intel,HD Graphics 620,Windows,26533.44
+MSI,Gaming,17.3,16 GB,2.8 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 1060,Windows,100699.2
+HP,Ultrabook,14.0,4 GB,1.48 KG,Intel,2.7 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Windows,57648.96
+HP,Notebook,15.6,6 GB,1.91 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon 520,Windows,32980.32
+Lenovo,2 in 1 Convertible,14.0,4 GB,1.74 KG,Intel,2.4 GHz,Core i3,IPS,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Windows,33513.12
+Asus,2 in 1 Convertible,13.3,8 GB,1.1 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,70063.2
+Dell,2 in 1 Convertible,15.6,8 GB,1.56 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,UHD Graphics 620,Windows,55890.72
+Toshiba,Notebook,15.6,4 GB,2.1 KG,Intel,2.2 GHz,Core i3,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 520,Windows,23816.16
+Asus,Notebook,15.6,4 GB,2.03 KG,AMD,0,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,AMD,Radeon R5 M420,Windows,21471.84
+Acer,Notebook,17.3,4 GB,3 KG,Intel,1.6 GHz,Core i5,IPS,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce MX150,Windows,42890.4
+Dell,Notebook,15.6,8 GB,2.13 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon 520,Windows,38787.84
+Lenovo,Gaming,15.6,16 GB,2.5 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1050 Ti,Windows,57489.12
+Acer,Notebook,15.6,4 GB,2.1 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 500,Windows,18541.44
+MSI,Gaming,15.6,16 GB,2.4 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1060,Windows,95850.72
+Acer,Notebook,15.6,4 GB,2.1 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 505,Windows,19367.81
+Dell,Gaming,15.6,8 GB,2.56 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1050,Windows,56502.91
+Acer,Notebook,17.3,8 GB,3 KG,Intel,1.6 GHz,Core i5,IPS,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce MX150,Windows,45501.12
+HP,Notebook,13.3,4 GB,1.49 KG,Intel,1.6 GHz,Core i5,IPS,1920x1080,1920,1080,165.632,HDD,500 GB,Intel,UHD Graphics 620,Windows,40173.12
+Huawei,Ultrabook,13.0,8 GB,1.05 KG,Intel,2.5 GHz,Core i5,IPS,2160x1440,2160,1440,199.692,SSD,256 GB,Intel,HD Graphics 620,Windows,71874.72
+HP,Notebook,17.3,6 GB,2.71 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,127.336,HDD,2 TB,AMD,Radeon 520,Windows,37242.72
+Lenovo,Notebook,15.6,4 GB,2.2 KG,AMD,2.9 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,AMD,Radeon R4 Graphics,Other,16463.52
+Toshiba,Notebook,15.6,4 GB,5.4 KG,Intel,2.4 GHz,Core i3,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 620,Windows,26053.92
+HP,Notebook,17.3,8 GB,2.5 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce 930MX,Windows,49177.44
+Dell,Notebook,15.6,8 GB,2.3 KG,Intel,2.4 GHz,Core i3,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 620,Windows,24455.52
+Acer,Notebook,15.6,4 GB,2.1 KG,Intel,0,Core i3,Standard,1366x768,1366,768,100.455,SSD,128 GB,Intel,HD Graphics 520,Windows,23922.72
+MSI,Gaming,18.4,32 GB,4.4 KG,Intel,2.9 GHz,Core i7,Full HD,1920x1080,1920,1080,119.723,SSD,512 GB,Nvidia,GTX 980 SLI,Windows,149130.72
+Lenovo,Notebook,15.6,8 GB,1.90 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,AMD,R17M-M1-70,Windows,43316.64
+HP,2 in 1 Convertible,13.3,8 GB,1.29 KG,Intel,1.6 GHz,Core i5,IPS,3840x2160,3840,2160,331.264,SSD,256 GB,Intel,UHD Graphics 620,Windows,79866.72
+Dell,Notebook,15.6,16 GB,2.02 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon 530,Linux,55890.72
+Dell,Ultrabook,13.3,8 GB,1.23 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,UHD Graphics 620,Windows,74538.72
+Lenovo,2 in 1 Convertible,13.9,16 GB,1.4 KG,Intel,1.8 GHz,Core i7,IPS,3840x2160,3840,2160,316.965,SSD,512 GB,Intel,UHD Graphics 620,Windows,98514.72
+Toshiba,Notebook,15.6,8 GB,2.0 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,SSD,128 GB,Intel,HD Graphics 620,Windows,42251.04
+Xiaomi,Notebook,15.6,8 GB,1.95 KG,Intel,1.6 GHz,Core i5,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce MX150,Other,63882.72
+Dell,Notebook,17.3,16 GB,2.77 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,512 GB,Nvidia,GeForce 150MX,Windows,82530.72
+Dell,Notebook,15.6,16 GB,2.06 KG,Intel,2.8 GHz,Core i7,Standard,3840x2160,3840,2160,282.424,SSD,512 GB,Nvidia,GeForce GTX 1050,Windows,127712.16
+Lenovo,Gaming,15.6,8 GB,2.4 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1050,Other,41505.12
+Acer,Ultrabook,13.3,8 GB,1.12 KG,Intel,1.2 GHz,Core i5,IPS,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 615,Windows,52693.92
+Dell,Notebook,17.3,8 GB,2.8 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,128 GB,AMD,Radeon 530,Windows,57808.8
+Vero,Notebook,14.0,4 GB,1.3 KG,Intel,1.1 GHz,Core i7,IPS,1920x1080,1920,1080,157.351,Flash Storage,32 GB,Intel,HD Graphics 500,Windows,13852.8
+Xiaomi,Ultrabook,13.3,8 GB,1.3 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,165.632,SSD,256 GB,Nvidia,GeForce MX150,Other,53274.67
+Lenovo,Notebook,17.3,8 GB,2.8 KG,Intel,1.6 GHz,Core i5,Standard,1600x900,1600,900,106.113,SSD,256 GB,Nvidia,GeForce MX150,Other,37189.44
+Dell,2 in 1 Convertible,13.3,8 GB,1.62 KG,Intel,1.8 GHz,Core i7,IPS,1920x1080,1920,1080,165.632,HDD,1 TB,Intel,UHD Graphics 620,Windows,44701.92
+HP,Notebook,17.3,8 GB,2.5 KG,Intel,1.6 GHz,Core i5,IPS,1920x1080,1920,1080,127.336,HDD,1 TB,Nvidia,GeForce 930MX,Windows,48697.92
+Razer,Gaming,17.3,32 GB,3.49 KG,Intel,2.9 GHz,Core i7,Standard,3840x2160,3840,2160,254.671,SSD,1 TB,Nvidia,GeForce GTX 1080,Windows,324954.72
+HP,Notebook,13.3,8 GB,1.49 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,165.632,SSD,512 GB,Intel,UHD Graphics 620,Windows,51095.52
+HP,Gaming,17.3,16 GB,3.35 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 1050,Windows,73473.12
+HP,Notebook,17.3,8 GB,2.5 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce 930MX ,Windows,55677.6
+Dell,Gaming,15.6,16 GB,2.65 KG,Intel,2.8 GHz,Core i7,IPS,3840x2160,3840,2160,282.424,SSD,512 GB,Nvidia,GeForce GTX 1060,Windows,98301.6
+Lenovo,Notebook,15.6,4 GB,2.1 KG,Intel,2.3 GHz,Core i5,Standard,1366x768,1366,768,100.455,SSD,128 GB,Intel,HD Graphics 520,Windows,26267.04
+Acer,Notebook,15.6,8 GB,2.23 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce 940MX,Windows,39533.76
+Lenovo,Gaming,15.6,16 GB,3.2 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,512 GB,Nvidia,GeForce GTX 1060,Windows,93186.72
+Dell,Workstation,15.6,16 GB,2.8 KG,Intel,0,Core i7,Standard,3840x2160,3840,2160,282.424,SSD,256 GB,Nvidia,Quadro M1200,Windows,162770.4
+Lenovo,Gaming,15.6,16 GB,2.4 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,512 GB,Nvidia,GeForce GTX 1060,Other,74485.44
+Dell,Notebook,15.6,6 GB,2.3 KG,Intel,2.4 GHz,Core i3,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 620,Windows,23389.92
+Dell,Ultrabook,13.3,8 GB,1.21 KG,Intel,1.8 GHz,Core i7,IPS,3840x2160,3840,2160,331.264,SSD,256 GB,Intel,UHD Graphics 620,Windows,103842.72
+Dell,Ultrabook,13.3,8 GB,?,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,UHD Graphics 620,Windows,77202.72
+Acer,Notebook,15.6,8 GB,2.4 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce GTX 1050,Linux,41505.12
+Asus,Gaming,17.3,16 GB,2.9 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 1050,Windows,74964.96
+HP,Notebook,15.6,4 GB,2.1 KG,Intel,0,Core i3,Full HD,1920x1080,1920,1080,141.212,HDD,500 GB,Intel,HD Graphics 520,Other,18594.72
+Lenovo,Notebook,15.6,8 GB,2.2 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 620,Other,29250.72
+Huawei,Ultrabook,13.0,8 GB,1.05 KG,Intel,2.7 GHz,Core i7,IPS,2160x1440,2160,1440,199.692,SSD,512 GB,Intel,HD Graphics 620,Windows,79866.72
+Dell,Ultrabook,13.3,8 GB,1.4 KG,Intel,1.8 GHz,Core i7,IPS,1920x1080,1920,1080,165.632,SSD,256 GB,AMD,Radeon 530,Windows,49650.57
+Lenovo,Notebook,17.3,8 GB,2.8 KG,Intel,2.5 GHz,Core i5,Standard,1600x900,1600,900,106.113,HDD,1 TB,Nvidia,GeForce GTX 940MX,Other,31381.92
+HP,Notebook,14.0,8 GB,1.63 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Nvidia,GeForce 930MX,Windows,54931.68
+Dell,Ultrabook,14.0,8 GB,1.6 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,UHD Graphics 620,Windows,61218.72
+Dell,2 in 1 Convertible,13.3,16 GB,1.62 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,165.632,SSD,512 GB,Intel,UHD Graphics 620,Windows,68145.12
+Dell,Notebook,15.6,8 GB,2.2 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon 520,Linux,36089.21
+Lenovo,2 in 1 Convertible,14.0,8 GB,1.74 KG,Intel,1.6 GHz,Core i5,IPS,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,UHD Graphics 620,Windows,47898.72
+Toshiba,Ultrabook,13.3,8 GB,1.2 KG,Intel,2.5 GHz,Core i7,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 520,Windows,72620.64
+HP,Notebook,15.6,8 GB,2.1 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Intel,UHD Graphics 620,Windows,42304.32
+Dell,Gaming,17.3,16 GB,4.42 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 1060,Windows,130873.8
+Acer,Notebook,15.6,8 GB,2.2 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce 940MX,Windows,44328.96
+Dell,Notebook,15.6,16 GB,2.3 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,AMD,Radeon R7 M445,Windows,45768.05
+Asus,Notebook,15.6,8 GB,2 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce 920MX ,Windows,40972.32
+Asus,Notebook,17.3,8 GB,2.69 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 950M,Windows,47472.48
+HP,Notebook,15.6,8 GB,1.9 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,AMD,FirePro W4190M ,Windows,67612.32
+Asus,Notebook,15.6,4 GB,2.37 KG,Intel,2.4 GHz,Core i3,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 620,Windows,21258.19
+HP,Notebook,15.6,4 GB,2.1 KG,AMD,1.5 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,AMD,Radeon R2,Windows,17582.4
+Lenovo,Gaming,15.6,16 GB,3.2 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1060,Windows,79866.72
+Dell,Notebook,14.0,8 GB,1.6 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Windows,45767.52
+Acer,2 in 1 Convertible,13.3,8 GB,1.6 KG,Intel,2.3 GHz,Core i5,IPS,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 520,Windows,36709.92
+Dell,Notebook,15.6,16 GB,2.36 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon R7 M445,Linux,47898.72
+Acer,Notebook,15.6,4 GB,2.1 KG,Intel,0,Core i3,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 520,Linux,20779.2
+Asus,Notebook,15.6,4 GB,2.2 KG,AMD,2.5 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,AMD,Radeon R5 M430,Windows,30636.0
+Asus,Gaming,17.3,32 GB,4.7 KG,Intel,2.9 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,512 GB,Nvidia,GeForce GTX 1080,Windows,207259.2
+Acer,Gaming,15.6,8 GB,2.5 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1050,Windows,45074.88
+Lenovo,Notebook,15.6,8 GB,7.2 KG,Intel,0,Core i3,Standard,1366x768,1366,768,100.455,SSD,128 GB,Intel,HD Graphics 520,Windows,31381.92
+Asus,Notebook,17.3,8 GB,2.1 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,128 GB,Nvidia,GeForce 150MX,Windows,61005.6
+Asus,Notebook,17.3,8 GB,2.69 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,128 GB,Nvidia,GeForce GTX 950M,Other,47365.92
+Dell,Gaming,15.6,8 GB,2.56 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1050,Windows,46833.12
+Lenovo,2 in 1 Convertible,13.9,8 GB,1.38 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,158.483,SSD,256 GB,Intel,HD Graphics 620,Windows,57489.12
+Dell,Notebook,15.6,8 GB,2.2 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,AMD,Radeon 530,Windows,52480.8
+HP,Notebook,15.6,8 GB,2.04 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 620,Windows,29783.52
+Asus,Gaming,17.3,16 GB,3.6 KG,Intel,2.9 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 1080,Windows,159786.72
+HP,Notebook,13.3,4 GB,1.49 KG,Intel,1.6 GHz,Core i5,IPS,1920x1080,1920,1080,165.632,HDD,500 GB,Intel,UHD Graphics 620,Windows,35964.0
+Apple,Ultrabook,13.3,8 GB,1.37 KG,Intel,3.1 GHz,Core i5,Retina,2560x1600,2560,1600,226.983,SSD,512 GB,Intel,Iris Plus Graphics 650,Mac,108691.2
+Dell,2 in 1 Convertible,15.6,8 GB,2.08 KG,Intel,1.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,HDD,1 TB,Intel,UHD Graphics 620,Windows,43636.32
+Asus,Gaming,17.3,16 GB,4.3 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 980M,Windows,95850.72
+Asus,Notebook,15.6,4 GB,1.68 KG,AMD,0,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,AMD,Radeon R5 M420,Windows,24988.32
+Lenovo,2 in 1 Convertible,13.9,8 GB,1.37 KG,Intel,1.8 GHz,Core i7,IPS,1920x1080,1920,1080,158.483,SSD,512 GB,Intel,UHD Graphics 620,Windows,98514.72
+Acer,Notebook,17.3,4 GB,3 KG,Intel,2.7 GHz,Core i3,IPS,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce MX130,Windows,37402.56
+Dell,Ultrabook,13.3,8 GB,1.41 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,UHD Graphics 620,Windows,50562.72
+HP,Notebook,15.6,8 GB,1.91 KG,AMD,2.5 GHz,Core i7,Standard,1366x768,1366,768,100.455,SSD,128 GB,AMD,Radeon R4 Graphics,Windows,23757.55
+HP,Notebook,17.3,16 GB,2.9 KG,Intel,1.8 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,HDD,1 TB,Nvidia,GeForce MX150,Windows,56423.52
+MSI,Gaming,17.3,16 GB,4.14 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,512 GB,Nvidia,GeForce GTX 1070,Windows,133146.72
+Lenovo,2 in 1 Convertible,15.6,8 GB,2 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,512 GB,Nvidia,GeForce GTX 1050M,Windows,90522.72
+Dell,Notebook,17.3,8 GB,2.8 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,128 GB,AMD,Radeon 530,Windows,60845.76
+Lenovo,Notebook,15.6,4 GB,2.2 KG,Intel,0,Core i3,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 520,Other,23656.32
+HP,Notebook,15.6,4 GB,2.1 KG,Intel,1.6 GHz,Core i5,IPS,1920x1080,1920,1080,141.212,HDD,500 GB,Intel,HD Graphics 620,Windows,38468.16
+Dell,Notebook,15.6,4 GB,2.18 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Intel,HD Graphics 620,Windows,35004.96
+Dell,Notebook,15.6,8 GB,2.24 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,AMD,Radeon R5 M430,Windows,30103.2
+Dell,2 in 1 Convertible,15.6,8 GB,2.67 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,UHD Graphics 620,Windows,42570.72
+Asus,2 in 1 Convertible,13.3,8 GB,4.1 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,165.632,SSD,512 GB,Intel,UHD Graphics 620,Windows,79866.72
+HP,Notebook,17.3,8 GB,2.5 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,HDD,1 TB,Nvidia,GeForce 930MX ,Windows,54239.04
+Lenovo,Notebook,15.6,8 GB,2.05 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,UHD Graphics 620,Windows,46886.4
+Apple,Ultrabook,13.3,8 GB,1.37 KG,Intel,2.9 GHz,Core i5,Retina,2560x1600,2560,1600,226.983,SSD,512 GB,Intel,Iris Graphics 550,Mac,104370.19
+Asus,Gaming,17.3,16 GB,3.2 KG,AMD,0,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,AMD,Radeon RX 580,Windows,82530.72
+Dell,Notebook,15.6,8 GB,2.14 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon 520,Linux,39164.53
+Lenovo,2 in 1 Convertible,14.0,16 GB,1.36 KG,Intel,2.6 GHz,Core i7,Standard,2560x1440,2560,1440,209.801,SSD,512 GB,Intel,HD Graphics 520,Windows,133146.72
+Toshiba,Notebook,15.6,8 GB,2.2 KG,Intel,2.5 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,Nvidia,GeForce 930M,Windows,43263.36
+Dell,Notebook,15.6,12 GB,2.3 KG,Intel,2.7 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 620,Windows,37992.37
+Dell,Notebook,17.3,8 GB,2.8 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,128 GB,AMD,Radeon 530,Linux,58554.72
+Acer,Notebook,15.6,8 GB,2.2 KG,Intel,1.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce MX130,Windows,39693.6
+Lenovo,Notebook,17.3,4 GB,2.8 KG,Intel,0,Core i3,Standard,1600x900,1600,900,106.113,HDD,1 TB,Intel,HD Graphics 520,Windows,26053.92
+Lenovo,Notebook,17.3,8 GB,2.8 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,HDD,2 TB,Nvidia,GeForce MX150,Other,45234.72
+Lenovo,Notebook,17.3,6 GB,2.8 KG,Intel,2.7 GHz,Core i7,Standard,1600x900,1600,900,106.113,SSD,128 GB,Nvidia,GeForce 940MX,Windows,45767.52
+Dell,Notebook,15.6,4 GB,2.25 KG,Intel,2.0 GHz,Core i3,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,AMD,Radeon R5 M430,Linux,22803.84
+Lenovo,Gaming,15.6,8 GB,2.5 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1050,Windows,44169.12
+Lenovo,Notebook,15.6,6 GB,2.2 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 620,Windows,30849.12
+Acer,Notebook,15.6,8 GB,3 KG,Intel,1.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce MX150,Windows,50669.28
+Acer,Notebook,15.6,12 GB,2.15 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,HDD,1 TB,Intel,HD Graphics 620,Windows,35111.52
+Lenovo,Notebook,15.6,8 GB,1.95 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 630,Windows,58448.16
+Asus,Ultrabook,15.6,8 GB,1.7 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce 940MX,Windows,52054.56
+Lenovo,Gaming,15.6,16 GB,2.5 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1050 Ti,Windows,62817.12
+Lenovo,Notebook,15.6,8 GB,2.2 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce 940MX,Other,35112.05
+Acer,Notebook,15.6,2 GB,2.19 KG,Intel,1.5 GHz,Core i7,Standard,1366x768,1366,768,100.455,SSD,16 GB,Intel,HD Graphics,Other,10602.72
+Asus,Gaming,17.3,8 GB,3 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,HDD,1 TB,Nvidia,GeForce GTX 1050,Windows,63243.36
+HP,Notebook,17.3,8 GB,2.54 KG,Intel,0,Core i3,Standard,1600x900,1600,900,106.113,HDD,1 TB,Intel,HD Graphics 520,Windows,26053.92
+Dell,Notebook,15.6,8 GB,2 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1050,Windows,97449.12
+Lenovo,Notebook,15.6,8 GB,2.05 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,UHD Graphics 620,Windows,39373.92
+Lenovo,Gaming,15.6,8 GB,3.2 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce GTX 1060,Windows,69210.72
+Acer,Notebook,15.6,8 GB,2.5 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1050 Ti,Linux,52161.12
+Dell,Workstation,17.3,16 GB,3.42 KG,Intel,2.9 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,Quadro M1200,Windows,153705.34
+Lenovo,Notebook,15.6,6 GB,2.4 KG,AMD,2.4 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,AMD,Radeon R5 430,Windows,26586.72
+Asus,Ultrabook,15.6,16 GB,1.63 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,512 GB,Nvidia,GeForce 940MX,Windows,78215.04
+Asus,Notebook,14.0,4 GB,1.3 KG,Intel,2.4 GHz,Core i3,Standard,1366x768,1366,768,111.935,SSD,128 GB,Intel,HD Graphics 620,Windows,27119.52
+Asus,Gaming,17.3,16 GB,2.9 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 1070,Windows,113060.16
+Lenovo,Notebook,17.3,6 GB,5.8 KG,Intel,2.5 GHz,Core i5,Standard,1600x900,1600,900,106.113,HDD,1 TB,Nvidia,GeForce GTX 940M,Windows,34578.72
+Lenovo,Notebook,15.6,8 GB,2.2 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,2 TB,Nvidia,GeForce 940MX,Other,29250.72
+Asus,Gaming,15.6,8 GB,2.5 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1050 Ti,Windows,67399.2
+Lenovo,Notebook,15.6,4 GB,2.2 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 505,Other,19180.27
+HP,2 in 1 Convertible,13.3,16 GB,1.28 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,105228.0
+Toshiba,Notebook,15.6,8 GB,2.2 KG,Intel,2.5 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce 930M,Windows,55571.04
+Lenovo,Notebook,15.6,8 GB,2.3 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce 940MX,Windows,43636.32
+HP,Notebook,15.6,4 GB,1.86 KG,Intel,0,Core i3,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Intel,HD Graphics 520,Windows,24988.32
+Lenovo,Notebook,13.3,8 GB,1.1 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,53226.72
+Dell,Ultrabook,13.3,16 GB,1.21 KG,Intel,1.8 GHz,Core i7,IPS,3840x2160,3840,2160,331.264,SSD,1 TB,Intel,UHD Graphics 620,Windows,133146.72
+MSI,Gaming,15.6,16 GB,2.8 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1070,Windows,111834.72
+Acer,Notebook,15.6,8 GB,2.23 KG,AMD,2.2 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon R5,Windows,24988.32
+Asus,2 in 1 Convertible,11.6,2 GB,1.1 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,135.094,Flash Storage,32 GB,Intel,HD Graphics 500,Windows,14652.0
+Dell,Notebook,15.6,8 GB,2.33 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,AMD,Radeon 530,Windows,44968.32
+HP,2 in 1 Convertible,13.3,16 GB,1.29 KG,Intel,1.8 GHz,Core i7,IPS,3840x2160,3840,2160,331.264,SSD,1 TB,Intel,UHD Graphics 620,Windows,130482.72
+Lenovo,Notebook,13.3,4 GB,1.45 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,117.827,Flash Storage,16 GB,Intel,HD Graphics 510,Other,24503.47
+HP,Notebook,14.0,8 GB,1.95 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Windows,52214.4
+Acer,Notebook,11.6,4 GB,1.4 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,135.094,Flash Storage,128 GB,Intel,HD Graphics 405,Windows,25840.8
+HP,Notebook,14.0,8 GB,1.48 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Windows,68837.76
+Lenovo,Notebook,17.3,4 GB,2.79 KG,Intel,2.5 GHz,Core i5,Standard,1600x900,1600,900,106.113,HDD,1 TB,Nvidia,GeForce 920MX,Windows,31381.92
+Asus,Notebook,14.0,8 GB,2 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Windows,58288.32
+HP,Notebook,15.6,8 GB,2.1 KG,Intel,1.8 GHz,Core i7,IPS,1366x768,1366,768,100.455,HDD,1 TB,Intel,UHD Graphics 620,Windows,48058.56
+Acer,Notebook,15.6,8 GB,2.2 KG,AMD,2.7 GHz,Core i7,Standard,1366x768,1366,768,100.455,SSD,256 GB,AMD,Radeon RX 540,Windows,35111.52
+Lenovo,Notebook,14.0,4 GB,1.44 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,111.935,Flash Storage,32 GB,Intel,HD Graphics 500,Windows,15557.76
+Acer,Notebook,15.6,6 GB,8.23 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 620,Windows,29250.72
+Asus,Ultrabook,15.6,8 GB,1.7 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce 940MX,Windows,55938.67
+HP,Ultrabook,12.5,8 GB,1.26 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,176.233,SSD,256 GB,Intel,HD Graphics 620,Windows,71128.8
+Dell,Notebook,15.6,32 GB,2.06 KG,Intel,2.8 GHz,Core i7,Standard,3840x2160,3840,2160,282.424,SSD,1 TB,Nvidia,GeForce GTX 1050,Windows,140605.92
+MSI,Gaming,17.3,8 GB,2.7 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 1050 Ti,Windows,63882.72
+Toshiba,Notebook,15.6,8 GB,2.0 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 620,Windows,50243.04
+Asus,Notebook,14.0,8 GB,2 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Windows,71075.52
+Lenovo,Notebook,15.6,4 GB,1.85 KG,Intel,0,Core i3,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Intel,HD Graphics 520,Windows,23922.72
+Asus,Gaming,15.6,8 GB,2.5 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1050,Windows,53226.72
+HP,Notebook,14.0,8 GB,1.48 KG,Intel,2.6 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Windows,67559.04
+HP,Notebook,15.6,8 GB,1.84 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 620,Windows,60952.32
+Asus,Notebook,15.6,4 GB,2 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 500,Linux,14651.47
+Dell,Notebook,15.6,8 GB,2 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce 940MX,Windows,60885.72
+Dell,Notebook,15.6,4 GB,2.2 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics,Linux,14646.67
+Lenovo,Notebook,15.6,12 GB,2.2 KG,AMD,3.6 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,2 TB,AMD,Radeon 530,Windows,47898.72
+HP,Notebook,15.6,8 GB,2.1 KG,Intel,2.4 GHz,Core i3,IPS,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce 930MX ,Windows,38148.48
+Lenovo,2 in 1 Convertible,13.9,16 GB,1.4 KG,Intel,1.8 GHz,Core i7,IPS,3840x2160,3840,2160,316.965,SSD,512 GB,Intel,UHD Graphics 620,Windows,111834.72
+Dell,Ultrabook,13.3,8 GB,1.2 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,UHD Graphics 620,Windows,84129.12
+Lenovo,Gaming,15.6,16 GB,2.4 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1050 Ti,Windows,60153.12
+HP,Notebook,14.0,2 GB,1.44 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,111.935,Flash Storage,32 GB,Intel,HD Graphics 400,Windows,14865.12
+Dell,Ultrabook,15.6,16 GB,1.88 KG,Intel,1.9 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,512 GB,Intel,UHD Graphics 620,Windows,85672.11
+Asus,2 in 1 Convertible,11.6,4 GB,1.5 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,135.094,Flash Storage,32 GB,Intel,HD Graphics 500,Windows,19980.0
+Dell,Ultrabook,15.6,8 GB,0.0002 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,AMD,Radeon 530,Windows,35324.64
+HP,Notebook,15.6,8 GB,1.84 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 620,Windows,69477.12
+MSI,Gaming,17.3,8 GB,2.7 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,128 GB,Nvidia,GeForce GTX 1060,Windows,75071.52
+HP,Workstation,15.6,8 GB,2.6 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,Quadro M1200,Windows,92615.03
+Toshiba,Notebook,15.6,16 GB,2.4 KG,Intel,2.5 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,512 GB,Nvidia,GeForce 930M,Windows,74751.84
+Dell,Notebook,15.6,8 GB,2.02 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,AMD,Radeon 530,Windows,51729.55
+Lenovo,Notebook,15.6,4 GB,2.2 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 500,Other,17155.63
+Dell,Gaming,15.6,8 GB,2.65 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce GTX 1050,Windows,53226.72
+Dell,Notebook,15.6,8 GB,2.36 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,2 TB,Intel,HD Graphics 620,Windows,29696.67
+Dell,Notebook,14.0,8 GB,1.36 KG,Intel,2.6 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Windows,76030.56
+HP,Notebook,15.6,4 GB,1.86 KG,Intel,0,Core i3,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 520,Windows,23389.92
+Asus,Notebook,14.0,8 GB,2 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Windows,50349.6
+Lenovo,Notebook,17.3,6 GB,2.8 KG,Intel,2.5 GHz,Core i5,Standard,1600x900,1600,900,106.113,SSD,128 GB,Nvidia,GeForce GTX 940MX,Windows,38308.32
+HP,Notebook,15.6,8 GB,1.86 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Intel,HD Graphics 620,Windows,34045.92
+Lenovo,Notebook,15.6,8 GB,2.2 KG,Intel,0,Core i3,Standard,1366x768,1366,768,100.455,SSD,256 GB,Nvidia,GeForce 920MX ,Other,26586.72
+HP,Notebook,15.6,8 GB,2.04 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,2 TB,Intel,HD Graphics 405,Windows,20725.92
+Dell,Notebook,17.3,8 GB,2.8 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,127.336,SSD,128 GB,AMD,Radeon 530,Windows,57808.8
+Lenovo,Gaming,15.6,8 GB,2.4 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1050,Other,43103.52
+Dell,Notebook,15.6,8 GB,2.33 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon R7 M445,Windows,47898.72
+HP,Ultrabook,14.0,8 GB,1.36 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Windows,93240.0
+Asus,2 in 1 Convertible,15.6,12 GB,2.26 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,512 GB,Nvidia,GeForce GT 940MX,Windows,58554.72
+Acer,Notebook,15.6,4 GB,2.1 KG,AMD,0,Core i7,Standard,1366x768,1366,768,100.455,SSD,128 GB,AMD,Radeon R5,Windows,22697.28
+Asus,Gaming,17.3,16 GB,3.25 KG,AMD,0,Core i7,IPS,1920x1080,1920,1080,127.336,SSD,256 GB,AMD,Radeon RX 580,Windows,117162.72
+Lenovo,Notebook,17.3,4 GB,2.6 KG,AMD,2.2 GHz,Core i7,Standard,1600x900,1600,900,106.113,SSD,128 GB,AMD,Radeon R5,Windows,26053.92
+Dell,2 in 1 Convertible,13.3,8 GB,1.62 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,UHD Graphics 620,Windows,46300.85
+HP,Notebook,15.6,4 GB,1.91 KG,AMD,0,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon R5,Windows,26053.39
+Lenovo,Netbook,11.6,4 GB,1.59 KG,Intel,1.1 GHz,Core i7,IPS,1366x768,1366,768,135.094,SSD,128 GB,Intel,HD Graphics 500,Windows,29463.84
+Dell,Notebook,15.6,4 GB,1.8 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 400,Windows,16463.52
+Asus,Notebook,14.0,4 GB,1.5 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,111.935,Flash Storage,32 GB,Intel,HD Graphics 500,Windows,15238.08
+Acer,Notebook,15.6,8 GB,2.4 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce GTX 1050,Linux,45074.88
+HP,Gaming,17.3,8 GB,3.35 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,SSD,128 GB,Nvidia,GeForce GTX 1050,Windows,63456.48
+Lenovo,Notebook,15.6,4 GB,1.85 KG,Intel,0,Core i3,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Intel,HD Graphics 520,Other,21498.48
+Asus,Gaming,15.6,8 GB,2.3 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1060,Windows,88178.4
+Lenovo,Notebook,14.0,8 GB,1.5 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,157.351,SSD,256 GB,Nvidia,GeForce 940MX,Windows,58554.72
+Asus,Ultrabook,13.3,16 GB,1.1 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,165.632,SSD,512 GB,Intel,HD Graphics 620,Windows,93181.39
+Lenovo,Ultrabook,14.0,8 GB,1.13 KG,Intel,2.7 GHz,Core i7,IPS,2560x1440,2560,1440,209.801,SSD,512 GB,Intel,HD Graphics 620,Windows,121584.96
+Lenovo,Notebook,13.3,4 GB,1.5 KG,Intel,2.4 GHz,Core i3,IPS,1920x1080,1920,1080,165.632,SSD,128 GB,Intel,HD Graphics 620,Windows,29250.72
+Dell,Workstation,15.6,8 GB,2.23 KG,Intel,2.6 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,500 GB,AMD,FirePro W5130M,Windows,72940.32
+Dell,Workstation,15.6,8 GB,2 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,Quadro M1200,Windows,113752.8
+Lenovo,2 in 1 Convertible,14.0,16 GB,1.42 KG,Intel,2.7 GHz,Core i7,Standard,2560x1440,2560,1440,209.801,SSD,512 GB,Intel,HD Graphics 620,Windows,133679.52
+Asus,Gaming,17.3,8 GB,3 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,HDD,1 TB,Nvidia,GeForce GTX 1050,Windows,55357.92
+Asus,Gaming,17.3,16 GB,3 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 1050 Ti,Windows,84768.48
+Acer,Notebook,15.6,12 GB,2.2 KG,Intel,1.6 GHz,Core i5,IPS,1366x768,1366,768,100.455,HDD,1 TB,Nvidia,GeForce MX130,Windows,36975.79
+MSI,Gaming,17.3,8 GB,2.7 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 1050 Ti,Windows,71874.72
+Dell,Notebook,15.6,8 GB,2.33 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon R7 M445,Linux,41498.19
+HP,Ultrabook,15.6,4 GB,1.91 KG,AMD,0,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon 520,Windows,26586.72
+Lenovo,Notebook,15.6,8 GB,2.1 KG,Intel,1.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon RX 550,Windows,65510.96
+Lenovo,Notebook,14.0,8 GB,1.9 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Windows,49976.64
+Dell,Workstation,15.6,8 GB,1.78 KG,Intel,2.8 GHz,Core i7,Standard,3840x2160,3840,2160,282.424,SSD,256 GB,Nvidia,Quadro M1200,Windows,144495.36
+Lenovo,Ultrabook,14.0,16 GB,1.13 KG,Intel,2.7 GHz,Core i7,IPS,2560x1440,2560,1440,209.801,SSD,1 TB,Intel,HD Graphics 620,Windows,139860.0
+Lenovo,Notebook,15.6,4 GB,2.2 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 500,Windows,16303.68
+Asus,Gaming,17.3,16 GB,2.9 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 1050,Windows,81465.12
+Lenovo,Notebook,25.6,8 GB,2.1 KG,Intel,1.6 GHz,Core i5,IPS,1920x1080,1920,1080,86.051,SSD,256 GB,AMD,Radeon RX 550,Windows,60978.96
+Acer,Notebook,15.6,8 GB,2.5 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1050,Linux,46833.12
+MSI,Gaming,17.3,16 GB,2.8 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 1070,Windows,119826.72
+Asus,Ultrabook,14.0,8 GB,1.10 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,512 GB,Intel,HD Graphics 620,Windows,99793.44
+Toshiba,Ultrabook,13.3,16 GB,1.2 KG,Intel,2.5 GHz,Core i7,Full HD,1920x1080,1920,1080,165.632,SSD,512 GB,Intel,HD Graphics 520,Windows,93080.16
+Dell,Ultrabook,14.0,8 GB,1.36 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,512 GB,Intel,HD Graphics,Windows,89510.4
+Lenovo,Notebook,35.6,4 GB,2.2 KG,Intel,0,Core i3,Full HD,1920x1080,1920,1080,61.879,HDD,500 GB,Intel,HD Graphics 520,Windows,21791.52
+Lenovo,Notebook,11.6,2 GB,1.15 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,135.094,Flash Storage,32 GB,Intel,HD Graphics 500,Windows,16221.1
+Lenovo,Workstation,15.6,8 GB,2.67 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,512 GB,Nvidia,Quadro M1200,Windows,102564.0
+Lenovo,Ultrabook,14.0,8 GB,1.7 KG,Intel,2.8 GHz,Core i7,IPS,2560x1440,2560,1440,209.801,SSD,512 GB,Nvidia,GeForce GT 940MX,Windows,103523.04
+HP,Notebook,15.6,4 GB,2.1 KG,Intel,0,Core i3,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,AMD,Radeon 520,Windows,24988.32
+Acer,2 in 1 Convertible,13.3,8 GB,1.6 KG,Intel,2.5 GHz,Core i7,IPS,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 520,Windows,42038.45
+Asus,2 in 1 Convertible,13.3,8 GB,1.27 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,49443.84
+Dell,Notebook,15.6,4 GB,2.3 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon R5 M430,Linux,31909.39
+Dell,Notebook,13.3,4 GB,1.65 KG,Intel,0,Core i3,Standard,1366x768,1366,768,117.827,SSD,128 GB,Intel,HD Graphics 520,Windows,36709.92
+HP,Ultrabook,14.0,8 GB,1.43 KG,Intel,2.5 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 520,Windows,79920.0
+Dell,Notebook,15.6,8 GB,2.14 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 620,Windows,28768.54
+Lenovo,Ultrabook,14.0,8 GB,1.75 KG,Intel,1.8 GHz,Core i7,IPS,1920x1080,1920,1080,157.351,SSD,256 GB,AMD,Radeon RX 550,Windows,64755.45
+Lenovo,2 in 1 Convertible,15.6,16 GB,2 KG,Intel,2.8 GHz,Core i7,IPS,3840x2160,3840,2160,282.424,SSD,512 GB,Nvidia,GeForce GTX 1050,Windows,101178.72
+Chuwi,Notebook,12.3,6 GB,1.4 KG,Intel,1.1 GHz,Core i7,Retina,2736x1824,2736,1824,267.338,Flash Storage,64 GB,Intel,HD Graphics 500,Windows,23922.72
+HP,Notebook,15.6,8 GB,2.31 KG,Intel,2.9 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 630,Windows,76030.56
+Asus,Notebook,35.6,8 GB,2.3 KG,Intel,2.4 GHz,Core i3,Full HD,1920x1080,1920,1080,61.879,HDD,1 TB,Nvidia,GeForce 940MX,Linux,31808.16
+Dell,Gaming,27.3,16 GB,4.42 KG,Intel,2.9 GHz,Core i7,IPS,2560x1440,2560,1440,107.59,SSD,256 GB,Nvidia,GeForce GTX 1070,Windows,149130.72
+Dell,Gaming,15.6,8 GB,2.62 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1050 Ti,Windows,61751.52
+Dell,Notebook,15.6,8 GB,2.02 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon 530,Windows,60867.07
+Dell,Ultrabook,14.0,8 GB,1.6 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Linux,58554.72
+HP,Gaming,17.3,12 GB,3.35 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 1070,Windows,106506.72
+Mediacom,2 in 1 Convertible,11.6,4 GB,1.16 KG,Intel,1.1 GHz,Core i7,IPS,1920x1080,1920,1080,189.906,SSD,32 GB,Intel,HD Graphics 500,Windows,15930.72
+Samsung,Netbook,11.6,4 GB,1.15 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,135.094,Flash Storage,16 GB,Intel,HD Graphics 400,Other,14332.32
+Lenovo,Notebook,13.3,8 GB,1.4 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,53812.8
+Lenovo,Notebook,14.0,4 GB,1.7 KG,Intel,2.7 GHz,Core i3,IPS,1920x1080,1920,1080,157.351,SSD,128 GB,Intel,HD Graphics 620,Windows,31914.72
+Lenovo,Workstation,15.6,16 GB,2.3 KG,Intel,2.8 GHz,Core i7,IPS,3840x2160,3840,2160,282.424,SSD,512 GB,Nvidia,GeForce 940MX,Windows,130269.6
+Lenovo,Notebook,15.6,16 GB,2.5 KG,Intel,2.9 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,512 GB,Nvidia,Quadro M2200M,Windows,130482.72
+Asus,Gaming,17.3,8 GB,3.2 KG,AMD,3.2 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,AMD,Radeon RX 580,Windows,90309.6
+HP,Notebook,15.6,4 GB,2.1 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 400,Windows,18488.16
+Google,Ultrabook,12.3,16 GB,1.1 KG,Intel,1.3 GHz,Core i7,Standard,2400x1600,2400,1600,234.507,SSD,512 GB,Intel,HD Graphics 615,Other,117162.72
+Lenovo,Ultrabook,24.0,24 GB,1.32 KG,Intel,2.7 GHz,Core i7,Standard,2560x1440,2560,1440,122.384,SSD,512 GB,Intel,HD Graphics 620,Windows,126912.96
+Asus,Notebook,15.6,4 GB,2 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 620,Linux,29783.52
+Lenovo,Notebook,17.3,8 GB,2.8 KG,AMD,2.5 GHz,Core i7,Standard,1600x900,1600,900,106.113,HDD,1 TB,AMD,Radeon R4,Windows,27652.32
+Dell,Notebook,15.6,4 GB,2.2 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon 530,Windows,39906.72
+Lenovo,Ultrabook,12.5,8 GB,1.36 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,176.233,SSD,256 GB,Intel,HD Graphics 620,Windows,76137.12
+Lenovo,Notebook,15.6,4 GB,2.2 KG,Intel,1.1 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Intel,HD Graphics 505,Windows,18594.72
+HP,Gaming,15.6,8 GB,2.2 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1050,Windows,58554.72
+Dell,Notebook,14.0,8 GB,1.64 KG,Intel,2.8 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Nvidia,GeForce 930MX,Windows,62817.12
+Acer,Notebook,15.6,4 GB,2.4 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 620,Linux,23539.1
+Dell,Workstation,15.6,8 GB,2.23 KG,Intel,0,Core i7,Full HD,1920x1080,1920,1080,141.212,Flash Storage,64 GB,Nvidia,Quadro M620,Windows,106187.04
+MSI,Gaming,15.6,8 GB,2.2 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1050,Windows,54757.99
+Microsoft,Ultrabook,13.5,16 GB,1.25 KG,Intel,2.5 GHz,Core i7,Standard,2256x1504,2256,1504,200.843,SSD,512 GB,Intel,Iris Plus Graphics 640,Windows,137941.92
+HP,Notebook,15.6,8 GB,1.91 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,SSD,128 GB,Intel,HD Graphics 620,Windows,31381.92
+Dell,Workstation,15.6,16 GB,2.17 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,Quadro M620,Windows,105228.0
+HP,Workstation,15.6,8 GB,2.31 KG,Intel,2.9 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,512 GB,Intel,HD Graphics 620,Windows,81731.52
+Lenovo,Notebook,14.0,8 GB,1.65 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Windows,71661.6
+Dell,Notebook,15.6,8 GB,2.36 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,AMD,Radeon 530,Windows,52161.12
+Dell,2 in 1 Convertible,11.6,4 GB,1.47 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,135.094,HDD,500 GB,Intel,HD Graphics 405,Windows,25521.12
+Dell,Notebook,17.3,8 GB,4.42 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,HDD,1 TB,Nvidia,GeForce GTX 1060,Windows,109010.88
+Microsoft,Ultrabook,13.5,4 GB,1.252 KG,Intel,2.2 GHz,Core i7,Standard,2256x1504,2256,1504,200.843,SSD,128 GB,Intel,HD Graphics 615,Windows,52693.92
+Microsoft,Ultrabook,33.5,8 GB,1.25 KG,Intel,2.5 GHz,Core i7,Standard,2256x1504,2256,1504,80.937,SSD,256 GB,Intel,Iris Plus Graphics 640,Windows,95850.72
+HP,Notebook,17.3,8 GB,2.5 KG,Intel,0,Core i3,Standard,1600x900,1600,900,106.113,SSD,256 GB,Intel,HD Graphics 520,Windows,34093.87
+Acer,Notebook,15.6,4 GB,2.23 KG,Intel,0,Core i3,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce 940MX,Windows,28984.32
+Acer,Netbook,11.6,4 GB,1.4 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,135.094,SSD,128 GB,Intel,HD Graphics 400,Windows,23176.8
+Asus,Notebook,15.6,8 GB,2.37 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Intel,HD Graphics 620,Windows,39906.72
+Lenovo,Notebook,14.0,8 GB,1.5 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,157.351,SSD,512 GB,AMD,Radeon R7 M460,Other,42570.72
+Lenovo,Notebook,15.6,8 GB,2.67 KG,Intel,2.9 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,Quadro M2200M,Windows,111355.2
+Asus,Notebook,15.6,4 GB,2 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 500,Windows,16197.12
+Acer,Notebook,15.6,4 GB,2.2 KG,Intel,0,Core i3,Standard,1366x768,1366,768,100.455,HDD,500 GB,Nvidia,GeForce GTX 940MX,Windows,24988.32
+Dell,Notebook,15.6,8 GB,2.02 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,2 TB,AMD,Radeon 530,Windows,40439.52
+HP,Gaming,17.3,12 GB,3.78 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,HDD,1 TB,Nvidia,GeForce GTX 1060,Windows,90522.72
+Lenovo,Ultrabook,14.0,12 GB,1.4 KG,Intel,2.6 GHz,Core i7,IPS,2560x1440,2560,1440,209.801,SSD,256 GB,Intel,HD Graphics 520,Windows,98994.24
+HP,2 in 1 Convertible,13.3,8 GB,1.29 KG,Intel,1.8 GHz,Core i7,IPS,3840x2160,3840,2160,331.264,SSD,512 GB,Intel,UHD Graphics 620,Windows,106506.72
+HP,Notebook,15.6,8 GB,1.9 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,500 GB,AMD,FirePro W4190M ,Windows,61485.12
+Google,Ultrabook,12.3,8 GB,1.1 KG,Intel,1.2 GHz,Core i5,Standard,2400x1600,2400,1600,234.507,SSD,128 GB,Intel,HD Graphics 615,Other,67932.0
+Dell,Ultrabook,13.3,8 GB,1.42 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,UHD Graphics 620,Windows,98133.77
+Asus,Notebook,15.6,12 GB,2.06 KG,Intel,2.6 GHz,Core i7,IPS,3840x2160,3840,2160,282.424,SSD,128 GB,Intel,HD Graphics 530,Windows,69210.72
+Dell,Notebook,14.0,8 GB,1.79 KG,Intel,2.3 GHz,Core i3,Standard,1366x768,1366,768,111.935,SSD,128 GB,Intel,HD Graphics 520,Windows,39427.2
+Dell,Workstation,15.6,8 GB,1.78 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,Quadro M1200,Windows,128298.24
+Lenovo,Notebook,14.0,8 GB,1.7 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,180 GB,Intel,HD Graphics 620,Windows,72673.92
+Toshiba,Notebook,13.3,8 GB,1.05 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,89084.16
+Dell,Notebook,15.6,8 GB,2.16 KG,Intel,1.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,512 GB,Nvidia,GeForce 940MX,Windows,67239.36
+Dell,Notebook,15.6,4 GB,2.18 KG,Intel,2.4 GHz,Core i3,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 620,Windows,31254.05
+HP,Notebook,13.3,4 GB,1.49 KG,Intel,1.6 GHz,Core i5,IPS,1920x1080,1920,1080,165.632,SSD,128 GB,Intel,UHD Graphics 620,Windows,38681.28
+Chuwi,Notebook,15.6,4 GB,1.89 KG,Intel,1.4 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,Flash Storage,64 GB,Intel,HD Graphics,Windows,13261.39
+Lenovo,Notebook,15.6,4 GB,2.3 KG,Intel,2.0 GHz,Core i3,Standard,1366x768,1366,768,100.455,SSD,128 GB,Intel,HD Graphics 520,Windows,30103.2
+Lenovo,Notebook,14.0,8 GB,1.75 KG,Intel,1.6 GHz,Core i5,IPS,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,UHD Graphics 620,Windows,55890.72
+Dell,Workstation,15.6,16 GB,2.17 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,512 GB,Nvidia,Quadro M620,Windows,124568.64
+Dell,Notebook,15.6,16 GB,2.06 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,512 GB,Nvidia,GeForce GTX 1050,Windows,101178.72
+Lenovo,Ultrabook,12.5,16 GB,1.36 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,176.233,SSD,512 GB,Intel,HD Graphics 620,Windows,95797.44
+Asus,Ultrabook,12.5,16 GB,0.91 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,176.233,SSD,512 GB,Intel,HD Graphics 620,Windows,103896.0
+Lenovo,Notebook,15.6,8 GB,2.3 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce 940MX,Windows,53918.83
+Toshiba,Ultrabook,13.3,32 GB,1.05 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,165.632,SSD,512 GB,Intel,HD Graphics 620,Windows,149130.72
+Asus,Gaming,15.6,8 GB,1.99 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1050,Windows,71928.0
+Acer,Notebook,15.6,8 GB,2.2 KG,AMD,2.5 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,AMD,Radeon RX 540,Windows,30849.12
+Asus,Gaming,17.3,24 GB,4.33 KG,Intel,2.6 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 965M,Windows,67612.32
+Lenovo,Ultrabook,12.5,8 GB,1.3 KG,Intel,2.3 GHz,Core i5,IPS,1366x768,1366,768,125.367,SSD,180 GB,Intel,HD Graphics 520,Windows,58554.72
+Lenovo,Notebook,15.6,8 GB,2.17 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,UHD Graphics 620,Windows,47893.39
+HP,Notebook,14.0,8 GB,1.48 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,1 TB,Intel,HD Graphics 620,Windows,93186.72
+Lenovo,Notebook,13.3,8 GB,1.4 KG,Intel,2.4 GHz,Core i3,IPS,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,50562.72
+Lenovo,Notebook,15.6,8 GB,2.3 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 620,Windows,48538.08
+Asus,Netbook,11.6,4 GB,1.2 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,135.094,Flash Storage,64 GB,Intel,HD Graphics 500,Windows,18115.2
+HP,Notebook,15.6,8 GB,1.91 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,SSD,256 GB,AMD,Radeon 520,Windows,32979.79
+Lenovo,2 in 1 Convertible,13.9,8 GB,1.4 KG,Intel,1.6 GHz,Core i5,IPS,1920x1080,1920,1080,158.483,SSD,256 GB,Intel,UHD Graphics 620,Windows,85194.72
+Lenovo,Notebook,14.0,4 GB,2.1 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,111.935,HDD,500 GB,Intel,HD Graphics 500,Windows,15930.72
+Lenovo,Netbook,11.6,4 GB,1.25 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,135.094,SSD,16 GB,Intel,HD Graphics 400,Other,14119.2
+Lenovo,Notebook,13.3,8 GB,1.44 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,50562.72
+Asus,Notebook,15.6,8 GB,2 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 620,Windows,65214.72
+Acer,Notebook,15.6,4 GB,2.2 KG,Intel,1.6 GHz,Core i5,IPS,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce MX150,Windows,32660.64
+HP,Ultrabook,13.3,8 GB,1.34 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,165.632,SSD,512 GB,Intel,HD Graphics 620,Windows,70489.44
+Lenovo,Gaming,15.6,8 GB,2.4 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1060,Other,61218.72
+Dell,Ultrabook,13.3,8 GB,1.29 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,165.632,SSD,128 GB,Intel,HD Graphics 620,Windows,47898.72
+Acer,Notebook,15.6,4 GB,2.2 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,500 GB,Nvidia,GeForce 940MX,Windows,34045.92
+Dell,Notebook,15.6,8 GB,2.18 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Intel,HD Graphics 620,Windows,44542.08
+Dell,Notebook,15.6,16 GB,2.2 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon 530,Windows,64961.11
+Xiaomi,Notebook,15.6,16 GB,1.95 KG,Intel,1.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce MX150,Other,74589.34
+Asus,Netbook,11.6,2 GB,1.1 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,135.094,Flash Storage,32 GB,Intel,HD Graphics 500,Windows,13053.6
+HP,Notebook,15.6,4 GB,2.04 KG,Intel,1.6 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,UHD Graphics 620,Windows,27783.92
+Asus,Gaming,15.6,24 GB,2.24 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,512 GB,Nvidia,GeForce GTX1080,Windows,158135.04
+HP,Notebook,15.6,8 GB,2.04 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce 930MX,Windows,47365.92
+Asus,Gaming,17.3,16 GB,3 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX1050 Ti,Windows,80133.12
+Lenovo,Gaming,15.6,8 GB,3.2 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1060,Windows,74538.72
+HP,Ultrabook,13.3,8 GB,1.32 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,74538.72
+Dell,Notebook,14.0,8 GB,1.64 KG,Intel,2.6 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Windows,68184.01
+HP,Notebook,15.6,4 GB,1.63 KG,Intel,0,Core i3,Standard,1366x768,1366,768,100.455,SSD,128 GB,Intel,HD Graphics 520,Windows,36709.92
+Dell,Notebook,17.3,8 GB,2.8 KG,Intel,1.6 GHz,Core i5,IPS,1920x1080,1920,1080,127.336,SSD,128 GB,AMD,Radeon 530,Linux,47365.92
+Lenovo,Notebook,24.0,8 GB,2.02 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,91.788,SSD,256 GB,Intel,HD Graphics 520,Windows,71395.2
+Lenovo,Notebook,15.6,4 GB,2.2 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce 920MX,Windows,42570.72
+Lenovo,Notebook,15.6,8 GB,2.2 KG,Intel,0,Core i3,Standard,1366x768,1366,768,100.455,HDD,2 TB,Nvidia,GeForce 920MX ,Other,24455.52
+Dell,Notebook,15.6,4 GB,2.3 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,500 GB,AMD,Radeon R5 M430,Windows,31168.8
+Dell,Notebook,15.6,8 GB,1.9 KG,Intel,2.8 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 620,Windows,73366.56
+Dell,Gaming,17.3,16 GB,4.42 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,SSD,128 GB,Nvidia,GeForce GTX 1070,Windows,160520.39
+Toshiba,Notebook,15.6,8 GB,2.0 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,141.212,HDD,500 GB,Intel,HD Graphics 620,Windows,45820.8
+Asus,Notebook,15.6,8 GB,2 KG,Intel,2.7 GHz,Core i7,IPS,3840x2160,3840,2160,282.424,SSD,256 GB,Nvidia,GeForce GTX 960M,Windows,69210.72
+Mediacom,Notebook,13.3,4 GB,1.2 KG,Intel,1.1 GHz,Core i7,IPS,1920x1080,1920,1080,165.632,SSD,32 GB,Intel,HD Graphics 500,Windows,19660.32
+Asus,Gaming,15.6,8 GB,2.3 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1060,Windows,87858.72
+Dell,Notebook,15.6,8 GB,1.93 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce 930MX,Windows,72940.32
+Dell,Notebook,15.6,8 GB,2.2 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon 530,Windows,42486.0
+HP,Notebook,15.6,4 GB,1.86 KG,Intel,1.6 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 405,Windows,21258.19
+HP,Gaming,17.3,12 GB,2.62 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,HDD,1 TB,Nvidia,GeForce GTX 1060,Windows,95850.72
+Lenovo,Notebook,14.0,8 GB,1.87 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,157.351,SSD,256 GB,Nvidia,GeForce 940MX,Windows,45767.52
+Dell,Ultrabook,13.3,8 GB,1.2 KG,Intel,1.8 GHz,Core i7,Quad HD+,3200x1800,3200,1800,276.054,SSD,256 GB,Intel,UHD Graphics 620,Windows,74538.72
+Dell,Notebook,14.0,4 GB,1.6 KG,Intel,0,Core i3,Full HD,1920x1080,1920,1080,157.351,SSD,128 GB,Intel,HD Graphics 520,Windows,39207.15
+HP,Ultrabook,13.3,8 GB,1.34 KG,Intel,2.7 GHz,Core i7,IPS,3200x1800,3200,1800,276.054,SSD,256 GB,Intel,HD Graphics 620,Windows,61005.6
+Acer,Gaming,15.6,8 GB,2.4 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce GTX 1050,Linux,42517.44
+Asus,Notebook,15.6,4 GB,2 KG,AMD,1.8 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,AMD,Radeon R2 Graphics,Windows,18594.72
+HP,Notebook,15.6,4 GB,2.1 KG,Intel,2.4 GHz,Core i3,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Intel,HD Graphics 620,Windows,37589.04
+Lenovo,Notebook,14.0,4 GB,1.87 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,HDD,500 GB,Intel,HD Graphics 620,Windows,41824.8
+Lenovo,Notebook,15.6,4 GB,2.15 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Intel,HD Graphics 520,Other,24634.01
+HP,Notebook,15.6,4 GB,1.86 KG,Intel,0,Core i3,Full HD,1920x1080,1920,1080,141.212,HDD,500 GB,Intel,HD Graphics 520,Windows,21152.16
+Lenovo,Notebook,15.6,8 GB,1.99 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,512 GB,Intel,HD Graphics 620,Windows,92121.12
+Lenovo,Notebook,15.6,4 GB,2.2 KG,Intel,0,Core i3,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Intel,HD Graphics 520,Windows,26586.72
+Dell,Notebook,15.6,8 GB,1.9 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 620,Windows,59513.23
+Dell,Gaming,17.3,16 GB,4.42 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 1070,Windows,143802.72
+HP,Notebook,17.3,8 GB,2.65 KG,Intel,0,Core i3,Standard,1600x900,1600,900,106.113,HDD,1 TB,Intel,HD Graphics 520,Windows,28992.31
+HP,Notebook,17.3,8 GB,2.63 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,HDD,1 TB,Nvidia,GeForce 930MX,Windows,68198.4
+Asus,Notebook,15.6,4 GB,2 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 500,Linux,11934.72
+Mediacom,Notebook,13.3,4 GB,1.35 KG,Intel,1.4 GHz,Core i7,IPS,1920x1080,1920,1080,165.632,Flash Storage,32 GB,Intel,HD Graphics,Windows,13586.4
+Lenovo,Notebook,17.3,6 GB,2.8 KG,Intel,2.7 GHz,Core i7,Standard,1600x900,1600,900,106.113,SSD,128 GB,Nvidia,GeForce 940MX,Windows,50562.72
+HP,Notebook,15.6,6 GB,1.91 KG,AMD,2.5 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,128 GB,AMD,Radeon 530,Windows,30310.99
+Dell,Notebook,15.6,4 GB,2.18 KG,Intel,0,Core i3,Standard,1366x768,1366,768,100.455,HDD,1 TB,AMD,Radeon R5 M420,Windows,32921.71
+Acer,2 in 1 Convertible,11.6,4 GB,1.25 KG,Intel,2.0 GHz,Core i7,IPS,1920x1080,1920,1080,189.906,Flash Storage,32 GB,Intel,HD Graphics 500,Windows,18594.72
+Lenovo,Notebook,15.6,4 GB,2.05 KG,Intel,2.7 GHz,Core i3,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Intel,HD Graphics 620,Windows,33566.4
+HP,Ultrabook,13.3,16 GB,1.16 KG,Intel,1.2 GHz,Core i7,IPS,3200x1800,3200,1800,276.054,SSD,512 GB,Intel,HD Graphics 515,Windows,104695.2
+Lenovo,Notebook,17.3,8 GB,3.4 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,Quadro M620M,Windows,159786.72
+Asus,Notebook,15.6,8 GB,2.5 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1050,Windows,44701.92
+Dell,Ultrabook,13.3,8 GB,1.21 KG,Intel,1.6 GHz,Core i5,IPS,3840x2160,3840,2160,331.264,SSD,128 GB,Intel,UHD Graphics 620,Windows,85194.72
+Dell,Notebook,15.6,4 GB,1.93 KG,Intel,2.6 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 620,Windows,51095.52
+Lenovo,Notebook,15.6,4 GB,2.2 KG,Intel,1.1 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,500 GB,Intel,HD Graphics 505,Windows,18328.32
+Lenovo,Notebook,14.0,4 GB,2.02 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,111.935,HDD,500 GB,Intel,HD Graphics 620,Windows,52747.2
+HP,Workstation,17.3,8 GB,3.14 KG,Intel,2.8 GHz,Core i5,Standard,1600x900,1600,900,106.113,HDD,500 GB,Nvidia,Quadro M1200,Windows,99153.55
+HP,Notebook,14.0,8 GB,1.94 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,111.935,HDD,2 TB,Intel,HD Graphics 405,Windows,20725.92
+HP,Notebook,15.6,6 GB,1.95 KG,AMD,0,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon 530,Windows,34578.72
+Lenovo,Notebook,15.6,8 GB,2.3 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 620,Windows,44222.4
+Lenovo,Notebook,15.6,4 GB,2.05 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,500 GB,Intel,HD Graphics 620,Windows,36496.8
+Mediacom,Notebook,14.0,4 GB,1.4 KG,Intel,1.4 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,32 GB,Intel,HD Graphics,Windows,13266.72
+Toshiba,Ultrabook,14.0,16 GB,1.24 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,512 GB,Intel,HD Graphics 620,Windows,99367.2
+Lenovo,Gaming,17.3,32 GB,4.6 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 1070,Windows,141884.64
+MSI,Gaming,17.3,16 GB,4.14 KG,Intel,2.9 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,512 GB,Nvidia,GeForce GTX 1070,Windows,145401.12
+Dell,Notebook,15.6,8 GB,2.2 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon R5 M430,Linux,39907.25
+Mediacom,Notebook,14.0,4 GB,1.45 KG,Intel,1.1 GHz,Core i7,IPS,1920x1080,1920,1080,157.351,SSD,32 GB,Intel,HD Graphics 500,Windows,20725.92
+Dell,Notebook,15.6,8 GB,1.9 KG,Intel,2.6 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 620,Windows,53733.95
+HP,Notebook,13.3,4 GB,1.49 KG,Intel,2.4 GHz,Core i3,Full HD,1920x1080,1920,1080,165.632,SSD,128 GB,Intel,HD Graphics 620,Windows,38308.32
+Dell,Notebook,15.6,16 GB,1.93 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce 930MX,Windows,81912.14
+Dell,Netbook,11.6,4 GB,1.26 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,135.094,Flash Storage,16 GB,Intel,HD Graphics 400,Other,15717.6
+MSI,Gaming,17.3,16 GB,4.5 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,128 GB,Nvidia,GeForce GTX 980M,Windows,125154.72
+HP,Gaming,17.3,16 GB,3.78 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 1050,Windows,79813.44
+Lenovo,Ultrabook,14.0,12 GB,8.4 KG,Intel,2.6 GHz,Core i7,IPS,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 520,Windows,89137.44
+Lenovo,Notebook,15.6,12 GB,2.2 KG,Intel,1.8 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 620,Windows,32447.52
+Asus,Gaming,17.3,8 GB,2.73 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,127.336,SSD,128 GB,Nvidia,GeForce GTX 1060,Windows,94305.6
+Asus,2 in 1 Convertible,15.6,8 GB,2.2 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 520,Windows,39373.92
+Lenovo,Notebook,15.6,12 GB,2.2 KG,AMD,3.6 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,512 GB,AMD,Radeon 530,Windows,50562.72
+Dell,2 in 1 Convertible,31.6,4 GB,1.39 KG,Intel,1.0 GHz,Core i7,Standard,1366x768,1366,768,49.592,SSD,128 GB,Intel,HD Graphics 615,Windows,32127.84
+Samsung,Notebook,15.6,16 GB,2.5 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1050,Windows,90522.72
+Lenovo,Notebook,17.3,4 GB,2.8 KG,Intel,0,Core i3,Full HD,1920x1080,1920,1080,127.336,HDD,500 GB,Intel,HD Graphics 520,Other,28185.12
+Lenovo,Notebook,15.6,8 GB,2.29 KG,Intel,2.3 GHz,Core i3,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 520,Windows,24455.52
+Lenovo,2 in 1 Convertible,13.3,8 GB,1.37 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,165.632,SSD,512 GB,Intel,HD Graphics 620,Windows,107892.0
+Lenovo,Notebook,14.0,8 GB,1.7 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 630,Windows,78534.72
+Dell,2 in 1 Convertible,12.5,8 GB,1.34 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,176.233,SSD,256 GB,Intel,HD Graphics 620,Windows,88977.6
+Dell,Workstation,15.6,8 GB,2.06 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,Quadro M620,Windows,93932.64
+HP,Notebook,15.6,8 GB,1.84 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 620,Windows,64948.32
+HP,Notebook,15.6,4 GB,2.1 KG,Intel,2.4 GHz,Core i3,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 620,Windows,35616.61
+Acer,Notebook,14.0,4 GB,1.6 KG,Intel,1.1 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,Flash Storage,32 GB,Intel,HD Graphics 500,Windows,17529.12
+MSI,Gaming,17.3,16 GB,4.14 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,128 GB,Nvidia,GeForce GTX 970M,Windows,117162.72
+Dell,Notebook,15.6,4 GB,2.18 KG,Intel,0,Core i3,Standard,1366x768,1366,768,100.455,HDD,1 TB,AMD,Radeon R5 M420,Linux,24775.2
+MSI,Gaming,15.6,16 GB,1.8 KG,Intel,2.8 GHz,Core i7,Standard,3840x2160,3840,2160,282.424,SSD,256 GB,Nvidia,GeForce GTX 1060,Windows,122490.72
+Toshiba,Notebook,15.6,8 GB,2.2 KG,Intel,2.5 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 520,Windows,74538.72
+Lenovo,Notebook,15.6,6 GB,2.4 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Intel,HD Graphics 620,Windows,30049.92
+Lenovo,2 in 1 Convertible,15.6,8 GB,2 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 630,Windows,69210.72
+Acer,Notebook,14.0,4 GB,1.6 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,111.935,Flash Storage,128 GB,Intel,HD Graphics 405,Windows,18594.72
+Lenovo,Notebook,15.6,32 GB,2.5 KG,Intel,3.1 GHz,Core i7,IPS,3840x2160,3840,2160,282.424,SSD,1 TB,Nvidia,Quadro M2200M,Windows,261018.72
+Dell,Gaming,15.6,16 GB,2.59 KG,Intel,2.6 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce GTX 960<U+039C>,Windows,46833.65
+Dell,Notebook,15.6,4 GB,2.18 KG,Intel,2.0 GHz,Core i3,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 520,Linux,23650.99
+Dell,Notebook,15.6,4 GB,2.25 KG,Intel,2.0 GHz,Core i3,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 520,Linux,19127.52
+Dell,Notebook,15.6,4 GB,1.93 KG,Intel,2.6 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 620,Linux,46300.32
+Asus,Gaming,17.3,8 GB,3 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,128 GB,Nvidia,GeForce GTX 1050,Windows,62231.04
+HP,Ultrabook,15.6,8 GB,1.84 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,512 GB,Intel,HD Graphics 620,Windows,74005.92
+MSI,Gaming,15.6,16 GB,2.94 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1070,Windows,120831.58
+Acer,2 in 1 Convertible,11.6,4 GB,1.25 KG,Intel,1.6 GHz,Core i7,IPS,1366x768,1366,768,135.094,Flash Storage,32 GB,Intel,HD Graphics 400,Other,20193.12
+HP,Notebook,14.0,8 GB,2.31 KG,Intel,2.6 GHz,Core i5,Standard,1366x768,1366,768,111.935,SSD,256 GB,Intel,HD Graphics 620,Windows,59886.72
+Lenovo,Notebook,14.0,8 GB,1.65 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 520,Windows,78055.2
+Dell,Notebook,15.6,4 GB,2.2 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,AMD,Radeon 530,Windows,41345.28
+Fujitsu,Notebook,15.6,8 GB,2.2 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,SSD,256 GB,Intel,HD Graphics 620,Windows,42570.72
+HP,Notebook,15.6,4 GB,1.88 KG,Intel,2.3 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 520,Windows,49656.96
+Mediacom,Notebook,14.0,2 GB,1.4 KG,Intel,1.4 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,Flash Storage,32 GB,Intel,HD Graphics,Windows,12733.92
+Lenovo,Notebook,15.6,4 GB,2.2 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Intel,HD Graphics 620,Other,24935.04
+Asus,2 in 1 Convertible,13.3,6 GB,1.5 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,165.632,HDD,1 TB,Intel,HD Graphics 620,Windows,34046.45
+Asus,Ultrabook,14.0,16 GB,11.1 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,512 GB,Intel,HD Graphics 620,Windows,101232.0
+Dell,Gaming,15.6,16 GB,2.62 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1050 Ti,Windows,78801.12
+Lenovo,Notebook,15.6,4 GB,1.8 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,UHD Graphics 620,Windows,44169.12
+Lenovo,Notebook,15.6,4 GB,2.2 KG,Intel,0,Core i3,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce 920MX ,Windows,30849.12
+Asus,Notebook,15.6,8 GB,2 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 500,Windows,21258.72
+Asus,Notebook,15.6,8 GB,1.99 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce GTX 1050,Windows,48304.71
+Dell,Ultrabook,13.3,8 GB,1.23 KG,Intel,1.6 GHz,Core i5,Quad HD+,3200x1800,3200,1800,276.054,SSD,256 GB,Intel,UHD Graphics 620,Windows,99580.32
+Lenovo,Notebook,14.0,2 GB,1.42 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,111.935,Flash Storage,32 GB,Intel,HD Graphics 400,Windows,13266.72
+Lenovo,2 in 1 Convertible,13.3,8 GB,1.37 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,93635.34
+Dell,Notebook,15.6,16 GB,2.06 KG,Intel,2.8 GHz,Core i7,Standard,3840x2160,3840,2160,282.424,SSD,1 TB,Nvidia,GeForce GTX 1050,Windows,127818.72
+Lenovo,Gaming,15.6,8 GB,2.5 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1050M,Windows,59087.52
+HP,Notebook,17.0,8 GB,2.6 KG,AMD,0,Core i7,Standard,1600x900,1600,900,107.986,HDD,1 TB,AMD,Radeon R5,Windows,27753.55
+Lenovo,Ultrabook,14.0,16 GB,1.14 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,157.351,SSD,512 GB,Intel,HD Graphics 620,Windows,130536.0
+Asus,Gaming,15.6,8 GB,2.5 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce GTX 1050 Ti,Other,62284.32
+Acer,Notebook,15.6,4 GB,2.4 KG,Intel,0,Core i3,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 520,Windows,23976.0
+Lenovo,Notebook,14.0,4 GB,1.43 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,111.935,Flash Storage,32 GB,Intel,HD Graphics,Windows,14598.72
+Acer,Ultrabook,14.0,8 GB,1.8 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,Graphics 620,Windows,48964.32
+Razer,Gaming,14.0,16 GB,1.95 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Nvidia,GeForce GTX 1060,Windows,138474.72
+Toshiba,Notebook,13.3,8 GB,1.2 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 520,Windows,64628.64
+Lenovo,Ultrabook,12.5,8 GB,1.36 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,176.233,SSD,256 GB,Intel,HD Graphics 620,Windows,84395.52
+Asus,Gaming,17.3,32 GB,3.8 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,SSD,512 GB,Nvidia,GeForce GTX 1080,Windows,149130.72
+Acer,Gaming,15.6,8 GB,2.4 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce GTX 1050,Linux,37775.52
+Dell,Ultrabook,13.3,8 GB,1.2 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,UHD Graphics 620,Windows,77250.67
+MSI,Gaming,15.6,8 GB,2.2 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1050 Ti,Windows,63499.1
+HP,Notebook,15.6,4 GB,1.86 KG,Intel,0,Core i3,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 520,Other,19441.87
+Toshiba,Notebook,15.6,8 GB,2.0 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,141.212,HDD,500 GB,Intel,HD Graphics 620,Windows,56689.92
+Dell,Notebook,15.6,8 GB,6.2 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon 530,Windows,48964.32
+Dell,Notebook,15.6,16 GB,2.2 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon 530,Windows,60472.8
+Lenovo,Gaming,15.6,8 GB,3.31 KG,Intel,2.6 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 960,Windows,63722.88
+Dell,Gaming,17.3,32 GB,4.42 KG,Intel,2.8 GHz,Core i7,IPS,3840x2160,3840,2160,254.671,SSD,512 GB,Nvidia,GeForce GTX 1070,Windows,167691.87
+Dell,Notebook,14.0,8 GB,1.56 KG,Intel,2.4 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 520,Windows,65481.12
+Lenovo,Notebook,15.6,4 GB,2.2 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 500,Windows,22324.32
+Lenovo,Notebook,15.6,4 GB,2.2 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,500 GB,Intel,HD Graphics 520,Windows,28504.8
+HP,Notebook,15.6,6 GB,2.04 KG,Intel,0,Core i3,Standard,1920x1080,1920,1080,141.212,HDD,1 TB,AMD,Radeon R5 M430,Windows,28717.92
+MSI,Gaming,17.3,8 GB,2.7 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,128 GB,Nvidia,GeForce GTX 1060,Windows,79215.11
+Toshiba,Notebook,15.6,4 GB,2.1 KG,Intel,2.1 GHz,Core i3,Standard,1366x768,1366,768,100.455,SSD,128 GB,Intel,HD Graphics 520,Windows,26533.44
+HP,Notebook,15.6,8 GB,2.1 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,AMD,Radeon 530,Windows,39693.6
+Toshiba,Notebook,15.6,8 GB,2.0 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 620,Windows,67026.24
+Acer,Notebook,15.6,4 GB,2.1 KG,Intel,0,Core i3,Standard,1366x768,1366,768,100.455,SSD,128 GB,Intel,HD Graphics 520,Linux,21951.36
+Microsoft,Ultrabook,13.5,8 GB,1.252 KG,Intel,2.8 GHz,Core i7,Standard,2256x1504,2256,1504,200.843,SSD,256 GB,Intel,Iris Plus Graphics 640,Windows,99519.05
+Lenovo,Notebook,15.6,8 GB,1.90 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,AMD,Radeon R5 M430,Windows,43580.38
+Lenovo,2 in 1 Convertible,13.3,8 GB,1.3 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,55091.52
+Lenovo,Notebook,35.6,4 GB,2.2 KG,AMD,2.2 GHz,Core i7,Standard,1366x768,1366,768,44.019,SSD,128 GB,AMD,Radeon R2 Graphics,Windows,18594.72
+HP,2 in 1 Convertible,14.0,4 GB,1.63 KG,Intel,2.4 GHz,Core i3,IPS,1920x1080,1920,1080,157.351,SSD,128 GB,Nvidia,GeForce 940MX,Windows,37242.72
+MSI,Gaming,15.6,16 GB,2.4 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1050,Windows,68944.32
+Asus,Ultrabook,14.0,8 GB,1.1 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Windows,60472.8
+HP,2 in 1 Convertible,11.6,8 GB,1.4 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,135.094,Flash Storage,64 GB,Intel,HD Graphics 500,Other,26373.6
+LG,Ultrabook,15.6,8 GB,1.09 KG,Intel,1.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,512 GB,Intel,HD Graphics 620,Windows,122490.72
+Acer,Gaming,15.6,16 GB,2.5 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1050 Ti,Windows,69210.72
+MSI,Gaming,15.6,8 GB,2.2 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1050,Windows,53168.11
+Asus,Notebook,15.6,4 GB,1.86 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,100.455,SSD,128 GB,Intel,HD Graphics 500,Windows,22324.32
+Dell,Gaming,15.6,16 GB,3.21 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1060,Windows,109277.28
+HP,Notebook,17.3,4 GB,2.5 KG,Intel,0,Core i3,IPS,1920x1080,1920,1080,127.336,SSD,256 GB,AMD,Radeon R5 520,Windows,37242.72
+Lenovo,2 in 1 Convertible,13.3,8 GB,1.19 KG,Intel,1.8 GHz,Core i7,IPS,1920x1080,1920,1080,165.632,SSD,512 GB,Intel,UHD Graphics 620,Windows,79866.72
+Dell,Gaming,15.6,16 GB,3.49 KG,Intel,2.9 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1070,Windows,149916.6
+HP,Notebook,15.6,4 GB,1.86 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,500 GB,AMD,Radeon 520,Windows,32639.86
+Dell,Notebook,15.6,4 GB,2.2 KG,Intel,0,Core i3,Standard,1366x768,1366,768,100.455,HDD,1 TB,AMD,Radeon R5 M430,Windows,29073.3
+HP,Notebook,17.3,6 GB,2.65 KG,AMD,2.4 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,HDD,2 TB,AMD,Radeon R7 M440,Windows,30316.32
+Lenovo,Notebook,15.6,4 GB,2.1 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 510,Windows,16943.04
+Acer,Notebook,14.0,4 GB,1.45 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,111.935,Flash Storage,32 GB,Intel,HD Graphics 510,Other,19980.0
+Lenovo,Notebook,14.0,4 GB,1.7 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Windows,37242.72
+HP,Workstation,17.3,8 GB,3.14 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,HDD,500 GB,Nvidia,Quadro M1200,Windows,101657.71
+Lenovo,2 in 1 Convertible,14.0,8 GB,1.42 KG,Intel,2.7 GHz,Core i7,Standard,2560x1440,2560,1440,209.801,SSD,256 GB,Intel,HD Graphics 620,Windows,137995.2
+Toshiba,Notebook,13.3,8 GB,1.5 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,51841.44
+Acer,Netbook,11.6,4 GB,1.4 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,135.094,Flash Storage,32 GB,Intel,HD Graphics,Windows,14332.32
+Lenovo,2 in 1 Convertible,14.0,16 GB,1.38 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,512 GB,Intel,HD Graphics 620,Windows,93186.72
+Asus,2 in 1 Convertible,12.5,4 GB,1.2 KG,Intel,0.9 GHz,Core i7,Full HD,1920x1080,1920,1080,176.233,Flash Storage,64 GB,Intel,HD Graphics 515,Other,35644.32
+Toshiba,Ultrabook,13.3,16 GB,1.36 KG,Intel,2.5 GHz,Core i7,Full HD,1920x1080,1920,1080,165.632,SSD,512 GB,Intel,HD Graphics 520,Windows,100006.56
+Dell,Gaming,15.6,8 GB,2.56 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce GTX 1050,Windows,43636.32
+Lenovo,Notebook,15.6,4 GB,2.2 KG,AMD,2.9 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon 530,Windows,21258.72
+Lenovo,Notebook,15.6,8 GB,2.2 KG,AMD,3.6 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,AMD,Radeon R7,Windows,22857.12
+Lenovo,Notebook,15.6,4 GB,2.1 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Intel,HD Graphics 620,Windows,33110.86
+Lenovo,Notebook,15.6,4 GB,1.90 KG,Intel,0,Core i3,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 520,Other,23976.0
+Dell,Notebook,15.6,8 GB,2.18 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 620,Windows,42357.6
+Acer,2 in 1 Convertible,13.3,1 GB,1.6 KG,Intel,1.6 GHz,Core i5,IPS,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,UHD Graphics 620,Windows,53226.72
+Lenovo,Workstation,15.6,16 GB,2.18 KG,Intel,2.5 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,512 GB,Nvidia,Quadro M520M,Windows,98834.4
+Lenovo,Notebook,14.0,8 GB,1.8 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 520,Windows,63456.48
+HP,Notebook,17.3,6 GB,2.71 KG,AMD,2.5 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,HDD,2 TB,AMD,Radeon 530,Windows,34898.93
+Lenovo,Gaming,15.6,8 GB,2.5 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1050 Ti,Windows,66546.72
+Dell,Notebook,14.0,8 GB,1.64 KG,Intel,2.8 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Nvidia,GeForce 930MX,Linux,58021.92
+Dell,Notebook,15.6,8 GB,1.98 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Intel,HD Graphics 620,Linux,38681.28
+Asus,Notebook,14.0,4 GB,1.5 KG,Intel,1.1 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,Flash Storage,32 GB,Intel,HD Graphics 500,Windows,15877.44
+Dell,Notebook,15.6,16 GB,1.93 KG,Intel,2.6 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,512 GB,Intel,HD Graphics 620,Windows,76012.44
+Lenovo,Notebook,14.0,8 GB,1.87 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,157.351,SSD,256 GB,Nvidia,GeForce 920MX,Windows,45664.69
+Dell,Notebook,15.6,8 GB,1.9 KG,Intel,2.6 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 620,Windows,62817.12
+Lenovo,Notebook,15.6,4 GB,2.19 KG,AMD,0,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,AMD,Radeon R4,Windows,15877.44
+Mediacom,Notebook,14.0,4 GB,1.4 KG,Intel,1.9 GHz,Core i7,IPS,1920x1200,1920,1200,161.725,HDD,32 GB,Intel,HD Graphics 400,Windows,14119.2
+HP,Notebook,17.3,8 GB,2.63 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce 930MX,Windows,63936.0
+Lenovo,Ultrabook,14.0,64 GB,1.17 KG,Intel,2.5 GHz,Core i7,IPS,2560x1440,2560,1440,209.801,SSD,512 GB,Intel,HD Graphics 520,Windows,89864.18
+HP,2 in 1 Convertible,13.3,8 GB,1.58 KG,Intel,2.5 GHz,Core i5,IPS,1366x768,1366,768,117.827,SSD,256 GB,Intel,HD Graphics 620,Windows,44574.05
+Lenovo,Ultrabook,14.0,8 GB,1.32 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Windows,79866.72
+Dell,Gaming,17.3,32 GB,4.36 KG,Intel,2.8 GHz,Core i7,Standard,3840x2160,3840,2160,254.671,SSD,1 TB,Nvidia,GeForce GTX 1070,Windows,194972.83
+MSI,Gaming,17.3,8 GB,2.7 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,128 GB,Nvidia,GeForce GTX 1050 Ti,Windows,71847.01
+Lenovo,Notebook,15.6,4 GB,1.9 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 620,Other,26101.87
+Dell,2 in 1 Convertible,13.3,4 GB,1.71 KG,Intel,2.4 GHz,Core i3,Full HD,1920x1080,1920,1080,165.632,HDD,1 TB,Intel,HD Graphics 620,Windows,34578.72
+Dell,Notebook,15.6,8 GB,2.32 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,1 TB,AMD,Radeon R7 M445,Linux,31409.63
+HP,Notebook,15.6,4 GB,2.1 KG,AMD,0,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,AMD,Radeon 520,Windows,26053.92
+Acer,Gaming,17.3,16 GB,4.2 KG,Intel,2.6 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,SSD,128 GB,Nvidia,GeForce GTX 1060,Windows,103096.8
+Dell,Notebook,15.6,12 GB,2.25 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 620,Windows,34578.72
+HP,Notebook,15.6,6 GB,2.1 KG,AMD,0,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,AMD,Radeon 520,Windows,34632.0
+Acer,Notebook,15.6,4 GB,2.4 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 620,Windows,29783.52
+Lenovo,Notebook,13.3,8 GB,1.44 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,51148.8
+Lenovo,Notebook,15.6,4 GB,1.85 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Intel,HD Graphics 620,Windows,41505.12
+HP,Workstation,15.6,16 GB,2.6 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,Quadro M2200,Windows,128884.32
+Dell,2 in 1 Convertible,13.3,8 GB,1.55 KG,Intel,1.6 GHz,Core i5,Full HD,1920x1080,1920,1080,165.632,HDD,1 TB,Intel,UHD Graphics 620,Windows,35111.52
+MSI,Gaming,15.6,16 GB,1.8 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1060,Windows,111593.89
+Acer,Notebook,15.6,4 GB,2.4 KG,Intel,0,Core i3,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 520,Windows,21887.42
+Dell,Notebook,15.6,8 GB,2.0 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce 940MX,Windows,64308.96
+Dell,Notebook,15.6,8 GB,2 KG,Intel,0,Core i3,Standard,1366x768,1366,768,100.455,SSD,256 GB,Intel,HD Graphics 520,Windows,35431.2
+Toshiba,Notebook,14.0,8 GB,1.25 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Windows,81784.8
+Lenovo,2 in 1 Convertible,14.0,8 GB,1.7 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Windows,53226.72
+Lenovo,Workstation,15.6,16 GB,2.5 KG,Intel,2.8 GHz,Core i7,IPS,3840x2160,3840,2160,282.424,SSD,1 TB,Nvidia,Quadro M520M,Windows,175770.72
+Acer,Notebook,14.0,2 GB,1.68 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,111.935,Flash Storage,32 GB,Intel,HD Graphics 400,Other,17582.4
+Samsung,Ultrabook,13.3,16 GB,0.81 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,87858.72
+Dell,Notebook,14.0,8 GB,1.6 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,111.935,SSD,256 GB,Intel,HD Graphics 620,Windows,60031.11
+HP,Workstation,17.3,16 GB,3 KG,Intel,2.9 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,Quadro M2000M,Windows,233845.92
+Lenovo,Netbook,11.6,4 GB,1.4 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,135.094,SSD,128 GB,Intel,HD Graphics 400,Windows,25308.0
+HP,Notebook,15.6,8 GB,1.84 KG,Intel,2.4 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 520,Windows,101232.0
+Asus,Notebook,15.6,4 GB,2.45 KG,Intel,2.3 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,1 TB,Nvidia,GeForce GTX 950M,Other,30849.12
+Asus,Notebook,15.6,4 GB,2.37 KG,Intel,2.7 GHz,Core i7,Standard,1366x768,1366,768,100.455,SSD,256 GB,Intel,HD Graphics 620,Windows,45282.67
+Lenovo,2 in 1 Convertible,13.3,8 GB,1.3 KG,Intel,1.8 GHz,Core i5,IPS,3200x1800,3200,1800,276.054,SSD,256 GB,Intel,HD Graphics 540,Windows,63882.72
+HP,Notebook,15.6,8 GB,2.2 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1050,Windows,58554.72
+HP,Workstation,15.6,8 GB,2.59 KG,Intel,2.6 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,Quadro M1000M,Windows,83170.08
+Dell,Gaming,15.6,16 GB,4.42 KG,Intel,2.8 GHz,Core i7,IPS,3840x2160,3840,2160,282.424,SSD,256 GB,Nvidia,GeForce GTX 1070,Windows,152859.79
+Acer,Notebook,15.6,4 GB,2.1 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,SSD,256 GB,Intel,HD Graphics 620,Windows,31914.72
+Lenovo,Gaming,15.6,8 GB,2.5 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1050,Windows,55837.44
+Dell,Ultrabook,12.5,16 GB,1.18 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,176.233,SSD,256 GB,Intel,HD Graphics 620,Windows,99047.52
+Google,Ultrabook,12.3,8 GB,1.1 KG,Intel,1.2 GHz,Core i5,Standard,2400x1600,2400,1600,234.507,SSD,256 GB,Intel,HD Graphics 615,Other,83063.52
+Asus,Ultrabook,13.3,8 GB,1.2 KG,Intel,2.5 GHz,Core i5,IPS,3200x1800,3200,1800,276.054,SSD,256 GB,Intel,HD Graphics 620,Windows,60153.12
+Dell,Notebook,13.3,4 GB,1.65 KG,Intel,0,Core i3,Standard,1366x768,1366,768,117.827,HDD,500 GB,Intel,HD Graphics 520,Windows,45234.72
+Acer,Notebook,13.3,4 GB,1.6 KG,Intel,2.3 GHz,Core i5,Standard,1366x768,1366,768,117.827,SSD,128 GB,Intel,HD Graphics 520,Windows,34898.4
+Asus,Notebook,17.3,4 GB,2.8 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,90.583,HDD,1 TB,Nvidia,GeForce 920MX,Windows,25059.72
+Dell,Gaming,15.6,16 GB,2.72 KG,Intel,2.6 GHz,Core i7,IPS,3840x2160,3840,2160,282.424,SSD,128 GB,Nvidia,GeForce GTX 960M,Windows,58554.72
+Samsung,Ultrabook,13.3,8 GB,1.31 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,85194.72
+Acer,Notebook,15.6,4 GB,2.1 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 505,Linux,15877.44
+Dell,Notebook,15.6,16 GB,2.3 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon R7 M445,Windows,62938.07
+Samsung,2 in 1 Convertible,15.0,16 GB,1.71 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,146.86,SSD,256 GB,AMD,Radeon 540,Windows,95850.72
+Toshiba,Notebook,14.0,4 GB,1.75 KG,Intel,2.3 GHz,Core i5,IPS,1366x768,1366,768,111.935,SSD,128 GB,Intel,HD Graphics 520,Windows,54345.6
+Dell,Gaming,15.6,8 GB,2.62 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce GTX 1050,Windows,58554.72
+Asus,2 in 1 Convertible,15.6,12 GB,2.3 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,2 TB,Nvidia,GeForce 940MX,Windows,44701.92
+Lenovo,Notebook,15.6,16 GB,2.5 KG,Intel,2.7 GHz,Core i7,Standard,3840x2160,3840,2160,282.424,SSD,512 GB,Nvidia,Quadro M2000M,Windows,126273.6
+Acer,Notebook,14.0,4 GB,1.8 KG,Intel,2.4 GHz,Core i3,IPS,1920x1080,1920,1080,157.351,SSD,128 GB,Intel,HD Graphics 620,Windows,33886.08
+Razer,Gaming,14.0,16 GB,1.95 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,512 GB,Nvidia,GeForce GTX 1060,Windows,154458.72
+Asus,Notebook,15.6,8 GB,2 KG,Intel,1.1 GHz,Core i7,Standard,1920x1080,1920,1080,141.212,SSD,128 GB,Intel,HD Graphics 505,Windows,31003.63
+Dell,Gaming,17.3,32 GB,4.42 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,SSD,1 TB,Nvidia,GeForce GTX 1070M,Windows,191211.26
+Asus,Gaming,17.3,16 GB,4.3 KG,Intel,2.6 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 1070,Windows,125208.0
+Toshiba,Ultrabook,14.0,16 GB,1.47 KG,Intel,2.6 GHz,Core i7,IPS,1920x1080,1920,1080,157.351,SSD,512 GB,Nvidia,GeForce 930M,Windows,93985.92
+Lenovo,Notebook,15.6,8 GB,2.2 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 405,Other,17529.12
+Lenovo,Ultrabook,14.0,16 GB,1.7 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,512 GB,Intel,HD Graphics 620,Windows,122490.72
+MSI,Gaming,14.0,16 GB,1.6 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,157.351,SSD,256 GB,Nvidia,GeForce GTX 1060,Windows,100752.48
+MSI,Gaming,15.6,8 GB,2.2 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1050,Windows,58021.92
+Lenovo,Gaming,15.6,4 GB,2.4 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce GTX 1050,Windows,53226.72
+Acer,Gaming,17.3,16 GB,4.2 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 1060,Windows,122490.72
+Dell,Gaming,15.6,8 GB,2.62 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1050,Windows,52480.8
+Asus,Gaming,15.6,8 GB,2.24 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX1060,Windows,71341.92
+Vero,Notebook,14.0,4 GB,1.22 KG,Intel,1.1 GHz,Core i7,Standard,1920x1080,1920,1080,157.351,Flash Storage,32 GB,Intel,HD Graphics 500,Windows,10810.51
+Lenovo,2 in 1 Convertible,13.3,8 GB,1.37 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,165.632,SSD,512 GB,Intel,HD Graphics 620,Windows,104961.6
+Lenovo,2 in 1 Convertible,15.6,8 GB,2.08 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon R7 M460,Windows,51095.52
+Apple,Ultrabook,12.0,8 GB,0.920 KG,Intel,1.2 GHz,Core i7,Retina,2304x1440,2304,1440,226.416,Flash Storage,512 GB,Intel,HD Graphics 5300,Mac,62071.2
+Lenovo,2 in 1 Convertible,14.0,8 GB,1.42 KG,Intel,2.5 GHz,Core i5,IPS,2560x1440,2560,1440,209.801,SSD,256 GB,Intel,HD Graphics 620,Windows,124142.4
+Asus,Notebook,14.0,4 GB,1.63 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,111.935,Flash Storage,32 GB,Intel,HD Graphics 500,Windows,15930.72
+Dell,Notebook,15.6,8 GB,1.95 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,SSD,128 GB,Intel,HD Graphics 620,Windows,43156.8
+Lenovo,2 in 1 Convertible,13.9,8 GB,1.38 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,158.483,SSD,256 GB,Intel,HD Graphics 620,Windows,71874.72
+Dell,Notebook,15.6,8 GB,2 KG,Intel,0,Core i3,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon R5 M420X,Windows,39373.92
+HP,Workstation,15.6,8 GB,3.14 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,Quadro M2200,Windows,110017.87
+Asus,Notebook,15.6,8 GB,2.37 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 620,Windows,58554.72
+Dell,Ultrabook,13.3,8 GB,1.29 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,79866.72
+Dell,Notebook,15.6,8 GB,2.06 KG,Intel,2.5 GHz,Core i5,Standard,3840x2160,3840,2160,282.424,SSD,256 GB,Nvidia,GeForce GTX 1050,Windows,93186.72
+Dell,Netbook,11.6,4 GB,1.63 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,135.094,SSD,128 GB,Intel,HD Graphics 505,Windows,39640.32
+HP,Netbook,12.5,8 GB,1.26 KG,Intel,2.6 GHz,Core i5,Standard,1366x768,1366,768,125.367,SSD,256 GB,Intel,HD Graphics 620,Windows,74005.92
+Toshiba,Notebook,15.6,4 GB,2.1 KG,Intel,2.3 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 520,Windows,41558.4
+HP,Notebook,15.6,8 GB,2.04 KG,AMD,2.5 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,2 TB,AMD,Radeon R7 Graphics,Windows,33513.12
+Dell,Gaming,15.6,16 GB,2.62 KG,Intel,2.8 GHz,Core i7,Standard,3840x2160,3840,2160,282.424,SSD,512 GB,Nvidia,GeForce GTX 1050 Ti,Windows,89457.12
+Lenovo,Notebook,15.6,4 GB,2.4 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce 920M,Windows,32447.52
+HP,Gaming,17.3,12 GB,3.74 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,HDD,1 TB,AMD,Radeon RX 580,Windows,93186.72
+MSI,Gaming,17.3,16 GB,2.9 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,512 GB,Nvidia,GeForce GTX 1070,Windows,128671.2
+Samsung,Ultrabook,13.3,8 GB,0.81 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,79866.72
+Dell,Notebook,15.6,8 GB,1.98 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce GT 940MX,Windows,51202.08
+Dell,Notebook,15.6,8 GB,2.18 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon R5 M420,Windows,42081.08
+Lenovo,Ultrabook,14.0,8 GB,1.32 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Windows,99047.52
+Razer,Ultrabook,12.5,16 GB,1.29 KG,Intel,2.5 GHz,Core i7,IPS,3840x2160,3840,2160,352.465,SSD,512 GB,Intel,HD Graphics 620,Windows,95850.72
+HP,Netbook,11.6,4 GB,1.23 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,135.094,Flash Storage,16 GB,Intel,HD Graphics 400,Other,20512.8
+Dell,Gaming,17.3,16 GB,4.36 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,SSD,128 GB,Nvidia,GeForce GTX 1060,Windows,133467.47
+Dell,Notebook,14.0,4 GB,1.76 KG,Intel,2.3 GHz,Core i5,Standard,1366x768,1366,768,111.935,HDD,500 GB,Intel,HD Graphics 520,Windows,40226.4
+Lenovo,Notebook,15.6,4 GB,2.1 KG,Intel,0,Core i3,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 520,Windows,26101.87
+Toshiba,Ultrabook,14.0,4 GB,1.25 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,111.935,SSD,128 GB,Intel,HD Graphics 620,Windows,58075.2
+Lenovo,Ultrabook,14.0,8 GB,1.13 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,157.351,SSD,512 GB,Intel,HD Graphics 620,Windows,133146.72
+MSI,Gaming,15.6,8 GB,2.4 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1050,Windows,63882.72
+Lenovo,Ultrabook,14.0,8 GB,1.13 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,157.351,Flash Storage,256 GB,Intel,HD Graphics 620,Windows,99900.0
+Toshiba,Notebook,14.0,4 GB,1.75 KG,Intel,2.1 GHz,Core i7,Standard,1366x768,1366,768,111.935,SSD,128 GB,Intel,HD Graphics 510,Windows,26586.72
+Asus,2 in 1 Convertible,13.3,8 GB,1.1 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,72354.24
+Dell,Notebook,14.0,4 GB,1.76 KG,Intel,0,Core i3,Standard,1366x768,1366,768,111.935,HDD,500 GB,Intel,HD Graphics 520,Windows,31168.8
+Acer,Netbook,11.6,4 GB,1.35 KG,Intel,1.6 GHz,Core i7,IPS,1366x768,1366,768,135.094,Flash Storage,32 GB,Intel,HD Graphics 400,Other,18914.4
+Acer,Notebook,14.0,8 GB,1.5 KG,Intel,2.4 GHz,Core i3,IPS,1920x1080,1920,1080,157.351,SSD,128 GB,Intel,HD Graphics 620,Windows,32980.32
+Razer,Gaming,17.3,32 GB,3.49 KG,Intel,2.9 GHz,Core i7,Standard,3840x2160,3840,2160,254.671,SSD,512 GB,Nvidia,GeForce GTX 1080,Windows,292986.72
+Lenovo,Ultrabook,14.0,16 GB,1.1 KG,Intel,2.6 GHz,Core i7,IPS,2560x1440,2560,1440,209.801,SSD,512 GB,Intel,HD Graphics 520,Windows,111834.72
+Asus,Notebook,15.6,4 GB,2.1 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce 920,Linux,27652.32
+Lenovo,Notebook,14.0,8 GB,1.7 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 520,Windows,63190.08
+Lenovo,Notebook,14.0,8 GB,1.32 KG,Intel,2.6 GHz,Core i5,IPS,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Windows,87912.0
+Dell,Gaming,15.6,16 GB,3.21 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1070,Windows,147832.29
+Asus,Gaming,17.3,16 GB,2.9 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 1070,Windows,128884.32
+Toshiba,Notebook,15.6,4 GB,2.0 KG,Intel,2.4 GHz,Core i3,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 620,Windows,35644.32
+Lenovo,Notebook,14.0,4 GB,1.5 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,111.935,Flash Storage,16 GB,Intel,HD Graphics 400,Other,17316.0
+Asus,Notebook,15.6,8 GB,2.3 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,128 GB,Intel,HD Graphics 620,Windows,31435.2
+Asus,Gaming,17.3,16 GB,2.73 KG,Intel,2.6 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,512 GB,Nvidia,GeForce GTX 1060,Windows,95850.72
+Dell,Gaming,17.3,32 GB,4.42 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,SSD,512 GB,Nvidia,GeForce GTX 1070,Windows,163723.58
+HP,Notebook,17.3,8 GB,2.63 KG,Intel,2.5 GHz,Core i5,Standard,1600x900,1600,900,106.113,HDD,1 TB,Nvidia,GeForce 930MX,Windows,48484.8
+Dell,Notebook,15.6,8 GB,2.18 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,SSD,128 GB,Intel,HD Graphics 620,Windows,38041.39
+HP,Ultrabook,14.0,8 GB,1.54 KG,Intel,2.5 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,512 GB,Intel,HD Graphics 520,Windows,99633.6
+Dell,Notebook,15.6,4 GB,2.18 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon R5 M420,Windows,39373.92
+HP,2 in 1 Convertible,11.6,4 GB,1.4 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,135.094,Flash Storage,32 GB,Intel,HD Graphics 500,Other,32767.2
+Asus,Ultrabook,13.3,8 GB,1.45 KG,Intel,2.3 GHz,Core i5,IPS,1920x1080,1920,1080,165.632,SSD,512 GB,Nvidia,GeForce 940M,Windows,54665.28
+HP,2 in 1 Convertible,13.3,8 GB,1.28 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,121318.56
+HP,Ultrabook,14.0,8 GB,1.54 KG,Intel,2.5 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,512 GB,Intel,HD Graphics 520,Windows,78215.04
+HP,Notebook,15.6,4 GB,1.86 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,100.455,SSD,128 GB,Intel,HD Graphics 400,Other,15930.72
+Asus,Gaming,15.6,16 GB,2.1 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1060,Windows,101178.72
+Dell,Notebook,17.3,8 GB,2.83 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,HDD,1 TB,AMD,Radeon R7 M445,Linux,46087.2
+Lenovo,Ultrabook,14.0,8 GB,1.96 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,157.351,SSD,256 GB,Nvidia,GeForce GT 940MX,Windows,101391.84
+Asus,Notebook,15.6,8 GB,2.3 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 930MX,Windows,41931.36
+Dell,Notebook,15.6,8 GB,1.9 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Intel,HD Graphics 620,Windows,50349.6
+Asus,Notebook,15.6,4 GB,2 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 505,Windows,23922.72
+HP,2 in 1 Convertible,13.3,8 GB,1.28 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,136343.52
+Dell,Notebook,13.3,8 GB,1.62 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,165.632,HDD,1 TB,Intel,HD Graphics 520,Windows,34578.72
+Lenovo,Notebook,15.6,4 GB,2.2 KG,Intel,2.0 GHz,Core i3,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Intel,HD Graphics 520,Other,24988.32
+Lenovo,Notebook,15.6,8 GB,2.3 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,141.212,HDD,1 TB,Intel,HD Graphics 620,Windows,45323.16
+HP,Notebook,15.6,8 GB,1.84 KG,Intel,2.6 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon R7 M465,Windows,71874.72
+Toshiba,Notebook,13.3,4 GB,1.05 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,165.632,SSD,128 GB,Intel,HD Graphics 620,Windows,68464.8
+Lenovo,Gaming,15.6,8 GB,2.5 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce GTX 1050,Other,54185.76
+Dell,Ultrabook,13.3,16 GB,1.29 KG,Intel,2.5 GHz,Core i7,Quad HD+,3200x1800,3200,1800,276.054,SSD,512 GB,Intel,Iris Plus Graphics 640,Windows,119347.2
+HP,Notebook,15.6,4 GB,2.07 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,500 GB,Intel,HD Graphics 520,Windows,48484.8
+Toshiba,Ultrabook,13.3,8 GB,1.2 KG,Intel,2.3 GHz,Core i5,Standard,1366x768,1366,768,117.827,SSD,256 GB,Intel,HD Graphics 520,Windows,58341.6
+Lenovo,2 in 1 Convertible,13.3,8 GB,1.37 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,103896.0
+Acer,Notebook,14.0,8 GB,1.56 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Windows,48058.56
+Dell,Workstation,15.6,8 GB,2.23 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,Quadro M620,Windows,94731.84
+Lenovo,Notebook,15.6,4 GB,2.38 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 620,Windows,56210.4
+Lenovo,Notebook,15.6,4 GB,2.2 KG,Intel,0,Core i3,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,AMD,Radeon R5 M430,Other,25521.12
+Toshiba,Notebook,15.6,8 GB,2.0 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 620,Windows,73952.64
+Lenovo,Notebook,13.3,4 GB,1.44 KG,Intel,2.4 GHz,Core i3,IPS,1920x1080,1920,1080,165.632,SSD,180 GB,Intel,HD Graphics 620,Windows,39160.8
+Samsung,Ultrabook,15.0,16 GB,1.23 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,146.86,SSD,256 GB,Nvidia,GeForce 940MX,Windows,98514.72
+Dell,Ultrabook,12.5,8 GB,1.6 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,176.233,SSD,256 GB,Intel,HD Graphics 620,Windows,90043.2
+Asus,Notebook,15.6,4 GB,2 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 505,Linux,21258.19
+Xiaomi,Ultrabook,13.3,8 GB,1.28 KG,Intel,2.3 GHz,Core i5,IPS,1920x1080,1920,1080,165.632,SSD,256 GB,Nvidia,GeForce 940MX,Windows,49816.8
+Dell,Notebook,15.6,4 GB,2.18 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce 940MX,Windows,48618.0
+HP,Notebook,15.6,4 GB,2.04 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 620,Windows,44701.92
+HP,2 in 1 Convertible,13.3,4 GB,1.28 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,90576.0
+HP,2 in 1 Convertible,15.6,4 GB,2.3 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 620,Windows,36486.14
+Asus,Notebook,14.1,4 GB,1.65 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,111.141,Flash Storage,32 GB,Intel,HD Graphics 500,Windows,18541.44
+Lenovo,Notebook,15.6,8 GB,2.2 KG,Intel,2.5 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce 940MX,Windows,35644.32
+Dell,Notebook,15.6,4 GB,2.2 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics,Windows,19660.32
+HP,2 in 1 Convertible,13.3,4 GB,1.28 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,95850.72
+Dell,Notebook,15.6,4 GB,2.18 KG,Intel,2.0 GHz,Core i3,Standard,1366x768,1366,768,100.455,HDD,1 TB,AMD,Radeon R5 M420X,Linux,24279.7
+Asus,Gaming,17.3,12 GB,2.2 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,127.336,SSD,128 GB,Nvidia,GeForce GTX 1050,Windows,72988.27
+Acer,Netbook,11.6,4 GB,1.25 KG,Intel,1.6 GHz,Core i7,IPS,1366x768,1366,768,135.094,Flash Storage,32 GB,Intel,HD Graphics 400,Other,15824.16
+Lenovo,Notebook,17.3,4 GB,2.8 KG,AMD,2.2 GHz,Core i7,Standard,1600x900,1600,900,106.113,HDD,500 GB,AMD,Radeon R3,Windows,20193.12
+HP,Notebook,14.0,4 GB,1.95 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,128 GB,Intel,HD Graphics 620,Windows,67399.2
+HP,2 in 1 Convertible,13.3,16 GB,1.42 KG,Intel,2.7 GHz,Core i7,Quad HD+,3200x1800,3200,1800,276.054,SSD,256 GB,Intel,HD Graphics 620,Windows,74538.72
+Samsung,Ultrabook,15.0,8 GB,1.17 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,146.86,SSD,256 GB,Intel,HD Graphics 620,Windows,90522.72
+Lenovo,Ultrabook,14.0,8 GB,1.32 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Windows,95850.72
+MSI,Gaming,17.3,16 GB,2.43 KG,Intel,2.6 GHz,Core i7,IPS,3840x2160,3840,2160,254.671,SSD,512 GB,Nvidia,GeForce GTX 1060,Windows,141138.72
+Toshiba,Notebook,13.3,8 GB,1.05 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,78588.0
+Dell,Gaming,15.6,8 GB,2.62 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce GTX 1050Ti,Linux,49497.12
+HP,Notebook,15.6,8 GB,2.04 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce 930MX,Windows,47952.0
+Dell,Notebook,15.6,4 GB,2.18 KG,Intel,2.0 GHz,Core i3,Standard,1366x768,1366,768,100.455,HDD,1 TB,AMD,Radeon R5 M420X,Windows,32713.92
+Dell,Notebook,15.6,8 GB,1.9 KG,Intel,2.6 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,500 GB,Intel,HD Graphics 620,Windows,49816.8
+Dell,2 in 1 Convertible,13.3,8 GB,1.24 KG,Intel,1.3 GHz,Core i7,Quad HD+,3200x1800,3200,1800,276.054,SSD,512 GB,Intel,HD Graphics 615,Windows,107257.97
+Asus,Gaming,17.3,32 GB,3.58 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 980M,Windows,68145.12
+Dell,2 in 1 Convertible,13.3,16 GB,1.22 KG,Intel,1.3 GHz,Core i7,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 615,Windows,87858.72
+Lenovo,Ultrabook,14.0,8 GB,1.13 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,157.351,Flash Storage,256 GB,Intel,HD Graphics 620,Windows,109170.72
+Lenovo,Notebook,15.6,8 GB,1.95 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,141.212,SSD,512 GB,Intel,HD Graphics 620,Windows,104588.11
+LG,Ultrabook,15.6,16 GB,1.08 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,512 GB,Intel,HD Graphics 620,Windows,111834.72
+HP,Netbook,12.5,8 GB,1.26 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,176.233,SSD,512 GB,Intel,HD Graphics 620,Windows,79014.24
+Acer,Notebook,15.6,4 GB,2.20 KG,Intel,1.5 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,Flash Storage,16 GB,Intel,HD Graphics,Other,19127.52
+Lenovo,Notebook,15.6,8 GB,2.6 KG,Intel,2.3 GHz,Core i5,IPS,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 960M,Windows,42037.92
+LG,Ultrabook,14.0,8 GB,0.98 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,157.351,SSD,512 GB,Intel,HD Graphics 620,Windows,101178.72
+Dell,Notebook,14.0,8 GB,1.6 KG,Intel,2.8 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Windows,64202.4
+HP,Ultrabook,12.5,8 GB,1.09 KG,Intel,1.2 GHz,Core i7,Standard,3840x2160,3840,2160,352.465,SSD,240 GB,Intel,HD Graphics 515,Windows,165168.0
+Lenovo,Notebook,15.6,6 GB,2.2 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce 940MX,Windows,42037.92
+HP,Notebook,15.6,8 GB,2.04 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce 930MX,Windows,54291.79
+Acer,Notebook,15.6,4 GB,2.4 KG,Intel,2.4 GHz,Core i3,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Intel,HD Graphics 620,Windows,26586.72
+Lenovo,Notebook,13.3,4 GB,1.44 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,165.632,SSD,128 GB,Intel,HD Graphics 620,Windows,46939.68
+HP,Notebook,13.3,8 GB,1.49 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,51148.8
+MSI,Gaming,17.3,16 GB,2.7 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 1050 Ti,Windows,85194.72
+Dell,Gaming,15.6,16 GB,2.6 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1050 Ti,Windows,71874.72
+MSI,Gaming,15.6,8 GB,2.2 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1050,Windows,59668.8
+Dell,Notebook,15.6,4 GB,2.18 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,1 TB,AMD,Radeon R5 M420,Windows,36496.27
+HP,Ultrabook,15.6,8 GB,1.84 KG,Intel,2.5 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon R7 M365X,Windows,69103.63
+Lenovo,2 in 1 Convertible,13.3,8 GB,1.37 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,165.632,SSD,512 GB,Intel,HD Graphics 620,Windows,97236.0
+Dell,Notebook,15.6,4 GB,1.95 KG,Intel,2.3 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 520,Windows,38889.07
+Lenovo,Ultrabook,12.5,8 GB,1.36 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,176.233,SSD,256 GB,Intel,HD Graphics 620,Windows,87912.0
+HP,Notebook,15.6,8 GB,2.31 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 520,Windows,62071.2
+Dell,Notebook,15.6,4 GB,2.18 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 620,Windows,37725.44
+HP,Notebook,14.0,4 GB,1.95 KG,Intel,2.3 GHz,Core i5,Standard,1366x768,1366,768,111.935,HDD,500 GB,Intel,HD Graphics 520,Windows,61218.72
+Lenovo,Notebook,15.6,4 GB,2.2 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 505,Windows,16463.52
+HP,Ultrabook,12.5,4 GB,1.26 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,176.233,HDD,500 GB,Intel,HD Graphics 520,Windows,84129.12
+HP,Notebook,15.6,4 GB,1.86 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 400,Other,15392.59
+Lenovo,2 in 1 Convertible,13.3,16 GB,1.3 KG,Intel,2.2 GHz,Core i7,IPS,3200x1800,3200,1800,276.054,SSD,1 TB,Intel,Iris Graphics 540,Windows,95850.72
+Toshiba,Notebook,14.0,4 GB,1.47 KG,Intel,2.3 GHz,Core i5,IPS,1920x1080,1920,1080,157.351,SSD,128 GB,Intel,HD Graphics 520,Windows,58874.4
+HP,Netbook,12.5,8 GB,1.26 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,176.233,SSD,256 GB,Intel,HD Graphics 520,Windows,88924.32
+Dell,Notebook,15.6,4 GB,2.18 KG,Intel,2.0 GHz,Core i3,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 520,Windows,29762.21
+MSI,Gaming,15.6,8 GB,2.2 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1050,Windows,63882.72
+Dell,Gaming,17.3,16 GB,4.36 KG,Intel,2.7 GHz,Core i7,Standard,2560x1440,2560,1440,169.781,SSD,512 GB,Nvidia,GeForce GTX 1080,Windows,146946.24
+HP,Gaming,17.3,8 GB,2.75 KG,Intel,2.3 GHz,Core i5,IPS,1920x1080,1920,1080,127.336,SSD,128 GB,Nvidia,GeForce GTX 965M,Windows,74538.72
+Asus,Notebook,17.3,4 GB,2.8 KG,Intel,1.6 GHz,Core i7,Standard,1600x900,1600,900,106.113,HDD,1 TB,Nvidia,GeForce 920MX,Windows,28238.4
+Acer,Notebook,15.6,4 GB,2.23 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 620,Windows,32980.32
+Toshiba,Notebook,15.6,8 GB,2.2 KG,Intel,2.3 GHz,Core i5,Standard,1366x768,1366,768,100.455,SSD,256 GB,Intel,HD Graphics 520,Windows,59620.32
+Lenovo,2 in 1 Convertible,11.3,8 GB,1.1 KG,Intel,1.2 GHz,Core i7,IPS,1920x1080,1920,1080,194.948,SSD,256 GB,Intel,HD Graphics 515,Windows,69210.72
+Lenovo,Gaming,15.6,16 GB,2.5 KG,AMD,2.1 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,512 GB,AMD,Radeon R9 M385,Windows,53226.72
+Dell,Ultrabook,12.5,8 GB,1.36 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,176.233,SSD,256 GB,Intel,HD Graphics,Windows,78438.82
+Lenovo,Notebook,15.6,8 GB,2.2 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce 920MX,Other,36496.8
+Dell,Notebook,17.3,4 GB,2.36 KG,Intel,2.0 GHz,Core i3,Standard,1600x900,1600,900,106.113,HDD,1 TB,AMD,Radeon R7 M445,Windows,35111.52
+Acer,Notebook,14.0,4 GB,1.68 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,111.935,Flash Storage,32 GB,Intel,HD Graphics 400,Other,18594.72
+HP,Workstation,15.6,8 GB,2.0 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,8 GB,Nvidia,Quadro M1000M,Windows,119826.72
+Dell,Ultrabook,14.0,8 GB,1.36 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Windows,94572.0
+Toshiba,Notebook,13.3,8 GB,1.2 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 520,Windows,77788.8
+Asus,2 in 1 Convertible,12.5,8 GB,1.2 KG,Intel,1.2 GHz,Core i7,Full HD,1920x1080,1920,1080,176.233,Flash Storage,64 GB,Intel,HD Graphics 515,Other,61751.52
+Lenovo,Ultrabook,14.0,8 GB,1.7 KG,Intel,2.6 GHz,Core i7,IPS,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 520,Windows,79333.39
+Dell,Gaming,17.3,16 GB,4.36 KG,Intel,2.8 GHz,Core i7,IPS,3840x2160,3840,2160,254.671,SSD,512 GB,Nvidia,GeForce GTX 1070,Windows,168045.12
+Dell,2 in 1 Convertible,13.3,8 GB,1.24 KG,Intel,1.2 GHz,Core i5,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 615,Windows,101178.72
+HP,2 in 1 Convertible,11.6,4 GB,1.45 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,135.094,SSD,256 GB,Intel,HD Graphics 505,Windows,41292.0
+Dell,Ultrabook,13.3,8 GB,1.3 KG,Intel,2.5 GHz,Core i7,Quad HD+,3200x1800,3200,1800,276.054,SSD,256 GB,Intel,HD Graphics 520,Windows,67559.04
+Acer,2 in 1 Convertible,11.6,4 GB,1.25 KG,Intel,1.6 GHz,Core i7,IPS,1366x768,1366,768,135.094,Flash Storage,32 GB,Intel,HD Graphics 400,Other,20725.92
+Toshiba,Notebook,13.3,8 GB,1.2 KG,Intel,2.4 GHz,Core i5,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 520,Windows,81784.8
+Lenovo,Ultrabook,12.5,8 GB,1.36 KG,Intel,2.6 GHz,Core i5,IPS,1920x1080,1920,1080,176.233,SSD,256 GB,Intel,HD Graphics 620,Windows,93772.8
+Acer,Notebook,15.6,12 GB,2.4 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 950M,Windows,53759.52
+Toshiba,Ultrabook,12.5,8 GB,1.1 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,176.233,SSD,512 GB,Intel,HD Graphics 620,Windows,95371.2
+HP,Notebook,15.6,8 GB,2.04 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,1 TB,Nvidia,GeForce 930MX,Windows,45101.52
+Dell,Notebook,15.6,4 GB,2.25 KG,Intel,2.0 GHz,Core i3,Standard,1366x768,1366,768,100.455,HDD,1 TB,AMD,Radeon R5 M430,Linux,24808.23
+Dell,Notebook,15.6,4 GB,1.9 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 620,Windows,43956.0
+HP,Notebook,15.6,4 GB,2.04 KG,Intel,2.4 GHz,Core i3,Full HD,1920x1080,1920,1080,141.212,HDD,500 GB,Intel,HD Graphics 620,Windows,36496.8
+Dell,Gaming,17.3,32 GB,4.42 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 1070,Windows,167778.72
+Lenovo,Notebook,15.6,6 GB,2.4 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce 920MX,Windows,37029.6
+Dell,2 in 1 Convertible,13.3,16 GB,1.22 KG,Intel,1.3 GHz,Core i7,Quad HD+,3200x1800,3200,1800,276.054,SSD,512 GB,Intel,HD Graphics 615,Windows,101178.72
+Dell,Ultrabook,14.0,8 GB,1.5 KG,Intel,2.6 GHz,Core i7,Standard,2560x1440,2560,1440,209.801,SSD,256 GB,Intel,HD Graphics 520,Windows,104587.57
+Dell,Gaming,17.3,32 GB,4.42 KG,Intel,2.6 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 1070,Windows,149184.0
+Toshiba,Notebook,14.0,8 GB,1.95 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 520,Windows,62870.4
+Asus,Gaming,17.3,16 GB,2.73 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 1060,Windows,109218.67
+HP,Notebook,15.6,8 GB,2.04 KG,Intel,2.7 GHz,Core i5,IPS,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce 930MX,Windows,52161.12
+Lenovo,Notebook,14.0,4 GB,1.70 KG,Intel,2.3 GHz,Core i5,Standard,1366x768,1366,768,111.935,Hybrid,508 GB,Intel,HD Graphics 520,Windows,53386.56
+Asus,2 in 1 Convertible,15.6,16 GB,2.3 KG,Intel,2.7 GHz,Core i7,Standard,3840x2160,3840,2160,282.424,SSD,512 GB,Nvidia,GeForce GTX 950M,Windows,95850.72
+Asus,Gaming,17.3,16 GB,2.99 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 1050 Ti,Windows,93186.72
+Dell,2 in 1 Convertible,15.6,12 GB,2.19 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,512 GB,Intel,HD Graphics 620,Windows,69210.72
+Toshiba,Notebook,13.3,4 GB,1.2 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,165.632,SSD,128 GB,Intel,HD Graphics 520,Windows,63669.6
+Lenovo,Notebook,15.6,6 GB,2.2 KG,AMD,3.6 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon 530,Windows,29250.72
+Fujitsu,Notebook,15.6,4 GB,2.3 KG,Intel,2.3 GHz,Core i5,Standard,1366x768,1366,768,100.455,SSD,256 GB,Intel,HD Graphics 520,Windows,34578.72
+Toshiba,Notebook,14.0,4 GB,1.75 KG,Intel,2.3 GHz,Core i5,Standard,1366x768,1366,768,111.935,HDD,500 GB,Intel,HD Graphics 520,Windows,48751.2
+Dell,Notebook,15.6,4 GB,2.25 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,500 GB,AMD,Radeon R5 M430,Windows,31914.72
+HP,Notebook,15.6,8 GB,2.04 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Intel,HD Graphics 620,Windows,42943.68
+Lenovo,Gaming,15.6,8 GB,2.5 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1060,Windows,63349.92
+Dell,Notebook,15.6,8 GB,2.36 KG,Intel,2.7 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,AMD,Radeon R7 M445,Windows,39906.72
+Dell,Notebook,14.0,8 GB,1.6 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,128 GB,Intel,HD Graphics 620 ,Windows,59620.32
+HP,Netbook,12.5,8 GB,0.97 KG,Intel,1.2 GHz,Core i7,Full HD,1920x1080,1920,1080,176.233,SSD,512 GB,Intel,HD Graphics 515,Windows,101658.24
+HP,Notebook,15.6,4 GB,2.1 KG,Intel,0,Core i3,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,AMD,Radeon 520,Windows,26586.72
+Lenovo,Notebook,15.6,4 GB,1.9 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,100.455,SSD,128 GB,Intel,HD Graphics 500,Other,14418.63
+Lenovo,Notebook,15.6,8 GB,2.3 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 520,Windows,71874.72
+Asus,Notebook,13.3,8 GB,1.4 KG,Intel,2.5 GHz,Core i5,Quad HD+,3200x1800,3200,1800,276.054,SSD,256 GB,Intel,HD Graphics 620,Windows,61272.0
+HP,Ultrabook,13.3,8 GB,1.11 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,71874.72
+Acer,Notebook,15.6,4 GB,2.4 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 505,Windows,20246.4
+Asus,Gaming,15.6,16 GB,2.5 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1050 Ti,Windows,95850.72
+HP,Ultrabook,14.0,8 GB,1.48 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,512 GB,Intel,HD Graphics 620,Windows,111301.92
+Acer,Gaming,15.6,8 GB,2.7 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1050,Windows,67132.8
+HP,Notebook,13.3,8 GB,1.34 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,63349.92
+Dell,Notebook,15.6,4 GB,2.18 KG,Intel,2.4 GHz,Core i3,Standard,1366x768,1366,768,100.455,SSD,128 GB,Intel,HD Graphics 620,Windows,29144.16
+HP,Notebook,14.0,4 GB,1.64 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,111.935,HDD,500 GB,Intel,HD Graphics 620,Windows,41505.12
+Toshiba,Notebook,13.3,4 GB,1.2 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,165.632,SSD,128 GB,Intel,HD Graphics 520,Windows,63669.6
+HP,Notebook,14.0,4 GB,1.48 KG,Intel,2.4 GHz,Core i5,Standard,1366x768,1366,768,111.935,SSD,256 GB,Intel,HD Graphics 520,Windows,58607.47
+HP,Notebook,14.0,4 GB,1.95 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Windows,64202.4
+HP,Ultrabook,14.0,8 GB,1.43 KG,Intel,2.6 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 520,Windows,77202.72
+HP,Notebook,14.0,8 GB,1.64 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Nvidia,GeForce 930MX,Windows,55904.57
+HP,Notebook,14.0,4 GB,1.64 KG,Intel,2.4 GHz,Core i3,Standard,1366x768,1366,768,111.935,HDD,500 GB,Intel,HD Graphics 620,Windows,36443.52
+Dell,Gaming,15.6,8 GB,2.65 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,Hybrid,0 TB,Nvidia,GeForce GTX 1050,Windows,50562.72
+HP,Ultrabook,12.5,4 GB,1.26 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,176.233,HDD,500 GB,Intel,HD Graphics 620,Windows,81997.92
+HP,Notebook,14.0,4 GB,1.48 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Windows,84715.2
+HP,Ultrabook,14.0,8 GB,1.54 KG,Intel,2.5 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 520,Windows,100550.55
+HP,Notebook,13.3,4 GB,1.49 KG,Intel,2.4 GHz,Core i3,Standard,1366x768,1366,768,117.827,HDD,500 GB,Intel,HD Graphics 620,Windows,42624.0
+Toshiba,Notebook,13.3,8 GB,1.5 KG,Intel,2.3 GHz,Core i5,Standard,1366x768,1366,768,117.827,SSD,256 GB,Intel,HD Graphics 520,Windows,64468.8
+HP,Notebook,15.6,4 GB,2.04 KG,Intel,2.4 GHz,Core i3,Standard,1366x768,1366,768,100.455,SSD,256 GB,Intel,HD Graphics 620,Windows,41025.07
+Lenovo,Notebook,17.3,16 GB,2.4 KG,Intel,2.7 GHz,Core i7,IPS,3840x2160,3840,2160,254.671,SSD,512 GB,Nvidia,Quadro 3000M,Windows,158135.04
+Toshiba,Notebook,14.0,8 GB,1.47 KG,Intel,2.3 GHz,Core i5,IPS,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 520,Windows,79387.2
+HP,Notebook,14.0,8 GB,1.43 KG,Intel,2.5 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 520,Windows,118761.12
+Dell,2 in 1 Convertible,15.6,4 GB,2.08 KG,Intel,2.3 GHz,Core i3,IPS,1920x1080,1920,1080,141.212,HDD,1 TB,Intel,HD Graphics 520,Windows,42410.35
+Toshiba,Ultrabook,13.3,8 GB,1.2 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 520,Windows,84715.2
+HP,Notebook,13.3,8 GB,1.11 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,61218.72
+HP,Notebook,14.0,8 GB,1.64 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Nvidia,GeForce 930MX,Windows,63159.71
+Dell,Notebook,15.6,8 GB,2.09 KG,Intel,2.4 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,500 GB,Intel,HD Graphics 520,Windows,55754.32
+HP,Ultrabook,12.5,4 GB,1.26 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,125.367,SSD,256 GB,Intel,HD Graphics 620,Windows,83063.52
+HP,Notebook,14.0,4 GB,2.31 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,111.935,HDD,500 GB,Intel,HD Graphics 620,Windows,63349.92
+HP,Notebook,14.0,4 GB,1.95 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,111.935,HDD,500 GB,Intel,HD Graphics 620,Windows,56476.8
+Dell,Ultrabook,13.3,8 GB,1.29 KG,Intel,2.5 GHz,Core i5,Quad HD+,3200x1800,3200,1800,276.054,SSD,256 GB,Intel,HD Graphics 620,Windows,86526.72
+HP,Notebook,17.3,8 GB,2.63 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce 930MX,Windows,57542.4
+HP,Notebook,14.0,4 GB,1.64 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,111.935,SSD,256 GB,Intel,HD Graphics 620,Windows,51841.44
+Acer,Notebook,15.6,6 GB,2.1 KG,AMD,0,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,AMD,Radeon R5,Windows,21791.52
+MSI,Gaming,17.3,8 GB,2.7 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,128 GB,Nvidia,GeForce GTX 1050,Windows,63499.1
+HP,Notebook,14.0,8 GB,1.95 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 520,Windows,63669.6
+HP,Notebook,15.6,8 GB,1.84 KG,Intel,2.5 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 520,Windows,65480.59
+HP,Ultrabook,12.5,8 GB,1.26 KG,Intel,2.5 GHz,Core i7,Full HD,1920x1080,1920,1080,176.233,SSD,256 GB,Intel,HD Graphics 520,Windows,71874.72
+HP,Notebook,15.6,4 GB,2.04 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 620,Windows,39533.76
+Toshiba,Ultrabook,14.0,8 GB,1.47 KG,Intel,2.6 GHz,Core i7,IPS,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 520,Windows,91908.0
+Dell,Notebook,15.6,8 GB,2.09 KG,Intel,2.4 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 520,Windows,56633.98
+HP,Notebook,14.0,8 GB,1.64 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Windows,53839.97
+Lenovo,2 in 1 Convertible,15.6,4 GB,1.8 KG,Intel,2.5 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 520,Windows,45128.16
+Vero,Notebook,14.0,2 GB,1.45 KG,Intel,1.4 GHz,Core i7,Standard,1366x768,1366,768,111.935,Flash Storage,32 GB,Intel,HD Graphics 400,Windows,11231.42
+Toshiba,Notebook,15.6,16 GB,2.4 KG,Intel,2.5 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce 930M,Windows,75924.0
+Lenovo,Notebook,15.6,8 GB,2.3 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 520,Windows,55922.69
+HP,Notebook,14.0,4 GB,1.54 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,HDD,500 GB,Intel,HD Graphics 520,Windows,53280.0
+HP,Notebook,15.6,8 GB,1.84 KG,Intel,2.4 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 520,Windows,112065.96
+HP,Notebook,14.0,8 GB,1.43 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 520,Windows,78268.32
+MSI,Gaming,17.3,16 GB,3.78 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 980M,Windows,82351.7
+Lenovo,Gaming,17.3,16 GB,4.6 KG,Intel,2.6 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,SSD,128 GB,Nvidia,GeForce GTX 980M,Windows,122010.67
+Asus,Netbook,11.6,4 GB,1.2 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,135.094,Flash Storage,16 GB,Intel,HD Graphics 400,Other,15339.31
+Lenovo,Notebook,14.0,16 GB,1.1 KG,Intel,2.6 GHz,Core i7,IPS,2560x1440,2560,1440,209.801,SSD,256 GB,Intel,HD Graphics 520,Windows,139593.6
+HP,Notebook,15.6,8 GB,1.91 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce 940MX,Windows,52161.12
+Dell,2 in 1 Convertible,15.6,8 GB,2.3 KG,Intel,2.7 GHz,Core i5,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 620,Windows,58288.32
+HP,Notebook,15.6,4 GB,2.04 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,SSD,256 GB,Intel,HD Graphics 620,Windows,52161.12
+Dell,Ultrabook,13.3,16 GB,1.2 KG,Intel,2.7 GHz,Core i7,Quad HD+,3200x1800,3200,1800,276.054,SSD,1 TB,Intel,HD Graphics 620,Windows,120093.12
+HP,Notebook,15.6,4 GB,2.31 KG,Intel,2.3 GHz,Core i3,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 520,Windows,37570.39
+HP,Notebook,15.6,4 GB,1.96 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 620,Other,26586.72
+Acer,Notebook,15.6,8 GB,2.4 KG,AMD,2.2 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,AMD,Radeon R5,Windows,23922.72
+Dell,2 in 1 Convertible,13.3,12 GB,1.6 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,69210.72
+MSI,Gaming,15.6,16 GB,2.94 KG,Intel,2.6 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1060,Windows,96916.32
+Asus,Gaming,17.3,16 GB,4 KG,Intel,2.6 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,HDD,1 TB,Nvidia,GeForce GTX 965M,Other,53173.44
+Dell,Notebook,15.6,4 GB,2.25 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Intel,HD Graphics,Windows,29783.52
+Dell,Notebook,15.6,16 GB,2.32 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,2 TB,AMD,Radeon R7 M445,Windows,52746.67
+MSI,Gaming,15.6,16 GB,1.8 KG,Intel,2.6 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1060,Windows,102777.12
+Dell,Ultrabook,13.3,8 GB,1.29 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,77682.24
+Asus,Gaming,17.3,64 GB,3.58 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,SSD,1 TB,Nvidia,GeForce GTX 980 ,Windows,211788.0
+Dell,2 in 1 Convertible,13.3,8 GB,1.62 KG,Intel,2.5 GHz,Core i7,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 520,Windows,42517.97
+Dell,Gaming,15.6,16 GB,3.21 KG,Intel,2.6 GHz,Core i7,Standard,3840x2160,3840,2160,282.424,SSD,256 GB,Nvidia,GeForce GTX 970M,Windows,70809.12
+Apple,Ultrabook,12.0,8 GB,0.920 KG,Intel,1.1 GHz,Core i7,Retina,2304x1440,2304,1440,226.416,Flash Storage,256 GB,Intel,HD Graphics 515,Mac,69264.0
+Dell,Notebook,15.6,4 GB,2.06 KG,Intel,2.3 GHz,Core i3,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 520,Windows,25679.89
+HP,Notebook,15.6,4 GB,2.31 KG,Intel,2.3 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 520,Windows,63882.72
+HP,Ultrabook,12.5,8 GB,1.26 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,176.233,SSD,256 GB,Intel,HD Graphics 520,Windows,63882.72
+HP,Notebook,13.3,8 GB,1.49 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,58075.2
+Lenovo,Ultrabook,12.5,8 GB,1.3 KG,Intel,2.5 GHz,Core i7,IPS,1920x1080,1920,1080,176.233,SSD,256 GB,Intel,HD Graphics 520,Windows,91294.75
+Lenovo,Notebook,17.3,8 GB,3.0 KG,Intel,2.3 GHz,Core i5,Standard,1600x900,1600,900,106.113,HDD,0 TB,AMD,Radeon R5 M330,Windows,35111.52
+Lenovo,Notebook,15.6,4 GB,2.3 KG,Intel,2.3 GHz,Core i5,IPS,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce GTX 950M,Windows,52054.56
+MSI,Gaming,17.3,16 GB,3.78 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 1070,Windows,133146.72
+Lenovo,Notebook,15.6,4 GB,2.1 KG,Intel,2.3 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 520,Windows,28771.2
+HP,Notebook,15.6,4 GB,2.31 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,500 GB,Intel,HD Graphics 520,Windows,50083.2
+Lenovo,Ultrabook,12.5,8 GB,0.99 KG,Intel,1.2 GHz,Core i7,IPS,2560x1440,2560,1440,234.977,SSD,512 GB,Intel,HD Graphics 515,Windows,74538.72
+Lenovo,Gaming,17.3,32 GB,4.6 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,SSD,512 GB,Nvidia,GeForce GTX 980M,Windows,172627.2
+Lenovo,2 in 1 Convertible,10.1,4 GB,0.69 KG,Intel,1.4 GHz,Core i7,IPS,1920x1200,1920,1200,224.174,Flash Storage,64 GB,Intel,HD Graphics 400,Windows,34433.27
+HP,Ultrabook,13.3,16 GB,1.3 KG,Intel,2.7 GHz,Core i7,IPS,3840x2160,3840,2160,331.264,SSD,512 GB,Intel,HD Graphics 620,Windows,109170.72
+Dell,Notebook,15.6,8 GB,2.18 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 620,Windows,39960.0
+HP,Notebook,14.0,4 GB,1.54 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,HDD,500 GB,Intel,HD Graphics 520,Windows,54931.15
+HP,Workstation,15.6,8 GB,1.9 KG,Intel,2.5 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,FirePro W4190M,Windows,79653.6
+Lenovo,Notebook,14.0,8 GB,1.7 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,180 GB,Intel,HD Graphics 520,Windows,63882.72
+HP,Notebook,13.3,4 GB,1.29 KG,Intel,1.5 GHz,Core i7,Quad HD+,3200x1800,3200,1800,276.054,Flash Storage,32 GB,Intel,HD Graphics 515,Other,32767.2
+Acer,Notebook,15.6,4 GB,2.4 KG,AMD,2.2 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,AMD,Radeon R5,Windows,20619.36
+Dell,Notebook,15.6,4 GB,2.2 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics,Linux,20965.15
+HP,Notebook,15.6,4 GB,1.86 KG,Intel,0,Core i3,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 520,Other,18434.35
+Asus,Gaming,17.3,8 GB,2.7 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 1060,Windows,85194.72
+Dell,Ultrabook,13.3,4 GB,1.4 KG,Intel,1.6 GHz,Core i5,IPS,1920x1080,1920,1080,165.632,SSD,256 GB,AMD,Radeon 530,Windows,43601.69
+HP,Netbook,12.5,4 GB,2.4 KG,Intel,2.3 GHz,Core i5,Standard,1366x768,1366,768,125.367,SSD,128 GB,Intel,HD Graphics 520,Windows,85194.72
+Acer,Notebook,15.6,8 GB,2.4 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 950M,Windows,42570.72
+Dell,Notebook,15.6,8 GB,2.36 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,AMD,Radeon R7 M445,Windows,34035.26
+MSI,Gaming,17.3,8 GB,2.6 KG,Intel,2.6 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 965M,Windows,85194.72
+HP,Notebook,15.6,4 GB,1.96 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 405,Windows,26640.0
+Asus,Gaming,17.3,16 GB,4.3 KG,Intel,2.6 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,SSD,128 GB,Nvidia,GeForce GTX 980M,Windows,122490.72
+Dell,Ultrabook,12.5,4 GB,1.5 KG,Intel,2.3 GHz,Core i3,Standard,1366x768,1366,768,125.367,HDD,500 GB,Intel,HD Graphics 520,Windows,60480.79
+Dell,Ultrabook,12.5,4 GB,1.5 KG,Intel,2.3 GHz,Core i3,Standard,1366x768,1366,768,125.367,SSD,128 GB,Intel,HD Graphics 520,Windows,62176.16
+Acer,Notebook,15.6,4 GB,2.20 KG,Intel,1.5 GHz,Core i7,Standard,1366x768,1366,768,100.455,SSD,16 GB,Intel,HD Graphics,Other,11135.52
+HP,Workstation,17.3,8 GB,3.0 KG,Intel,2.6 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,HDD,1 TB,AMD,FirePro W6150M,Windows,154458.72
+Lenovo,Gaming,15.6,16 GB,2.4 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,512 GB,Nvidia,GeForce GTX 1050 Ti,Windows,63882.72
+Dell,Ultrabook,12.5,8 GB,1.5 KG,Intel,2.3 GHz,Core i5,Standard,1366x768,1366,768,125.367,SSD,256 GB,Intel,HD Graphics 520,Windows,75289.97
+MSI,Gaming,17.3,8 GB,2.9 KG,Intel,2.6 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,128 GB,Nvidia,GeForce GTX 960M,Windows,80516.2
+Lenovo,2 in 1 Convertible,15.6,4 GB,2.1 KG,Intel,2.3 GHz,Core i5,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 520,Windows,46193.76
+HP,Notebook,15.6,4 GB,2.1 KG,AMD,2.5 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,AMD,Radeon R4,Windows,21205.44
+Asus,Gaming,15.6,16 GB,2.59 KG,Intel,2.6 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 960M,Windows,71341.92
+HP,Notebook,13.3,8 GB,1.16 KG,Intel,1.1 GHz,Core i7,Quad HD+,3200x1800,3200,1800,276.054,SSD,256 GB,Intel,HD Graphics 515,Windows,90522.72
+Dell,Notebook,15.6,4 GB,2.24 KG,Intel,2.3 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,500 GB,AMD,Radeon R5 M315,Windows,40980.31
+Lenovo,Notebook,15.6,4 GB,2.1 KG,Intel,2.0 GHz,Core i3,Standard,1366x768,1366,768,100.455,SSD,128 GB,Intel,HD Graphics 520,Windows,22857.12
+HP,Ultrabook,13.3,8 GB,1.16 KG,Intel,2.5 GHz,Core i7,Full HD,1920x1080,1920,1080,165.632,SSD,512 GB,Intel,HD Graphics 520,Windows,104908.32
+Lenovo,2 in 1 Convertible,10.1,4 GB,0.69 KG,Intel,1.4 GHz,Core i7,IPS,1920x1200,1920,1200,224.174,Flash Storage,64 GB,Intel,HD Graphics 400,Other,29250.72
+Dell,Ultrabook,13.3,8 GB,1.23 KG,Intel,2.4 GHz,Core i7,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,Iris Plus Graphics 640,Windows,73473.12
+Lenovo,Gaming,17.3,16 GB,4.6 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 980M,Windows,146519.47
+Razer,Ultrabook,12.5,8 GB,1.25 KG,Intel,2.5 GHz,Core i7,Standard,3840x2160,3840,2160,352.465,SSD,256 GB,Intel,HD Graphics 520,Windows,54825.12
+Toshiba,Ultrabook,13.3,16 GB,1.05 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,165.632,SSD,512 GB,Intel,HD Graphics 620,Windows,118601.28
+Asus,Gaming,17.3,8 GB,3.52 KG,Intel,2.6 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,128 GB,Nvidia,GeForce GTX 960M,Windows,69929.47
+Vero,Notebook,13.3,4 GB,1.35 KG,Intel,1.4 GHz,Core i7,Full HD,1920x1080,1920,1080,165.632,Flash Storage,32 GB,Intel,HD Graphics 400,Windows,10442.88
+HP,Notebook,13.3,8 GB,1.16 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 520,Windows,90043.2
+HP,Notebook,14.0,8 GB,1.43 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 520,Windows,80612.64
+Dell,Notebook,15.6,4 GB,2.09 KG,Intel,2.3 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 520,Linux,27899.01
+Asus,Notebook,15.6,4 GB,2 KG,Intel,2.4 GHz,Core i3,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 620,Windows,23176.8
+Lenovo,2 in 1 Convertible,14.0,8 GB,1.8 KG,Intel,2.5 GHz,Core i7,IPS,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 520,Windows,88924.32
+Lenovo,2 in 1 Convertible,10.1,4 GB,0.69 KG,Intel,1.4 GHz,Core i7,IPS,1920x1200,1920,1200,224.174,Flash Storage,64 GB,Intel,HD Graphics 400,Windows,25521.12
+HP,Ultrabook,12.5,8 GB,1.26 KG,Intel,2.4 GHz,Core i5,Standard,1366x768,1366,768,125.367,SSD,256 GB,Intel,HD Graphics 520,Windows,100965.6
+Lenovo,Gaming,15.6,8 GB,2.4 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1060,Other,52693.92
+HP,Gaming,17.3,8 GB,3.35 KG,Intel,2.3 GHz,Core i5,IPS,1920x1080,1920,1080,127.336,SSD,128 GB,Nvidia,GeForce GTX 1060,Windows,60153.12
+HP,Notebook,15.6,8 GB,2.04 KG,Intel,2.7 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,2 TB,Intel,HD Graphics 620,Windows,33513.12
+Lenovo,2 in 1 Convertible,14.0,8 GB,1.8 KG,Intel,2.6 GHz,Core i7,IPS,1920x1080,1920,1080,157.351,SSD,512 GB,Nvidia,Quadro M500M,Windows,109244.25
+Asus,Notebook,14.0,4 GB,1.5 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,111.935,Flash Storage,32 GB,Intel,HD Graphics 500,Windows,14811.84
+HP,Ultrabook,15.6,8 GB,1.84 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 620,Windows,40066.56
+Acer,Notebook,15.6,4 GB,2.23 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce 940MX,Windows,32820.48
+Lenovo,Notebook,15.6,16 GB,2.5 KG,Intel,2.5 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,Hybrid,0 TB,AMD,Radeon R7 M360,Windows,58554.72
+HP,Workstation,17.3,8 GB,3 KG,Intel,2.6 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,Quadro M3000M,Windows,210424.03
+Dell,Notebook,15.6,8 GB,2.5 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,1 TB,AMD,Radeon R7 M445,Windows,41771.52
+MSI,Gaming,17.3,16 GB,3.78 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 980M,Windows,127818.72
+HP,Ultrabook,15.6,8 GB,1.88 KG,Intel,2.5 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 520,Windows,115709.24
+Lenovo,2 in 1 Convertible,14.0,16 GB,2.8 KG,Intel,2.6 GHz,Core i7,IPS,2560x1440,2560,1440,209.801,SSD,512 GB,Intel,HD Graphics 520,Windows,130003.2
+MSI,Gaming,15.6,8 GB,2.4 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1050,Windows,60888.38
+HP,2 in 1 Convertible,13.3,8 GB,1.48 KG,Intel,2.4 GHz,Core i5,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 520,Windows,86793.12
+HP,Workstation,15.6,8 GB,2.59 KG,Intel,2.6 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,Quadro M1000M,Windows,118761.12
+HP,2 in 1 Convertible,13.3,8 GB,1.48 KG,Intel,2.6 GHz,Core i7,Standard,2560x1440,2560,1440,220.843,SSD,256 GB,Intel,HD Graphics 520,Windows,95850.72
+HP,Workstation,15.6,8 GB,2.0 KG,Intel,2.6 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,Quadro M1000M,Windows,101178.72
+HP,Ultrabook,12.5,8 GB,1.26 KG,Intel,2.5 GHz,Core i7,Full HD,1920x1080,1920,1080,176.233,SSD,256 GB,Intel,HD Graphics 520,Windows,122381.5
+Dell,Notebook,15.6,8 GB,2.18 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce 940MX,Windows,53807.47
+HP,Notebook,15.6,8 GB,1.88 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 520,Windows,84129.12
+Lenovo,2 in 1 Convertible,14.0,8 GB,1.27 KG,Intel,2.5 GHz,Core i7,IPS,2560x1440,2560,1440,209.801,SSD,256 GB,Intel,HD Graphics 520,Windows,124621.92
+Lenovo,Notebook,15.6,4 GB,1.9 KG,Intel,2.0 GHz,Core i3,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 520,Other,18061.92
+HP,Notebook,15.6,4 GB,1.86 KG,AMD,1.8 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,AMD,Radeon R2 Graphics,Windows,15824.16
+Lenovo,Notebook,15.6,8 GB,2.32 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,AMD,Radeon R5 M330,Other,31914.72
+Dell,Gaming,15.6,8 GB,2.62 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce GTX 1050Ti,Windows,63882.72
+Dell,Notebook,15.6,8 GB,2.04 KG,Intel,2.3 GHz,Core i5,IPS,3840x2160,3840,2160,282.424,SSD,256 GB,Nvidia,GeForce 960M,Windows,119916.23
+HP,Notebook,15.6,4 GB,1.91 KG,AMD,2.5 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon 520,Windows,25515.26
+MSI,Gaming,17.3,16 GB,2.7 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 1050 Ti,Windows,79536.38
+Lenovo,Ultrabook,14.0,12 GB,1.4 KG,Intel,2.6 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,512 GB,Intel,HD Graphics 520,Windows,122490.72
+Lenovo,Notebook,15.6,8 GB,2.5 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,Hybrid,0 TB,AMD,Radeon R5 M330,Windows,42010.75
+HP,2 in 1 Convertible,13.3,8 GB,1.48 KG,Intel,2.6 GHz,Core i7,Standard,2560x1440,2560,1440,220.843,SSD,512 GB,Intel,HD Graphics 520,Windows,108744.48
+Lenovo,Ultrabook,14.0,8 GB,1.7 KG,Intel,2.6 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 520,Windows,79866.72
+MSI,Gaming,14.0,16 GB,1.7 KG,Intel,2.6 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Nvidia,GeForce GTX 970M,Windows,94252.32
+HP,Gaming,15.6,8 GB,2.62 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce GTX 1050,Windows,47898.72
+Lenovo,Notebook,15.6,8 GB,2.2 KG,Intel,2.0 GHz,Core i3,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 520,Windows,24455.52
+HP,Notebook,15.6,4 GB,2.1 KG,Intel,2.3 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 520,Other,25414.03
+Dell,Gaming,15.6,8 GB,2.62 KG,Intel,2.8 GHz,Core i7,Standard,3840x2160,3840,2160,282.424,SSD,128 GB,Nvidia,GeForce GTX 1050 Ti,Windows,79813.44
+Lenovo,Notebook,15.6,8 GB,1.95 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 620,Windows,74059.2
+Lenovo,Notebook,15.6,4 GB,2.2 KG,Intel,0,Core i3,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce 920MX ,Windows,24935.04
+HP,Notebook,14.0,2 GB,1.44 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,111.935,Flash Storage,32 GB,Intel,HD Graphics 400,Windows,13266.72
+MSI,Gaming,15.6,8 GB,2.2 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce GTX 1050,Windows,44701.92
+HP,Notebook,15.6,8 GB,1.96 KG,Intel,2.5 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 520,Windows,36177.12
+HP,Notebook,15.6,16 GB,2.1 KG,Intel,1.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,512 GB,Intel,UHD Graphics 620,Windows,61751.52
+Asus,Notebook,15.6,4 GB,2.2 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics,Windows,19660.32
+Lenovo,Notebook,15.6,4 GB,2.1 KG,Intel,2.3 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 520,Other,21205.44
+Lenovo,Notebook,15.6,8 GB,2.2 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce 940MX,Other,37775.52
+Asus,Notebook,14.0,4 GB,2 KG,Intel,2.4 GHz,Core i3,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 620,Windows,40972.32
+Lenovo,Notebook,15.6,4 GB,2.32 KG,Intel,2.5 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,Hybrid,0 TB,Intel,HD Graphics 520,Windows,43956.0
+Lenovo,Gaming,15.6,16 GB,3.31 KG,Intel,2.6 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,512 GB,Nvidia,GeForce GTX 960,Windows,69530.4
+MSI,Gaming,15.6,16 GB,1.91 KG,Intel,2.6 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 970M,Windows,114731.55
+HP,Notebook,15.6,4 GB,2.07 KG,Intel,2.3 GHz,Core i3,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 520,Windows,34632.0
+Lenovo,2 in 1 Convertible,14.0,8 GB,1.36 KG,Intel,2.3 GHz,Core i5,IPS,2560x1440,2560,1440,209.801,SSD,256 GB,Intel,HD Graphics 520,Windows,87219.36
+Lenovo,Ultrabook,15.6,6 GB,1.54 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce 920M,Windows,44275.68
+Dell,Notebook,15.6,8 GB,1.98 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GT 940MX,Linux,47686.13
+Acer,Notebook,15.6,4 GB,2.1 KG,Intel,0,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 500,Windows,17742.24
+HP,Notebook,15.6,6 GB,2.18 KG,Intel,2.6 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce GTX 960M,Windows,42570.72
+Asus,Gaming,15.6,8 GB,2.591 KG,Intel,2.6 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 960M,Windows,48431.52
+Dell,2 in 1 Convertible,15.6,16 GB,2.09 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,512 GB,Intel,HD Graphics 620,Windows,62817.12
+Acer,Notebook,15.6,4 GB,2.23 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce 940MX,Windows,36816.48
+Dell,Ultrabook,13.3,8 GB,1.23 KG,Intel,2.4 GHz,Core i5,Quad HD+,3200x1800,3200,1800,276.054,SSD,256 GB,Intel,HD Graphics 520,Linux,58554.72
+Acer,Gaming,17.3,16 GB,4.2 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 1070,Windows,138474.72
+Lenovo,Gaming,15.6,8 GB,2.4 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce GTX 1050,Windows,43636.32
+Samsung,2 in 1 Convertible,12.3,4 GB,1.15 KG,Samsung,2.0 GHz,Core i7,IPS,2400x1600,2400,1600,234.507,Flash Storage,32 GB,Intel,ARM Mali T860 MP4,Other,35111.52
+HP,Notebook,15.6,4 GB,1.86 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 620,Windows,25840.8
+Apple,Ultrabook,12.0,8 GB,0.920 KG,Intel,1.1 GHz,Core i7,Retina,2304x1440,2304,1440,226.416,Flash Storage,256 GB,Intel,HD Graphics 5300,Mac,61964.64
+Dell,2 in 1 Convertible,13.3,8 GB,1.6 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 620,Windows,63882.72
+HP,Notebook,15.6,12 GB,2.21 KG,Intel,2.8 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1050,Windows,70702.56
+Lenovo,Notebook,15.6,4 GB,1.9 KG,Intel,0,Core i3,Standard,1366x768,1366,768,100.455,HDD,1 TB,AMD,Radeon R5 M430,Other,19607.04
+Asus,Gaming,17.3,16 GB,4.3 KG,Intel,2.6 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,SSD,512 GB,Nvidia,GeForce GTX 980M,Windows,114552.0
+Acer,Notebook,15.6,4 GB,2.1 KG,Intel,0,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 500,Linux,14492.16
+MSI,Gaming,17.3,16 GB,2.43 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 1060,Windows,109165.39
+Dell,Notebook,15.6,4 GB,2.3 KG,Intel,2.0 GHz,Core i3,Standard,1366x768,1366,768,100.455,SSD,128 GB,AMD,Radeon R7 M440,Windows,26586.72
+Lenovo,Notebook,15.6,8 GB,2.2 KG,Intel,2.5 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,Nvidia,GeForce 920MX,Other,33513.12
+Dell,Ultrabook,13.3,16 GB,1.2 KG,Intel,2.7 GHz,Core i7,Quad HD+,3200x1800,3200,1800,276.054,SSD,512 GB,Intel,HD Graphics 620,Windows,142790.4
+Asus,Gaming,15.6,8 GB,2.2 KG,Intel,2.6 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce GTX 1060,Windows,62284.32
+Dell,Notebook,15.6,8 GB,2.36 KG,Intel,2.5 GHz,Core i5,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon R7 M445,Windows,47365.92
+HP,Notebook,15.6,8 GB,1.91 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,SSD,256 GB,Intel,HD Graphics 620,Windows,30849.12
+Lenovo,Notebook,15.6,4 GB,2.2 KG,AMD,2.2 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,AMD,Radeon R2 Graphics,Windows,15930.72
+Acer,Notebook,17.3,8 GB,3.3 KG,Intel,2.0 GHz,Core i3,Standard,1600x900,1600,900,106.113,HDD,1 TB,Nvidia,GeForce 940MX,Windows,33513.12
+Asus,Gaming,15.6,16 GB,2.2 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1070,Windows,130482.72
+Apple,Ultrabook,12.0,8 GB,0.920 KG,Intel,1.2 GHz,Core i7,Retina,2304x1440,2304,1440,226.416,Flash Storage,512 GB,Intel,HD Graphics 515,Mac,68145.12
+Asus,Notebook,15.6,16 GB,2.2 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1060,Windows,93186.72
+MSI,Gaming,17.3,16 GB,2.43 KG,Intel,2.6 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 1060,Windows,103842.19
+Dell,2 in 1 Convertible,15.6,8 GB,2.191 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 620,Windows,53226.72
+Asus,Gaming,17.3,16 GB,2.9 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 1060,Windows,103842.72
+Acer,Netbook,11.6,2 GB,1.3 KG,Intel,1.5 GHz,Core i7,Standard,1366x768,1366,768,135.094,SSD,32 GB,Intel,HD Graphics,Other,9270.72
+Acer,Notebook,17.3,4 GB,3.3 KG,Intel,0,Core i3,Standard,1600x900,1600,900,106.113,HDD,1 TB,Nvidia,GeForce 940MX,Windows,31861.44
+Lenovo,Notebook,17.3,8 GB,2.8 KG,Intel,2.5 GHz,Core i5,Standard,1600x900,1600,900,106.113,HDD,1 TB,Intel,HD Graphics 620,Other,28717.92
+Lenovo,Gaming,15.6,8 GB,2.6 KG,Intel,2.6 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 960<U+039C>,Windows,67772.16
+Acer,2 in 1 Convertible,14.0,8 GB,1.2 KG,Intel,1.3 GHz,Core i7,IPS,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 615,Windows,61218.72
+Lenovo,Notebook,15.6,8 GB,2.3 KG,Intel,2.6 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 520,Windows,81465.12
+MSI,Gaming,15.6,8 GB,2.2 KG,Intel,2.6 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1060,Windows,78647.14
+HP,Notebook,15.6,6 GB,2.1 KG,AMD,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,AMD,Radeon 530,Windows,28185.12
+Dell,Ultrabook,12.5,8 GB,1.26 KG,Intel,2.4 GHz,Core i5,Full HD,1920x1080,1920,1080,176.233,SSD,256 GB,Intel,HD Graphics 520,Windows,91288.35
+Dell,2 in 1 Convertible,15.0,4 GB,2.08 KG,Intel,2.4 GHz,Core i3,Full HD,1920x1080,1920,1080,146.86,HDD,500 GB,Intel,HD Graphics 620,Windows,27119.52
+Asus,Notebook,15.6,4 GB,2.65 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 405,Windows,16463.52
+Dell,Ultrabook,13.3,8 GB,1.29 KG,Intel,2.7 GHz,Core i7,Quad HD+,3200x1800,3200,1800,276.054,SSD,256 GB,Intel,HD Graphics 620,Windows,78694.56
+Dell,Notebook,15.6,4 GB,2.18 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 520,Linux,27804.7
+Lenovo,Gaming,15.6,16 GB,2.6 KG,Intel,2.6 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 960M,Windows,54825.12
+MSI,Gaming,15.6,8 GB,2.2 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 1050,Windows,61218.72
+Lenovo,Netbook,12.5,16 GB,1.3 KG,Intel,2.5 GHz,Core i7,IPS,1920x1080,1920,1080,176.233,SSD,512 GB,Intel,HD Graphics 520,Windows,87912.0
+Razer,Gaming,14.0,16 GB,1.95 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,157.351,SSD,1 TB,Nvidia,GeForce GTX 1060,Windows,186426.72
+Dell,Notebook,15.6,8 GB,2.3 KG,Intel,2.4 GHz,Core i3,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 620,Windows,24988.85
+MSI,Gaming,17.3,16 GB,2.7 KG,Intel,2.8 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,256 GB,Nvidia,GeForce GTX 1060,Windows,85141.44
+Apple,Ultrabook,11.6,4 GB,1.08 KG,Intel,1.6 GHz,Core i5,Standard,1366x768,1366,768,135.094,Flash Storage,256 GB,Intel,HD Graphics 6000,Mac,51095.52
+HP,Notebook,15.6,4 GB,2.1 KG,Intel,0,Core i3,Full HD,1920x1080,1920,1080,141.212,HDD,1 TB,Intel,HD Graphics 520,Windows,25467.84
+HP,Ultrabook,14.0,8 GB,1.54 KG,Intel,2.5 GHz,Core i7,Standard,2560x1440,2560,1440,209.801,SSD,256 GB,Intel,HD Graphics 520,Windows,117119.56
+Dell,Notebook,15.6,4 GB,2.24 KG,Intel,2.3 GHz,Core i5,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 520,Windows,39267.36
+MSI,Gaming,15.6,8 GB,2.3 KG,Intel,2.6 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 960M,Windows,62284.32
+Lenovo,Notebook,13.3,16 GB,1.4 KG,Intel,2.7 GHz,Core i7,IPS,1920x1080,1920,1080,165.632,SSD,512 GB,Intel,HD Graphics 620,Windows,79866.72
+Lenovo,Notebook,15.6,6 GB,2.2 KG,AMD,3.6 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,256 GB,AMD,Radeon 530,Windows,31838.53
+Asus,Ultrabook,13.3,8 GB,1.45 KG,Intel,2.5 GHz,Core i7,Full HD,1920x1080,1920,1080,165.632,SSD,256 GB,Intel,HD Graphics 520,Windows,68198.4
+Acer,Notebook,15.6,4 GB,2.4 KG,Intel,2.0 GHz,Core i3,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 520,Linux,19276.7
+Dell,2 in 1 Convertible,17.3,16 GB,2.77 KG,Intel,2.7 GHz,Core i7,Full HD,1920x1080,1920,1080,127.336,SSD,512 GB,Nvidia,GeForce 940MX,Windows,95850.72
+HP,Notebook,14.0,4 GB,1.54 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 520,Windows,58607.47
+Dell,Notebook,14.0,4 GB,1.6 KG,Intel,2.5 GHz,Core i5,Standard,1366x768,1366,768,111.935,HDD,500 GB,Intel,HD Graphics 620,Windows,46620.0
+Asus,Gaming,15.6,16 GB,2.34 KG,Intel,2.6 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Nvidia,GeForce GTX 1070,Windows,123876.0
+Lenovo,Notebook,15.6,8 GB,2.3 KG,Intel,2.5 GHz,Core i5,IPS,1920x1080,1920,1080,141.212,SSD,256 GB,Intel,HD Graphics 620,Other,30529.44
+Dell,2 in 1 Convertible,13.3,8 GB,1.24 KG,Intel,1.2 GHz,Core i5,Quad HD+,3200x1800,3200,1800,276.054,SSD,256 GB,Intel,HD Graphics 615,Windows,96596.64
+Dell,Notebook,15.6,4 GB,2.2 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics,Linux,17262.72
+HP,Notebook,15.6,4 GB,1.86 KG,AMD,2.5 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,AMD,Radeon R4 Graphics,Windows,21258.72
+Lenovo,Notebook,15.6,6 GB,2.4 KG,Intel,2.3 GHz,Core i3,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce 920MX,Windows,30316.32
+Lenovo,Notebook,14.0,8 GB,1.9 KG,Intel,2.3 GHz,Core i5,IPS,1920x1080,1920,1080,157.351,SSD,256 GB,Intel,HD Graphics 520,Windows,57116.16
+Dell,Notebook,15.6,4 GB,2.2 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics,Windows,23655.79
+Asus,Notebook,15.6,4 GB,2 KG,Intel,1.1 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 500,Windows,18061.92
+Asus,Gaming,17.3,16 GB,4.0 KG,Intel,2.6 GHz,Core i7,IPS,1920x1080,1920,1080,127.336,SSD,128 GB,Nvidia,GeForce GTX 970M,Windows,101232.0
+Dell,Notebook,15.6,4 GB,2.29 KG,Intel,0,Core i3,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 520,Windows,26107.2
+Lenovo,Notebook,15.6,8 GB,2.32 KG,Intel,2.5 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,Hybrid,0 TB,AMD,Radeon R5 M330,Windows,47685.6
+MSI,Gaming,15.6,8 GB,2.4 KG,Intel,2.6 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,SSD,128 GB,Nvidia,GeForce GTX 960M,Windows,65481.12
+Lenovo,2 in 1 Convertible,14.0,4 GB,1.8 KG,Intel,2.3 GHz,Core i5,Full HD,1920x1080,1920,1080,157.351,SSD,128 GB,Intel,HD Graphics 520,Windows,44382.77
+Asus,Ultrabook,13.3,8 GB,1.2 KG,Intel,0.9 GHz,Core i7,IPS,1920x1080,1920,1080,165.632,SSD,512 GB,Intel,HD Graphics 515,Windows,38841.12
+Dell,Notebook,15.6,6 GB,2.3 KG,Intel,2.4 GHz,Core i3,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 620,Windows,24455.52
+Acer,Notebook,15.6,4 GB,2.4 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 400,Linux,15397.92
+Dell,Notebook,15.6,2 GB,2.20 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics,Windows,20193.12
+Lenovo,Notebook,15.6,8 GB,2.6 KG,Intel,2.6 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce GTX 960M,Windows,47898.72
+HP,Notebook,15.6,6 GB,2.04 KG,AMD,2.9 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,Hybrid,0 TB,AMD,Radeon R7 M440,Windows,29303.47
+Dell,Notebook,15.6,8 GB,2.3 KG,Intel,2.7 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,AMD,Radeon R5 M430,Linux,42943.15
+HP,Netbook,11.6,2 GB,1.17 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,135.094,Flash Storage,32 GB,Intel,HD Graphics 400,Windows,11135.52
+Asus,Notebook,15.6,4 GB,2.2 KG,Intel,2.5 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,Nvidia,GeForce 920M,Windows,38378.65
+Lenovo,2 in 1 Convertible,14.0,4 GB,1.8 KG,Intel,2.5 GHz,Core i7,IPS,1920x1080,1920,1080,157.351,SSD,128 GB,Intel,HD Graphics 520,Windows,33992.64
+Lenovo,2 in 1 Convertible,13.3,16 GB,1.3 KG,Intel,2.5 GHz,Core i7,IPS,3200x1800,3200,1800,276.054,SSD,512 GB,Intel,HD Graphics 520,Windows,79866.72
+Lenovo,Notebook,14.0,2 GB,1.5 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,111.935,Flash Storage,64 GB,Intel,HD Graphics,Windows,12201.12
+HP,Notebook,15.6,6 GB,2.19 KG,Intel,2.5 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,AMD,Radeon R5 M330,Windows,40705.92
+Asus,Notebook,15.6,4 GB,2.2 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics,Windows,19660.32
+Asus,Ultrabook,13.3,8 GB,1.2 KG,Intel,0.9 GHz,Core i7,IPS,1920x1080,1920,1080,165.632,SSD,512 GB,Intel,HD Graphics 515,Windows,38841.12
+Dell,Notebook,15.6,6 GB,2.3 KG,Intel,2.4 GHz,Core i3,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 620,Windows,24455.52
+Acer,Notebook,15.6,4 GB,2.4 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 400,Linux,15397.92
+Dell,Notebook,15.6,2 GB,2.20 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics,Windows,20193.12
+Lenovo,Notebook,15.6,8 GB,2.6 KG,Intel,2.6 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce GTX 960M,Windows,47898.72
+HP,Notebook,15.6,6 GB,2.04 KG,AMD,2.9 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,Hybrid,0 TB,AMD,Radeon R7 M440,Windows,29303.47
+Dell,Notebook,15.6,8 GB,2.3 KG,Intel,2.7 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,AMD,Radeon R5 M430,Linux,42943.15
+HP,Netbook,11.6,2 GB,1.17 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,135.094,Flash Storage,32 GB,Intel,HD Graphics 400,Windows,11135.52
+Asus,Notebook,15.6,4 GB,2.2 KG,Intel,2.5 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,Nvidia,GeForce 920M,Windows,38378.65
+Lenovo,2 in 1 Convertible,14.0,4 GB,1.8 KG,Intel,2.5 GHz,Core i7,IPS,1920x1080,1920,1080,157.351,SSD,128 GB,Intel,HD Graphics 520,Windows,33992.64
+Lenovo,2 in 1 Convertible,13.3,16 GB,1.3 KG,Intel,2.5 GHz,Core i7,IPS,3200x1800,3200,1800,276.054,SSD,512 GB,Intel,HD Graphics 520,Windows,79866.72
+Lenovo,Notebook,14.0,2 GB,1.5 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,111.935,Flash Storage,64 GB,Intel,HD Graphics,Windows,12201.12
+HP,Notebook,15.6,6 GB,2.19 KG,Intel,2.5 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,AMD,Radeon R5 M330,Windows,40705.92
+Asus,Notebook,15.6,4 GB,2.2 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics,Windows,19660.32
+Asus,Ultrabook,13.3,8 GB,1.2 KG,Intel,0.9 GHz,Core i7,IPS,1920x1080,1920,1080,165.632,SSD,512 GB,Intel,HD Graphics 515,Windows,38841.12
+Dell,Notebook,15.6,6 GB,2.3 KG,Intel,2.4 GHz,Core i3,Standard,1366x768,1366,768,100.455,HDD,1 TB,Intel,HD Graphics 620,Windows,24455.52
+Acer,Notebook,15.6,4 GB,2.4 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics 400,Linux,15397.92
+Dell,Notebook,15.6,2 GB,2.20 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics,Windows,20193.12
+Lenovo,Notebook,15.6,8 GB,2.6 KG,Intel,2.6 GHz,Core i7,IPS,1920x1080,1920,1080,141.212,HDD,1 TB,Nvidia,GeForce GTX 960M,Windows,47898.72
+HP,Notebook,15.6,6 GB,2.04 KG,AMD,2.9 GHz,Core i7,Full HD,1920x1080,1920,1080,141.212,Hybrid,0 TB,AMD,Radeon R7 M440,Windows,29303.47
+Dell,Notebook,15.6,8 GB,2.3 KG,Intel,2.7 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,AMD,Radeon R5 M430,Linux,42943.15
+HP,Netbook,11.6,2 GB,1.17 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,135.094,Flash Storage,32 GB,Intel,HD Graphics 400,Windows,11135.52
+Asus,Notebook,15.6,4 GB,2.2 KG,Intel,2.5 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,Nvidia,GeForce 920M,Windows,38378.65
+Lenovo,2 in 1 Convertible,14.0,4 GB,1.8 KG,Intel,2.5 GHz,Core i7,IPS,1920x1080,1920,1080,157.351,SSD,128 GB,Intel,HD Graphics 520,Windows,33992.64
+Lenovo,2 in 1 Convertible,13.3,16 GB,1.3 KG,Intel,2.5 GHz,Core i7,IPS,3200x1800,3200,1800,276.054,SSD,512 GB,Intel,HD Graphics 520,Windows,79866.72
+Lenovo,Notebook,14.0,2 GB,1.5 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,111.935,Flash Storage,64 GB,Intel,HD Graphics,Windows,12201.12
+HP,Notebook,15.6,6 GB,2.19 KG,Intel,2.5 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,1 TB,AMD,Radeon R5 M330,Windows,40705.92
+Asus,Notebook,15.6,4 GB,2.2 KG,Intel,1.6 GHz,Core i7,Standard,1366x768,1366,768,100.455,HDD,500 GB,Intel,HD Graphics,Windows,19660.32
