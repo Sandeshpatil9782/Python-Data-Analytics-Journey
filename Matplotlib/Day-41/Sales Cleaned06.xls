@@ -1,0 +1,11 @@
+Date,Product,Category,Sales,Quantity,Revenue_Per_Item
+2026-01-04,Laptop,Electronics,60000.0,6,10000.0
+2026-01-09,Laptop,Electronics,58000.0,5,11600.0
+2026-01-01,Laptop,Electronics,55000.0,5,11000.0
+2026-01-08,Monitor,Electronics,20000.0,5,4000.0
+2026-01-05,Monitor,Electronics,18000.0,4,4500.0
+2026-01-07,Keyboard,Accessories,2700.0,12,225.0
+2026-01-03,Keyboard,Accessories,2500.0,10,250.0
+2026-01-10,Mouse,Accessories,1700.0,28,60.714285714285715
+2026-01-06,Mouse,Accessories,1500.0,30,50.0
+2026-01-02,Mouse,Accessories,1200.0,24,50.0
