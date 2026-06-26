@@ -70,8 +70,23 @@ I started this journey with NumPy and will continue learning advanced data analy
 - Advanced Plot Customization
 - Data Storytelling with Visualization
   
+## Seaborn
+## 📚 Topics Covered
+
+- Seaborn Fundamentals
+- Plot Styling & Themes
+- Categorical Analysis
+- Distribution Analysis
+- Relational Analysis
+- Regression Analysis
+- Correlation & Heatmaps
+- Multi-Plot Grids
+- Color Customization
+- Advanced Visualizations
+- Exploratory Data Analysis (EDA)
+- Data Storytelling
+
 ## Upcoming Topics
-- Seaborn
 - SQL
 - Power BI
 - Machine Learning
