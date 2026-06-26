@@ -71,7 +71,6 @@ I started this journey with NumPy and will continue learning advanced data analy
 - Data Storytelling with Visualization
   
 ## Seaborn
-## 📚 Topics Covered
 
 - Seaborn Fundamentals
 - Plot Styling & Themes
