@@ -1,0 +1,11 @@
+PassengerId,Survived,Pclass,Sex,Age,Fare,Embarked,Class,Alone
+1,0,3,male,22,7.25,S,Third,No
+2,1,1,female,38,71.28,C,First,Yes
+3,1,3,female,26,7.92,S,Third,Yes
+4,1,1,female,35,53.1,S,First,Yes
+5,0,3,male,35,8.05,S,Third,No
+6,0,3,male,27,8.46,Q,Third,No
+7,0,1,male,54,51.86,S,First,Yes
+8,1,3,female,2,21.08,S,Third,No
+9,1,2,female,27,11.13,S,Second,Yes
+10,0,3,male,14,30.07,C,Third,No
