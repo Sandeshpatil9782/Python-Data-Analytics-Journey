@@ -85,22 +85,41 @@ I started this journey with NumPy and will continue learning advanced data analy
 - Exploratory Data Analysis (EDA)
 - Data Storytelling
 
-## Upcoming Topics
-- SQL
-- Power BI
-- Machine Learning
-- Data Visualization
-- Problem Solving
+
+## Plotly
+
+- Plotly Fundamentals
+- Line Charts
+- Bar Charts
+- Scatter Plots
+- Pie Charts
+- Histograms
+- Box Plots
+- Area Charts
+- Interactive Visualizations
+- Exploratory Data Analysis (EDA)
+
 
 ---
-
 # 🛠️ Tools & Technologies
 
+### 🐍 Programming
 - Python
+
+### 📚 Libraries
 - NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Plotly
+
+### 📓 Development Environment
 - Jupyter Notebook
-- VS Code
-- Git & GitHub
+- Visual Studio Code (VS Code)
+
+### 🔧 Version Control
+- Git
+- GitHub
 
 ---
 
