@@ -99,6 +99,8 @@ I started this journey with NumPy and will continue learning advanced data analy
 - Interactive Visualizations
 - Exploratory Data Analysis (EDA)
 
+## Statistics
+- Population & Sample
 
 ---
 # 🛠️ Tools & Technologies
