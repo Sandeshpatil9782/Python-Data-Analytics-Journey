@@ -100,9 +100,74 @@ I started this journey with NumPy and will continue learning advanced data analy
 - Exploratory Data Analysis (EDA)
 
 ## Statistics
-- Population & Sample
+
+### Descriptive Statistics
+
+- Measures of Central Tendency
+  - Mean
+  - Median
+  - Mode
+- Measures of Dispersion
+  - Range
+  - Variance
+  - Standard Deviation
+  - Mean Absolute Deviation (MAD)
+  - Interquartile Range (IQR)
+- Quartiles
+- Percentiles
+- Five Number Summary
+- Box Plot
+- Histograms
+- Kernel Density Estimation (KDE)
+- Frequency Distribution
+- Cumulative Frequency
+- Skewness
+- Kurtosis
+- Outlier Detection
 
 ---
+
+### Probability
+- Probability Basics
+- Sample Space
+- Events
+- Conditional Probability
+- Joint Probability
+- Marginal Probability
+- Bayes' Theorem
+- Independent & Dependent Events
+- Probability Distributions
+
+---
+
+### Statistical Distributions
+- Normal Distribution
+- Standard Normal Distribution
+- Empirical Rule (68–95–99.7 Rule)
+- Z-Score
+
+---
+
+### Inferencial Statistics
+- Population vs Sample
+- Sampling Techniques
+- Central Limit Theorem
+- Confidence Intervals
+- Hypothesis Testing
+
+---
+
+### Statistical Tests
+- One Sample Z-Test
+- Independent Two Sample t-Test
+- Paired t-Test
+- Chi-Square Goodness of Fit Test
+- Chi-Square Test of Independence
+- One-Way ANOVA
+- Two-Way ANOVA
+
+---
+
 # 🛠️ Tools & Technologies
 
 ### 🐍 Programming
